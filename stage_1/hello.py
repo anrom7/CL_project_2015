@@ -1,0 +1,2 @@
+m = 'Misha'
+print (m)
