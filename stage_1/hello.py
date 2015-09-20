@@ -1,2 +1,0 @@
-m = 'Misha'
-print (m)
