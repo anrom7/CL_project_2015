@@ -19,9 +19,8 @@ SENT_START
 зробили	зробити verb:past:p:perf 
 швидко	швидко adv:compb 
 ,	- - 
-і	і conj:coord 
-до	до prep:rv_rod   (adv :subord) 
-до речі <insert> 
+і	і conj:coord  
+до речі <insert>               !!!!!!!!!!
 речі	річ noun:f:v_dav 
         noun:f:v_mis 
         noun:f:v_rod 
@@ -124,7 +123,7 @@ Mafia	- - (noun:unknown)
 ?	-  SENT_END  
 - SENT_START 
 Зазвичай	зазвичай adv 
-парковка	- - (noun:f_naz:slang)
+парковка	- - (noun:f_naz:slang)  !!!!!!!!!!
 на	на prep:rv_zna:rv_mis 
 проспекті	проспект noun:m:v_mis 
 Шевченка	Шевченко noun:m:v_rod:anim:lname 
@@ -144,7 +143,7 @@ Mafia	- - (noun:unknown)
 проблема	проблема noun:f:v_naz 
 .	- SENT_END 
 	- SENT_START 
-До речі	 до prep:rv_rod(adv :subord)
+До речі	 до prep:rv_rod(adv :subord)     !!!!!!!!!!
     до речі <insert> 
 речі	річ noun:f:v_dav 
             noun:f:v_mis 
@@ -278,9 +277,9 @@ Mafia	- - (noun:unknown)
           pron:pers:f:3:v_zna:anim 
 та	та conj:coord 
 поодиноких	поодинокий adj:p:v_zna 
-відвідувачів	відвідувач noun:p:v_zna:anim 
+відвідувачів	відвідувач noun:p:v_zna:anim              
 ,	- - 
-що	що  pron:int:rel:n:v_zna 
+що	що  pron:int:rel:n:v_zna                           (noun:n:v_naz:inanim:&pron:int:rel)
 полюбляють	полюбляти verb:pres:p:3:imperf 
 милуватися	милуватися verb:rev:inf:imperf 
 старим	старий adj:m:v_oru:compb 
@@ -332,7 +331,7 @@ Mafia	- - (noun:unknown)
 відомим	відомий adj:m:v_oru:compb  
 .	- SENT_END 
     - SENT_START 
-Чим	що pron:int:rel:n:v_oru 
+Чим	 pron:int:rel:n:v_oru 
 викликана	викликаний adjp:pasv:past:f:v_naz 
 така	такий adj:f:v_naz:&pron:def 
 популярність	популярність noun:f:v_zna 
@@ -788,7 +787,7 @@ SENT_START
 хвилин	хвилина noun:p:v_rod 
 телефон	телефон  noun:m:v_zna 
 знову	знову adv 
-ж	жpart 
+ж	part 
 таки	таки part 
 без	без prep:rv_rod 
 пояснень	пояснення noun:p:v_rod 
@@ -806,7 +805,7 @@ SENT_START
 Менеджер	менеджер noun:m:v_naz:anim 
 караоке-залу	караоке-зал  noun:m:v_rod
 Володимир	Володимир noun:m:v_naz:anim:fname
-протягом	протяг noun:m:v_oru 
+протягом	протяг noun:m:v_oru                 (adv)
 нашої	наш adj:f:v_rod:&pron:pos 
 розмови	розмова noun:f:v_rod  
 дозволяв	дозволяти verb:past:m:imperf 
@@ -936,7 +935,7 @@ SENT_START
 пояснили	пояснити verb:past:p:perf 
 тим	той adj:m:v_oru:&pron:dem 
 ,	- - 
-що	що pron:int:rel:n:v_naz
+що	що pron:int:rel:n:v_naz    conj:subord
 книги	книга noun:f:v_rod 
 закінчуються	закінчуватися verb:rev:pres:p:3:imperf 
 ,	- - 
@@ -999,14 +998,14 @@ SENT_START
     - SENT_START 
 Сам	сам adj:m:v_naz:&pron:def
 заклад	заклад noun:m:v_naz 
-               noun:m:v_zna 
+               
 дуже	дуже adv
 сподобався	сподобатися verb:rev:past:m:perf 
 :	- - 
 адже	адже conj:subord 
 поки	поки adv:&pron:int:rel 
 чекали	чекати verb:past:p:imperf 
-замовлення	замовлення noun:n:v_rod
+замовлення	замовлення noun:n:v_rod (noun:n:v_zna)
 ,	- - 
 то	то conj:subord 
 і	і conj:coord 
@@ -1203,7 +1202,7 @@ SENT_START
 просто	просто adv:compb 
 чудово	чудово adv:compb 
 надзвичайно	надзвичайно adv 
-все	все adv:v-u 
+все	все adv:v-u                          (весь adj:n:v_zna:&pron:dem)
 смачно	смачно adv:compb 
 та	та conj:coord 
 ідеально	ідеально adv 
@@ -1231,7 +1230,7 @@ SENT_START
 А	а conj:coord
 в	в prep:rv_zna:rv_mis:rv_rod:v-u 
 Мафії	мафія noun:f:v_mis  
-все	все part:v-u 
+все	все part:v-u                           (весь adj:n:v_zna:&pron:dem)
 справді	справді adv
 чудово	чудово adv:compb 
 .	- SENT_END 
@@ -1291,7 +1290,6 @@ SENT_START
 поховати	поховати verb:inf:perf 
 вкладені	вкладений adjp:pasv:past:p:v_zna:v-u 
 гроші	гроші noun:p:v_zna
-гріш noun:m:v_mis 
 .	- SENT_END 
     - SENT_START 
 Бо	бо conj:subord
@@ -1361,7 +1359,7 @@ SENT_START
 них	вони pron:pers:p:3:v_rod:anim
 там	там part 
 все	все adv:v-u  
-супер	супер noun:m:v_naz 
+супер	супер noun:m:v_naz            (adv)
 і	і conj:coord
 ідеально	ідеально adv 
 :	- - 
@@ -1379,7 +1377,7 @@ SENT_START
 піцу	піца noun:f:v_zna 
 й	й conj:coord 
 отримати	отримати verb:inf:perf 
-вино	вино noun:n:v_naz 
+вино	вино noun:n:v_naz               (noun:n:v_zna)
 в	в prep:rv_zna:rv_mis:rv_rod:v-u 
 подарунок	подарунок noun:m:v_zna 
 -	- - 
@@ -1391,7 +1389,7 @@ SENT_START
 посиділок	- - (noun:slang_rod)
 ?	- SENT_END 
     - SENT_START 
-До речі	до речі part 
+До речі	до речі part                     (insert)
 ,	- - 
 судячи	судити advp:imperf 
 з	з prep:rv_rod:rv_zna:rv_oru 
@@ -1401,7 +1399,7 @@ SENT_START
 мережу	мережа noun:f:v_zna 
 -	- - 
 в	в prep:rv_zna:rv_mis:rv_rod:v-u 
-столиці	столиця noun:f:v_dav 
+столиці	столиця noun:f:v_dav               (noun:f:v_mis)
 вони	вони pron:pers:p:3:v_naz:anim 
 й	й conj:coord
 складають	складати verb:pres:p:3:imperf 
@@ -1417,7 +1415,7 @@ SENT_START
 дорослим	дорослий noun:p:v_dav:anim 
 тут	тут adv:&pron:dem 
 нема	нема predic 
-що	що pron:int:rel:n:v_zna 
+що	що pron:int:rel:n:v_zna                  (part)
 робити	робити verb:inf:imperf 
 ,	- - 
 для	для prep:rv_rod 
@@ -1428,10 +1426,10 @@ SENT_START
 вибір	вибір noun:m:v_zna 
 закладів	заклад noun:p:v_rod 
 ,	- - 
-де	де part 
+де	де part                                 (conj:subord)
 за	за prep:rv_rod:rv_zna:rv_oru 
 ті	той adj:p:v_zna:&pron:dem 
-самі	самийadj:p:v_zna 
+самі	самий adj:p:v_zna 
 гроші	гроші noun:p:v_zna
 можна	можна predic 
 отримати	отримати verb:inf:perf 
@@ -1452,7 +1450,7 @@ SENT_START
 Мафію	мафія noun:f:v_zna 
 і	і conj:coord 
 завжди	завжди adv:&pron:gen 
-все	все    part:v-u
+все	все    part:v-u                                 (весь adj:n:v_naz:&pron:dem)
 чисто	чисто adv:compb 
 неперевершено	неперевершено adv 
 смачно	смачно adv:compb 
@@ -1466,7 +1464,7 @@ SENT_START
 В	в prep:rv_zna:rv_mis:rv_rod:v-u 
 РЕСТОРАН	ресторан noun:m:v_zna 
 "	- - 
-МАФІЯ	мафія noun:f:v_naz 
+МАФІЯ	мафія noun:f:v_naz                        (noun:f:v_zna) 
 "	- - 
 !	- - 
 !	- - 
@@ -1480,7 +1478,7 @@ SENT_START
 чоловіком	чоловік noun:m:v_oru:anim 
 ресторан	ресторан noun:m:v_zna 
 "	- - 
-Мафія	мафія noun:f:v_naz 
+Мафія	мафія noun:f:v_naz                             (noun:f:v_zna)
 "	- - 
 у	у prep:rv_zna:rv_mis:rv_rod:v-u 
 Львові	Львів noun:m:v_mis 
@@ -1498,19 +1496,19 @@ SENT_START
 книзі	книга noun:f:v_mis 
 скарг	скарга noun:p:v_rod 
 та	та conj:coord
-пропозиція	пропозиція noun:f:v_naz 
+пропозиція	пропозиція noun:f:v_naz                    
 ,	- - 
 часу	час noun:m:v_rod 
 стало	стати verb:past:n:perf 
-шкода	шкода noun:f:v_naz 
+шкода	шкода noun:f:v_naz                 (adv)
 ,	- - 
 та	та conj:coord 
 й	й conj:coord 
 чоловік	чоловік noun:m:v_naz:anim 
 попросив	попросити verb:past:m:perf 
 в	в prep:rv_zna:rv_mis:rv_rod:v-u 
-такий	такий adj:m:v_naz:&pron:def
-день	день noun:m:v_naz
+такий	такий adj:m:v_naz:&pron:def        (dj:m:v_zna:&pron:def)
+день	день noun:m:v_naz                  (noun:m:v_zna)
 не	не part 
 псувати	псувати verb:inf:imperf 
 собі	себе pron:refl:m:v_dav 
@@ -1525,7 +1523,7 @@ SENT_START
 ,	- - 
 поки	поки conj:subord 
 до	до prep:rv_rod 
-нас	ми pron:pers:p:1:v_mis:anim
+нас	ми pron:pers:p:1:v_mis:anim           noun:p:v_rod:anim:&pron:pers:1
 хтось	хтось pron:ind:v_naz:anim 
 підійде	підійти verb:futr:s:3:perf 
 !	- - 
@@ -1537,7 +1535,7 @@ SENT_START
 SENT_START 
 за	за prep:rv_rod:rv_zna:rv_oru 
 цей	цей adj:m:v_zna:&pron:dem 
-час	час noun:m:v_naz 
+час	час noun:m:v_naz                         (noun:m:v_zna) 
 ,	- - 
 сусідній	сусідній adj:m:v_zna 
 пишно	пишно adv:compb 
@@ -1550,7 +1548,7 @@ SENT_START
 нас	ми pron:pers:p:1:v_rod:anim 
 стояв	стояти verb:past:m:imperf 
 неприбраним	неприбраний adj:m:v_oru 
-так	так adv:&pron:dem
+так	так adv:&pron:dem                                 (part)
 залишився	залишитися verb:rev:past:m:perf 
 і	і conj:coord 
 після	після prep:rv_rod 
@@ -1596,7 +1594,7 @@ SENT_START
 взад-вперед	взад-вперед adv 
 ,	- - 
 невідомо	невідомо adv 
-чого	що pron:int:rel:n:v_rod 
+чого	що pron:int:rel:n:v_rod                          
 ,	- - 
 бо	бо conj:subord 
 вона	вона pron:pers:f:3:v_naz:anim 
@@ -1637,7 +1635,7 @@ SENT_START
 знайшли	знайти verb:past:p:perf 
 та	та conj:coord 
 зловили	зловити verb:past:p:perf 
-офіціанта	офіціант noun:m:v_zna:anim 
+офіціанта	офіціант noun:m:v_zna:anim                (noun:m:v_rod:anim) 
 за	за prep:rv_rod:rv_zna:rv_oru
 руку	рука noun:f:v_zna 
 і	і conj:coord 
@@ -1683,7 +1681,7 @@ SENT_START
 .	- - 
 ,	- - 
 а	а conj:coord 
-офіціанта	офіціант noun:m:v_zna:anim 
+офіціанта	офіціант noun:m:v_zna:anim       (noun:m:v_rod:anim) 
 чекали	чекати verb:past:p:imperf 
 10	10 number 
 секунд	секунда noun:p:v_rod 
@@ -1697,7 +1695,7 @@ SENT_START
 сиділа	сидіти verb:past:f:imperf 
 пара	пара noun:f:v_naz 
 ,	- - 
-яка	як noun:m:v_zna:anim 
+яка	як noun:m:v_zna:anim                    (який adj:f:v_naz:&pron:int:rel:def)
 який adj:f:v_naz:&pron:int:rel:def
 теж	теж part 
 не	не part 
@@ -1743,7 +1741,7 @@ SENT_START
 МЕНЮ	меню noun:n:v_oru:nv
 .	- SENT_END  
     - SENT_START 
-Отже	отже conj:subord 
+Отже	отже conj:subord                      (insert)
 ,	- - 
 можу	могти verb:unknown 
 залишити	залишити verb:inf:perf 
@@ -1752,10 +1750,10 @@ SENT_START
 :	- - 
 якщо	якщо conj:subord 
 вам	ви pron:pers:p:2:v_dav:anim 
-дорогий	дорогий adj:m:v_naz:compb 
+дорогий	дорогий adj:m:v_naz:compb             (adj:m:v_zna:compb) 
 ваш	ваш adj:m:v_naz:&pron:pos 
-час	час noun:m:v_naz 
-,	- - 
+час	час noun:m:v_naz                          (noun:m:v_zna) 
+,	- -   
 ви	ви pron:pers:p:2:v_naz:anim 
 ціните	цінити verb:pres:p:2:imperf 
 гарне	гарний adj:n:v_zna:compb 
@@ -1770,17 +1768,17 @@ SENT_START
 В	в prep:rv_zna:rv_mis:rv_rod:v-u 
 РЕСТОРАН	ресторан noun:m:v_zna 
 "	- - 
-МАФІЯ	мафія noun:f:v_naz 
+МАФІЯ	мафія noun:f:v_naz  
 "	- - 
 !	- - 
 !	- - 
 !	- - 
 !	- SENT_END 
     - SENT_START 
-Шановні	шановний adj:p:v_naz 
+Шановні	шановний adj:p:v_naz                               (adj:p:v_kly)
 власники	власник noun:p:v_kly:anim 
 ,	- - 
-директора	директор noun:m:v_rod:anim (noun:pl_kly)
+директора	директор noun:m:v_rod:anim                 (noun:p:v_kly:anim)
 і	і conj:coord
 менеджери	менеджер noun:p:v_kly:anim 
 :	- - 
@@ -1829,7 +1827,7 @@ SENT_START
 не	не part 
 сподобалось	сподобатися verb:rev:past:n:perf 
 одразу	одразу adv 
-що	що conj:subord 
+що	що conj:subord                                            (part)
 прибори	прибор noun:p:v_naz 
 заплямовані	заплямований adjp:pasv:past:p:v_naz 
 ,	- - 
@@ -1840,7 +1838,7 @@ SENT_START
 що	що conj:subord 
 нам	ми pron:pers:p:1:v_dav:anim 
 принесли	принести verb:past:p:perf 
-ще	ще adv 
+ще	ще adv                                                       (part)
        part 
 брудніші	брудний adj:p:v_zna:compr 
 прибори	прибор noun:p:v_zna 
@@ -1857,8 +1855,8 @@ SENT_START
 з	з prep:rv_rod:rv_zna:rv_oru 
 нами	ми pron:pers:p:1:v_oru:anim 
 що	що conj:subord 
-все	все adv:v-u 
-гаразд	гаразд noun:m:v_naz 
+все	все adv:v-u                                                          (весь adj:n:v_zna:&pron:dem)
+гаразд	гаразд noun:m:v_naz                                              (adv)
 не	не part 
 вибачившись	вибачитися advp:rev:perf 
 навіть	навіть part
@@ -1870,7 +1868,7 @@ SENT_START
 з	з prep:rv_rod:rv_zna:rv_oru 
 офіціанткою	офіціантка noun:f:v_oru:anim 
 яка	який adj:f:v_naz:&pron:int:rel:def
-нас	ми pron:pers:p:1:v_zna:anim 
+нас	ми pron:pers:p:1:v_zna:anim                                           (pron:pers:p:1:v_rod:anim )
 обслуговувала	обслуговувати verb:past:f:imperf 
 .	- SENT_END 
     - SENT_START 
@@ -1879,13 +1877,13 @@ SENT_START
 несмачні	несмачний adj:p:v_naz 
 .	- SENT_END
     - SENT_START 
-Шкода	шкода noun:f:v_naz 
-що	що conj:subord 
-такий	такий adj:m:v_naz:&pron:def 
+Шкода	шкода noun:f:v_naz                                                 (insert)
+що	що conj:subord                                                         (adj:m:v_zna:&pron:def )
+такий	такий adj:m:v_naz:&pron:def                                        (noun:m:v_zna)
 заклад	заклад noun:m:v_naz 
 вбивають	вбивати verb:pres:p:3:imperf:v-u 
 некваліфіковані	некваліфікований adj:p:v_naz 
-працівники	працівник noun:p:v_kly:anim 
+працівники	працівник noun:p:v_kly:anim                                      (noun:p:v_naz:anim) 
 !	- - 
 !	- - 
 !	- - 
@@ -1924,7 +1922,7 @@ SENT_START
 частина	частина noun:f:v_naz 
 персоналу	персонал noun:m:v_rod 
 надзвичайно	надзвичайно adv 
-привітні	привітний adj:p:v_zna:compb 
+привітні	привітний adj:p:v_zna:compb                 (adj:p:v_naz:compb) 
 !	- - 
 !	- - 
 !	- SENT_END 
