@@ -1,0 +1,1052 @@
+﻿
+Token		Lemma		Part-of-speech		Chunk
+			- 	SENT_START 	
+Дуже		дуже 		adv
+	 
+смачно		смачно 		adv:compb 	
+Та		та 		conj:coord 	
+затишно		затишно 	adv:compb 	
+.	- 	SENT_END 	
+
+Token		Lemma	Part-of-speech	Chunk
+	- 	SENT_START 	
+Штруделі	- 	- 	
+,	- 	- 	
+ель		ель 		noun:m:v_naz 	
+та		та 		conj:coord 
+Кіш		кіш 		noun:m:v_naz  	
+чудові		чудовий 	adj:p:v_naz:compb 
+	
+.	- 			PARA_END 	
+
+AnastasiaChmil_13_03_2015.txt
+
+Token		Lemma		Part-of-speech	Chunk
+
+		- 		SENT_START 	
+Яблуко		яблуко 		noun:n:v_naz 	
+печене		печений 	adjp:pasv:past:n:v_naz	
+було		бути 		verb:past:n:imperf 	
+без		без 		prep:rv_rod 	
+горішків	горішок 	noun:p:v_rod 	
+...	- 	- 	
+(	- 	- 	
+ціни		ціна 		noun:p:v_naz 
+	
+значно		значно 		adv:compb 	
+виросли		вирости 	verb:past:p:perf 
+	
+				PARA_END 
+				SENT_END 
+
+AnastasiaDelice_16_05_2015.txt
+
+Token		Lemma		Part-of-speech	Chunk
+		- 		SENT_START 	
+Чарівне		чарівний 	adj:n:v_naz:compb 	
+місце		місце 		noun:n:v_naz 	
+!		- 		SENT_END 	
+
+Token		Lemma		Part-of-speech	Chunk
+		- 		SENT_START 	
+Все		все 		pron:dem:n:v_naz
+
+смачно		смачно 		adv:compb 	
+,		- 		- 	
+добра		добрий 		adj:f:v_naz:compb 
+	
+	
+кава		кава 		noun:f:v_naz 	
+,		- 		- 	
+обслуговування	обслуговування  noun:n:v_naz 
+		
+прекрасне	прекрасний 	adj:n:v_naz:compb 	
+,		- 		- 	
+інтер'єр	інтер'єр 	noun:m:v_naz 	
+цікавий		цікавий 	adj:m:v_naz:compb 	
+.		- 		SENT_END 	
+
+Token	Lemma	Part-of-speech	Chunk
+	- 	SENT_START 	
+Хочеться	хотітися 	verb:rev:pres:s:3:imperf	
+сюди		сюди 		adv 	
+повернутися	повернутися 	verb:rev:inf:perf 	
+.		-	 	PARA_END 
+	
+
+AnastasiaShmykova_15_10_2014.txt
+
+Token		Lemma		Part-of-speech	Chunk
+	- 			SENT_START 	
+Атмосфера	атмосфера 	noun:f:v_naz 	
+5		5 		number 	
+з		з 		prep:rv_rod	
+5		5 		number 	
+,		-	 	- 	
+Шарлотка	шарлотка 	noun:f:v_naz 	
+ідеальна	ідеальний 	adj:f:v_naz 	
+!		- 		- 	
+!		- 		SENT_END 	
+)
+
+Token		Lemma		Part-of-speech	Chunk
+		- 		SENT_START 	
+Заклад		заклад 		noun:m:v_naz 	
+серце		серце	 	noun:n:v_naz 	
+Львова	        Львів	 	noun:m:v_rod 	
+!		- 		SENT_END 	
+
+Token	Lemma	Part-of-speech	Chunk
+	-	 	SENT_START 	
+;	-	 	- 	
+)	-	 	- 	
+)	-	 	PARA_END 
+	
+
+AnastasiaZakharova_7_06_2015.txt
+
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+Кафе		кафе	 	noun:n:v_naz:nv 
+	
+1		1	 	number 	
+Закохало	закохати 	verb:past:n:perf 	
+в		в	 	prep:rv_zna:rv_mis:rv_rod:v-u 	
+себе		себе 		pron:refl:n:v_rod
+	
+з		з	 	prep:rv_rod	
+першої		перший	 	adj:f:v_rod 	
+хвилини		хвилина 	noun:f:v_rod  
+		
+,		- 		- 	
+дружнє		дружній 	adj:n:v_naz 	
+обслуговування	обслуговування 	noun:n:v_naz 
+	
+,		- 		- 	
+дуже		дуже	 	adv 
+	
+смачні		смачний 	adj:p:v_naz:compb 	
+страви		страва	 	noun:p:v_naz 	
+,		- 		- 	
+чарівні		чарівний 	adj:p:v_naz:compb 	
+десерти		десерт	 	noun:p:v_naz 	
+Та		та	 	conj:coord 	
+Шикарна		шикарний 	adj:f:v_naz 	
+Кава		кава 		noun:f:v_naz 	
+.		-	 	SENT_END 	
+
+Token		Lemma		Part-of-speech	Chunk
+	- 			SENT_START 	
+Атмосфера	атмосфера 	noun:f:v_naz 	
+На		на 		prep:rv_mis 	
+Террасі		- 		- 	
+Неймовірна	неймовірний 	adj:f:v_naz:compb 	
+!		- 		PARA_END 
+		
+
+AndriyKurdiy_22_05_2015.txt
+
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+Класне		класний 	adj:n:v_naz 	
+Місце		місце	 	noun:n:v_naz 	
+для		для	 	prep:rv_rod 	
+зустрічей	зустріч 	noun:p:v_rod 	
+та		та	 	conj:coord 	
+побачень	побачення 	noun:p:v_rod 	
+.		-	 	SENT_END 	
+	
+Token		Lemma		Part-of-speech	Chunk
+		- 		SENT_START 	
+Мені		я		pron:pers:1:s:v_dav:anim
+на		на 		prep:rv_zna	
+Нажаль 		(на жаль)нажаль insert:bad 	
+Не		не	 	part 	
+Пощастило	пощастити 	verb:past:n:perf 	
+З		з	 	prep:rv_oru 	
+Офіціантом	- 		- 	
+,		-	 	- 	
+Але		але 		conj:coord 	
+Загалом		загалом 	adv
+	 
+	
+Пристойно	пристойно 	adv 	
+.		-	 	PARA_END 
+	
+
+AnutaKavna_24_03_2015.txt
+
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+як		як	 	adv	
+завжди		завжди	 	adv:gen 	
+,		-	 	- 	
+Все		весь	 	pron:dem:n:v_naz	
+чудово		чудово	 	adv:compb 	
+.		- 		SENT_END 	
+
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+Гарні		гарний	 	adj:p:v_naz:compb 	
+страви		страва 		noun:p:v_naz 	
+,		-	 	- 	
+чуйні		чуйний	 	adj:p:v_naz 	
+офіціанти	офіціант 	noun:p:v_naz:anim 	
+,		-	 	- 	
+романтична	романтичний 	adj:f:v_naz:compb 	
+атмосфера	атмосфера 	noun:f:v_naz 	
+!		-	 	PARA_END 
+	
+
+BogdanK_10_06_2015.txt
+
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+Одне		один	 	numr:n:v_naz 	
+З		з	 	prep:rv_rod	
+улюблених	улюблений 	adj:p:v_rod:compb	
+Місць		місце	 	noun:p:v_rod 	
+.		-	 	SENT_END 	
+
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+Млинці		млинець 	noun:p:v_naz 	
+і		і	 	conj:coord 	
+штрудель	-	 	- 	
+з		з	 	prep:rv_oru	
+куркою		курка	 	noun:f:v_oru:anim 	
+-		-	 	- 	
+просто		просто	 	adv:compb 	
+божественні	божественний 	adj:p:v_naz 	
+.		-	 	SENT_END 	
+
+Token		Lemma		Part-of-speech	Chunk
+		- 		SENT_START 	
+Офіціанти	офіціант 	noun:p:v_naz:anim 	
+добре		добре	  	adv 
+розбираються	розбиратися 	verb:rev:pres:p:3:imperf 	
+у		у	 	prep:rv_zna:rv_mis:rv_rod:v-u 	
+винах		вино	 	noun:p:v_mis 	
+,		-	 	- 	
+весь		весь	 	pron:dem:m:v_naz	
+час		час	 	noun:m:v_naz  	
+є		бути	 	verb:pres:p:3:imperf 
+	
+якісь		якийсь	 	pron:ind:p:v_naz 	
+новенькі	новенький 	adj:p:v_naz 	
+пропозиції	пропозиція 	noun:p:v_naz 	
+.		-	 	SENT_END 	
+
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+Атмосфера	атмосфера 	noun:f:v_naz 	
+бомбезна		- 	- 	
+.		-	 	SENT_END 	
+
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+5		5	 	number 	
+балів		бал	 	noun:p:v_rod 	
+!		-	 	PARA_END 
+	
+
+
+DmytroBihnyak_08_08_2015.txt
+
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+Дуже		дуже	 	adv	
+Романтичне	романтичний 	adj:n:v_naz:compb 	
+Місце		місце	 	noun:n:v_naz 	
+.		-	 	SENT_END 	
+
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+Смачні		смачний 	adj:p:v_naz:compb 	
+Млинці		млинець	 	noun:p:v_naz 	
+З		з	 	prep:rv_oru	
+Грибним		грибний 	adj:m:v_oru 	
+Соусом		соус	 	noun:m:v_oru 	
+.		-	 	SENT_END 	
+
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+І		і	 	conj:coord 	
+кава		кава	 	noun:f:v_naz 	
+з		з	 	prep:rv_oru	
+медом		мед	 	noun:m:v_oru 	
+.		-	 	SENT_END 	
+
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+Інтер'єр	інтер'єр 	noun:m:v_naz 	
+прекрасний	прекрасний 	adj:m:v_naz:compb 
+				PARA_END 
+	
+
+DrandUlet_21_02_2015.txt
+	
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+Зліва		зліва	 	adv 	
+тортик		-	 	- 	
+По     	    по ( по-італійськи)	bad	
+Італійські італійський ( по-італійськи)	bad	
+(		-	 	- 	
+схожий		схожий 		adj:m:v_naz 	
+троохи	- 	- 	
+на		на	 	prep:rv_zna	
+нугу		нуга	 	noun:f:v_zna 	
+)		-	 	- 	
+,		-	 	- 	
+а		а	 	conj:coord 	
+справа		справа (праворуч)	bad	
+-		-	 	- 	
+Захер		-	 	- 	
+.		-	 	SENT_END 	
+
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+Коштують	коштувати 	verb:pres:p:3:imperf 	
+однаково	однаково 	adv 
+				PARA_END 
+	
+
+GaculNebaba_10_01_2015.txt
+
+Token		Lemma		Part-of-speech	Chunk
+	- 			SENT_START 	
+Дякую		дякувати 	verb:pres:s:1:imperf 	
+За		за	 	prep:rv_rod:rv_zna:rv_oru	
+Смачні		смачний 	adj:p:v_zna:compb 	
+млинці		млинець 	noun:p:v_zna 	
+І		і 		conj:coord 	
+приємне		приємний 	adj:n:v_zna:compb 	
+обслуговування	обслуговування  noun:n:v_zna 
+	
+.		-	 	SENT_END 	
+
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+Найбільш	багато 		adv:super 	
+затишне		затишний 	adj:n:v_naz:compb 	
+кафе		кафе	 	noun:n:v_naz:nv 
+	
+в		в 		prep:rv_mis	
+центрі		центр	 	noun:m:v_mis 	
+Львова		Львів	 	noun:m:v_rod 	
+.		-	 	SENT_END 	
+
+
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+		-	 	PARA_END 	
+
+
+GregoryZarkhin_10_07_2015.txt
+
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+О		о	 	Excl	
+Тааак		-	 	bad	
+Я		я	 	pron:pers:1:s:v_naz:anim:	
+В		в	 	prep:rv_mis	
+Екстазі	        екстаз	 	noun:m:v_mis 	
+!		-	 	SENT_END 	
+
+Token		Lemma		Part-of-speech\	Chunk
+		-	 	SENT_START 	
+Після		після	 	prep:rv_rod 	
+фламкухен	-	 	- 	
+з		з	 	prep:rv_oru	
+грушею		груша	 	noun:f:v_oru 	
+і		і	 	conj:coord 	
+рокфором	рокфор 		noun:m:v_oru 	
+,		-	 	- 	
+а		а		 conj:coord 	
+потім		потім	 	adv 	
+ще		ще	 	adv 	
+й		й	 	conj:coord  	
+цей		цей 		pron:dem:m:v_naz 	
+шикарний	шикарний 	adj:m:v_naz 	
+салат		салат	 	noun:m:v_naz 	
+з		з	 	prep:rv_oru	
+грушею		груша	 	noun:f:v_oru 	
+і		і	 	conj:coord 	
+парма-шинкою	-	 	- 	
+)		-	 	- 	
+ну		ну	 	part 	
+і		і	 	conj:coord  	
+звісно		звісно	 	adv 	
+бронзовий	бронзовий 	adj:m:v_naz  	
+ель		ель 		noun:m:v_naz  	
+від		від 		prep:rv_rod 	
+Кумпель		-	 	SENT_END 
+				PARA_END 	
+
+IIyuhaBilokopytyy_03_11_2014.txt
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+Затишне		затишний 	adj:n:v_naz:compb 	
+місце		місце	 	noun:n:v_naz 	
+де		де	 	pron:int:rel 	
+мож		-	 	bad	
+просто		просто 		 adv:compb 	
+розслабитись	розслабитися 	verb:rev:inf:perf 	
+без		без	 	prep:rv_rod 	
+шуму		шум	 	noun:m:v_rod 	
+і		і	 	conj:coord 	
+просто		просто	 adv:compb 	
+відпочити	відпочити 	verb:inf:perf 	
+)		-	 	PARA_END 	
+
+InnaGaberman_21_01_2015.txt
+
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+Дуже		дуже	 	adv 	
+атмосферне	атмосферний 	adj:n:v_naz 	
+,		-	 	- 	
+затишне		затишний 	adj:n:v_naz:compb 	
+маленьке	маленький 	adj:n:v_naz 	
+кафе		кафе	 	noun:n:v_naz:nv 	
+,		-	 	- 	
+з		з	 	prep:rv_oru	
+дуже		дуже	 	adv 	
+смачною		смачний 	adj:f:v_oru:compb 	
+їжею		їжа	 	noun:f:v_oru 	
+,		-	 	- 	
+привітними	привітний 	adj:p:v_oru:compb 	
+офіціантами-симпатюлями	- 	- 	
+і		і	 	conj:coord 	
+гарним		гарний	 	adj:m:v_oru:compb 	
+вибором		вибір 		noun:m:v_oru 	
+вина		вино	 	noun:n:v_rod 	
+.		- 		SENT_END 	
+
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+Люблю		любити	 	verb:pres:s:1:imperf 	
+Одиничку	одиничка 	noun:f:v_zna 	
+!		-	 	 PARA_END 
+	
+
+InnaP_18_09_2014.txt
+
+Token		Lemma		Part-of-speech	Chunk
+	- 			SENT_START 	
+Заклад		заклад	 	noun:m:v_naz 	
+Без		без		 prep:rv_rod 	
+Сумніву		сумнів	 	noun:m:v_rod 
+У		у 		prep:rv_mis	
+п'ятірці	п'ятірка 	noun:f:v_mis 	
+Моїх		мій	 	pron:posp:v_rod 	
+улюблених	улюблений 	adj:p:v_rod:compb	
+Місць		місце	 	noun:p:v_rod 	
+У		у	 	prep:rv_mis	
+Львові		Львів	 	noun:m:v_mis 	
+!		-	 	PARA_END 
+	
+
+IraSimone_17_11_2014.txt
+	
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+закiнчилось	-	 	- 	
+пиво		пиво	 	noun:n:v_naz 	
+,		-	 	- 	
+офiцiант	-	 	- 	
+запропонував	запропонувати 	verb:past:m:perf 	
+Зганяти		зганяти 	verb:inf:imperf 	
+У		у	 	prep:rv_zna	
+Магазин		магазин		noun:m:v_zna 
+				SENT_END 	
+		-	 	PARA_END 
+	
+
+IrynaBurdyk_07_07_2015.txt
+
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+Все		весь		pron:dem:n:v_naz
+	
+Супер		супер 		adv: slang	
+,		-	 	- 	
+Рекомендую	рекомендувати   verb:pres:s:1:imperf 
+				PARA_END 
+	
+
+KaterynaPlesiuk_05_02_2015.txt
+
+Token		Lemma		Part-of-speech	Chunk
+	- 			SENT_START 	
+Автентичне	автентичний 	adj:n:v_naz  	
+Львівське	львівський 	adj:n:v_naz 	
+Кафе		кафе	 	noun:n:v_naz:nv 
+	
+,		-	 	- 	
+Всім		весь 		pron:dem 	
+Рекомендую	рекомендувати 	verb:pres:s:1:imperf 	
+Струдель	-	 	bad	
+З		з	 	prep:rv_oru	
+Вишнею		вишня 		noun:f:v_oru 
+				SENT_END 	
+		-	 	PARA_END 
+	
+
+KatKat_08_03_2015.txt
+
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+Інтер'єр	інтер'єр 	noun:m:v_naz 	
+,		-	 	- 	
+їжа		їжа	 	noun:f:v_naz 	
+,		-	 	- 	
+сервіс		сервіс	 	noun:m:v_naz 	
+-		-	 	- 	
+все	        весь	 	pron:dem:n:v_naz
+	
+на		на	 	prep:rv_zna:rv_mis 	
+дуже		дуже		 adv 	
+і		і	 	conj:coord 	
+дуже		дуже 		adv 	
+високому	високий 	adj:m:v_mis:compb 	
+рівні           рівень		noun:m:v_mis 	
+.		- 		SENT_END 	
+
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+Мій		мій	 	pron:pos:m:v_naz 	
+наулюбленіший	- 		- 	
+Заклад		заклад	 	noun:m:v_naz 	
+У		у	 	prep:rv_zna:rv_mis:rv_rod:v-u 	
+Львові	 	Львів	 	noun:m:v_mis 	
+.		-	 	SENT_END 
+				PARA_END 	
+
+KatyaPrishyazhna_27_10_2014.txt
+
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+Шикарний	шикарний 	adj:m:v_naz 	
+інтер'єр	інтер'єр 	noun:m:v_naz 	
+І		і	 	conj:coord 	
+атмосфера	атмосфера 	noun:f:v_naz 	
+,		-	 	- 	
+Чудова		чудовий 	adj:f:v_naz:compb 	
+кухня		кухня	 	noun:f:v_naz 	
+.		-	 	SENT_END 
+				PARA_END 
+	
+
+KetLazor_14_01_2015.txt
+
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+Облізлі		облізлий 	adjp:actv:past:p:v_naz 	
+Крісла		крісло 		noun:p:v_naz 	
+,		-	 	- 	
+Можливо		можливо 	adv 	
+,		-	 	- 	
+така		такий	 	pron:def:f:v_naz 	
+задумка		-	 	- 	
+,		-	 	- 	
+але		але	 	conj:coord 	
+як		як мінімум 	bad	
+мінімум		як мінімум 	bad	
+це		цей	 	pron:dem:n:v_naz	
+не	не 	part 	
+естетично	естетично 	adv:compb 	
+.		-	 	SENT_END 	
+
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+А		а	 	conj:coord 	
+якщо		якщо	 	conj:subord 	
+вже		вже	 	adv:v-u 	
+на		на	 	prep:rv_zna:rv_mis 	
+підлозі		підлога 	noun:f:v_mis 	
+коври		-	 	- 	
+,		-	 	- 	
+то		то	 	conj:subord 	
+потрібно	потрібно 	adv:compb 	
+тримати		тримати 	verb:inf:imperf 	
+Їх		вони	 	pron:pers:3:p:v_zna 	
+Хоч		хоч	 	part 	
+В		в	 	prep:rv_mis	
+Якісь		якийсь	 	pron:ind:p:v_mis 	
+Чистоті		чистота 	noun:f:v_mis 	
+.		-	 	SENT_END 	
+)
+
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+Столик		столик	 	noun:m:v_naz 	
+Біля		біля	 	prep:rv_rod	
+Туал		- 		bad	
+Поставив	поставити 	verb:past:m:perf 	
+Всі		весь	 	pron:dem:p:v_zna	
+Крапки		крапка	 	noun:p:v_zna 	
+Над		над	 	prep:rv_oru	
+І		і 		part 	
+,		-	 	- 	
+Коли		коли	 	adv 
+	
+Було		бути	 	verb:past:n:imperf 	
+Все		весь 		pron:dem:n:v_naz
+	
+чути		чути 		verb:inf:imperf 
+				SENT_END 
+				PARA_END 
+	
+
+KopeckyiSasha_29_09_2015.txt
+
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+Кухня		кухня	 	noun:f:v_naz 	
+Просто		просто	 	adv:compb 
+	
+Супер		супер	 	adv: slang	
+,		-	 	- 	
+Але		але	 	conj:coord 	
+Окремо		окремо	 	adv 	
+Варто		варто	 	predic 	
+Відмітити	відмітити 	verb:inf:perf 	
+Саме	        сам	 	pron:def:n:v_naz 
+Оформлення	оформлення 	noun:n:v_naz 
+Страв		страва	 	noun:p:v_rod 	
+.		- 		- 	
+Додає		додавати 	verb:pres:s:3:imperf 	
+Пікантності	пікантність 	noun:f:v_rod 	
+І		і	 	conj:coord 	
+Навіть		навіть	 	part 	
+Шкода		шкода	 	noun:f:v_naz 	
+Їсти		їсти	 	verb:inf:imperf 	
+:		- 		- 	
+)		-	 	SENT_END 
+				PARA_END 
+	
+
+MarynaHulianytskaia_24_09_2015.txt
+
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+Витончена	витончений 	adj:f:v_naz:compb	
+і		і	 	conj:coord 
+водночас	водночас 	adv 	
+затишна		затишний 	adj:f:v_naz:compb 	
+атмосфера	атмосфера 	noun:f:v_naz 	
+,		-	 	- 	
+бездоганне	бездоганний 	adj:n:v_naz:compb 
+обслуговування	обслуговування  noun:n:v_naz 
+.	- 	SENT_END 	
+
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+А		а		part 	
+ось		ось	 	part 	
+мохіто		-	 	- 	
+розчарувало	-	 	- 	
+без		без	 	prep:rv_rod 	
+лайму		лайм	 	noun:m:v_rod
+та		та	 	conj:coord 	
+тростинного	тростинний 	adj:m:v_rod 	
+цукру		цукор    	 noun:m:v_rod 	
+.		-	 	SENT_END 
+				PARA_END 
+	
+
+MarysiaKolorova_03_08_2015.txt
+
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+смачнюща	- 		bad	
+шарлотка	шарлотка 	noun:f:v_naz 	
+і		і	 	conj:coord 	
+оригінальна	оригінальний 	adj:f:v_naz:compb 	
+подача		подача	 	noun:f:v_naz 	
+,		-	 	- 	
+а		а	 	conj:coord 	
+ще		ще	 	adv 	
+Дуже		дуже	 	adv 	
+кльовий		-	 	adv:slang	
+інтер'єр	інтер'єр 	noun:m:v_naz  
+				SENT_END 
+				PARA_END 	
+
+NastyaSmirnova_10_05_2015.txt
+
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+Це		цей	 	pron:dem:n:v_naz	
+найкраще	хороший 	adj:n:v_naz:super 	
+кафе		кафе	 	noun:n:v_naz:nv 	
+!		-	 	SENT_END 	
+
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+Подача		подача	 	noun:f:v_naz 	
+просто		просто	 	adv:compb 	
+неймовірна	неймовірний 	adj:f:v_naz:compb 	
+.		- 		SENT_END 	
+
+Token		Lemma		Part-of-speech	Chunk
+		- 		SENT_START 	
+Штруделі	- 		- 	
+Вишневий	вишневий 	adj:m:v_naz 	
+Та		та	 	conj:coord 	
+Яблучний	яблучний 	adj:m:v_naz 	
+Дужже		-	 	bad	
+Смачні		смачний 	adj:p:v_naz:compb 	
+,		-	 	- 	
+м'ятний		м'ятний 	adj:m:v_naz 	
+чай		чай	 	noun:m:v_naz 	
+у		у	 	prep:rv_dav:v-u 
+	
+чайнику		чайник	 	noun:m:v_dav 	
+Легкий		легкий	 	adj:m:v_naz:compb 	
+,		- 		- 	
+тонізуючий	тонізуючий 	adjp:actv:pres:m:v_naz:bad 	
+.		-	 	SENT_END 	
+
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+Всередині	всередині 	adv:v-u 	
+дуже		дуже	 	adv 	
+затишно		затишно 	adv:compb 	
+і		і	 	conj:coord 	
+прохолодно	прохолодно 	adv:compb 	
+.		-	 	SENT_END 	
+
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+Рекомендую	рекомендувати 	verb:pres:s:1:imperf 	
+всім		весь	 	pron:dem:p:v_dav 	
+!		-	 	SENT_END 
+				PARA_END 	
+
+NatashaOdrinska_10_05_2015.txt
+
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+Подача		подача 		noun:f:v_naz 	
+Канапок		канапка 	noun:p:v_rod 	
+На		на	 	prep:rv_zna:rv_mis 	
+Розкатаній	розкатаний 	adjp:pasv:past:f:v_mis 	
+Скляній		скляний 	adj:f:v_mis 	
+Пляшці		пляшка	 	noun:f:v_mis 	
+)		-	 	SENT_END 
+				PARA_END 
+	
+
+OlgaKorolenko_11_11_2014.txt
+
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+Я		я 		pron:pers:1:s:v_naz:anim	
+Так		так		 part 	
+давно		давно	 	adv 	
+хотіла		хотіти	 	verb:past:f:imperf 	
+сюди		сюди	 	adv	
+Потрапити	потрапити 	verb:inf:perf 	
+,		- 		- 	
+І		і 		conj:coord 	
+,		- 		- 	
+Нарешті		нарешті 	insert 	
+,		-	 	- 	
+Змогла		змогти	 	verb:unknown 	
+насолодитись	насолодитися 	verb:rev:inf:perf 	
+смачним		смачний 	adj:m:v_oru:compb 	
+салатиком	-	 	Bad	
+Та		та	 	conj:coord 	
+приємною	приємний 	adj:f:v_oru:compb 	
+Розмовою	розмова 	noun:f:v_oru 	
+З		з	 	prep:rv_oru 	
+друзями		друзі 		noun:p:v_oru:anim 	
+!		-	 	SENT_END 
+				PARA_END 
+	
+
+Polichka_13_01_2014.txt
+
+Token		Lemma		Part-of-speech	Chunk
+		- 		SENT_START 	
+Влітку		влітку 		adv:v-u 	
+просто		просто	 	adv:compb 	
+немає		немає	 	predic 	
+Нічого		нічого 		predic 
+Приємнішого	приємний 	adj:m:v_rod:compr 	
+,		-	 	- 	
+Ніж		ніж 		conj:subord 	
+Посидіти	посидіти 	verb:inf:perf 	
+На		на	 	prep:rv_mis 	
+Терасі		тераса	 	noun:f:v_mis 	
+З		з	 	prep:rv_oru 	
+Просекко	- 		- 	
+,		- 		- 	
+спостерігаючи	спостерігати 	advp:imperf 	
+За		за	 	prep:rv_rod:rv_zna:rv_oru 	
+Перехожими	перехожий 	noun:p:v_oru:anim 
+				SENT_END 
+				PARA_END 	
+
+SergiyVozny_13_07_2015.txt
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+Даний		даний	 	adjp:pasv:past:m:v_naz 	
+Заклад		заклад	 	noun:m:v_naz 	
+Є		бути	 	verb:pres:s:3:imperf 
+Дійсно		дійсно 		adv 	
+Романтичним	романтичний     adj:m:v_oru:compb 	
+з		з	 	prep:rv_oru	
+хорошою		хороший 	adj:f:v_oru:compb 	
+атмосферою	атмосфера 	noun:f:v_oru 	
+.		-	 	SENT_END 	
+
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+Проте		проте	 	conj:coord 	
+в		в	 	prep:rv_mis	
+яблучному	яблучний 	adj:m:v_dav 
+	
+штруделі	- 		- 	
+був		бути	 	verb:past:m:imperf 	
+пісок		пісок	 	noun:m:v_zna 	
+,		-	 	- 	
+що		що	 	conj:subord 	
+було		бути	 	verb:past:n:imperf 	
+дуже		дуже	 	adv 	
+неприємно	неприємно 	adv:compb 	
+(		-	 	- 	
+(		-	 	- 	
+(		-	 	- 	
+(		-	 	SENT_END 	
+		-	 	PARA_END 	
+
+
+
+
+TanyaMoklovych_10_05_2015.txt
+
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+Чудове		чудовий 	adj:n:v_naz:compb 	
+Кафе		кафе	 	noun:n:v_naz:nv 
+З		з 		prep:rv_oru	
+смачнющою	-	 	- 	
+їжею		їжа	 	noun:f:v_oru 
+				SENT_END 	
+		-	 	PARA_END 
+	
+TarasZavalko_08_08_2015.txt
+
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+Неповторна	неповторний 	adj:f:v_naz 	
+атмосфера	атмосфера 	noun:f:v_naz 
+				SENT_END 	
+		-	 	PARA_END 	
+
+VadymDonchyk_26_02_2015.txt
+
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+Люблю		любити	 	verb:pres:s:1:imperf 	
+посидіти	посидіти 	verb:inf:perf 	
+тут		тут	 	adv 	
+в		в	 	prep:rv_mis	
+тихій		тихий	 	adj:f:v_mis:compb 	
+романтичній	романтичний 	adj:f:v_mis:compb 	
+обстановці	обстановка 	noun:f:v_mis	
+за		за	 	prep:rv_oru 	
+бокалом		бокал	 	noun:m:v_oru 	
+вина	        вино 		noun:n:v_rod 
+і		і 		conj:coord 	
+якоюсь		якийсь	 	pron:ind:f:v_oru 	
+смакотою	смакота 	noun:f:v_oru 	
+.		- 		SENT_END 	
+
+
+Token		Lemma		Part-of-speech	Chunk
+	- 			SENT_START 	
+Головне		головний 	adj:n:v_naz:compb 	
+,		-	 	- 	
+щоб		щоб	 	conj:subord 	
+близька		близький 	adj:f:v_naz:compb 	
+людина		людина	 	noun:f:v_naz:anim 	
+сиділа		сидіти	 	verb:past:f:imperf 	
+навпроти	навпроти 	prep:rv_rod 	
+чи		чи	 	part 	
+поруч		поруч	 	prep:rv_rod 	
+-		-	 	- 	
+місце		місце	 	noun:n:v_naz 	
+зобов'язує	зобов'язувати 	verb:pres:s:3:imperf 	
+:		-	 	- 	
+-		-	 	- 	
+)		- 		SENT_END 
+				PARA_END 	
+
+VictorKis_13_12_2014.txt
+
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+Дуже		дуже		adv 	
+затишне		затишний 	adj:n:v_naz:compb 	
+кафе		кафе	 	noun:n:v_naz:nv 
+.	- 	SENT_END 	
+
+
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+Чай		чай	 	noun:m:v_naz 	
+з		з	 	prep:rv_oru	
+доданками	доданок 	noun:p:v_oru 	
+всякими		всякий	 	pron:gen:v-up:v_oru	
+дуже		дуже	 	adv 	
+радує		радувати 	verb:pres:s:3:imperf 	
+.		-	 	SENT_END 	
+
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+Обовязково	- 		- 	
+сюди		сюди	 	adv	
+ще		ще	 	adv 	
+раз		раз	 	adv 	
+зайду	        зайти	 	verb:futr:s:1:perf 	
+.		-	 	SENT_END 	
+
+
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+Рекомендуюююю	-	 	bad	
+!		-	 	SENT_END 
+				PARA_END 
+	
+
+VitaliyAndrysiak_11_05_2015.txt
+
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+Здивував	здивувати 	verb:past:m:perf 	
+Салат		салат	 	noun:m:v_naz 	
+Тосканський	тосканський 	adj:m:v_naz 	
+.		-	 	SENT_END 
+	
+Token		Lemma		Part-of-speech	Chunk
+		- 		SENT_START 	
+Велика		великий 	adj:f:v_naz:compb 	
+Ситна		ситний 		adj:f:v_naz:compb 	
+І		і	 	conj:coord 	
+Смачна		смачний 	adj:f:v_naz:compb 	
+Порція		порція	 	noun:f:v_naz 	
+.		-	 	SENT_END 	
+
+
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+Ну		ну	 	part 	
+І		і	 	conj:coord 	
+Бронзовий	бронзовий 	adj:m:v_naz 	
+Ель		ель	 	noun:m:v_naz 	
+,		-	 	- 	
+Насичений	насичений 	adj:m:v_naz:compb	
+Смак		смак	 	noun:m:v_naz 	
+Пива		пиво 		noun:n:v_rod 	
+В		в	 	prep:rv_mis	
+Кожному		кожний	 	pron:def:m:v_mis 
+	
+Ковтку		ковток	 	noun:m:v_mis 	
+.		-	 	SENT_END 
+				PARA_END 
+	
+
+VladimirBabenko_09_10_2014.txt
+
+Token		Lemma		Part-of-speech	Chunk
+		- 		SENT_START 	
+Вкусні		-	 	- 	
+страви		страва 		noun:p:v_naz 	
+,	- 	- 	
+файна		файний 		adj:f:v_naz 	
+музика		музика 		noun:f:v_naz 	
+,		-	 	- 	
+чудацький	- 		adj: slang	
+дизайн		дизайн	 	noun:m:v_naz 	
+кафе		кафе 		noun:n:v_rod:nv 
+!		- 		SENT_END 	
+
+
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+Рекомендую	рекомендувати   verb:pres:s:1:imperf 
+				SENT_END 
+				PARA_END 
+	
+
+YaroslavKormushyn_20_08_2015.txt
+
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+Фірмові		фірмовий 	adj:p:v_naz 	
+млинці		млинець		 noun:p:v_naz 	
+-		- 		- 	
+просто		просто 		adv:compb 	
+чудо		чудо		 noun:n:v_naz 	
+,		-	 	- 	
+вино		вино	 	noun:n:v_naz 	
+смачне		смачний 	adj:n:v_naz:compb 	
+,		-	 	- 	
+атмосфера	атмосфера 	noun:f:v_naz 	
+всередині	всередині 	adv:v-u 	
+надзвичайно	надзвичайно 	adv 	
+романтична	романтичний 	adj:f:v_naz:compb 	
+.		-	 	SENT_END 	
+
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+Персонал	персонал 	noun:m:v_naz 	
+привітливий	привітливий 	adj:m:v_naz 	
+і		і	 	conj:coord 	
+з		з 		prep:rv_oru	
+почуттям	почуття 	noun:n:v_oru 	
+гумору		гумор	 	noun:m:v_rod 	
+.		-	 	SENT_END 	
+
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+Однозначно	однозначно 	adv 	
+рекомендую	рекомендувати 	verb:pres:s:1:imperf 	
+.		-	 	SENT_END 
+				PARA_END 
+	
+YevgeniaSakun_16_08_2015.txt
+
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+Готують		готувати 	verb:pres:p:3:imperf 	
+довго		довго	 	adv:compb 	
+,		-	 	- 	
+салати		салат	 	noun:p:v_naz 	
+так		так(так собі)	adv:coll	
+собі		себе (так собі) adv:coll	
+,		-	 	- 	
+пиріг		пиріг	 	noun:m:v_naz 	
+з		з	 	prep:rv_oru	
+лососем		лосось	 	noun:m:v_oru:anim 	
+сухий		сухий	 	adj:m:v_naz:compb 	
+і		і	 	conj:coord 	
+не		не	 	part 	
+смачний		смачний 	adj:m:v_naz:compb 	
+.		-	 	SENT_END 	
+
+
+Token		Lemma		Part-of-speech	Chunk
+		-	 	SENT_START 	
+Не		не	 	part 	
+коштує		коштувати 	verb:pres:s:3:imperf 	
+своїх		свій		pron:pos:p:v_rod 	
+Грошей		гроші 		noun:p:v_rod 
+				SENT_END 
+				PARA_END 	
+
