@@ -1,0 +1,340 @@
+					-					SENT_START 
+
+Не	        		не              	part 
+надійний			надійний 			adj:m:v_naz:compb 
+ресторан			ресторан 			noun:m:v_naz 
+!	       			-					SENT_END 
+
+					-					SENT_START 
+скарг	   			скарга 				noun:p:v_rod 
+,	       			- 					- 
+берутся				- 					- 
+уваги				увага 				noun:f:v_rod 
+ВЗАГАЛІ				взагалі 			adv:v-u 
+!					- 					SENT_END 
+
+					-					SENT_START 
+Домовленостей		домовленість 		noun:p:v_rod 
+дотримуються		дотримуватися 		verb:rev:pres:p:3:imperf
+адміністрацією		адміністрація 		noun:f:v_oru 
+ресторану	    	ресторан      		noun:m:v_dav 						(noun:m:v_rod)
+!					- 					SENT_END 
+					-					SENT_START 
+обману				обман 				noun:m:v_rod 
+брехні				брехня 				noun:f:v_rod 
+замилювання			замилювання			noun:n:v_rod 
+очей				око 				noun:p:v_rod 
+складається			складатися   		verb:rev:pres:s:3:imperf
+дуже				дуже  				adv
+хороша				хороший        		adj:f:v_naz:compb 
+картина				картина			 	noun:f:v_naz 
+ресторації			ресторація 			noun:f:v_rod
+,					- 					- 
+"					- 					- 
+ресторація			ресторація 			noun:f:v_naz 
+"					-					- 
+гучно				гучно 				adv:compb 
+сказано				сказати        		verb:impers:perf 
+!					- 					SENT_END 
+					-					SENT_START 
+кінцевому			кінцевий 			adj:m:v_dav 
+,					- 					- 
+власники			власник 			noun:p:v_naz:anim 
+ресторану			ресторан 			noun:m:v_rod 
+приймають			приймати 			verb:pres:p:3:imperf 
+рішення				рішення 			noun:n:v_naz 						(noun:m:v_zna)
+										noun:n:v_rod 
+домовленості		домовленість 		noun:f:v_dav						(noun:f:v_rod)
+										noun:f:v_mis 
+підписанні			підписання 			noun:n:v_mis 
+ДОГОВОРУ			договір 			noun:m:v_rod 
+двох				два 				numr:p:v_rod 
+сторін				сторона 			noun:p:v_rod 
+,					- 					- 
+роблять				робити 				verb:pres:p:3:imperf 
+вважають			вважати 			verb:pres:p:3:imperf 
+потрібне			потрібний 			adj:n:v_zna:compb 
+.					-					SENT_END 
+					-					SENT_START 
+Збільшують			збільшувати 		verb:pres:p:3:imperf 
+мін					міна 				noun:p:v_rod 						(adj:f:v_zna:coll)
+суму				сума 				noun:m:v_dav						(noun:f:v_zna)
+										noun:m:v_mis
+										noun:m:v_rod 
+замовлення			замовлення 			noun:n:v_rod 
+особу				особа 				noun:f:v_zna:anim 
+,					- 					- 
+обманюють			обманювати 			verb:pres:p:3:imperf 
+рахунок				рахунок 			noun:m:v_zna 
+кількості			кількість 			noun:f:v_dav						(noun:f:v_rod)
+										noun:f:v_mis 
+місць				місце 				noun:p:v_rod 
+"					-					- 
+йдеться				йтися 				verb:rev:pres:s:3:imperf
+весілля				весілля 			noun:n:v_zna 
+"					- 					- 
+.					-					SENT_END
+					-					SENT_START 
+раджу				радити 				verb:pres:s:1:imperf 
+відвідувати			відвідувати 		verb:inf:imperf 
+"					- 					- 
+ГЕНДЕЛИК-РЕСТОРАН	- 					- 
+"					- 					- 
+.					-					SENT_END 
+					-					SENT_START 
+місті				місто 				noun:n:v_mis 
+Івано-Франківськ	Івано-Франківськ 	noun:m:v_naz
+ліч					- 					- 
+на					на 					prep:rv_mis 
+затишніших			затишний 			adj:p:v_mis:compr
+фінансово			фінансово 			adv 
+вигідніших			вигідний 			adj:p:v_mis:compr
+,					- 					- 
+справжніх			справжній 			adj:p:v_mis
+										adj:p:v_rod  
+ресторанів			ресторан 			noun:p:v_rod 
+!					- 					SENT_END 
+					-					SENT_START 
+Єдине				єдиний 				adj:n:v_naz
+										adj:n:v_zna 
+,					- 					- 
+ресторан			ресторан 			noun:m:v_naz
+"					- 					- 
+Рів'єра				- 					- 									(noun:v_naz:name)
+"					- 					- 
+пригостити			пригостити 			verb:inf:perf 
+ХОРОШОЮ				хороший 			adj:f:v_oru:compb 
+ФІРМОВОЮ			фірмовий 			adj:f:v_oru 
+"					- 					- 
+ЛАПШОЮ				- 					- 									(noun:f:v_oru)
+"					- 					- 
+,					-	 				- 
+яку					як який 			noun:m:v_dav:anim					(pron:rel:f:v_zna)
+										noun:m:v_mis:anim
+										adj:f:v_zna:&pron:int:rel:def
+адміністратор		адміністратор 		noun:m:v_naz:anim 
+самотужки			самотужки 			adv 
+повісить			повісити 			verb:futr:s:3:perf 
+вуха				вухо 				noun:p:v_zna 
+!					-					SENT_END 
+					-					SENT_START 
+оцінка				оцінка 				noun:f:v_naz 
+2+					- 					- 									(number)
+					-					SENT_START 
+з					з 					prep:rv_rod
+найкращих			хороший 			adj:p:v_rod:super
+ресторанів			ресторан 			noun:p:v_rod
+міста				місто 				noun:n:v_rod
+!					- 					SENT_END 
+					-					SENT_START 
+Атмосфера			атмосфера 			noun:f:v_naz 
+приємна				приємний 			adj:f:v_naz:compb 
+,					-	 				- 
+кухня				кухня 				noun:f:v_naz 
+смачна				смачний 			adj:f:v_naz:compb 
+,					- 					- 
+музика				музика 				noun:f:v_naz
+...					- 					- 
+.					- 					- 
+ну					ну 					part 
+Голівуді			- 					- 
+)					- 					- 
+хлопчики			хлопчик 			noun:p:v_naz:anim 
+,					- 					- 
+би					би 					part 
+"					- 					- 
+на					на 					prep:rv_zna 
+велику				великий 			adj:f:v_zna:compb 
+сцену				сцена 				noun:f:v_zna 
+"					- 					- 
+...					- 					- 
+назва				назва 				noun:f:v_naz 
+гурту				гурт 				noun:m:v_rod 
+VIP					- 					- 
+відповідає			відповідати 		verb:pres:s:3:imperf 
+статусу				статус 				noun:m:v_dav
+					-					SENT_START 
+святкували			святкувати 			verb:past:p:imperf 
+рочок				рочок 				noun:m:v_zna 
+ому					ом 					noun:m:v_dav						(bad)
+										noun:m:v_mis 
+синочкові			синочок 			noun:m:v_dav:anim 
+!					- 					SENT_END 
+					-					SENT_START 
+готувалася			готуватися 			verb:rev:past:f:imperf 
+свята				святий свято 		noun:n:v_rod
+,					- 					- 
+обирала				обирати 			verb:past:f:imperf 
+ресторан			ресторан 			noun:m:v_zna 
+,					- 					- 
+пошкодувала			пошкодувати 		verb:past:f:perf 
+!					- 					SENT_END 
+					-					SENT_START 
+прийшли				прийти 				verb:past:p:perf 
+,					- 					- 
+дізнаватися			дізнаватися 		verb:rev:inf:imperf 
+,					- 					- 
+мали				мати				verb:past:p:imperf 
+розмову				розмова				noun:f:v_zna 
+мужчиною			мужчина 			noun:f:v_oru:bad:anim 
+,					- 					- 
+запевнив			запевнити 			verb:past:m:perf 
+,					- 					- 
+буде				бути 				verb:futr:s:3:imperf 
+,					-	 				- 
+розповів			розповісти 			verb:past:m:perf 
+меню				меню 				noun:n:v_zna:nv
+,					- 					- 
+музику				музика 				noun:f:v_zna
+,					- 					- 
+ми					ми 					pron:pers:p:1:v_naz:anim
+залишили			залишити 			verb:past:p:perf 
+завдаток			завдаток 			noun:m:v_zna 
+.					-					SENT_END 
+					-					SENT_START 
+2					2 					number 
+тижні				тиждень				noun:p:v_zna 
+прийшли				прийти 				verb:past:p:perf 
+скласти				скласти 			verb:inf:perf 
+меню				меню 				noun:n:v_zna:nv 
+,					- 					- 
+мали				мати 				verb:past:p:imperf 
+розмову				розмова 			noun:f:v_zna 
+другим				другий 				adj:m:v_oru 
+мужчиною			мужчина 			noun:f:v_oru:bad:anim 
+,					- 					- 
+взагалі				взагалі 			adv:v-u 
+співав				співати 			verb:past:m:imperf 
+пташка				пташка 				noun:f:v_naz:anim 
+до					до 					prep:rv_rod 
+,					- 					- 
+мала				мати 				verb:past:f:imperf 
+хання				- 					- 									(прохання noun:n:v_zna)
+,					- 					- 
+банально			банально 			adv:compb 
+прикрасити			прикрасити 			verb:inf:perf 
+зал					ал зала 			noun:m:v_zna
+,					- 					- 
+дитячими			дитячий	 			adj:p:v_oru 
+дрібничками			дрібничка 			noun:p:v_oru 
+,					-					- 
+відповіли			відповісти 			verb:past:p:perf 
+...					- 					SENT_END 
+					-					SENT_START 
+тиждень				тиждень 			noun:m:v_naz
+прийшли				прийти 				verb:past:p:perf 
+,					- 					- 
+уточнити			уточнити 			verb:inf:perf 
+точну				точний 				adj:f:v_zna:compb 
+кількість			кількість 			noun:f:v_zna 
+людей				люди 				noun:p:v_rod:anim
+,					- 					- 
+мали				мати 				verb:past:p:imperf 
+мову				мова 				noun:f:v_zna 
+третьою				третій 				adj:f:v_oru 
+особою				особа 				noun:f:v_oru:anim 
+,					- 					- 
+була				бути 				verb:past:f:imperf 
+жінка				жінка 				noun:f:v_naz:anim 
+-					-	 				-				 
+директор			директор 			noun:m:v_naz:anim 
+.					- 					SENT_END 
+					-					SENT_START 
+Дуже				дуже 				adv
+гарно				гарно 				adv:compb 
+спілкувалася		спілкуватися 		verb:rev:past:f:imperf 
+,					- 					- 
+наголосила			наголосити 			verb:past:f:perf 
+,					- 					- 
+стіл				стіл 				noun:m:v_naz
+був					бути 				verb:past:m:imperf 
+тележному			- 					- 	
+кінці				кінець 				noun:m:v_mis 
+залу				зал		 			noun:m:v_rod
+музикантів			музикант 			noun:p:v_rod:anim
+,					- 					- 
+м					м 					noun:m:v_dav:nv:abbr 				(маленькі adj:p:v_naz:compb)
+нькі				- 					- 
+діти				діти 				noun:p:v_naz:anim
+...					- 					SENT_END 
+					-					SENT_START 
+Отприйшов			- 					- 									(от part)
+																			(прийщов verb:past:m:perf)
+день				день 				noun:m:v_naz 
+,					- 					- 
+святкування			святкування 		noun:n:v_naz 
+,					- 					- 
+приїхала			приїхати 			verb:past:f:perf 
+прикрасити			прикрасити 			verb:inf:perf 
+зал					зал зала			noun:m:v_zna 
+,					- 					- 
+тикали				тикати 				verb:past:p:imperf 
+,					- 					- 
+,					- 					- 
+...					- 					- 
+питання-			-  					-
+!					-					SENT_END 
+					-					SENT_START 
+розмову				розмова 			noun:f:v_zna 
+адміністратором		адміністратор 		noun:m:v_oru:anim 
+,					- 					- 
+встрявала			встрявати 			verb:past:f:imperf:v-u 
+прибиральниця		прибиральниця 		noun:f:v_naz:anim 
+,					- 					- 
+горем				горе 				noun:n:v_oru 
+полам				пола 				noun:p:v_dav 						(пополам adv:bad)
+,					- 					- 
+прикрасила			прикрасити 			verb:past:f:perf 
+зал					зал зала 			noun:m:v_zna 
+- 					-					-
+половину			половина 			noun:f:v_zna 
+прикрас				прикраса 			noun:p:v_rod 
+,					- 					- 
+куплених			куплений 			adjp:pasv:past:p:v_rod
+гроші				гроші				noun:p:v_zna
+,					- 					- 
+забрала				забрати 			verb:past:f:perf 
+додому				додому 				adv 
+!					-	 				- 
+=					- 					- 
+(					- 					- 
+Прийшли				прийти 				verb:past:p:perf 
+18					18 					number 
+год					- 					- 
+.					- 					SENT_END 
+					-					SENT_START 
+був					бути				verb:past:m:imperf 
+забитий				забитий 			adjp:pasv:past:m:v_naz
+зал					зал зала 			noun:m:v_naz
+,					- 					-	 
+ше					- 					- 									(ще part)
+,					- 					- 
+годину				година 				noun:f:v_zna 
+сь					- 					- 
+гості				гість 				noun:p:v_naz:anim 
+- 
+дозволяли			дозволяти 			verb:past:p:imperf 
+співати				співати 			verb:inf:imperf 
+сь					- 					- 
+народні				народний 			adj:p:v_zna 
+пісні				пісний пісня 		adj:p:v_zna
+,					- 					- 
+залі				зал		 			noun:m:v_mis 
+,					- 						- 
+адміністратору		адміністратор 		noun:m:v_dav:anim
+,					- 					- 
+би					би 					part 
+!					-					SENT_END 
+					-					SENT_START 
+кульмінація			кульмінація 		noun:f:v_naz 
+вечора				вечір 				noun:m:v_rod 
+,					- 					- 
+виходять			виходити 			verb:pres:p:3:imperf 
+музиканти			музикант 			noun:p:v_naz:anim 
+,					- 					- 
+де					де 					adv
+думаєте				думати 				verb:pres:p:2:imperf 
+стають				ставати 			verb:pres:p:3:imperf 
+грати				грати 				verb:inf:imperf 
+,					- 					- 
+б					б 					part 
