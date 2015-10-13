@@ -2,7 +2,7 @@
 SENT_START 
 Token			Lemma				Part-of-speech									Chunk
 
-Всім			весь 				adj:p:v_dav:&pron:dem 
+Всім			весь 				pron:dem:p:v_dav
 
 привіт			привіт 				noun:m:v_zna 				
 !				- 						- 
@@ -15,7 +15,7 @@ Token			Lemma				Part-of-speech									Chunk
 
 у				у 					prep:rv_zna:rv_mis:rv_rod:v-u 			(prep:rv_mis:v-u)
 
-вашому			ваш 				adj:m:v_mis:&pron:pos 
+вашому			ваш 				adj:m:v_mis:pos 
 
 аквапарку		аквапарк 			noun:m:v_mis 
 											 
@@ -63,7 +63,7 @@ Token			Lemma				Part-of-speech									Chunk
 							 
 зі				зі 					prep:rv_rod:rv_zna:rv_oru 				(prep:rv_oru)
 
-своєю			свій 				adj:f:v_oru:&pron:pos 
+своєю			свій 				adj:f:v_oru:pos 
 
 сімєю			- 					- 										сім'єю (noun:f:v_oru)
 
@@ -95,7 +95,7 @@ Token			Lemma				Part-of-speech									Chunk
 									
 майже			майже 				adv 
 
-завжди			завжди 				adv:&pron:gen 
+завжди			завжди 				adv:gen 
 
 картинка		картинка 			noun:f:v_naz 
 
@@ -113,7 +113,7 @@ Token			Lemma				Part-of-speech									Chunk
 									
 в				в 					prep:rv_zna:rv_mis:rv_rod:v-u 
 
-цьому			цей 				adj:m:v_mis:&pron:dem 
+цьому			цей 				adj:m:v_mis:dem 
 									
 аквапарку		аквапарк 			noun:m:v_mis 
 									
@@ -123,7 +123,7 @@ Token			Lemma				Part-of-speech									Chunk
 
 було			бути 				verb:past:n:imperf 
 
-так				так 				adv:&pron:dem 
+так				так 				adv:dem 
 									
 як				як 					conj:subord 
 									 
@@ -131,11 +131,11 @@ Token			Lemma				Part-of-speech									Chunk
 
 картинці		картинка 			noun:f:v_mis 
 
-мені			я 					noun:s:v_dav:anim:&pron:pers:1 
+мені			я 					pron:pers:1:s:v_dav:anim
 									 
 сподобалося		сподобатися 		verb:rev:past:n:perf 
 
-я				я 					noun:s:v_naz:anim:&pron:pers:1 		
+я				я 					pron:pers:1:s:v_naz:anim	
 			
 була			бути 				verb:past:f:imperf
 
@@ -217,11 +217,11 @@ Token			Lemma				Part-of-speech									Chunk
 теж			теж 					adv 								
 									
 									
-там			там 					adv:&pron:dem 
+там			там 					adv:dem 
 									
 плавала		плавати 				verb:past:f:imperf 
 
-її			її 						adj:f:v_dav:nv:&pron:pos 			їй (pron:pers:3)
+її			її 						adj:f:v_dav:nv:&pron:pos 			їй (pron:pers:f:v_dav)
 									adj:f:v_mis:nv:&pron:pos 
 									adj:f:v_naz:nv:&pron:pos 
 									adj:f:v_oru:nv:&pron:pos 
@@ -230,15 +230,15 @@ Token			Lemma				Part-of-speech									Chunk
 	
 11			11 						number 
 
-нічого		ніщо 					noun:v_rod:inanim:&pron:neg 
+нічого		ніщо 					pron:negv_rod:inanim
 									
 поганого	поганий 				adj:n:v_rod:compb 
 
 в			в 						prep:rv_zna:rv_mis:rv_rod:v-u 		(prep:rv_mis)
 
-цьому		цей 					adj:n:v_mis:&pron:dem 
+цьому		цей 					pron:dem:n:v_mis
 									
-я			я 						noun:s:v_naz:anim:&pron:pers:1 		
+я			я 						pron:pers:1:s:v_naz:anim	
 
 не			не 						part 
 
@@ -264,15 +264,15 @@ Token			Lemma				Part-of-speech									Chunk
 горки		- 						- 								гірки (noun:p:v_zna)
 сподобалися	сподобатися 			verb:rev:past:p:perf 
 
-моя			мій 					adj:f:v_naz:&pron:pos 
+моя			мій 					adj:f:v_naz:pos 
 
 донька		донька 					noun:f:v_naz:anim 
 
 каталася	кататися 				verb:rev:past:f:imperf 
 
-на			на 						prep:rv_zna:rv_mis 
+на			на 						prep:rv_zna:rv_mis 					(prep:rv_mis)
 
-всіх		весь 					adj:p:v_mis:&pron:dem 
+всіх		весь 					adj:p:v_mis:dem 
 									
 горках		- 						- 							гірках(noun:p:v_mis)
 
@@ -300,7 +300,7 @@ Token			Lemma				Part-of-speech									Chunk
 
 зауважень	зауваження 				noun:p:v_rod 
 
-ніяких		ніякий 					adj:p:v_rod:&pron:neg 
+ніяких		ніякий 					adj:p:v_rod:neg 
 									
 особливих	особливий 				 adj:p:v_rod 
 									
@@ -322,7 +322,7 @@ Token			Lemma				Part-of-speech									Chunk
 
 гірках		гірка 					noun:p:v_mis 
 
-це			цей						adj:n:v_naz:&pron:dem 			
+це			цей						pron:demn:v_naz		
 																		
 теж			теж 					adv 
 								
@@ -339,7 +339,7 @@ Token			Lemma				Part-of-speech									Chunk
 									conj:coord:v-u 
 									part:v-u 
 		
-так			так 					adv:&pron:dem 
+так			так 					adv:dem 
 									
 солодко		солодко 				adv:compb
 
@@ -349,7 +349,7 @@ Token			Lemma				Part-of-speech									Chunk
 
 сподобалося	сподобатися				verb:rev:past:n:perf  
 
-те			той 					adj:n:v_naz:&pron:dem 				
+те			той 					pron:dem:n:v_naz				
 																	
 що			що 						conj:subord 						
 								
@@ -384,7 +384,7 @@ Token			Lemma				Part-of-speech									Chunk
 будь		бути 														(insert)							
 ласка		ласка 														(insert)
 
-чому		чому 					adv:&pron:int:rel 
+чому		чому 					pron:int:rel 
 			
 я			я 						noun:s:v_naz:anim:&pron:pers:1  
 
@@ -431,11 +431,11 @@ Token			Lemma				Part-of-speech									Chunk
 
 за			за 						prep:rv_rod:rv_zna:rv_oru 					(prep:rv_zna)
 
-те			той 					adj:n:v_zna:&pron:dem 
+те			той 					pron:dem:n:v_zna
 									
 що			що 						conj:subord 
 
-ти			ти						noun:s:v_naz:anim:&pron:pers:2
+ти			ти						pron:pers:2:s:v_naz:anim
 
 прийшов		прийти 					verb:past:m:perf 
 
@@ -448,7 +448,7 @@ Token			Lemma				Part-of-speech									Chunk
 									
 якщо		якщо 					conj:subord 
 
-я			я 						noun:s:v_naz:anim:&pron:pers:1
+я			я 						pron:pers:1:s:v_naz:anim
 
 лише		лише 					part
 
@@ -456,7 +456,7 @@ Token			Lemma				Part-of-speech									Chunk
 
 як			як 						part 
 									
-я			я 						noun:s:v_naz:anim:&pron:pers:1 			
+я			я 						pron:pers:1:s:v_naz:anim 			
 
 можу		могти 					verb:unknown 							(verb:pres:imperf)
 
@@ -498,7 +498,7 @@ Token			Lemma				Part-of-speech									Chunk
 
 що			що 						conj:subord 
 									
-ви			ви 						noun:p:v_naz:anim:&pron:pers:2 
+ви			ви 						pron:pers:2:p:v_naz:anim
 
 виправитеся	виправитися 			verb:rev:futr:p:2:perf
 !			- 						- 
@@ -517,9 +517,9 @@ Token			Lemma				Part-of-speech									Chunk
 
 			- 						SENT_START
 			
-Всі			весь      				adj:p:v_naz:&pron:dem 												
+Всі			весь      				pron:dem:p:v_naz											
 									
-хто			хто 					noun:m:v_naz:anim:&pron:int:rel
+хто			хто 					pron:int:rel:m:v_naz:anim
 
 негативно	негативно 				adv:compb 
 
@@ -533,7 +533,7 @@ Token			Lemma				Part-of-speech									Chunk
 
 ЙДІТЬ		йти 					verb:impr:p:2:imperf
 
-ТУДИ		туди 					adv:&pron:dem 
+ТУДИ		туди 					pron:dem 
 
 БІЛЬШЕ		багато 					adv:compr  
 			
@@ -566,7 +566,7 @@ Token			Lemma				Part-of-speech									Chunk
 
 що			що 						conj:subord 
 									
-я			я 						noun:s:v_naz:anim:&pron:pers:1 			
+я			я 						pron:pers:1:s:v_naz:anim			
 
 куштував	куштувати 				verb:past:m:imperf 
 ,			- 						- 
@@ -584,13 +584,13 @@ Token			Lemma				Part-of-speech									Chunk
 що			що 						conj:subord 
 
 									
-я			я 						noun:s:v_naz:anim:&pron:pers:1			
+я			я 						pron:pers:1:s:v_naz:anim		
 
 встиг		встигнути 				verb:past:m:perf:v-u 
 			
 спробувати	спробувати 				verb:inf:perf
 
-тут			тут 					adv:&pron:dem
+тут			тут 					adv
  
 ,			- 						- 
 абсолютно	абсолютно 				adv 
@@ -633,7 +633,7 @@ Token			Lemma				Part-of-speech									Chunk
 Порада-якщо	- 						- 								порада (noun:f:v_naz) 
 																	якщо (conj:subord)
 																	
-ви			ви 						noun:p:v_naz:anim:&pron:pers:2
+ви			ви 						pron:pers:2:p:v_naz:anim
 
 з			з 						prep:rv_rod:rv_zna:rv_oru 		prep:(rv_oru)
 
@@ -670,7 +670,7 @@ Token			Lemma				Part-of-speech									Chunk
 коментах	- 						- 								коментарях (noun:p:v_mis)
 :			- 						- 
 )			- 						-
-Всім		весь 					adj:p:v_dav:&pron:dem
+Всім		весь 					pron:dem:p:v_dav
 
 добра		добро 					noun:n:v_zna
 !			- 						-
@@ -679,7 +679,7 @@ Token			Lemma				Part-of-speech									Chunk
 									PARA_END 
 			- 						SENT_START 
 			
-Всім		весь 					adj:p:v_dav:&pron:dem 
+Всім		весь 					pron:dem:p:v_dav
 
 привіт		привіт 					noun:m:v_zna
 									
@@ -699,7 +699,7 @@ Token			Lemma				Part-of-speech									Chunk
 
 з			з 						prep:rv_rod:rv_zna:rv_oru 				(prep:rv_oru)
 
-вами		ви 						noun:p:v_oru:anim:&pron:pers:2
+вами		ви 						pron:pers:2:p:v_oru
 
 враженнями	враження 				noun:p:v_oru
 
@@ -713,11 +713,11 @@ Token			Lemma				Part-of-speech									Chunk
 ,			- 						-
 переймалася	перейматися 			verb:rev:past:f:imperf 
 
-тим			той 					adj:m:v_oru:&pron:dem 				
+тим			той 					pron:dem:m:v_oru				
 									
 як			як 						conj:subord 
 									 
-я			я 						noun:s:v_naz:anim:&pron:pers:1			
+я			я 						pron:pers:1:s:v_naz:anim			
 
 маю			мати 					verb:pres:s:1:imperf 
 			
@@ -734,7 +734,7 @@ Token			Lemma				Part-of-speech									Chunk
 ,			- 						-
 а			а 						conj:coord 
 									
-це			цей 					adj:n:v_naz:&pron:dem 											
+це			цей 					pron:dem:n:v_naz											
 									
 була		бути 					verb:past:f:imperf 
 
@@ -747,21 +747,21 @@ Token			Lemma				Part-of-speech									Chunk
 
 на			на 						prep:rv_zna:rv_mis 					(prep:rv_zna)
 
-цей			цей 					adj:m:v_zna:&pron:dem
+цей			цей 					adj:m:v_zna:dem
 									
 крок		крок 					noun:m:v_zna 
 							
 .			- 						SENT_END 
 			- 						SENT_START
 			
-Мене		я 						noun:s:v_rod:anim:&pron:pers:1		
+Мене		я 						pron:pers:1:s:v_rod:anim	
 									
 зустріла	зустріти 				verb:past:f:perf 
 
 дівчина		дівчина 				noun:f:v_naz:anim 
 
 ,			- 						-
-яка			який 					adj:f:v_naz:&pron:int:rel:def 		
+яка			який 					pron:int:rel:def:f:v_naz 		
 
 розповіла	розповісти 				verb:past:f:perf 
 
@@ -799,9 +799,9 @@ Token			Lemma				Part-of-speech									Chunk
 «			- 						-
 ужасного	- 						-							жахливого	(adj:m:v_zna:compb)
 »			- 						- 
-я			я 						noun:s:v_naz:anim:&pron:pers:1 			
+я			я 						pron:pers:1:s:v_naz:anim 			
 
-там			там 					adv:&pron:dem 
+там			там 					adv 
 		
 не			не 						part
 
@@ -843,7 +843,7 @@ Token			Lemma				Part-of-speech									Chunk
 
 діток		дітки 					noun:p:v_rod:anim 									
 ,			- 						-
-які			який 					adj:p:v_naz:&pron:int:rel:def
+які			який 					pron:int:rel:def:p:v_naz
 							
 часто		часто 					adv:compb
 
@@ -851,9 +851,9 @@ Token			Lemma				Part-of-speech									Chunk
 
 у			у 						prep:rv_zna:rv_mis:rv_rod:v-u			(prep:rv_mis)
 
-всіх		весь 					adj:p:v_mis:&pron:dem 
+всіх		весь 					adj:p:v_mis:dem 
 									
-інших		інший 					adj:p:v_mis:&pron:def 
+інших		інший 					adj:p:v_mis:def 
 									
 клубах		клуб 					noun:p:v_mis 
 
@@ -907,15 +907,15 @@ Token			Lemma				Part-of-speech									Chunk
 ,			- 						- 
 викликала	викликати 				verb:past:f:perf
 
-мені		я 						noun:s:v_dav:anim:&pron:pers:1											
+мені		я 						pron:pers:1:s:v_dav:anim											
 									
 таксі		таксі 					noun:n:v_zna:nv 
 ,			- 						-
 за			за 						prep:rv_rod:rv_zna:rv_oru 			(prep:rv_zna)
 
-це			цей 					adj:n:v_zna:&pron:dem 
+це			цей 					pron:dem:n:v_zna
 									
-їй			вона 					noun:f:v_dav:&pron:pers:3 
+їй			вона 					pron:pers:3:f:v_dav 
 
 велике		великий 				adj:n:v_naz:compb 
 									
@@ -924,7 +924,7 @@ Token			Lemma				Part-of-speech									Chunk
 .			- 						SENT_END 
 			- 						SENT_START
 			
-Всім		весь 					adj:p:v_dav:&pron:dem
+Всім		весь 					pron:dem:p:v_dav
 
 раджу		радити 					verb:pres:s:1:imperf
 
@@ -932,7 +932,7 @@ Token			Lemma				Part-of-speech									Chunk
 
 відвідати	відвідати 				verb:inf:perf 
 
-цей			цей 					adj:m:v_zna:&pron:dem
+цей			цей 					adj:m:v_zna:dem
 									
 заклад		заклад 					noun:m:v_zna 
 									
@@ -941,7 +941,7 @@ Token			Lemma				Part-of-speech									Chunk
 			
 Краще		хороший 				adj:n:v_naz:compr 
 									
-туди		туди 					adv:&pron:dem 
+туди		туди 					pron:dem 
 
 не			не 						part 
 
@@ -964,17 +964,17 @@ Token			Lemma				Part-of-speech									Chunk
 
 займаються	займатися 				verb:rev:pres:p:3:imperf
 
-своїми		свій 					adj:p:v_oru:&pron:pos
+своїми		свій 					adj:p:v_oru:pos
 
 справами	справа 					noun:p:v_oru
 :			- 						-
-хто			хто 					noun:m:v_naz:anim:&pron:int:rel
+хто			хто 					pron:int:rel:m:v_naz:anim
 
 книжку		книжка 					noun:f:v_zna 
 
 читає		читати 					verb:pres:s:3:imperf 
 ,			- 						-
-хто			хто 					noun:m:v_naz:anim:&pron:int:rel
+хто			хто 					pron:int:rel:m:v_naz:anim
 
 теревені	теревені 				noun:p:v_zna
 								
@@ -986,7 +986,7 @@ Token			Lemma				Part-of-speech									Chunk
 																
 й			й 						conj:coord 
 									
-такі		такий 					adj:p:v_naz:&pron:def 
+такі		такий 					adj:p:v_naz:def 
 									
 що			що 						conj:subord 
 									
@@ -1000,11 +1000,11 @@ Token			Lemma				Part-of-speech									Chunk
 
 і			і 						conj:coord 
 									
-це			цей 					adj:n:v_naz:&pron:dem 
+це			цей 					pron:dem:n:v_naz
 									
 у			у 						prep:rv_zna:rv_mis:rv_rod:v-u 		(prep:rv_rod)
 
-всіх		весь 					adj:p:v_rod:&pron:dem 
+всіх		весь 					pron:dem:p:v_rod 
 								
 на			на 						prep:rv_zna:rv_mis					(prep:rv_mis)
 
@@ -1035,7 +1035,7 @@ Token			Lemma				Part-of-speech									Chunk
 
 як			як 						conj:subord 
 									
-їм			вони 					noun:p:v_dav:&pron:pers:3
+їм			вони 					pron:pers:3:p:v_dav
 
 захочеться	захотітися 				verb:rev:futr:s:3:perf 
 
@@ -1121,7 +1121,7 @@ Token			Lemma				Part-of-speech									Chunk
 ,			- 						-
 а			а 						conj:coord 
 									
-якісь		якийсь 					adj:p:v_naz:&pron:ind 
+якісь		якийсь 					adj:p:v_naz:&pron:ind 					якість (noun:s:v_naz)
 									
 знижується	знижуватися 			verb:rev:pres:s:3:imperf
 
@@ -1136,9 +1136,9 @@ Token			Lemma				Part-of-speech									Chunk
 									
 час			час 					noun:m:v_naz 
 									
-який		який 					adj:m:v_naz:&pron:int:rel:def 
+який		який 					adj:m:v_naz:int:rel:def 
 									
-Ви			ви 						noun:p:v_kly:anim:&pron:pers:2 
+Ви			ви 						pron:pers:2:p:v_kly:anim 
 								
 провели		провести 				verb:past:p:perf
 
@@ -1154,7 +1154,7 @@ Token			Lemma				Part-of-speech									Chunk
 
 часом		час 					noun:m:v_oru
 ,			- 						-
-який		який 					adj:m:v_naz:&pron:int:rel:def 
+який		який 					adj:m:v_naz:int:rel:def 
 									
 рахують		рахувати 				verb:pres:p:3:imperf 
 
@@ -1168,7 +1168,7 @@ Token			Lemma				Part-of-speech									Chunk
 
 обурює		обурювати 				verb:pres:s:3:imperf
 
-таке		такий 					adj:n:v_naz:&pron:def 
+таке		такий 					adj:n:v_naz:def 
 									
 відношення	відношення 				noun:n:v_naz 
 									
@@ -1189,7 +1189,7 @@ Token			Lemma				Part-of-speech									Chunk
 
 виразити	виразити 				verb:inf:perf
 
-так			так 					adv:&pron:dem 								
+так			так 					adv:dem 								
 :			- 						-
 або			або 					conj:coord 
 
@@ -1203,7 +1203,7 @@ Token			Lemma				Part-of-speech									Chunk
 
 на			на 						prep:rv_zna:rv_mis						(prep:rv_zna)
 
-декілька	декілька 				numr:p:v_zna:&pron:ind
+декілька	декілька 				numr:p:v_zna:ind
 								
 гривень		гривня 					noun:p:v_zna
 
@@ -1230,7 +1230,7 @@ Token			Lemma				Part-of-speech									Chunk
 лохом-справа - 	                    -								лохом (noun:m:v_oru:anim)
 																	справа (noun:f:v_naz) 
 																	
-Ваша		ваш 					adj:f:v_zna:&pron:pos
+Ваша		ваш 					pron:pos:f:v_zna
 
 !			- 						SENT_END
 			- 						SENT_START
@@ -1267,7 +1267,7 @@ Token			Lemma				Part-of-speech									Chunk
 									
 дякувати	дякувати 				verb:inf:imperf
 ,			- 						-
-наше		наш 					adj:n:v_naz:&pron:pos 
+наше		наш 					pron:pos:n:v_naz
 								
 перебування	перебування 			noun:n:v_naz 
 									
@@ -1296,7 +1296,7 @@ Token			Lemma				Part-of-speech									Chunk
 
 дописувачами	дописувач 			noun:p:v_oru:anim
 ,			- 						-
-там			там 					adv:&pron:dem 
+там			там 					pron:dem 
 									
 дійсно		дійсно 					adv
 
@@ -1306,7 +1306,7 @@ Token			Lemma				Part-of-speech									Chunk
 
 і			і 						conj:coord 
 									
-багато		багато 					numr:p:v_naz:&pron:ind 
+багато		багато 					numr:p:v_naz:ind 
 									
 								
 									
@@ -1325,7 +1325,7 @@ Token			Lemma				Part-of-speech									Chunk
 												
 не		   	не 						part
 
-такі		такий 					adj:p:v_naz:&pron:def 
+такі		такий 					adj:p:v_naz:def 
 									
 уважні		уважний 				adj:p:v_naz:compb 
 									
@@ -1343,7 +1343,7 @@ Token			Lemma				Part-of-speech									Chunk
 
 увагу		увага 					noun:f:v_zna
 
-я			я 						noun:s:v_naz:anim:&pron:pers:1
+я			я 						pron:pers:1:s:v_naz:anim
 
 б			б 						part 
 
@@ -1362,11 +1362,11 @@ Token			Lemma				Part-of-speech									Chunk
 									
 батьки		батько 					noun:p:v_naz:anim
 
-кожної		кожний 					adj:f:v_rod:&pron:def
+кожної		кожний 					adj:f:v_rod:def
 
 дитини		дитина 					noun:f:v_rod:anim
 
-туди		туди 					adv:&pron:dem 
+туди		туди 					pron:dem 
 
 не			не 						part
 
@@ -1375,11 +1375,11 @@ Token			Lemma				Part-of-speech									Chunk
 а			а 						conj:coord 
 									
 нагядати	- 						-										наглядати (verb:inf:imperf)
-всім		весь 					adj:p:v_dav:&pron:dem
+всім		весь 					pron:dem:p:v_dav
 
 збоку		збоку 					adv
 
-якось		якось 					adv:&pron:ind
+якось		якось 					adv
 
 не			не 						part
 
@@ -1392,7 +1392,7 @@ Token			Lemma				Part-of-speech									Chunk
 									conj:coord:v-u 
 									part:v-u
 			
-інше		інший 					adj:n:v_naz:&pron:def 
+інше		інший 					adj:n:v_naz:def 
 									
 сподобалось	сподобатися 			verb:rev:past:n:perf 
 ,			- 						- 
@@ -1438,14 +1438,14 @@ Token			Lemma				Part-of-speech									Chunk
 20			20 						number
 фоток		- 						- 								фотографій (noun:p:v_zna) 
 
-я			я 						noun:s:v_naz:anim:&pron:pers:1
+я			я 						pron:pers:1:s:v_naz:anim
 
 заплатила	заплатити 				verb:past:f:perf 
 
 50грн		- 						-									50 (number)
 																		грн	(abbr)
 ,			- 						-
-задоволена	задоволений 			adj:f:v_naz:compb:&adjp:pasv:past
+задоволена	задоволений 			adjp:pasv:past:f:v_naz:compb
 
 якістю		якість 					noun:f:v_oru 
 
@@ -1498,7 +1498,7 @@ Token			Lemma				Part-of-speech									Chunk
 									
 в			в 						prep:rv_zna:rv_mis:rv_rod:v-u 			(prep:rv_rod:v-u)
 
-мене		я 						noun:s:v_rod:anim:&pron:pers:1
+мене		я 						pron:pers:1:s:v_rod:anim
 									
 поцупили	поцупити 				verb:past:p:perf 
 
@@ -1555,7 +1555,7 @@ Token			Lemma				Part-of-speech									Chunk
 
 камер		камера 					noun:p:v_rod
 
-це			цей 					adj:n:v_naz:&pron:dem 
+це			цей 					pron:dem:n:v_naz
 									
 зробити		зробити 				verb:inf:perf 
 
@@ -1579,9 +1579,9 @@ Token			Lemma				Part-of-speech									Chunk
 				
 певно		певно 					adv:compb							(insert)
 
-це			цей 					adj:n:v_naz:&pron:dem 
+це			цей 					pron:dem:n:v_naz
 									
-нікому		ніхто 					noun:v_dav:anim:&pron:neg
+нікому		ніхто 					pron:neg:v_dav:anim
 
 не			не 						part
 
@@ -1616,11 +1616,11 @@ Token			Lemma				Part-of-speech									Chunk
 									
 з			з 						prep:rv_rod:rv_zna:rv_oru
 
-чим			що 						noun:n:v_oru:inanim:&pron:int:rel			
+чим			що 						noun:n:v_oru:inanim:int:rel			
 
 i			і 						conj:coord
 								
-який		який 					adj:m:v_naz:&pron:int:rel:def 
+який		який 					pron:int:rel:def:m:v_naz
 									
 саме		саме 					part
 			
@@ -1631,11 +1631,11 @@ i			і 						conj:coord
 ?			- 						SENT_END
 			- 						SENT_START
 			
-Я			я 						noun:s:v_naz:anim:&pron:pers:1
+Я			я 						pron:pers:1:s:v_naz:anim
 
 фотографую	фотографувати 			verb:pres:s:1:imperf 
 
-свою		свій 					adj:f:v_zna:&pron:pos 
+свою		свій 					adj:f:v_zna:pos 
 
 родину		родина 					noun:f:v_zna 
 ,			- 						-
@@ -1652,7 +1652,7 @@ i			і 						conj:coord
 			
 Персонал	персонал 				noun:m:v_naz 
 									
-мені		я 						noun:s:v_dav:anim:&pron:pers:1
+мені		я 						pron:pers:1:s:v_dav:anim
 									
 чемно		чемно 					adv:compb
 
@@ -1666,7 +1666,7 @@ i			і 						conj:coord
 									
 фотографа	фотограф 				noun:m:v_rod:anim 								
 ,			- 						-
-який		який 					adj:m:v_naz:&pron:int:rel:def 
+який		який 					pron:int:rel:def:m:v_naz
 									
 користується	користуватися 		verb:rev:pres:s:3:imperf
 
@@ -1695,7 +1695,7 @@ S	 		-						-
 :	 		-						-
 може		могти 					verb:unknown			можливо	(insert)
 
-цей			цей 					adj:m:v_naz:&pron:dem
+цей			цей 					adj:m:v_naz:dem
 									
 заклад		заклад 					noun:m:v_naz 
 									
@@ -1730,7 +1730,7 @@ S	 		-						-
 	
 розчарований	розчарований 		adjp:pasv:past:m:v_naz
 									
-таким		такий 					adj:n:v_oru:&pron:def 
+таким		такий 					adj:n:v_oru:def 
 							
 відношенням	відношення 				noun:n:v_oru 
 								

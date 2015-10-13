@@ -25,8 +25,8 @@
 «	              - 	     - 	
 Ресторан	   ресторан 	noun:m:v_naz 	                  (noun:m:s:v_naz)
 —	              - 	     - 	
-це	            цей 	adj:n:v_naz:&pron:dem             
-                                adj:n:v_zna:&pron:dem 	
+це	            цей 		pron:dem:n:v_naz             
+                                
 заклад	           заклад 	noun:m:v_naz                      (noun:m:s:v_naz) 	
 (	              - 	     - 	
 підприємство	 підприємство 	noun:n:v_naz                      (noun:n:s:v_naz)	
@@ -83,11 +83,11 @@
 ПРАЦІВНИКІВ	працівник 	noun:p:v_rod:anim  	
 »	             - 	              - 	
 (	             -                - 	
-хостес	             - 	              - 	                  (coll)
+хостес	             - 	              - 	                  (noun:f:v_naz:)
 )	             - 	              - 	
 ,	             - 	              - 	
-які	          який 	        adj:p:v_naz:&pron:int:rel:def     (pron:p:v_naz)
-                                adj:p:v_zna:&pron:int:rel:def	    
+які	          який 	       pron:int:rel:def:p:v_naz     
+                                    
 заборонили	заборонити 	verb:past:p:perf 	
 заходити	заходити 	verb:inf:imperf  	
 до	           до 	        prep:rv_rod 	
@@ -117,9 +117,9 @@ Savage	            - 	            -
 »	            - 	            - 	
 (	            - 	            - 	
 мотивуючи	мотивувати 	advp:imperf 	
-це	           цей 	              adj:n:v_zna:&pron:dem      (pron:dem)
+це	           цей 	              pron:dem:n:v_zna      
                                  	
-тим	           той                adj:n:v_oru:&pron:dem     (pron - вказівний)                                                              	
+тим	           той                pron:dem:n:v_oru                                                                	
 ,	            - 	            - 	
 що	            що          conj:subord  	
 ОХОРОНА	          охорона 	noun:f:v_naz 	
@@ -133,7 +133,7 @@ Savage	            - 	            -
 розумію	         розуміти 	verb:pres:s:1:imperf 	
 ,	             - 	            - 	
 що	             що         conj:subord  	
-усі	            увесь 	adj:p:v_naz:&pron:dem             (pron:dem)
+усі	            увесь 		pron:dem:p:v_naz             
                                	
 охоронці	охоронець       noun:p:v_naz:anim 	
 ,	             - 	            - 	
@@ -167,7 +167,7 @@ Savage	            - 	            -
 Верхній	          верхній       adj:m:v_naz 	                  (adj:m:s:v_naz) 
 одяг	           одяг         noun:m:v_naz 	
 —	             - 	           - 	
-це	           цей 	        adj:n:v_naz:&pron:dem             
+це	           цей 	        pron:dem:n:v_naz             
                               	
 елемент	          елемент 	noun:m:v_naz	                  (noun:m:s:v_naz)
 одягу	           одяг         noun:m:v_rod 	
@@ -252,13 +252,11 @@ Savage	            - 	            -
 .	             -  	SENT_END 		 
 	             -  	SENT_START 	
 Існує	          існувати 	verb:pres:s:3:imperf 	
-кілька	         кілька         numr:p:v_naz:&pron:ind            (numr:p:v_naz)	
+кілька	         кілька         numr:p:v_naz:ind           	
 різновидів	різновид 	noun:p:v_rod 	
 плащів	           плащ 	noun:p:v_rod 	
 ,	              - 	- 	
-так	           так          adv:&pron:dem                     (adv)
-                                conj:coord:subord 
-                                part 	
+так	           так          part 	
 наприклад	наприклад 	insert 	
 —	              - 	- 	
 плащ	           плащ 	noun:m:v_naz                      (noun:m:s:v_naz)	
@@ -273,7 +271,7 @@ Savage	            - 	            -
 ,	              - 	- 	
 плащ	           плащ 	noun:m:v_naz                      (noun:m:s:v_naz)	
 —	             - 	         - 	
-це	            цей 	adj:n:v_naz:&pron:dem            
+це	            цей 		pron:dem:n:v_naz            
                              	
 широкий    	широкий 	adj:m:v_naz:compb 	
 розпашний	   - 	         - 	                          (coll)
@@ -283,15 +281,13 @@ Savage	            - 	            -
 .	          - 	        SENT_END 	
 	          - 	        SENT_START 	
 В	           в 	        prep:rv_zna:rv_mis:rv_rod:v-u 	  (prep:rv_mis:v-u)
-такому	         такий          adj:m:v_dav:&pron:def             (pron:s:3:m:v_mis)
-                                adj:m:v_mis:&pron:def 
-                                adj:n:v_dav:&pron:def 
-                                adj:n:v_mis:&pron:def 	
+такому	         такий    	pron:def:adj:m:v_mis
+                                	
 значенні	значення 	noun:n:v_mis                      (noun:n:s:v_mis)	
 слово	          слово 	noun:n:v_naz  	                  (noun:n:s:v_naz)
 використовується використовуватися verb:rev:pres:s:3:imperf 	
 і	           і 	        conj:coord  	
-тепер	         тепер  	adv:&pron:dem 	                  (adv)
+тепер	         тепер  	adv 	                  
 .	             - 	        SENT_END 	
 	             - 	        SENT_START 	
 Одним	           один 	numr:m:v_oru 	                  (numr:m:s:v_oru )
@@ -322,7 +318,7 @@ Savage	            - 	            -
 .	              - 	SENT_END 	
 	              - 	SENT_START 	
 І	              і 	conj:coord  	
-це	             цей 	adj:n:v_naz:&pron:dem           
+це	             цей 	pron:dem:n:v_naz          
                                	
 о                	о 	prep:rv_zna:rv_mis                (prep:rv_mis)	
 19:00             19:00 	time 	
@@ -345,8 +341,8 @@ Savage	            - 	            -
 !	              - 	SENT_END 	
                 	- 	SENT_START 	
 Ось                 ось 	  part 	
-така	          такий 	adj:f:v_naz:&pron:def             (pron:s:3:f:v_naz) 	
-моя	            мій 	adj:f:v_naz:&pron:pos 	          (pron:pos)
+така	          такий 	adj:f:v_naz:def             	
+моя	            мій 	pron:pos:f:v_naz 	        
 історія	        історія 	noun:f:v_naz 	                  (noun:f:s:v_naz)
 .	              - 	SENT_END 	
 	              - 	SENT_START 	
@@ -403,7 +399,7 @@ Savage	            - 	            -
 до	             до 	prep:rv_rod 	
 пива	          пиво          noun:n:v_rod 	
 —	            -           	- 	
-те	          той 	        adj:n:v_naz:&pron:dem                                           
+те	          той 	        pron:dem:n:v_naz                                          
 ,	             - 	          - 	
 шо	             - 	          - 							що (conj:subord )
 треба	          треба 	predic 	
@@ -411,7 +407,7 @@ Savage	            - 	            -
 	              - 	SENT_START 	
 і	              і 	conj:coord  	
 зовсім	         зовсім 	adv 	
-це	            цей 	adj:n:v_naz:&pron:dem             (це - part - вказівний) 
+це	            цей 	pron:dem:n:v_naz             
                                 adj:n:v_zna:&pron:dem 	
 НЕ	            не 	        part 	
 СТРИП	             -  	- 								стриптиз (noun:m:v_naz)
@@ -428,8 +424,8 @@ Savage	            - 	            -
 дійсно	          дійсно 	adv 	
 і	              і 	conj:coord 	
 в	              в 	prep:rv_zna:rv_mis:rv_rod:v-u 	  (prep:rv_mis:v-u)
-багатьох	   багато       numr:p:v_mis:&pron:ind            (numr:p:v_mis)	
-інших	          інший         adj:p:v_mis:&pron:def             (adj:p:v_mis)	
+багатьох	   багато       numr:p:v_mis:ind          	
+інших	          інший         adj:p:v_mis:def             	
 місцях	          місце 	noun:p:v_mis 	
 ,	              - 	- 	
 але	             але 	conj:coord 	
@@ -443,7 +439,7 @@ Savage	            - 	            -
 туалеті	          туалет 	noun:m:v_mis                      (noun:m:s:v_mis)	
 ...	             -          	- 	
 )	             - 	                - 	
-ВСЕ	            весь 	adj:n:v_naz:&pron:dem  	
+ВСЕ	            весь 	pron:dem:n:v_naz 	
 ДУЖЕ	          дуже          adv 	
 КЛАСНО	          класно 	adv 	
 ,	             - 	         - 	
@@ -478,7 +474,7 @@ Savage	            - 	            -
 Ми	             ми 	pron:pers:p:1:v_naz:anim	
 були	           бути 	verb:past:p:imperf 	
 знову	          знову 	adv 	
-тут	            тут 	adv:&pron:dem 	                  (adv)
+тут	            тут 	adv	                  
 18	             18 	number 	                          (date)                   
 липня	           липень 	noun:m:v_rod                      (noun:m:s:v_rod ) 	
 —	              - 	- 	
@@ -493,8 +489,8 @@ Savage	            - 	            -
 отримали	отримати 	verb:past:p:perf 	
 ми	             ми 	pron:pers:p:1:v_naz:anim	
 та	             та 	conj:coord  	
-наші	            наш 	adj:p:v_naz:&pron:pos             (pron:pos:v_naz)
-                                adj:p:v_zna:&pron:pos 	
+наші	            наш 	pron:pos:p:v_naz             
+                                	
 гості	           гість        noun:p:v_naz:anim 	
 !	              - 	SENT_END 	
 	              - 	SENT_START 	
@@ -519,10 +515,8 @@ Savage	            - 	            -
 Приємно	         приємно 	adv:compb 	
 що	           що           conj:subord 	
 в	            в 	        prep:rv_zna:rv_mis:rv_rod:v-u 	  (prep:rv_mis:v-u)
-такому	          такий         adj:m:v_dav:&pron:def             (pron:s:m:3:v_mis)
-                                adj:m:v_mis:&pron:def 
-                                adj:n:v_dav:&pron:def 
-                                adj:n:v_mis:&pron:def 	
+такому	          такий         adj:m:v_mis:&pron:def                                
+                                	
 масштабному	масштабний      adj:m:v_mis:compb                 (adj:m:v_mis)	
 закладі	         заклад 	noun:m:v_mis 	                  (noun:m:s:v_mis)
 тримають	тримати 	verb:pres:p:3:imperf 	
@@ -530,13 +524,11 @@ Savage	            - 	            -
 і	              і 	conj:coord	
 крім	          крім          prep:rv_rod
                 крім того 	 <insert> 	
-того	           той          adj:m:v_rod:&pron:dem             (pron:dem:m:v_rod)
-                                adj:m:v_zna:&pron:dem 
-                                adj:n:v_rod:&pron:dem
+того	           той          pron:dem:m:v_rod           
+                              
                 крім того 	 </insert> 	
-кожного	         кожний         adj:m:v_rod:&pron:def             (pron:def:m:v_rod)
-                                adj:m:v_zna:&pron:def 
-                                adj:n:v_rod:&pron:def 	
+кожного	         кожний        pron:def:m:v_rod             
+                                 	
 тижня	         тиждень 	noun:m:v_rod                      (noun:m:s:v_rod)	
 мають	          мати          verb:pres:p:3:imperf 	
 нову	          новий 	adj:f:v_zna:compb                 (adj:f:s:v_zna)	
@@ -545,8 +537,8 @@ Savage	            - 	            -
 вечірки	          вечірка       noun:f:v_rod                      (noun:f:s:v_rod) 	
 ...	            - 	        SENT_END 	
 	            - 	        SENT_START 	
-Ті	            той 	adj:p:v_naz:&pron:dem             (pron:dem:p:v_naz)
-                                adj:p:v_zna:&pron:dem 	
+Ті	            той 	pron:dem:p:v_naz             
+                                
 грудасті	грудастий 	adj:p:v_naz 	
 тьоті	          тьотя         noun:p:v_naz:anim 	
 мені	              я 	pron:pers:s:1:v_dav:anim	
@@ -569,9 +561,8 @@ Savage	            - 	            -
 	              - 	SENT_START 	
 Цікаво	            цікаво 	adv:compb 	
 в	              в 	prep:rv_zna:rv_mis:rv_rod:v-u     (prep:rv_mis:v-u)	
-яких	             який       adj:p:v_mis:&pron:int:rel:def     (pron:p:v_mis:int:rel:def)
-                                adj:p:v_rod:&pron:int:rel:def 
-                                adj:p:v_zna:&pron:int:rel:def	
+яких	             який      pron:int:rel:def:p:v_mis     
+                                	
 закладах	 заклад 	noun:p:v_mis 	
 відпочиває	відпочивати 	verb:pres:s:3:imperf 	
 Зорянка	         Зорянка 	noun:f:v_naz:anim:fname 	
@@ -606,17 +597,15 @@ Savage	            - 	            -
 	              - 	SENT_START 	
 Заклад	         заклад 	noun:m:v_naz                      (noun:m:s:v_naz)	
 в	              в 	prep:rv_zna:rv_mis:rv_rod:v-u 	  (prep:rv_mis:v-u)
-якому	           який         adj:m:v_dav:&pron:int:rel:def     (pron:m:s:v_mis:int:rel:def)
-                                adj:m:v_mis:&pron:int:rel:def
-                                adj:n:v_dav:&pron:int:rel:def 
-                                adj:n:v_mis:&pron:int:rel:def 	
+якому	           який         pron:int:rel:def:m:v_mis                                    
+                                 	
 можна	           можна 	predic 	
 задоволитти	      - 	- 										задовольнити (verb:inf:perf )
 хібащо	              - 	- 									хіба що (conj:subord )
 примітивні	примітивний 	adj:p:v_zna:compb  	
 інстинкти	інстинкт 	noun:p:v_zna 	
-такі	          такий 	adj:p:v_naz:&pron:def             (pron:p:v_naz:def)
-                                adj:p:v_zna:&pron:def 	
+такі	          такий 	adj:p:v_naz:def             
+                                	
 як	            як          conj:subord  	
 напитись	напитися 	verb:rev:inf:perf 	
 і	            і 	        conj:coord	
@@ -631,9 +620,8 @@ Savage	            - 	            -
 »	             -  	- 	
 .	             - 	        SENT_END 	
 	             - 	        SENT_START 	
-Ніякого	          ніякий        adj:m:v_rod:&pron:neg             (pron:m:v_rod:neg)
-                                adj:m:v_zna:&pron:neg 
-                                adj:n:v_rod:&pron:neg 	
+Ніякого	          ніякий        pron:neg:m:v_rod             
+                                 	
 естетичного	естетичний      adj:m:v_rod:compb                 (adj:m:s:v_rod)
                                 adj:m:v_zna:compb 
                                 adj:n:v_rod:compb 	
@@ -646,7 +634,7 @@ Savage	            - 	            -
 ремонту            ремонт       noun:m:v_rod                      (noun:m:s:v_rod) 	
 ,	             - 	          - 	
 в	              в 	prep:rv_zna:rv_mis:rv_rod:v-u     (prep:rv_mis:v-u) 	
-цьому	             цей        adj:m:v_mis:&pron:dem              (pron:m:s:v_mis:dem)
+цьому	             цей        pron:dem:m:v_mis              
                                 
                                 	
 закладі	           заклад 	noun:m:v_mis                      (noun:m:s:v_mis) 	
@@ -657,7 +645,7 @@ Savage	            - 	            -
 	              - 	SENT_START 	
 Згідна	        згідний 	adj:f:v_naz                       (adj:f:s:v_naz)	
 з	               з 	prep:rv_rod:rv_zna:rv_oru 				(prep:rv_oru)
-іншими	            інший 	adj:p:v_oru:&pron:def             (pron:p:v_oru:def)	
+іншими	            інший 	adj:p:v_oru:def             	
 ,	              - 	- 	
 заклад	            заклад 	noun:m:v_naz                      (noun:m:s:v_naz)	
 несе	          нести 	verb:pres:s:3:imperf 	
@@ -701,9 +689,7 @@ Savage	            - 	            -
 не	            не 	        part 	
 піду	           піти 	verb:futr:s:1:perf 	
 і	              і 	conj:coord 	
-іншим	          інший         adj:m:v_oru:&pron:def             (pron:p:v_dav:def)
-                                adj:n:v_oru:&pron:def 
-                                adj:p:v_dav:&pron:def 	
+іншим	          інший     pron:def:p:v_dav 	
 буду	           бути 	verb:futr:s:1:imperf 	
 радити	         радити 	verb:inf:imperf 	
 —	              - 	- 	
@@ -715,9 +701,8 @@ Savage	            - 	            -
 в	               в 	prep:rv_zna:rv_mis:rv_rod:v-u 	  (prep:rv_mis:v-u)
 рекламі	        реклама 	noun:f:v_mis 	                  (noun:f:s:v_mis)
 ШОУ	           шоу          noun:n:v_rod:nv 	
-ніяких	         ніякий         adj:p:v_mis:&pron:neg             (pron:p:v_rod:neg)
-                                adj:p:v_rod:&pron:neg 
-                                adj:p:v_zna:&pron:neg 	
+ніяких	         ніякий         adj:p:v_rod:neg                             
+                             	
 згадок	         згадка 	noun:p:v_rod 	
 про	            про 	prep:rv_zna 	
 стриптиз	стриптиз 	noun:m:v_zna 	                  (noun:m:s:v_zna)
@@ -732,9 +717,7 @@ Savage	            - 	            -
 ,	              - 	- 	
 було	            бути 	verb:past:n:imperf 	
 присутньо	      - 	- 	               					присутні (adj:p:v_naz)           
-багато	          багато        adv                               (numr:p:v_rod)
-                                numr:p:v_naz:&pron:ind 
-                                numr:p:v_zna:&pron:ind 	
+багато	          багатo 	numr:p:v_zna:ind 	
 неповнолітніх	неповнолітній   adj:p:v_rod 	
 дітей	           діти 	noun:p:v_rod:anim 	
 .	              - 	SENT_END 
@@ -742,19 +725,16 @@ Savage	            - 	            -
 		      - 	SENT_START 	
 Крім	            крім        prep:rv_rod
                 крім того 	<insert> 	
-того	            той         adj:m:v_rod:&pron:dem             (pron:dem)
-                                adj:m:v_zna:&pron:dem 
-                                adj:n:v_rod:&pron:dem
+того	            той         pron:dem:m:v_rod            
+                               
                 крім того 	</insert> 	
 ,	              - 	- 	
 стриптизу	стриптиз        noun:m:v_rod                      (noun:m:s:v_rod)	
 ,	              - 	- 	
 як	             як         conj:subord  	
-такого	          такий         adj:m:v_rod:&pron:def             (pron:m:v_rod:def)
-                                adj:m:v_zna:&pron:def 
-                                adj:n:v_rod:&pron:def 	
+такого	          такий         adj:m:v_rod:def                                           	
 ,	              - 	- 	
-там	            там 	adv:&pron:dem                     (adv)
+там	            там 	pron:dem                    
                                 part 	
 теж	            теж 	adv 	
 не	             не 	part 	
@@ -773,8 +753,8 @@ Savage	            - 	            -
 оголених	оголений        adjp:pasv:past:p:v_rod  	
 дівчат	           дівча 	noun:p:v_rod:anim                 	
 ,	               - 	- 	
-які	           який 	adj:p:v_naz:&pron:int:rel:def     (pron:p:int:rel:def)
-                                adj:p:v_zna:&pron:int:rel:def	
+які	           який 	pron:int:rel:def:p:v_naz     (pron:p:int:rel:def)
+                              	
 ходили	           ходити 	verb:past:p:imperf 	
 поміж	          поміж 	prep:rv_rod:rv_zna:rv_oru         (prep:rv_oru)	
 столами	           стіл 	noun:p:v_oru 	
@@ -795,7 +775,7 @@ Savage	            - 	            -
 словом	           слово 	noun:n:v_oru                      (noun:n:s:v_oru)	
 ,	              - 	- 	
 легалізований	легалізований 	adjp:pasv:past:m:v_naz            (adj:pasv:past:m:v_naz:compb)
-                                adjp:pasv:past:m:v_zna 	
+                                	
 будинок	           будинок 	noun:m:v_naz 	                  (noun:m:s:v_naz)
 розпусти	розпуста 	noun:f:v_rod 	                  (noun:f:s:v_rod:np)
 в	              в 	prep:rv_zna:rv_mis:rv_rod:v-u 	  (prep:rv_mis:v-u)
@@ -812,11 +792,10 @@ Savage	            - 	            -
 ,	               - 	- 	
 ось	            ось 	part 	
 вам	             ви 	pron:pers:p:2:v_dav:anim	
-все	             все        adv:v-u                           (весь - pron:dem)
+все	             все        adv:v-u                           (вce - pron:dem)
                                 conj:coord:v-u 
                                 part:v-u 
-                    весь 	adj:n:v_naz:&pron:dem 
-                                adj:n:v_zna:&pron:dem 	
+                    ]	
 під	            під 	prep:rv_zna:rv_oru 	          (prep:rv_oru)
 носом	            ніс 	noun:m:v_oru 	                  (noun:m:s:v_oru)
 ...	              - 	- 	
@@ -846,21 +825,20 @@ Savage	            - 	            -
 то	              то 	conj:subord 	
 на	              на        	
 шо	              - 	- 										нащо (adv)
-туди	           туди 	adv:&pron:dem                     (adv) 	
+туди	           туди 	pron:dem                      	
 йти	            йти 	verb:inf:imperf 	
 ?	              - 	SENT_END 	
 	              - 	SENT_START 	
 Та	             та 	conj:coord	
 й	              й 	conj:coord 	
 в	              в 	prep:rv_zna:rv_mis:rv_rod:v-u     (prep:rv_naz:v-u)	
-інші	          інший 	adj:p:v_naz:&pron:def             (adj:p:v_zna)
-                                adj:p:v_zna:&pron:def 	
+інші	          інший 	adj:p:v_zna:def             
+                                	
 дні	            день        noun:p:v_zna 	
-там	            там 	adv:&pron:dem                     (adv)
+там	            там 	adv                
                                 part 	
-ніяким	         ніякий         adj:m:v_oru:&pron:neg             (adj:m:s:v_oru:neg)
-                                adj:n:v_oru:&pron:neg 
-                                adj:p:v_dav:&pron:neg 	
+ніяким	         ніякий         adj:m:v_oru:neg            
+                                	
 СРСР	          СРСР          noun:m:v_oru:nv:np:abbr 	
 не	             не 	part 	
 пахне	          пахнути 	verb:futr:s:3:perf 	
@@ -890,7 +868,7 @@ Savage	            - 	            -
 —	              - 	- 	
 прікольне	      - 	- 									прикольне (adj:n:v_naz )
 місце	            місце 	noun:n:v_naz	                  (noun:n:s:v_naz)
-куди	            куди 	adv:&pron:int:rel 	          (adv)
+куди	            куди 	pron:int:rel 	          
 можна	           можна 	predic 	
 з	              з 	prep:rv_rod:rv_zna:rv_oru	  (prep:rv_oru)
 гостями	           гість 	noun:p:v_oru:anim 	
@@ -901,9 +879,9 @@ Savage	            - 	            -
 	              - 	SENT_START 	
 східняки	східняк 	noun:p:v_naz:anim 	
 приперлись	припертися 	verb:rev:past:p:perf 	
-сюди	           сюди 	adv:&pron:dem 	                  (adv)
+сюди	           сюди 	pron:dem 	                  
 зі	             зі 	prep:rv_rod:rv_zna:rv_oru	  (prep:rv_oru)
-своїми	           свій 	adj:p:v_oru:&pron:pos 	          (pron:pos:p:v_oru)
+своїми	           свій 	adj:p:v_oru:pos 	          
 дурнуватими	дурнуватий 	adj:p:v_oru 	
 шоу	            шоу         noun:p:v_oru:nv 	
 ...	               - 	SENT_END 	
@@ -930,9 +908,8 @@ Savage	            - 	            -
 в	              в 	prep:rv_zna:rv_mis:rv_rod:v-u     (prep:rv_mis:v-u)	
 українському	український     adj:m:v_mis  	                  (adj:m:s:v_mis)
 календарі	календар        noun:m:v_mis 	                  (noun:m:s:v_mis)
-такого	          такий         adj:m:v_rod:&pron:def             (pron:def:m:v_rod)
-                                adj:m:v_zna:&pron:def 
-                                adj:n:v_rod:&pron:def 	
+такого	          такий        pron:def:m:v_rod            
+                                	
 вже	            вже 	adv:v-u 	
 20	             20 	number 	
 років	            рік 	noun:p:v_rod 	
@@ -994,10 +971,8 @@ Savage	            - 	            -
 довше	          довго 	adv:compr 		
 працює	      працювати 	verb:pres:s:3:imperf 	
 ,	              - 	- 	
-тим	          той           adj:m:v_oru:&pron:dem             (pron:dem:m:v_oru)
-                                adj:n:v_oru:&pron:dem 
-                                adj:p:v_dav:&pron:dem 	
-менше	          мало          adj:n:v_zna:compr  	
+тим	          той           pron:dem:m:v_oru           
+                                  	
 заробляє	заробляти 	verb:pres:s:3:imperf 	
 .	              - 	SENT_END 	
 	              - 	SENT_START 	
@@ -1014,19 +989,19 @@ Savage	            - 	            -
 	              - 	SENT_START 	
 Дівчинко	дівчинка 	noun:f:v_kly:anim                 (noun:f:s:v_kly:anim)	
 ,	              - 	- 	
-це	            цей 	adj:n:v_naz:&pron:dem             (pron:dem:n:v_naz)
-                                adj:n:v_zna:&pron:dem 	
+це	            цей 	pron:dem:n:v_naz            
+                               	
 не	             не 	part 	
 бордель	         бордель 	noun:m:v_naz                      (noun:m:s:v_naz) 	
 ,	              - 	- 	
-це	            цей 	adj:n:v_naz:&pron:dem             (pron:dem:n:v_naz)
-                                adj:n:v_zna:&pron:dem 	
+це	            цей 	pron:dem:n:v_naz             
+                          \ 	
 Веst	              - 	- 								(coll)
 заклад	         заклад 	noun:m:v_naz 	                  (noun:m:s:v_naz)
 ,	              - 	- 	
 я	              я 	pron:pers:s:1:v_naz:anim 	
-там	            там 	adv:&pron:dem                     (adv)
-                                part 	
+там	            там 	adv:dem                 
+                            	
 бувала	         бувати 	verb:past:f:imperf 	
 і	              і 	conj:coord 	
 говорю	          говорити 	verb:pres:s:1:imperf 	
@@ -1043,15 +1018,15 @@ Savage	            - 	            -
 а	             а          conj:coord 	
 якщо	            якщо 	conj:subord 	
 ти	             ти 	pron:pers:s:2:v_naz:anim 	
-це	            цей 	adj:n:v_naz:&pron:dem             (pron:dem:n:v_zna)
+це	            цей 	pron:dem:n:v_naz             
                                 adj:n:v_zna:&pron:dem 	
 вважаєш	           вважати 	verb:pres:s:2:imperf 	
 розпустою	розпуста 	noun:f:v_oru 	                  (noun:f:v_oru:np)
 ,	              - 	- 	
 то	             то 	conj:subord 	
-якого	           який         adj:m:v_rod:&pron:int:rel:def     (pron:int:rel:def:m:v_zna)
-                                adj:m:v_zna:&pron:int:rel:def
-                                adj:n:v_rod:&pron:int:rel:def 	
+якого	           який   pron:int:rel:def:m:v_zna
+                                
+                               	
 ти	             ти 	pron:pers:s:2:v_kly:anim 	
 біса	             біс 	noun:m:v_rod                      (noun:m:v_rod) 	
 тyди	              - 	- 									(adv:&pron:dem )
@@ -1064,7 +1039,7 @@ Savage	            - 	            -
 щоб	            щоб 	conj:subord 	
 не	              не 	part 	
 писати	         писати 	verb:inf:imperf 	
-такої	          такий 	adj:f:v_zna:&pron:def 	          
+такої	          такий 	adj:f:v_zna:def 	          
 фігні	          фігня         noun:f:v_zna 	                  
 ,	             - 	        - 	
 як	             як         conj:subord 	
@@ -1081,16 +1056,13 @@ Savage	            - 	            -
 звинувачувати	звинувачувати 	verb:inf:imperf 	
 заклад	            заклад 	noun:m:v_zna 	                  (noun:m:s:v_zna)
 в	                в 	prep:rv_zna:rv_mis:rv_rod:v-u 	  (prep:rv_mis:v-u)
-цьому	             цей        adj:m:v_dav:&pron:dem             (pron:dem:m:v_mis)
-                                adj:m:v_mis:&pron:dem 
-                                adj:n:v_dav:&pron:dem 
-                                adj:n:v_mis:&pron:dem 	
+цьому	             цей          adj:m:v_mis:&pron:dem                                                                     	
 !	               - 	- 	
 доречі	            доречі 	adv:bad 							до речі (insert)	
 якщо	             якщо 	conj:subord 	
 тобі	             ти 	pron:pers:s:2:v_dav:anim 	
-там	            там 	adv:&pron:dem                     (adv)
-                                part 	
+там	            там 		pron:dem                     
+                              	
 не	             не 	part 	
 сподобалось	сподобатися 	verb:rev:past:n:perf 	
 ,	                - 	- 	
@@ -1108,9 +1080,8 @@ Savage	            - 	            -
 
 	              - 	SENT_START 	
 На	             на 	prep:rv_zna:rv_mis                (prep:rv_mis)	
-всіх	            весь        adj:p:v_mis:&pron:dem             (adj:p:v_mis)
-                                adj:p:v_rod:&pron:dem 
-                                adj:p:v_zna:&pron:dem	
+всіх	            весь        adj:p:v_mis:dem             
+                                	
 сайтах	            сайт 	noun:p:v_mis 	
 один	           один 	numr:m:v_naz 	
 і	              і 	conj:coord  	
@@ -1126,7 +1097,7 @@ Savage	            - 	            -
 годі	           годі 	predic 	
 !	              - 	SENT_END 	
 	              - 	SENT_START 	
-оце	            оцей 	adj:n:v_zna:&pron:dem	          (pron:dem:n:v_zna)
+оце	            оцей 	pron:dem:n:v_zna	          (pron:dem:n:v_zna)
 так	           так          adv:&pron:dem                     (excl)
                                 conj:coord:subord 
                                 part 	
@@ -1141,9 +1112,8 @@ Savage	            - 	            -
 хаяти	              - 	-                                 (verb:inf:imperf:rare)	
 Старгород	      - 	- 	                          (noun:unknown)
 на	             на 	prep:rv_zna:rv_mis 	          (prep:rv_mis)	
-всіх	           весь         adj:p:v_mis:&pron:dem             (adj:p:v_mis)
-                                adj:p:v_rod:&pron:dem 
-                                adj:p:v_zna:&pron:dem	
+всіх	           весь         adj:p:v_mis:dem           
+                                	
 сайтах	           сайт 	noun:p:v_mis 	
 (	              - 	- 	
 при	            при         prep:rv_mis 	
@@ -1180,8 +1150,8 @@ Savage	            - 	            -
 піти	            піти        verb:inf:perf  	
 сім'єю	          сім'я 	noun:f:v_oru                      (noun:f:s:v_oru)	
 у	              у 	prep:rv_zna:rv_mis:rv_rod:v-u 	  (prep:rv_zna:v-u)
-якийсь	         якийсь 	adj:m:v_naz:&pron:ind             (adj:m:s:v_zna)
-                                adj:m:v_zna:&pron:ind 	
+якийсь	         якийсь 	adj:m:v_zna:ind           
+                                	
 новий	          новий 	adj:m:v_zna:compb 	
 заклад	           заклад 	noun:m:v_zna                      (noun:m:s:v_zna)	
 і	              і 	conj:coord  	
@@ -1194,8 +1164,8 @@ Savage	            - 	            -
 ,	              - 	- 	
 завітали	завітати 	verb:past:p:perf 	 
 у	              у 	prep:rv_zna:rv_mis:rv_rod:v-u 	  (prep:rv_zna:v-u)
-цей	            цей 	adj:m:v_naz:&pron:dem             (adj:m:v_zna)
-                                adj:m:v_zna:&pron:dem 	
+цей	            цей 	adj:m:v_zna:dem            
+                              	
 ресторан	ресторан 	noun:m:v_zna 	                  (noun:m:s:v_zna)
 .	              - 	SENT_END 	
 	              - 	SENT_START 	
@@ -1205,8 +1175,8 @@ Savage	            - 	            -
 не	             не 	part 	
 було	           бути 	verb:past:n:imperf 	
 ,	              - 	- 	
-все	            весь 	adj:n:v_naz:&pron:dem             (pron:dem:n:v_naz)
-                                adj:n:v_zna:&pron:dem 	
+все	            весь 	pron:dem:n:v_naz        
+                               	
 зарезервовано	зарезервувати 	verb:impers:perf 	
 ,	               - 	- 	
 але	              але 	conj:coord  	
@@ -1239,7 +1209,7 @@ Savage	            - 	            -
 	              - 	SENT_START 	
 Приміщення	приміщення      noun:n:v_naz                      (noun:n:s:v_naz) 	
 вразило	        вразити 	verb:past:n:perf 	
-своїми	           свій 	adj:p:v_oru:&pron:pos 	          (pron:pos:p:v_oru)
+своїми	           свій 	adj:p:v_oru:pos 	         
 дійсно	         дійсно 	adv 	
 великими	великий 	adj:p:v_oru:compb 	          (adj:p:v_oru)
 масштабами	масштаб 	noun:p:v_oru 	
@@ -1252,8 +1222,8 @@ Savage	            - 	            -
 підвальним	підвальний      adj:m:v_oru	                  (adj:m:s:v_oru)
 приміщенням	приміщення 	noun:n:v_oru	                  (noun:n:s:v_oru)
 ,	               - 	- 	
-яке	           який 	adj:n:v_naz:&pron:int:rel:def     (pron:int:rel:def:n:v_naz)
-                                adj:n:v_zna:&pron:int:rel:def	
+яке	           який 	pron:int:rel:def:n:v_naz    
+                             	
 тільки	          тільки        adv  	
 реставрувалося	реставруватися 	verb:rev:past:n:imperf  	
 .	              - 	SENT_END 	
@@ -1271,9 +1241,8 @@ Savage	            - 	            -
 у	              у 	prep:rv_zna:rv_mis:rv_rod:v-u     (prep:rv_zna:v-u)	
 костюми	           костюм 	noun:p:v_zna 	
 саме	            саме        adv	
-тих	            той         adj:p:v_mis:&pron:dem             (pron:dem:p:v_rod)
-                                adj:p:v_rod:&pron:dem 
-                                adj:p:v_zna:&pron:dem 	
+тих	            той         pron:dem:p:v_rod           
+                               	
 народів	           народ 	noun:p:v_rod 	
 ,	               - 	- 	
 грубо	           грубо 	adv:compb 	
@@ -1294,9 +1263,7 @@ Savage	            - 	            -
 	              - 	SENT_START 	
 Разом	           разом        adv 	
 з	              з 	prep:rv_rod:rv_zna:rv_oru         (prep:rv_oru)	
-тим	            той         adj:m:v_oru:&pron:dem             (pron:dem:m:v_oru)
-                                adj:n:v_oru:&pron:dem 
-                                adj:p:v_dav:&pron:dem 	
+тим	            той        pron:dem:m:v_oru                                     	
 ,	              - 	- 	
 зовсім	         зовсім 	adv 	
 недоречно	 недоречно 	adv 	
@@ -1304,7 +1271,7 @@ Savage	            - 	            -
 сучасна	       сучасний 	adj:f:v_naz:compb                 (adj:f:s:v_naz:compb)	
 жердина	        жердина 	noun:f:v_naz 	                  (noun:f:s:v_naz)
 посеред	        посеред 	prep:rv_rod 	
-такої	          такий 	adj:f:v_rod:&pron:def 	          (adj:f:s:v_rod)
+такої	          такий 	adj:f:v_rod:def 	          
 величної	величний 	adj:f:v_rod:compb 	          (adj:f:s:v_rod)
 баварської	баварський 	adj:f:v_rod                       (adj:f:s:v_rod) 	
 зали	           зал          noun:p:v_naz                      (noun:f,m:v_rod)
@@ -1314,9 +1281,8 @@ Savage	            - 	            -
                                 noun:p:v_zna 	
 .	              - 	SENT_END 	
 	              - 	SENT_START 	
-Коли	           коли         adv:&pron:int:rel                 (adv)
-                                conj:subord 
-                                part 
+Коли	           коли         adv:int:rel                 
+                            
 нам	             ми 	pron:pers:p:1:v_dav:anim	
 принесли	принести 	verb:past:p:perf 	
 меню	          меню          noun:n:v_zna:nv 	
@@ -1371,8 +1337,8 @@ Savage	            - 	            -
 коліно	         коліно 	noun:n:v_zna 	                  (noun:n:v_zna)
 .	               - 	SENT_END 	
 	              - 	SENT_START 	
-Все	           весь 	adj:n:v_naz:&pron:dem             (pron:dem:n:v_naz)
-                                adj:n:v_zna:&pron:dem	
+Все	           весь 			pron:dem:n:v_naz            
+                              	
 виявилось	виявитися 	verb:rev:past:n:perf 	
 смачним	         смачний        adj:m:v_oru:compb                 (adj:m:s:v_oru)
                                 adj:n:v_oru:compb 
@@ -1394,7 +1360,7 @@ Savage	            - 	            -
 до	             до 	prep:rv_rod 	
 туалету	          туалет        noun:m:v_rod 	                  (noun:m:s:v_rod)
 ,	              - 	- 	
-наша	             наш 	adj:f:v_naz:&pron:pos 	          (pron:pos:f:v_naz)
+наша	             наш 	adj:f:v_naz:pos 	       
 дитина	         дитина 	noun:f:v_naz:anim 	          (noun:f:s:v_naz:anim)
 здивовано	здивовано 	adv 	
 спитала	         спитати 	verb:past:f:perf 	
@@ -1402,16 +1368,15 @@ Savage	            - 	            -
 мене	              я 	pron:pers:s:1:v_rod:anim  	
 ,	              - 	- 	
 що	             що         conj:subord 	
-там	            там 	adv:&pron:dem                     (adv)
-                                part 	
+там	            там 	adv:dem                   
+                              	
 (	              - 	- 	
 у	              у 	prep:rv_zna:rv_mis:rv_rod:v-u 	  (prep:rv_mis:v-u)
 туалеті	           туалет 	noun:m:v_mis 	                  (noun:m:s:v_mis)
 )	              - 	- 	
 за	             за 	prep:rv_rod:rv_zna:rv_oru         (excl)
 автомати	автомат 	noun:p:v_zna 	
-такі	          такий 	adj:p:v_naz:&pron:def             (adj:p:v_naz)
-                                adj:p:v_zna:&pron:def 	
+такі	          такий 	adj:p:v_naz:def                                      	
 ,	              - 	- 	
 вирішила	вирішити 	verb:past:f:perf 	
 що	            що          conj:subord 	
@@ -1426,8 +1391,8 @@ Savage	            - 	            -
 ,	              - 	- 	
 коли	             коли       conj:subord   	
 побачила	побачити 	verb:past:f:perf 	
-там	            там 	adv:&pron:dem                      (adv)
-                                part 	
+там	            там 	adv:dem           
+                          	
 автомати	автомат 	noun:p:v_zna 	
 з	              з 	prep:rv_rod:rv_zna:rv_oru	   (prep:rv_oru)
 презервативами	презерватив 	noun:p:v_oru 	
@@ -1460,8 +1425,8 @@ Savage	            - 	            -
 »	              - 	- 	
 ,	              - 	- 	
 отримала	отримати 	verb:past:f:perf 	
-всі	           весь 	adj:p:v_naz:&pron:dem              (adj:p:v_naz)
-                                adj:p:v_zna:&pron:dem	
+всі	           весь 	adj:p:v_naz:dem            
+                               	
 відповіді	відповідь       noun:p:v_zna 	
 на	           на           excl                               (prep:rv_zna)
                                 part 
@@ -1489,8 +1454,8 @@ Savage	            - 	            -
 	              - 	SENT_START 	
 Я	              я 	pron:pers:s:1:v_naz:anim 	
 рахувала	рахувати 	verb:past:f:imperf 	
-наше	            наш 	adj:n:v_naz:&pron:pos              (pron:pos:n:v-zna)
-                                adj:n:v_zna:&pron:pos 	
+наше	            наш 	adj:n:v_zna:pos              
+                               
 місто	            місто 	noun:n:v_zna                       (noun:n:s:v_zna)	
 чи	             чи 	part 	
 то	             то 	conj:subord 	
@@ -1524,8 +1489,7 @@ Savage	            - 	            -
                                 PARA_END 	
 	              - 	SENT_START 	
 Невже	          невже 	part 	
-все	           весь 	adj:n:v_naz:&pron:dem              (pron:dem:n:v_naz)
-                                adj:n:v_zna:&pron:dem 	
+все	           весь 	pron:dem:n:v_naz                                             	
 ,	              - 	- 	
 що	           що           conj:subord  	
 ми	             ми 	pron:pers:p:1:v_naz:anim	
@@ -1543,14 +1507,14 @@ Savage	            - 	            -
                                 adj:n:v_oru:&pron:def 
                                 adj:p:v_dav:&pron:def 	
 як	           як           conj:subord
-отой	           отой 	    adj:m:v_zna:&pron:dem          (pron:dem:m:v_zna)                               	
+отой	           отой 	    pron:dem:m:v_zna                                        	
 «	              - 	- 	
 Старгород	      - 	- 	                           (noun:unknown)
 »	              - 	- 	
 ?	              - 	SENT_END 	
 	              - 	SENT_START 	
 З	              з 	prep:rv_rod:rv_zna:rv_oru          (prep:rv_oru)	
-отими	           отой 	adj:p:v_oru:&pron:dem 	           (adj:p:v_oru)
+отими	           отой 	pron:dem:p:v_oru	          
 голими	          голий 	adj:p:v_oru 	
 дівчатами	  дівча 	noun:p:v_oru:anim 	           (дівчина)
 политими	политий 	adjp:pasv:past:p:v_oru 	
@@ -1571,7 +1535,7 @@ Savage	            - 	            -
 ,	              - 	- 	
 що	             що         conj:subord  	
 злизують	злизувати 	verb:pres:p:3:imperf 	
-той	             той 	adj:m:v_zna:&pron:dem              (pron:dem:m:v_zna)                             	
+той	             той 	pron:dem:m:v_zna                                         	
 шолокад	              - 	- 								шоколад (noun:m:v_zna )
 ?	              - 	SENT_END 	
 	              - 	SENT_START 	
