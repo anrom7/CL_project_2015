@@ -23,7 +23,7 @@ SENT_START
 коли	 коли      conj:subord 
 є	 бути          verb:pres:s::imperf 
 заказ	 -          - 
-вище	 вище      adj:n:v_zna:compr 
+вище	 вище      adv:compr 
 певної	 певний    adj:f:v_rod:compb 
 суми	 сума      noun:p:v_zna 
 то	     то        conj:subord 
@@ -68,7 +68,7 @@ SENT_START
 піцерію	 піцерія   noun:f:v_zna 
 (	      -            - 
 це	     цей       adj:n:v_naz:&pron:dem 
-ж	     ж         conj:coord  
+ж	     ж         part  
 ніби	 ніби      conj:subord 
 мережа	 мережа    noun:f:v_naz 
 все	     все       part:v-u 
@@ -82,7 +82,7 @@ SENT_START
 що	     що         conj:subord 
 картки	 картка     noun:p:v_naz 
 будуть	 бути       verb:futr:p:3:imperf 
-тільки	 тільки     part 
+тільки	 тільки     adv 
 з	     з          prep:rv_rod:rv_zna:rv_oru 
 20	     20         number 
 числа	 число      noun:n:v_rod 
@@ -126,7 +126,7 @@ SENT_START
 карток	   картка       noun:p:v_rod 
 немає      немає        predic 
 і	       і            conj:coord  
-коли       коли         conj:subord  
+коли       коли         adv:&pron:int:rel   
 будуть     бути         verb:futr:p:3:imperf 
 невідомо   невідомо     adv 
 (	         -             - 
@@ -140,7 +140,7 @@ SENT_START
 пізніше	   пізній       adv:compr 
 )	          -  
 .	          - 
-так	       так          part 
+так	       так          adv:&pron:dem
 вони	   вони         noun:p:v_naz:&pron:pers:3 
 і	       і            conj:coord 
 не	       не           part 
@@ -162,7 +162,7 @@ SENT_START
 Крем-суп  крем-суп     noun:m:v_naz  
 грибний	  грибний      adj:m:v_naz  
 15	      15           number 
-грн	      грн          noun:f:v_zna:nv:abbr 
+грн	      грн          noun:p:v_zna:nv:abbr 
 .	        - 
 SENT_END 
 SENT_START 
@@ -224,7 +224,7 @@ SENT_START
 .	 - 
 SENT_END 
 SENT_START 
-Тому	 тому             conj:subord 
+Тому	 тому             adv  
 ділюся	 ділитися         verb:rev:pres:s:1:imperf 
 з	     з                prep:rv_rod:rv_zna:rv_oru 
 вами	 ви               noun:p:v_oru:anim:&pron:pers:2
@@ -239,7 +239,7 @@ SENT_START
 італійської	 італійський  adj:f:v_rod 
 кухні	  кухня           noun:f:v_rod  
 ,	        -                  - 
-Челентано	 Челентано    noun:m:v_naz:nv:np:anim:lname
+Челентано	 Челентано    noun:m:v_rod:nv:np:anim:lname
 привернуло	 привернути   verb:past:n:perf 
 мою	         мій          adj:f:v_zna:&pron:pos 
 увагу	     увага        noun:f:v_zna 
@@ -388,21 +388,21 @@ SENT_START
 незабутнього незабутній adj:m:v_rod  
 настрою	  настроїти  noun:m:v_rod 
 надавали  надавати   verb:past:p:imperf 
-самі	  сам        adj:p:v_naz 
+самі	  сам        adj:p:v_naz:&pron:def
 майстри	  майстер    noun:p:v_naz:anim
 :	       -            - 
 всі	      весь       adj:p:v_naz:&pron:dem
 хлопці	  хлопець    noun:p:v_naz:anim 
 ,	       -            - 
-дуже	  дуже       adj:n:v_naz:compb 
+дуже	  дуже       adv 
 симпатичні симпатичний adj:p:v_naz:compb 
 (	       -            - 
 ну	      ну         part 
 дууже	   -            - 
 ,	       -            - 
-була	 булий      verb:past:f:imperf 
-б	     б          part 
-моло	 - 
+була	  булий      verb:past:f:imperf 
+б	      б          part 
+моло	  - 
 SENT_END 
 PARA_END 
 - 
@@ -550,8 +550,8 @@ SENT_START
 бонуси	 бонус      noun:p:v_zna 
 на	     на         prep:rv_zna:rv_mis 
 картку	 картка     noun:f:v_zna 
-лояльності	лояльність noun:p:v_zna 
-мережі	 мережа     noun:p:v_zna 
+лояльності	лояльність noun:f:v_rod 
+мережі	 мережа     noun:f:v_rod 
 \	      -             - 
 "	      -             - 
 ЕгоЇсти	  -             - 
@@ -562,14 +562,14 @@ SENT_START
 і	     і           conj:coord 
 неможливо  неможливо adv 
 по	     по          prep:rv_mis:rv_zna 
-цій	     цей         adj:f:v_mis:&pron:dem
-картці	 картка      noun:f:v_mis 
+цій	     цей         aadj:f:v_dav:&pron:dem
+картці	 картка      noun:f:v_dav 
 отримати отримати    verb:inf:perf 
 знижку	 знижка      noun:f:v_zna 
 .	       - 
 SENT_END 
 SENT_START 
-Мені	 Мен         noun:f:v_dav 
+Мені	 Мен         noun:s:v_dav:anim:&pron:pers:1
 наразі	 наразі      adv 
 доводиться доводитися verb:rev:pres:s:3:imperf 
 часто	 часто       adv:compb 
@@ -594,14 +594,14 @@ SENT_START
 незекономлених	 -       - 
 коштах	 кошт        noun:p:v_mis 
 у	     у           prep:rv_zna:rv_mis:rv_rod:v-u 
-перспективі	перспектива noun:f:v_mis 
+перспективі	перспектива noun:f:v_dav 
 .	     - 
 SENT_END 
 SENT_START 
 Прошу	  просити    verb:pres:s:1:imperf 
 передбачити передбачити verb:inf:perf 
 можливість  можливість  noun:f:v_zna 
-користування користування noun:n:v_rod 
+користування користування noun:n:v_zna 
 карткою	  картка     noun:f:v_oru 
 \	      -            - 
 "	      -            - 
@@ -609,7 +609,7 @@ SENT_START
 \	      -            - 
 "	      -            - 
 у	      у          prep:rv_zna:rv_mis:rv_rod:v-u 
-майбутньому	 майбутній adj:m:v_dav 
+майбутньому	 майбутній adj:n:v_dav 
 .	      - 
 SENT_END 
 PARA_END 
@@ -650,7 +650,7 @@ SENT_START
 :	      -           - 
 після	  після     prep:rv_rod 
 15	      15        number 
-хв	      хв        noun:f:v_rod:nv:abbr 
+хв	      хв        noun:p:v_rod:nv:abbr 
 очікування очікування noun:n:v_rod 
 ,	      -          - 
 довелось  довестися verb:rev:past:n:perf 
@@ -660,7 +660,7 @@ SENT_START
 і	      і         conj:coord 
 люб'язно  люб'язно  adv:compb 
 попросити попросити verb:inf:perf 
-меню	  меню      noun:n:v_rod:nv  
+меню	  меню      noun:n:v_zna:nv  
 ,	      -          - 
 після	  після     prep:rv_rod 
 чого	  що        noun:n:v_rod:inanim:&pron:int:rel
@@ -682,15 +682,15 @@ SENT_START
 це	      цей      adj:n:v_zna:&pron:dem 
 замовлення замовлення noun:n:v_zna 
 ...	      -         - 
-так	      так      part 
+так	      так      adv:&pron:dem  
 ,	      -         - 
-так	      так      part
+так	      так      adv:&pron:dem 
 Латте	  -         - 
 принесли  принести verb:past:p:perf 
 тільки	  тільки   adv 
 через	  через    prep:rv_zna 
 40	      40       number 
-хв	      хв       noun:f:v_zna:nv:abbr  
+хв	      хв       noun:p:v_rod:nv:abbr   
 !	       - 
 SENT_END 
 SENT_START 
@@ -726,7 +726,7 @@ SENT_START
 ,	     -       - 
 яку	     як     adj:f:v_zna:&pron:int:rel:def 
 я	     я      noun:s:v_naz:anim:&pron:pers:1
-коли	 коли   onj:subord 
+коли	 коли   сonj:subord 
 не	     не     part 
 будь	 бути   verb:impr:s:2:imperf 
 їла	     їсти   verb:past:f:imperf 
@@ -742,11 +742,11 @@ SENT_START
 піцою	 піца  noun:f:v_oru 
 ,	     -      - 
 яку	     як    adj:f:v_zna:&pron:int:rel:def 
-подають	 подавати verb:futr:p:3:perf  
+подають	 подавати verb:pres:p:3:imperf  
 у	     у     prep:rv_zna:rv_mis:rv_rod:v-u 
-Челентано Челентано noun:m:v_oru:nv:np:anim:lname
+Челентано Челентано noun:m:v_zna:nv:np:anim:lname
 на	     на    prep:rv_zna:rv_mis 
-площі	 площа noun:f:v_dav 
+площі	 площа noun:f:v_mis 
 ринок	 ринок noun:m:v_zna 
 .	         - 
 SENT_END 
@@ -754,7 +754,7 @@ SENT_END
 SENT_START 
 Стосовно  стосовно   adv 
 літнього  літній     adj:m:v_rod 
-майданчику майданчик noun:m:v_mis 
+майданчику майданчик noun:m:v_rod 
 коротко	   коротко   adv:compb 
 дикий	   дикий     adj:m:v_naz:compb 
 протяг	   протяг    noun:m:v_naz 
@@ -774,9 +774,9 @@ PARA_END
 SENT_START 
 Була	 булий      verb:past:f:imperf 
 у	     у          prep:rv_zna:rv_mis:rv_rod:v-u 
-піцерії	 піцерія    noun:f:v_dav 
+піцерії	 піцерія    noun:f:v_zna 
 "	     -           - 
-Челентано Челентано noun:m:v_naz:nv:np:anim:lname
+Челентано Челентано noun:m:v_zna:nv:np:anim:lname
 "	     -           - 
 біля	 біля       adv 
 Оперного оперний    adj:m:v_rod 
@@ -784,13 +784,13 @@ SENT_START
 SENT_END 
 - 
 SENT_START 
-Піца	  піца      noun:f:v_naz 
+Піца	  піца      noun:f:v_ 
 смачна	  смачний   adj:f:v_naz:compb 
 ,	       -          - 
 а	      а         conj:coord 
 обслуговування	 обслуговування noun:n:v_naz 
 на	      на        prep:rv_zna:rv_mis 
-касі	  каса      noun:f:v_dav 
+касі	  каса      noun:f:v_mis
 жахливе	  жахливий  adj:n:v_naz:compb 
 .	       - 
 SENT_END 
@@ -920,7 +920,7 @@ SENT_START
 смачний	 смачний    adj:m:v_naz:compb 
 ,	       -             - 
 щоразу	 щоразу     adv 
-його	 його       noun:n:v_rod:&pron:pers:3 
+його	 його       noun:n:v_rod:&pron:pers:3
 замовляємо замовляти verb:pres:p:1:imperf 
 )	       - 
 SENT_END 
