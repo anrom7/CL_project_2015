@@ -1,0 +1,63 @@
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Мені	Мен noun:m:v_mis
+		Мена noun:f:v_dav noun:f:v_mis
+		Мень noun:m:v_mis:anim:lname 
+		я pron:pers:s:1:v_dav:anim pron:pers:s:1:v_mis:anim 
+також	також adv conj:coord 
+довелося	довестися verb:rev:past:n:perf 
+святкувати	святкувати verb:inf:imperf 
+в	в  prep:rv_zna:rv_mis:rv_rod:v-u 
+цьому	цей adj:m:v_dav:&pron:dem adj:m:v_mis:&pron:dem adj:n:v_dav:&pron:dem adj:n:v_mis:&pron:dem 
+ресторані	ресторан noun:m:v_mis 
+"	- - 
+"	- - 
+зал	зал noun:m:v_naz noun:m:v_zna 
+	зала noun:p:v_rod 
+гарний	гарний adj:m:v_naz:compb adj:m:v_zna:compb 
+і	і conj:coord part 
+на	на prep:rv_zna:rv_mis 
+цьому	цей adj:m:v_dav:&pron:dem adj:m:v_mis:&pron:dem adj:n:v_dav:&pron:dem adj:n:v_mis:&pron:dem 
++	- - 
+я	я pron:pers:s:1:v_naz:anim 
+не	не part 
+побачив	побачити verb:past:m:perf 
+,	- - 
+1Офіцианти	- - 
+дійсно	дійсно adv 
+працювати	працювати verb:inf:imperf 
+не	не part 
+вміють2	- - 
+страви	страва noun:f:v_rod noun:p:v_naz noun:p:v_zna 
+не	не part 
+смачни	- - 
+(	- - 
+особливо	особливо adv 
+холодець	холодець noun:m:v_naz noun:m:v_zna 
+"	- - 
+ВОНЮЧИЙ	- - 
+"	- - 
+)	- - 
+3	3 number 
+ВИКЛАДКА	викладка noun:f:v_naz:bad 
+страв	страва noun:p:v_rod 
+ніяка	ніякий adj:f:v_naz:&pron:neg 
+4	4 number 
+грамаж	- - 
+порцій	порція noun:p:v_rod 
+малий	малий adj:m:v_naz:compb adj:m:v_zna:compb 
+5	5 number 
+музика	музика noun:f:v_naz noun:f:v_naz:anim 
+на	на excl part prep:rv_zna:rv_mis 
+3-НЕРАДЖУ	- - 
+нікому	ніхто pron:neg:v_dav:anim 
+щоб	щоб conj:subord part 
+потім	потім adv:&pron:dem 
+не	не part 
+червоніли	червоніти verb:past:p:imperf 
+перед	перед noun:m:v_naz noun:m:v_zna 
+гостями	гостя noun:p:v_oru:anim
+		гість noun:p:v_oru:anim
+		гостя SENT_END
+		- PARA_END 
