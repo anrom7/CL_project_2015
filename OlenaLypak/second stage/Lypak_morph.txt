@@ -1,0 +1,3189 @@
+﻿Token                   Lemma            Part-of-speech             Chunk
+                 
+                            -     SENT_START 
+Була                    булий     adjp:actv:past:f:v_naz 
+                         бути     verb:past:f:imperf 
+
+тут	                  тут     adv:&pron:dem 
+
+з	                    з     prep:rv_rod:rv_zna:rv_oru
+
+класом 	                 клас     noun:m:v_oru 
+
+,	                    -     - 
+
+замовили             замовити     verb:past:p:perf 
+
+по	                   по     prep:rv_mis:rv_zna 
+
+десерту	               десерт     noun:m:v_dav 
+                                  noun:m:v_mis 
+                                  noun:m:v_rod 
+.	                    -     SENT_END 
+
+ 
+	                    -     SENT_START 
+Виявилось           виявитися     verb:rev:past:n:perf
+ 
+,	                    -     - 
+
+нам	                   ми     noun:p:v_dav:anim:&pron:pers:1
+
+подали	               подати     verb:past:p:perf 
+
+тірамісу	            -     - 
+
+більше	               багато     adv:compr 
+	              великий     adj:n:v_naz:compr 
+                                  adj:n:v_zna:compr 
+
+,	                   -      - 
+ніж                      ніж      conj:subord 
+                                  noun:m:v_naz 
+                                  noun:m:v_zna 
+
+указано	              указати     verb:impers:perf:v-u 
+
+в	                    в     prep:rv_zna:rv_mis:rv_rod:v-u 
+
+меню	                 меню     noun:n:v_dav:nv 
+                                  noun:n:v_mis:nv 
+                                  noun:n:v_naz:nv 
+                                  noun:n:v_oru:nv 
+                                  noun:n:v_rod:nv 
+                                  noun:n:v_zna:nv 
+                                  noun:p:v_dav:nv 
+                                  noun:p:v_mis:nv 
+                                  noun:p:v_naz:nv 
+                                  noun:p:v_oru:nv 
+                                  noun:p:v_rod:nv 
+                                  noun:p:v_zna:nv 
+.	                    -     SENT_END 
+
+
+	                    -     SENT_START 
+Нас	                   ми     noun:p:v_mis:anim:&pron:pers:1
+                                  noun:p:v_rod:anim:&pron:pers:1
+                                  noun:p:v_zna:anim:&pron:pers:1
+при	                  при     prep:rv_mis 
+                        перти     verb:impr:s:2:imperf 
+
+цьому	                  цей     adj:m:v_dav:&pron:dem 
+                                  adj:m:v_mis:&pron:dem 
+                                  adj:n:v_dav:&pron:dem 
+                                  adj:n:v_mis:&pron:dem 
+
+не	                   не     part
+ 
+питали	               питати     verb:past:p:imperf 
+
+і	                    і     conj:coord 
+                                  part 
+
+не	                   не     part 
+
+попереджали       попереджати     verb:past:p:imperf 
+.	                    -     SENT_END 
+
+
+                            -     SENT_START 
+Довелося            довестися     verb:rev:past:n:perf 
+
+доплачувати       доплачувати     verb:inf:imperf 
+
+по	                   по     prep:rv_mis:rv_zna 
+ 
+10	                   10     number 
+
+гривень	               гривня     noun:p:v_rod 
+.	                    -     SENT_END 
+
+
+	                    -     SENT_START 
+
+Сума	                 сума     noun:f:v_naz 
+
+не	                   не     part 
+
+страшна	             страшний     adj:f:v_naz:compb 
+
+,	                    -     - 
+
+але	                  але     conj:coord 
+                                  excl 
+
+враження             враження     noun:n:v_naz 
+                                  noun:n:v_rod 
+                                  noun:n:v_zna 
+                                  noun:p:v_naz 
+                                  noun:p:v_zna 
+
+про	                  про     prep:rv_zna 
+
+цей	                  цей     adj:m:v_naz:&pron:dem
+                                  adj:m:v_zna:&pron:dem
+
+заклад	               заклад     noun:m:v_naz 
+                                  noun:m:v_zna 
+
+зіпсувалося       зіпсуватися     verb:rev:past:n:perf 
+...                         -     SENT_END 
+
+
+
+	                    -     SENT_START 
+Сходили	              сходити     verb:past:p:imperf 
+                                  verb:past:p:perf 
+
+с	                    с     noun:f:v_dav:nv:abbr 
+                                  noun:f:v_mis:nv:abbr 
+                                  noun:f:v_naz:nv:abbr 
+                                  noun:f:v_oru:nv:abbr 
+                                  noun:f:v_rod:nv:abbr 
+                                  noun:f:v_zna:nv:abbr 
+                                  noun:p:v_dav:nv:abbr 
+                                  noun:p:v_mis:nv:abbr 
+                                  noun:p:v_naz:nv:abbr 
+                                  noun:p:v_oru:nv:abbr 
+                                  noun:p:v_rod:nv:abbr 
+                                  noun:p:v_zna:nv:abbr
+ 
+подругами             подруга     noun:p:v_oru:anim 
+
+у	                    у     prep:rv_zna:rv_mis:rv_rod:v-u 
+
+це	                  цей     adj:n:v_naz:&pron:dem 
+                                  adj:n:v_zna:&pron:dem 
+
+кафе	                 кафе     noun:n:v_dav:nv 
+                                  noun:n:v_mis:nv 
+                                  noun:n:v_naz:nv 
+                                  noun:n:v_oru:nv 
+                                  noun:n:v_rod:nv 
+                                  noun:n:v_zna:nv 
+                                  noun:p:v_dav:nv 
+                                  noun:p:v_mis:nv 
+                                  noun:p:v_naz:nv 
+                                  noun:p:v_oru:nv 
+                                  noun:p:v_rod:nv 
+                                  noun:p:v_zna:nv 
+
+,	                    -     - 
+
+тірамісу	            -     - 
+
+коштувало           коштувати     verb:past:n:imperf 
+
+20	                   20     number 
+
+грн	                  грн     noun:f:v_dav:nv:abbr 
+                                  noun:f:v_mis:nv:abbr 
+                                  noun:f:v_naz:nv:abbr 
+                                  noun:f:v_oru:nv:abbr 
+                                  noun:f:v_rod:nv:abbr 
+                                  noun:f:v_zna:nv:abbr 
+                                  noun:p:v_dav:nv:abbr 
+                                  noun:p:v_mis:nv:abbr 
+                                  noun:p:v_naz:nv:abbr 
+                                  noun:p:v_oru:nv:abbr 
+                                  noun:p:v_rod:nv:abbr 
+                                  noun:p:v_zna:nv:abbr 
+
+,	                    -     - 
+
+нас	                   ми     noun:p:v_mis:anim:&pron:pers:1
+                                  noun:p:v_rod:anim:&pron:pers:1
+                                  noun:p:v_zna:anim:&pron:pers:1
+
+обвішали             обвішати     verb:past:p:perf 
+
+и	                    -     - 
+
+додали	               додати     verb:past:p:perf 
+
+10	                   10     number 
+
+грн	                  грн     noun:f:v_dav:nv:abbr 
+                                  noun:f:v_mis:nv:abbr 
+                                  noun:f:v_naz:nv:abbr 
+                                  noun:f:v_oru:nv:abbr 
+                                  noun:f:v_rod:nv:abbr 
+                                  noun:f:v_zna:nv:abbr 
+                                  noun:p:v_dav:nv:abbr 
+                                  noun:p:v_mis:nv:abbr 
+                                  noun:p:v_naz:nv:abbr 
+                                  noun:p:v_oru:nv:abbr 
+                                  noun:p:v_rod:nv:abbr 
+                                  noun:p:v_zna:nv:abbr 
+
+а	                    а     conj:coord 
+                                  excl 
+                                  part 
+
+якщо	                 якщо     conj:subord 
+
+у                           у     prep:rv_zna:rv_mis:rv_rod:v-u 
+
+нас	                   ми     noun:p:v_mis:anim:&pron:pers:1
+                                  noun:p:v_rod:anim:&pron:pers:1
+                                  noun:p:v_zna:anim:&pron:pers:1
+          
+не	                   не     part 
+
+було	                 бути     verb:past:n:imperf 
+
+цих	                  цей     adj:p:v_mis:&pron:dem 
+                                  adj:p:v_rod:&pron:dem 
+                                  adj:p:v_zna:&pron:dem 
+
+грошей	                гроші     noun:p:v_rod 
+?	                    -     SENT_END 
+
+
+	                    -     SENT_START 
+Я	                    я     noun:s:v_naz:anim:&pron:pers:1
+
+в	                    в     prep:rv_zna:rv_mis:rv_rod:v-u 
+
+жахіті	                    -     - 
+!	                    -     SENT_END 
+
+
+	                    -     SENT_START 
+До	                   до     prep:rv_rod 
+
+усіх	                увесь     adj:p:v_mis:&pron:dem 
+                                  adj:p:v_rod:&pron:dem 
+                                  adj:p:v_zna:&pron:dem 
+
+зауважень          зауваження     noun:p:v_rod 
+
+,	                    -     - 
+
+які	                 який     adj:p:v_naz:&pron:int:rel:def 
+                                  adj:p:v_zna:&pron:int:rel:def
+ 
+були	                 бути     verb:past:p:imperf 
+
+викладені          викладений     adjp:pasv:past:p:v_naz 
+                                  adjp:pasv:past:p:v_zna 
+
+вище	                 вище     adv:compr:compr 
+                      високий     adj:n:v_naz:compr 
+                                  adj:n:v_zna:compr
+                       високо     adv:compr 
+
+можна	                можна     predic 
+
+додати	               додати     verb:inf:perf 
+
+і	                    і     conj:coord 
+                                  part 
+
+те	                  той     adj:n:v_naz:&pron:dem 
+                                  adj:n:v_zna:&pron:dem 
+
+,	                    -     - 
+
+що	                   що     conj:subord 
+                                  noun:n:v_naz:inanim:&pron:int:rel
+                                  noun:n:v_zna:inanim:&pron:int:rel
+
+в	                    в     prep:rv_zna:rv_mis:rv_rod:v-u 
+
+цьому	                  цей     adj:m:v_dav:&pron:dem 
+                                  adj:m:v_mis:&pron:dem 
+                                  adj:n:v_dav:&pron:dem 
+                                  adj:n:v_mis:&pron:dem 
+ 
+закладі 	       заклад     noun:m:v_mis 
+
+появитись           появитися     verb:rev:inf:perf 
+
+дуже	                 дуже     adv 
+                        дужий     adj:n:v_naz:compb 
+                                  adj:n:v_zna:compb 
+
+цікаві	              цікавий     adj:p:v_naz:compb 
+                                  adj:p:v_zna:compb 
+
+«	                    -     - 
+
+гальби	               гальба     noun:f:v_rod 
+
+»	                    -     - 
+
+для	                  для     prep:rv_rod 
+
+пива	                 пиво     noun:n:v_rod 
+                                  noun:p:v_naz 
+                                  noun:p:v_zna 
+. 	                    -     SENT_END 
+
+
+	                    -     SENT_START 
+На	                   на     excl 
+                                  part 
+                                  prep:rv_zna:rv_mis 
+
+вигляд	               вигляд     noun:m:v_naz 
+                                  noun:m:v_zna 
+
+як	                   як     adv:&pron:int:rel 
+                                  conj:subord 
+                                  noun:m:v_naz:anim 
+                                  part 
+
+велика	              великий     adj:f:v_naz:compb 
+
+склянка	              склянка     noun:f:v_naz 
+
+,	                    -     - 
+
+але	                  але     conj:coord 
+                                  excl 
+
+об'ємом	                об'єм     noun:m:v_oru 
+          
+380-400	              380-400     number 
+
+мл	                   мл     noun:m:v_dav:nv:abbr 
+                                  noun:m:v_mis:nv:abbr 
+                                  noun:m:v_naz:nv:abbr 
+                                  noun:m:v_oru:nv:abbr 
+                                  noun:m:v_rod:nv:abbr 
+                                  noun:m:v_zna:nv:abbr 
+                                  noun:p:v_dav:nv:abbr 
+                                  noun:p:v_mis:nv:abbr 
+                                  noun:p:v_naz:nv:abbr 
+                                  noun:p:v_oru:nv:abbr 
+                                  noun:p:v_rod:nv:abbr 
+                                  noun:p:v_zna:nv:abbr 
+.	                    -     SENT_END 
+
+
+
+	                    -     SENT_START 
+Тобто	                тобто     conj:subord 
+                                  part 
+
+коли	                 коли     adv:&pron:int:rel 
+                                  conj:subord 
+                                  part 
+                       колоти     verb:impr:s:2:imperf 
+                          кіл     noun:p:v_naz 
+                                  noun:p:v_zna 
+
+хтось	                хтось     noun:v_naz:anim:&pron:ind
+
+замовляє            замовляти     verb:pres:s:3:imperf 
+
+0.5	                    -     - 
+
+л	                    -     - 
+
+якогось	               якийсь     adj:m:v_rod:&pron:ind 
+                                  adj:m:v_zna:&pron:ind 
+                                  adj:n:v_rod:&pron:ind 
+
+там	                  там     adv:&pron:dem 
+                                  part 
+
+пива	                 пиво     noun:n:v_rod 
+                                  noun:p:v_naz 
+                                  noun:p:v_zna 
+
+(	                    -     - 
+
+як	                   як     adv:&pron:int:rel 
+                                  conj:subord 
+                                  noun:m:v_naz:anim 
+                                  part 
+
+правило	              правило     noun:n:v_naz
+                                  noun:n:v_naz
+                      правити     verb:past:n:imperf 
+ 
+розбавленого      розбавлений     adjp:pasv:past:m:v_rod 
+                                  adjp:pasv:past:m:v_zna 
+                                  adjp:pasv:past:n:v_rod 
+
+)	                    -     - 
+
+,	                    -     - 
+
+насправді           насправді     adv 
+
+отримає	             отримати     verb:futr:s:3:perf 
+
+менше	                малий     adj:n:v_naz:compr
+                                  adj:n:v_zna:compr 
+                         мало     adv:compr 
+.	                    -     SENT_END 
+
+
+	                    -     SENT_START 
+Цим	                  цей     adj:m:v_oru:&pron:dem
+                                  adj:n:v_oru:&pron:dem 
+                                  adj:p:v_dav:&pron:dem 
+
+повинні	             повинний     adj:p:v_naz 
+                                  adj:p:v_zna 
+
+зацікавились     зацікавитися     verb:rev:past:p:perf 
+
+відповідні        відповідний     adj:p:v_naz:compb 
+                                  adj:p:v_zna:compb 
+
+служби	               служба     noun:f:v_rod 
+                                  noun:p:v_naz 
+                                  noun:p:v_zna 
+
+.	                    -     SENT_END 
+
+	                    -     SENT_START 
+
+30	                   30     number 
+
+серпня	              серпень     noun:m:v_rod 
+
+2015	                 2015     number 
+
+року	                  рок     noun:m:v_dav 
+                                  noun:m:v_mis 
+                                  noun:m:v_rod 
+                          рік     noun:m:v_dav 
+                                  noun:m:v_mis 
+                                  noun:m:v_rod 
+
+відгуляли           відгуляти     verb:past:p:perf 
+
+моє	                  мій     adj:n:v_naz:&pron:pos 
+                                  adj:n:v_zna:&pron:pos
+ 
+найкраще              хороший     adj:n:v_naz:super 
+                                  adj:n:v_zna:super
+ 
+весілля	              весілля     noun:n:v_naz 
+                                  noun:n:v_rod 
+                                  noun:n:v_zna 
+                                  noun:p:v_naz 
+                                  noun:p:v_zna 
+
+у	                    у     prep:rv_zna:rv_mis:rv_rod:v-u 
+
+Білому	                білий     adj:m:v_dav:compb 
+                                  adj:m:v_mis:compb 
+                                  adj:n:v_dav:compb 
+                                  adj:n:v_mis:compb 
+
+залі	                  зал     noun:m:v_mis 
+                         зала     noun:f:v_dav 
+                                  noun:f:v_mis 
+
+на	                   на     excl 
+                                  part 
+                                  prep:rv_zna:rv_mis 
+
+«	                    -     - 
+
+Високому              високий     adj:m:v_dav:compb 
+                                  adj:m:v_mis:compb 
+                                  adj:n:v_dav:compb 
+                                  adj:n:v_mis:compb 
+
+Замку	                замок     noun:m:v_dav 
+                                  noun:m:v_mis 
+                                  noun:m:v_rod 
+
+»	                    -     - 
+.	                    -     SENT_END 
+
+
+	                    -     SENT_START 
+Враження             враження     noun:n:v_naz 
+                                  noun:n:v_rod 
+                                  noun:n:v_zna 
+                                  noun:p:v_naz 
+                                  noun:p:v_zna 
+
+найкращі              хороший     adj:p:v_naz:super 
+                                  adj:p:v_zna:super
+.	                    -     SENT_END 
+
+
+	                    -     SENT_START 
+Класичний           класичний     adj:m:v_naz 
+                                  adj:m:v_zna 
+
+не	                   не     part 
+
+зайвий	               зайвий     adj:m:v_naz 
+                                  adj:m:v_zna
+ 
+стиль	                стиль     noun:m:v_naz 
+                                  noun:m:v_zna 
+
+залу	                  зал     noun:m:v_dav 
+                                  noun:m:v_mis 
+                                  noun:m:v_rod 
+                         зала     noun:f:v_zna 
+
+дуже	                 дуже     adv 
+                        дужий     adj:n:v_naz:compb 
+                                  adj:n:v_zna:compb 
+
+пасував	             пасувати     verb:past:m:imperf 
+
+моєму	                  мій     adj:m:v_dav:&pron:pos
+                                  adj:m:v_mis:&pron:pos
+                                  adj:n:v_dav:&pron:pos 
+                                  adj:n:v_mis:&pron:pos 
+
+класичному          класичний     adj:m:v_dav 
+                                  adj:m:v_mis 
+                                  adj:n:v_dav 
+                                  adj:n:v_mis 
+
+весіллю	              весілля     noun:n:v_dav 
+                                  noun:n:v_mis 
+.	                    -     SENT_END 
+
+
+	                    -     SENT_START 
+Кухня	                кухня     noun:f:v_naz 
+
+дуже	                 дуже     adv
+                        дужий     adj:n:v_naz:compb 
+                                  adj:n:v_zna:compb 
+          
+добра	               добрий     adj:f:v_naz:compb 
+                        добро     noun:n:v_rod 
+.	                    -     SENT_END 
+
+
+	                    -     SENT_START 
+Відгуки	               відгук     noun:p:v_naz 
+                                  noun:p:v_zna 
+
+гостей	                гостя     noun:p:v_rod:anim 
+                                  noun:p:v_zna:anim 
+
+найкращі              хороший     adj:p:v_naz:super 
+                                  adj:p:v_zna:super 
+.	                    -     SENT_END 
+
+
+	                    -     SENT_START 
+Я	                    я     noun:s:v_naz:anim:&pron:pers:1
+
+як	                   як     adv:&pron:int:rel 
+                                  conj:subord 
+                                  noun:m:v_naz:anim 
+                                  part 
+
+наречена             наречена     noun:f:v_kly:anim 
+                                  noun:f:v_naz:anim 
+                     наречений    adjp:pasv:past:f:v_naz 
+
+,	                     -    -
+
+які	                  який    adj:p:v_naz:&pron:int:rel:def 
+                                  adj:p:v_zna:&pron:int:rel:def 
+
+було	                  бути    verb:past:n:imperf 
+
+важливо	               важливо    adv:compb 
+
+декорування        декорування    noun:n:v_naz 
+                                  noun:n:v_rod 
+                                  noun:n:v_zna 
+                                  noun:p:v_naz 
+                                  noun:p:v_zna 
+
+із	                    із    prep:rv_rod:rv_zna:rv_oru 
+
+флористкою	             -    - 
+
+поставили            поставити    verb:past:p:perf 
+ 
+по	                    по    prep:rv_mis:rv_zna 
+
+одній	                  один    numr:f:v_dav 
+                                  numr:f:v_mis 
+
+композиції          композиція    noun:f:v_dav 
+                                  noun:f:v_mis 
+                                  noun:f:v_rod 
+                                  noun:p:v_naz 
+                                  noun:p:v_zna 
+
+на	                   на     excl 
+                                  part 
+                                  prep:rv_zna:rv_mis 
+
+столи	                 стіл     noun:p:v_naz 
+                                  noun:p:v_zna 
+
+для	                  для     prep:rv_rod 
+
+гостей	                гостя     noun:p:v_rod:anim 
+                                  noun:p:v_zna:anim 
+
+та	                   та     conj:coord 
+                                  part 
+
+композицію         композиція     noun:f:v_zna 
+
+на	                   на     excl 
+                                  part 
+                                  prep:rv_zna:rv_mis 
+
+стіл	                 стіл     noun:m:v_naz 
+                                  noun:m:v_zna 
+
+для	                  для     prep:rv_rod 
+
+молодих	              молодий     adj:p:v_mis:compb 
+                                  adj:p:v_rod:compb 
+                                  adj:p:v_zna:compb 
+.	                    -     SENT_END 
+
+
+	                    -     SENT_START 
+Гамму	                гамма     noun:f:v_zna 
+ 
+вибрала	              вибрати     verb:past:f:perf 
+
+фіолетово-біло-зелену       -     - 
+.	                    -     SENT_END 
+
+
+
+	                    -     SENT_START 
+Це 	                  цей     adj:n:v_naz:&pron:dem
+                                  adj:n:v_zna:&pron:dem
+
+були	                 бути     verb:past:p:imperf 
+
+гладіолуси          гладіолус     noun:p:v_naz 
+                                  noun:p:v_zna 
+
+,	                    -     - 
+
+жоржини	              жоржина     noun:f:v_rod 
+                                  noun:p:v_naz 
+                                  noun:p:v_zna 
+
+,	                    -     -
+
+троянди	              троянда     noun:f:v_rod 
+                                  noun:p:v_naz 
+                                  noun:p:v_zna 
+
+,	                    -     - 
+
+лілії	                лілія     noun:f:v_dav 
+                                  noun:f:v_mis 
+                                  noun:f:v_rod 
+                                  noun:p:v_naz 
+                                  noun:p:v_zna 
+
+та	                   та     conj:coord 
+                                  part 
+
+плющ	                 плющ     noun:m:v_naz 
+                                  noun:m:v_zna 
+.	                    -     SENT_END 
+
+
+	                    -     SENT_START 
+Все	                  все     adv:v-u 
+                                  conj:coord:v-u 
+                                  part:v-u 
+
+                         весь     adj:n:v_naz:&pron:dem
+                                  adj:n:v_zna:&pron:dem
+
+це	                  цей     adj:n:v_naz:&pron:dem
+                                  adj:n:v_zna:&pron:dem
+
+повністю             повністю     adv 
+
+гармоніювало     гармоніювати     verb:past:n:imperf 
+.	                    -     SENT_END 
+
+
+	                    -     SENT_START 
+Було	                 бути     verb:past:n:imperf 
+
+легко	                легко     adv:compb 
+
+та	                   та     conj:coord 
+                                  part 
+повітряно	            -     - 
+.	                    -     SENT_END 
+
+
+
+	                    -     SENT_START 
+Не	                   не     part 
+
+перенасичувало перенасичувати     verb:past:n:imperf 
+.	                    -     SENT_END 
+
+ 
+	                    -     SENT_START 
+Зал	                  зал     noun:m:v_naz 
+                                  noun:m:v_zna 
+                         зала     noun:p:v_rod 
+
+самодостатній   самодостатній     adj:f:v_dav 
+                                  adj:f:v_mis 
+                                  adj:m:v_naz 
+                                  adj:m:v_zna 
+
+тому	                 тому     adv
+                                  conj:subord 
+                          том     noun:m:v_dav 
+                                  noun:m:v_mis 
+                                  noun:m:v_rod 
+                          той     adj:m:v_dav:&pron:dem
+                                  adj:m:v_mis:&pron:dem
+                                  adj:n:v_dav:&pron:dem 
+                                  adj:n:v_mis:&pron:dem 
+
+інших	                інший     adj:p:v_mis:&pron:def 
+                                  adj:p:v_rod:&pron:def 
+                                  adj:p:v_zna:&pron:def 
+
+елеменітв	            -     - 
+ 
+декору	                декор     noun:m:v_dav 
+                                  noun:m:v_mis 
+                                  noun:m:v_rod 
+
+не	                   не     part
+ 
+робили	               робити     verb:past:p:imperf 
+
+...	                    -     - 
+
+наприклад           наприклад     insert 
+
+накидок	              накидка     noun:p:v_rod 
+
+на	                   на     excl 
+                                  part 
+                                  prep:rv_zna:rv_mis 
+
+столи	                 стіл     noun:p:v_naz 
+                                  noun:p:v_zna 
+.	                    -     SENT_END 
+
+
+	                    -     SENT_START 
+Улюблені            улюблений     adj:p:v_naz:compb:&adjp:pasv:past
+                                  adj:p:v_zna:compb:&adjp:pasv:past
+
+квіти	                квіти     noun:p:v_naz 
+                                  noun:p:v_zna 
+ 
+і	                    і     conj:coord 
+                                  part 
+
+цього	                  цей     adj:m:v_rod:&pron:dem 
+                                  adj:m:v_zna:&pron:dem 
+                                  adj:n:v_rod:&pron:dem 
+
+було	                 бути     verb:past:n:imperf 
+
+достатньо           достатньо     adv 
+.	                    -     SENT_END 
+
+
+	                    -     SENT_START 
+Фото	                 фото     noun:n:v_dav:nv 
+                                  noun:n:v_mis:nv 
+                                  noun:n:v_naz:nv 
+                                  noun:n:v_oru:nv 
+                                  noun:n:v_rod:nv 
+                                  noun:n:v_zna:nv 
+                                  noun:p:v_dav:nv 
+                                  noun:p:v_mis:nv 
+                                  noun:p:v_naz:nv 
+                                  noun:p:v_oru:nv 
+                                  noun:p:v_rod:nv 
+                                  noun:p:v_zna:nv
+ 
+можу	                могти     verb:unknown 
+
+вислати	              вислати     verb:inf:perf 
+.	                    -     SENT_END 
+
+	                    -     SENT_START 
+Випадково           випадково     adv 
+
+побачили             побачити     verb:past:p:perf 
+
+рекламку	            -     - 
+
+про	                  про     prep:rv_zna 
+
+їхній	                їхній     adj:f:v_dav:&pron:pos 
+                                  adj:f:v_mis:&pron:pos 
+                                  adj:m:v_naz:&pron:pos
+                                  adj:m:v_zna:&pron:pos
+
+сирник	               сирник     noun:m:v_naz 
+                                  noun:m:v_zna 
+.	                    -     SENT_END 
+
+
+	                    -     SENT_START 
+Зайшли	                зайти     verb:past:p:perf
+.	                    -     SENT_END 
+
+
+	                    -     SENT_START 
+Не	                   не     part 
+
+розчарувались   розчаруватися     verb:rev:past:p:perf 
+
+,	                    -     - 
+
+справді	              справді     adv 
+                                  insert 
+                                  part 
+
+смачно	               смачно     adv:compb 
+
+і	                    і     conj:coord 
+                                  part 
+
+великий	              великий     adj:m:v_naz:compb 
+                                  adj:m:v_zna:compb 
+
+шматочок             шматочок     noun:m:v_naz 
+                                  noun:m:v_zna 
+
+як	                   як     adv:&pron:int:rel 
+                                  conj:subord 
+                                  noun:m:v_naz:anim 
+                                  part 
+
+за	                   за     prep:rv_rod:rv_zna:rv_oru
+
+такі	                такий     adj:p:v_naz:&pron:def 
+                                  adj:p:v_zna:&pron:def 
+
+гроші	                гроші     noun:p:v_naz 
+                                  noun:p:v_zna 
+                         гріш     noun:m:v_mis 
+.	                    -     SENT_END
+
+
+	                    -     SENT_START 
+Дякую	             дякувати     verb:pres:s:1:imperf 
+
+!	                    -     - 
+
+!	                    -     - 
+!		            -     SENT_END
+
+ 
+	                    -     SENT_START 
+Все	                  все     adv:v-u 
+                                  conj:coord:v-u 
+                                  part:v-u 
+                         весь     adj:n:v_naz:&pron:dem
+                                  adj:n:v_zna:&pron:dem
+
+дуже	                 дуже     adv
+                        дужий     adj:n:v_naz:compb 
+                                  adj:n:v_zna:compb 
+
+сподобалось       сподобатися     verb:rev:past:n:perf 
+!                           -     SENT_END
+
+
+	                    -     SENT_START 
+Особливо             особливо     adv
+ 
+офіціантка         офіціантка     noun:f:v_naz:anim 
+
+Катя	                 Катя     noun:f:v_naz:anim:fname 
+
+(	                    -     - 
+
+якщо                     якщо     conj:subord 
+
+я	                    я     noun:s:v_naz:anim:&pron:pers:1 
+
+не	                   не     part 
+
+переплутала       переплутати     verb:past:f:perf 
+
+ім'я	                 ім'я     noun:n:v_naz 
+                                  noun:n:v_zna 
+
+,	                    -     - 
+
+сподіваюсь        сподіватися     verb:rev:pres:s:1:imperf 
+
+,	                    -     - 
+
+що	                   що     conj:subord 
+                                  noun:n:v_naz:inanim:&pron:int:rel
+                                  noun:n:v_zna:inanim:&pron:int:rel
+
+ні	                   ні     part 
+
+:	                    -     - 
+
+)	                    -     - 
+
+)	                    -     - 
+.	                    -     SENT_END
+
+
+	                    -     SENT_START 
+Допомогла           допомогти     verb:past:f:perf
+ 
+нам	                   ми     noun:p:v_dav:anim:&pron:pers:1
+
+розважати           розважати     verb:inf:imperf 
+
+півторарічну    півторарічний     adj:f:v_zna 
+
+донечку               донечка     noun:f:v_zna:anim 
+!	                    -     SENT_END
+
+
+
+	                    -     SENT_START 
+Дуже	                 дуже     adv 
+                        дужий     adj:n:v_naz:compb 
+                                  adj:n:v_zna:compb 
+
+ввічлива            ввічливий     adj:f:v_naz:v-u 
+
+і	                    і     conj:coord 
+                                  part 
+
+швидка	              швидкий     adj:f:v_naz:compb 
+!	                    -     SENT_END
+
+
+	                    -     SENT_START 
+Страви	               страва     noun:f:v_rod 
+                                  noun:p:v_naz 
+                                  noun:p:v_zna 
+
+теж	                  теж     adv 
+                                  part 
+
+сподобались       сподобатися     verb:rev:past:p:perf 
+!	                    -     SENT_END
+
+
+	                    -     SENT_START 
+Особливо             особливо     adv 
+
+Манош	                    -     - 
+
+та	                   та     conj:coord 
+                                  part 
+
+суп-пюре             суп-пюре     noun:m:v_naz 
+                                  noun:m:v_zna 
+
+курка	                курка     noun:f:v_naz:anim 
+                        курок     noun:m:v_rod 
+
+зі	                   зі     prep:rv_rod:rv_zna:rv_oru
+
+шпинатом               шпинат     noun:m:v_oru 
+!	                    -     SENT_END
+
+
+	                    -     SENT_START 
+Ще	                   ще     adv 
+                                  part 
+
+раз	                  раз     adv 
+                                  conj:subord 
+                                  noun:m:v_naz 
+                                  noun:m:v_zna 
+ 
+дякую	             дякувати     verb:pres:s:1:imperf 
+!	                    -     SENT_END
+
+	                    -     SENT_START
+Дуже	                 дуже     adv
+                        дужий     adj:n:v_naz:compb 
+                                  adj:n:v_zna:compb 
+
+приємні	             приємний     adj:p:v_naz:compb 
+                                  adj:p:v_zna:compb 
+
+враження             враження     noun:n:v_naz 
+                                  noun:n:v_rod 
+                                  noun:n:v_zna 
+                                  noun:p:v_naz 
+                                  noun:p:v_zna 
+!	                    -     SENT_END
+
+	                    -     SENT_START 
+Начитавшись        начитатися     advp:rev:perf
+ 
+гарних                 гарний     adj:p:v_mis:compb 
+                                  adj:p:v_rod:compb 
+                                  adj:p:v_zna:compb 
+
+відгуків               відгук     noun:p:v_rod 
+
+вирішили             вирішити     verb:past:p:perf 
+
+завітати             завітати     verb:inf:perf 
+.	                    -     SENT_END
+
+
+	                    -     SENT_START 
+Завітали             завітати     verb:past:p:perf 
+
+,	                    -     - 
+
+були	                 бути     verb:past:p:imperf 
+
+неприємно           неприємно     adv:compb 
+
+вражені	             вражений     adjp:pasv:past:p:v_naz 
+                                  adjp:pasv:past:p:v_zna 
+
+рівнем	               рівень     noun:m:v_oru 
+
+обслуговування обслуговування     noun:n:v_naz 
+                                  noun:n:v_rod 
+                                  noun:n:v_zna 
+                                  noun:p:v_naz 
+                                  noun:p:v_zna 
+
+,	                    -     - 
+
+звучали	              звучати     verb:past:p:imperf 
+
+закиди	                закид     noun:p:v_naz 
+                                  noun:p:v_zna 
+
+про	                  про     prep:rv_zna 
+
+російської         російський     adj:f:v_rod 
+
+мови	                 мова     noun:f:v_rod 
+                                  noun:p:v_naz 
+                                  noun:p:v_zna 
+
+(	                    -     - 
+
+ми	                   ми     noun:p:v_naz:anim:&pron:pers:1
+
+хотіли	               хотіти     verb:past:p:imperf
+ 
+торгуватися       торгуватися     verb:rev:inf:imperf 
+
+по-одеські	            -     - 
+
+на	                   на     prep:rv_zna:rv_mis 
+
+російській         російський     adj:f:v_dav 
+                                  adj:f:v_mis  
+
+мові	                 мова     noun:f:v_dav
+ 
+                                  noun:f:v_mis 
+
+)	                    -     - 
+
+та	                   та     conj:coord 
+                                  part 
+
+нажаль	               нажаль     insert:bad 
+
+низкий	                    -     - 
+
+рівень	               рівень     noun:m:v_naz 
+                                  noun:m:v_zna 
+
+культури             культура     noun:f:v_rod 
+                                  noun:p:v_naz 
+                                  noun:p:v_zna 
+
+офіціанів	            -     - 
+
+та	                   та     conj:coord 
+                                  part 
+
+їх                       вони     noun:p:v_rod:&pron:pers:3 
+                                  noun:p:v_zna:&pron:pers:3 
+
+правовий             правовий     adj:m:v_naz 
+                                  adj:m:v_zna
+ 
+нігілізм             нігілізм     noun:m:v_naz 
+                                  noun:m:v_zna 
+
+не                         не     part 
+
+дали                     дати     verb:past:p:perf 
+
+змоги                   змога     noun:f:v_rod 
+                                  noun:p:v_naz 
+                                  noun:p:v_zna 
+
+зробити	              зробити     verb:inf:perf 
+
+цього                     цей     adj:m:v_rod:&pron:dem 
+                                  adj:m:v_zna:&pron:dem 
+                                  adj:n:v_rod:&pron:dem 
+.	                    -     SENT_END
+
+
+	                    -     SENT_START 
+Офіціантів           офіціант     noun:p:v_rod:anim 
+                                  noun:p:v_zna:anim 
+
+треба	                треба     predic 
+
+ознайомити         ознайомити     verb:inf:perf 
+
+під	                  під     prep:rv_zna:rv_oru
+ 
+підпис	               підпис     noun:m:v_naz 
+                                  noun:m:v_zna 
+
+з	                    з     prep:rv_rod:rv_zna:rv_oru
+
+правилами             правило     noun:p:v_oru 
+
+елементарної     елементарний     adj:f:v_rod:compb 
+
+етики	                етика     noun:f:v_rod 
+
+та	                   та     conj:coord 
+                                  part 
+
+поведінки           поведінка     noun:f:v_rod 
+
+та	                   та     conj:coord 
+                                  part 
+
+зі	                   зі     prep:rv_rod:rv_zna:rv_oru
+
+статтею	               стаття     noun:f:v_oru 
+
+7	                    7     number 
+
+Закону	                закон     noun:m:v_dav 
+                                  noun:m:v_mis 
+                                  noun:m:v_rod 
+
+України	              Україна     noun:f:v_rod 
+                                  noun:p:v_naz 
+                                  noun:p:v_zna 
+
+«	                    -     - 
+
+Про	                  про     prep:rv_zna 
+
+засади	             засадити     verb:impr:s:2:perf 
+
+                       засада     noun:f:v_rod 
+                                  noun:p:v_naz 
+                                  noun:p:v_zna 
+
+державної           державний     adj:f:v_rod 
+
+мовної	               мовний     adj:f:v_rod 
+
+політики              політик     noun:p:v_kly:anim 
+                                  noun:p:v_naz:anim 
+
+                     політика     noun:f:v_rod 
+                                  noun:p:v_naz 
+                                  noun:p:v_zna 
+
+»	                    -     - 
+.	                    -     SENT_END
+
+	                    -     SENT_START 
+Цей	                  цей     adj:m:v_naz:&pron:dem 
+                                  adj:m:v_zna:&pron:dem 
+
+заклад	               заклад     noun:m:v_naz 
+                                  noun:m:v_zna 
+
+нікому	                ніхто     noun:v_dav:anim:&pron:neg
+
+не	                   не     part 
+
+рекомендую      рекомендувати     verb:futr:s:1:perf 
+                                  verb:pres:s:1:imperf 
+
+!	                    -     - 
+
+!	                    -     - 
+
+!	                    -     - 
+!	                    -     SENT_END
+
+
+	                    -     SENT_START 
+Добрий	               добрий     adj:m:v_naz:compb 
+                                  adj:m:v_zna:compb 
+                      добрити     verb:impr:s:2:imperf 
+
+день	                 день     noun:m:v_naz 
+                                  noun:m:v_zna 
+
+,	                    -     - 
+
+дорогі	              дорогий     adj:p:v_naz:compb 
+                                  adj:p:v_zna:compb 
+
+мої	                  мій     adj:p:v_naz:&pron:pos 
+                                  adj:p:v_zna:&pron:pos 
+!	                    -     SENT_END
+
+
+	                    -     SENT_START
+Від	                  від     prep:rv_rod 
+
+першого	               перший     adj:m:v_rod 
+                                  adj:m:v_zna 
+                                  adj:n:v_rod 
+
+візиту	                візит     noun:m:v_dav 
+                                  noun:m:v_mis 
+                                  noun:m:v_rod 
+
+до	                   до     prep:rv_rod 
+
+Криївки	              криївка     noun:f:v_rod 
+                                  noun:p:v_naz 
+                                  noun:p:v_zna 
+
+в	                    в     prep:rv_zna:rv_mis:rv_rod:v-u 
+
+липні	               липень     noun:m:v_mis 
+                                  noun:p:v_naz 
+                                  noun:p:v_zna 
+
+2011	                 2011     number 
+
+року	                  рок     noun:m:v_dav 
+                                  noun:m:v_mis 
+                                  noun:m:v_rod 
+                          рік     noun:m:v_dav 
+                                  noun:m:v_mis 
+                                  noun:m:v_rod 
+
+ми	                   ми     noun:p:v_naz:anim:&pron:pers:1
+
+з	                    з     prep:rv_rod:rv_zna:rv_oru 
+
+чоловіком             чоловік     noun:m:v_oru:anim 
+
+були	                 бути     verb:past:p:imperf 
+
+в	                    в     prep:rv_zna:rv_mis:rv_rod:v-u 
+
+захваті	               захват     noun:m:v_mis 
+.	                    -     SENT_END
+
+
+	                    -     SENT_START 
+Якість	               якість     noun:f:v_naz 
+                                  noun:f:v_zna
+ 
+страв	               страва     noun:p:v_rod 
+
+,	                    -     - 
+
+обслуговування обслуговування     noun:n:v_naz 
+                                  noun:n:v_rod 
+                                  noun:n:v_zna 
+                                  noun:p:v_naz 
+                                  noun:p:v_zna 
+
+,	                    -     - 
+
+атмосфера           атмосфера     noun:f:v_naz 
+
+,	                    -     - 
+
+ціни	               цінити     verb:impr:s:2:imperf 
+
+                         ціна     noun:f:v_rod 
+                                  noun:p:v_naz 
+                                  noun:p:v_zna 
+
+–	                    -     - 
+
+супер	                супер     noun:m:v_naz 
+                                  noun:m:v_zna 
+.	                    -     SENT_END
+
+
+	                    -     SENT_START 
+На	                   на     excl 
+                                  part 
+                                  prep:rv_zna:rv_mis 
+
+хвилі	                хвиля     noun:f:v_dav 
+                                  noun:f:v_mis 
+                                  noun:f:v_rod 
+                                  noun:p:v_naz 
+                                  noun:p:v_zna 
+
+приємних             приємний     adj:p:v_mis:compb 
+                                  adj:p:v_rod:compb 
+                                  adj:p:v_zna:compb
+ 
+спогадів               спогад     noun:p:v_rod 
+
+вирішили             вирішити     verb:past:p:perf 
+
+завітали             завітати     verb:past:p:perf 
+
+до	                   до     prep:rv_rod 
+
+Вас	                   ви     noun:p:v_mis:anim:&pron:pers:2
+                                  noun:p:v_rod:anim:&pron:pers:2
+                                  noun:p:v_zna:anim:&pron:pers:2
+
+через	                через     prep:rv_zna 
+
+чотири	               чотири     numr:p:v_naz 
+                                  numr:p:v_zna 
+
+роки	                  рік     noun:p:v_naz 
+                                  noun:p:v_zna 
+
+19	                   19     number 
+
+вересня	             вересень     noun:m:v_rod 
+
+2015	                 2015     number 
+
+року	                  рок     noun:m:v_dav 
+                                  noun:m:v_mis 
+                                  noun:m:v_rod 
+                          рік     noun:m:v_dav 
+                                  noun:m:v_mis 
+                                  noun:m:v_rod 
+.	                    -     SENT_END
+
+
+	                    -     SENT_START
+Довга	               довгий     adj:f:v_naz:compb 
+
+черга	                черга     noun:f:v_naz 
+
+до	                   до     prep:rv_rod 
+
+закладу	               заклад     noun:m:v_dav 
+                                  noun:m:v_mis 
+                                  noun:m:v_rod 
+                     закласти     verb:futr:s:1:perf 
+
+не	                   не     part 
+
+здивувала           здивувати     verb:past:f:perf 
+
+,	                    -     - 
+
+вирішили             вирішити     verb:past:p:perf 
+
+дочекатись         дочекатися     verb:rev:inf:perf 
+.	                    -     SENT_END
+
+	                    -     SENT_START 
+Коротко	              коротко     adv:compb 
+
+про	                  про     prep:rv_zna 
+
+сумне	               сумний     adj:n:v_naz:compb 
+                                  adj:n:v_zna:compb 
+
+:	                    -     - 
+
+Замовити             замовити     verb:inf:perf 
+
+заказ	                    -     - 
+
+було	                 бути     verb:past:n:imperf 
+
+складно	              складно     adv:compb 
+
+,	                    -     - 
+
+дуже	                 дуже     adv
+                        дужий     adj:n:v_naz:compb 
+                                  adj:n:v_zna:compb 
+
+темно	                темно     adv:compb 
+.	                    -     SENT_END
+
+	                    -     SENT_START 
+Освітлення         освітлення     noun:n:v_naz 
+                                  noun:n:v_rod 
+                                  noun:n:v_zna 
+                                  noun:p:v_naz 
+                                  noun:p:v_zna 
+
+яке	                 який     adj:n:v_naz:&pron:int:rel:def
+                                  adj:n:v_zna:&pron:int:rel:def
+
+світить	              світити     verb:pres:s:3:imperf 
+
+через	                через     prep:rv_zna 
+
+тканину	              тканина     noun:f:v_zna 
+
+на	                   на     excl 
+                                  part 
+                                  prep:rv_zna:rv_mis 
+
+стелі	                стела     noun:f:v_dav 
+                                  noun:f:v_mis 
+
+                        стеля     noun:f:v_dav 
+                                  noun:f:v_mis 
+                                  noun:f:v_rod 
+                                  noun:p:v_naz 
+                                  noun:p:v_zna 
+
+треба	                треба     predic 
+
+посилити             посилити     verb:inf:perf 
+.	                    -     SENT_END
+
+
+	                    -     SENT_START 
+Вирішили             вирішити     verb:past:p:perf 
+
+замовити             замовити     verb:inf:perf 
+
+те	                  той     adj:n:v_naz:&pron:dem 
+                                  adj:n:v_zna:&pron:dem 
+
+,	                    -     - 
+
+що	                   що     conj:subord 
+                                  noun:n:v_naz:inanim:&pron:int:rel
+                                  noun:n:v_zna:inanim:&pron:int:rel
+
+замовляли           замовляти     verb:past:p:imperf 
+
+першим	               перший     adj:m:v_oru 
+                                  adj:n:v_oru 
+                                  adj:p:v_dav 
+
+разом	                разом     adv 
+
+                          раз     noun:m:v_oru 
+.	                    -     SENT_END
+
+	                    -     SENT_START 
+Заказ	                    -     - 
+
+офіціант             офіціант     noun:m:v_naz:anim 
+
+Юля	                  Юля     noun:f:v_naz:anim:fname 
+
+принесла             принести     verb:past:f:perf 
+
+дуже	                 дуже     adv 
+                        дужий     adj:n:v_naz:compb 
+                                  adj:n:v_zna:compb 
+
+швидко	               швидко     adv:compb 
+
+,	                    -     - 
+
+але	                  але     conj:coord 
+                                  excl 
+
+:	                    -     - 
+   
+Смалець	              смалець     noun:m:v_naz 
+                                  noun:m:v_zna 
+
+був	                 бути     verb:past:m:imperf 
+
+настільки           настільки     adv 
+
+жидкий	                    -     - 
+
+,	                    -     - 
+
+що	                   що     conj:subord 
+                                  noun:n:v_naz:inanim:&pron:int:rel
+                                  noun:n:v_zna:inanim:&pron:int:rel
+
+капав	               капати     verb:past:m:imperf 
+
+з	                    з     prep:rv_rod:rv_zna:rv_oru 
+
+ножа	                  ніж     noun:m:v_rod 
+                                  noun:m:v_zna 
+.	                    -     SENT_END
+
+
+	                    -     SENT_START 
+Страва		       страва     noun:f:v_naz 
+
+Пательня	     пательня     noun:f:v_naz 
+
+(	                    -     - 
+
+картопля	     картопля     noun:f:v_naz
+
+,	                    -     - 
+
+ковбаса	              ковбаса     noun:f:v_naz 
+
+,	                    -     - 
+
+помідори	      помідор     noun:p:v_naz 
+                                  noun:p:v_zna 
+
+,	                    -     - 
+
+гриби	                 гриб     noun:p:v_naz 
+                                  noun:p:v_zna 
+
+,	                    -     - 
+
+сир	                  сир     noun:m:v_naz 
+                                  noun:m:v_zna 
+
+)	                    -     - 
+
+нас	                   ми     noun:p:v_mis:anim:&pron:pers:1
+                                  noun:p:v_rod:anim:&pron:pers:1
+                                  noun:p:v_zna:anim:&pron:pers:1
+
+здивувала           здивувати     verb:past:f:perf 
+.	                    -     SENT_END
+
+
+	                    -     SENT_START 
+При	                  при     prep:rv_mis 
+
+                        перти     verb:impr:s:2:imperf 
+
+такому	                такий     adj:m:v_dav:&pron:def 
+                                  adj:m:v_mis:&pron:def 
+                                  adj:n:v_dav:&pron:def 
+                                  adj:n:v_mis:&pron:def 
+
+потоці	                потік     noun:m:v_mis 
+
+людей	                 люди     noun:p:v_rod:anim 
+                                  noun:p:v_zna:anim 
+
+годувати	     годувати     verb:inf:imperf 
+
+своїх	                 свій     adj:p:v_mis:&pron:pos 
+                                  adj:p:v_rod:&pron:pos 
+                                  adj:p:v_zna:&pron:pos 
+
+мешканців	    мешканець     noun:p:v_rod:anim 
+                                  noun:p:v_zna:anim 
+
+та	                   та     conj:coord 
+                                  part 
+
+гостей	                гостя     noun:p:v_rod:anim 
+                                  noun:p:v_zna:anim 
+
+міста	                місто     noun:n:v_rod 
+                                  noun:p:v_naz 
+                                  noun:p:v_zna 
+
+не	                   не     part 
+
+свіжими	               свіжий     adj:p:v_oru:compb 
+
+продуктами	      продукт     noun:p:v_oru 
+?	                    -     SENT_END
+
+
+	                    -     SENT_START 
+Ви	                   ви     noun:p:v_kly:anim:&pron:pers:2 
+                                  noun:p:v_naz:anim:&pron:pers:2
+
+мене	                    я     noun:s:v_rod:anim:&pron:pers:1
+                                  noun:s:v_zna:anim:&pron:pers:1
+
+вибачте	             вибачити     verb:impr:p:2:perf 
+.	                    -     SENT_END
+
+
+	                    -     SENT_START 
+Про	                  про     prep:rv_zna 
+
+що	                   що     conj:subord 
+                                  noun:n:v_naz:inanim:&pron:int:rel
+                                  noun:n:v_zna:inanim:&pron:int:rel
+
+думає	               думати     verb:pres:s:3:imperf 
+
+менеджер	     менеджер     noun:m:v_naz:anim 
+
+Вашого	                  ваш     adj:m:v_rod:&pron:pos 
+                                  adj:m:v_zna:&pron:pos 
+                                  adj:n:v_rod:&pron:pos 
+
+закладу	               заклад     noun:m:v_dav 
+                                  noun:m:v_mis 
+                                  noun:m:v_rod 
+
+                     закласти     verb:futr:s:1:perf 
+
+роблячи	               робити     advp:imperf 
+
+продуктовий	  продуктовий     adj:m:v_naz 
+                                  adj:m:v_zna 
+
+заказ	                    -     - 
+.	                    -     SENT_END
+
+
+	                    -     SENT_START 
+Не	                   не     part 
+
+свіжу	               свіжий     adj:f:v_zna:compb
+ 
+ковбасу	              ковбаса     noun:f:v_zna 
+
+не	                   не     part 
+
+можна	                можна     predic 
+
+їсти	                 їсти     verb:inf:imperf
+ 
+,	                    -     - 
+
+тим	                  той     adj:m:v_oru:&pron:dem 
+                                  adj:n:v_oru:&pron:dem 
+                                  adj:p:v_dav:&pron:dem 
+
+паче	                 паче     adv 
+
+в	                    в     prep:rv_zna:rv_mis:rv_rod:v-u 
+
+нагрітому	     нагрітий     adjp:pasv:past:m:v_dav 
+                                  adjp:pasv:past:m:v_mis 
+                                  adjp:pasv:past:n:v_dav 
+                                  adjp:pasv:past:n:v_mis 
+
+вигляді	               вигляд     noun:m:v_mis 
+!	                    -     SENT_END
+
+
+	                    -     SENT_START 
+Ні	                   ні     part 
+
+помідори	      помідор     noun:p:v_naz 
+                                  noun:p:v_zna 
+
+ні	                   ні     part 
+
+сир	                  сир     noun:m:v_naz 
+                                  noun:m:v_zna 
+
+ситуацію	     ситуація     noun:f:v_zna 
+
+не	                   не     part 
+
+змінили	              змінити     verb:past:p:perf 
+.	                    -     SENT_END
+
+
+	                    -     SENT_START 
+Великий	              великий     adj:m:v_naz:compb 
+                                  adj:m:v_zna:compb 
+ 
+привіт	               привіт     noun:m:v_naz 
+                                  noun:m:v_zna 
+
+поварам	                повар     noun:p:v_dav:anim 
+.	                    -     SENT_END
+
+
+	                    -     SENT_START 
+Дуже	                 дуже     adv 
+                        дужий     adj:n:v_naz:compb 
+                                  adj:n:v_zna:compb 
+
+сумно	                сумно     adv:compb 
+.	                    -     SENT_END
+
+
+	                    -     SENT_START 
+Зіпсований	   зіпсований     adjp:pasv:past:m:v_naz 
+                                  adjp:pasv:past:m:v_zna 
+
+настрій	              настрій     noun:m:v_naz 
+                                  noun:m:v_zna 
+
+,	                    -     - 
+
+дуже	                 дуже     adv
+                        дужий     adj:n:v_naz:compb 
+                                  adj:n:v_zna:compb 
+
+погане	              поганий     adj:n:v_naz:compb 
+                                  adj:n:v_zna:compb 
+
+самопочуття	  самопочуття     noun:n:v_naz 
+                                  noun:n:v_rod 
+                                  noun:n:v_zna 
+
+,	                    -     - 
+
+у	                    у     prep:rv_zna:rv_mis:rv_rod:v-u 
+
+вечері                 вечеря     noun:f:v_dav 
+                                  noun:f:v_mis 
+                                  noun:f:v_rod 
+                                  noun:p:v_naz 
+                                  noun:p:v_zna 
+
+лікувались	   лікуватися     verb:rev:past:p:imperf 
+!	                    -     SENT_END
+
+	                    -     SENT_START 
+Сподіваємось	  сподіватися     verb:rev:pres:p:1:imperf
+
+керівництво	  керівництво     noun:n:v_naz 
+                                  noun:n:v_zna 
+
+закладу	               заклад     noun:m:v_dav 
+                                  noun:m:v_mis 
+                                  noun:m:v_rod 
+                     закласти     verb:futr:s:1:perf 
+
+прийме	             прийняти     verb:futr:s:3:perf 
+
+відповідне	  відповідний     adj:n:v_naz:compb 
+                                  adj:n:v_zna:compb 
+
+рішення	              рішення     noun:n:v_naz 
+                                  noun:n:v_rod 
+                                  noun:n:v_zna 
+                                  noun:p:v_naz 
+                                  noun:p:v_zna 
+.	                    -     SENT_END
+
+
+	                    -     SENT_START 
+Вибачте	             вибачити     verb:impr:p:2:perf 
+
+ті	                  той     adj:p:v_naz:&pron:dem 
+                                  adj:p:v_zna:&pron:dem 
+
+кому	                 кома     noun:f:v_zna 
+                          хто     noun:m:v_dav:anim:&pron:int:rel
+
+зіпсувала	    зіпсувати     verb:past:f:perf 
+
+настрій	              настрій     noun:m:v_naz 
+                                  noun:m:v_zna
+ 
+,	                    -     - 
+
+але	                  але     conj:coord 
+                                  excl 
+
+ж	                    ж     conj:coord 
+                                  part 
+
+хочеться	     хотітися     verb:rev:pres:s:3:imperf 
+
+щоб	                  щоб     conj:subord 
+                                  part 
+
+таке	                такий     adj:n:v_naz:&pron:def 
+                                  adj:n:v_zna:&pron:def 
+
+не	                   не     part 
+
+повторювалось	повторюватися     verb:rev:past:n:imperf 
+.	                    -     SENT_END
+
+
+	                    -     SENT_START 
+Заклад	               заклад     noun:m:v_naz 
+                                  noun:m:v_zna 
+
+залишив	             залишити     verb:past:m:perf 
+
+неприємні	   неприємний     adj:p:v_naz:compb 
+                                  adj:p:v_zna:compb 
+
+відчуття	     відчуття     noun:n:v_naz 
+                                  noun:n:v_rod 
+                                  noun:n:v_zna 
+.	                    -     SENT_END
+
+
+	                    -     SENT_START 
+початку	             спочатку     adv 
+
+чекали	               чекати     verb:past:p:imperf 
+
+хвилин	              хвилина     noun:p:v_rod
+ 
+20	                   20     number 
+
+доки	                 доки     adv:&pron:int:rel 
+                                  conj:subord 
+
+                          док     noun:p:v_naz 
+                                  noun:p:v_zna 
+
+хтось	                хтось     noun:v_naz:anim:&pron:ind
+
+підійде	              підійти     verb:futr:s:3:perf 
+
+до	                   до     prep:rv_rod 
+
+нашого	                  наш     adj:m:v_rod:&pron:pos 
+                                  adj:m:v_zna:&pron:pos 
+                                  adj:n:v_rod:&pron:pos 
+
+столику	               столик     noun:m:v_dav 
+                                  noun:m:v_mis 
+
+і	                    і     conj:coord 
+                                  part 
+
+прийме	             прийняти     verb:futr:s:3:perf 
+
+замовлення	   замовлення     noun:n:v_naz 
+                                  noun:n:v_rod 
+                                  noun:n:v_zna 
+                                  noun:p:v_naz 
+                                  noun:p:v_zna 
+.	                    -     SENT_END
+
+
+	                    -     SENT_START 
+Підійшла	      підійти     verb:past:f:perf 
+
+приємна	             приємний     adj:f:v_naz:compb 
+
+дівчина	              дівчина     noun:f:v_naz:anim 
+
+,	                    -     - 
+
+яка	                   як     noun:m:v_rod:anim 
+                                  noun:m:v_zna:anim 
+
+                         який     adj:f:v_naz:&pron:int:rel:def 
+
+з	                    з     prep:rv_rod:rv_zna:rv_oru 
+
+приємною	     приємний     adj:f:v_oru:compb 
+
+посмішкою	     посмішка     noun:f:v_oru 
+
+відразу	              відразу     adv
+                      відраза     noun:f:v_zna 
+
+прийняла	     прийняти     verb:past:f:perf 
+
+замовлення	   замовлення     noun:n:v_naz 
+                                  noun:n:v_rod 
+                                  noun:n:v_zna 
+                                  noun:p:v_naz 
+                                  noun:p:v_zna 
+
+,	                    -     - 
+
+не	                   не     part 
+
+встигши	            встигнути     advp:perf:v-u 
+                      встигти     advp:perf:v-u 
+
+відійти	              відійти     verb:inf:perf 
+
+від	                  від     prep:rv_rod 
+
+нашого	                  наш     adj:m:v_rod:&pron:pos 
+                                  adj:m:v_zna:&pron:pos 
+                                  adj:n:v_rod:&pron:pos 
+
+столику	               столик     noun:m:v_dav 
+                                  noun:m:v_mis 
+
+почала	               почати     verb:past:f:perf 
+
+розповідати	  розповідати     verb:inf:imperf 
+
+своє	                 свій     adj:n:v_naz:&pron:pos 
+                                  adj:n:v_zna:&pron:pos 
+
+обурення	     обурення     noun:n:v_naz 
+                                  noun:n:v_rod 
+                                  noun:n:v_zna 
+                                  noun:p:v_naz 
+                                  noun:p:v_zna 
+
+,	                    -     - 
+
+що	                   що     conj:subord 
+                                  noun:n:v_naz:inanim:&pron:int:rel
+                                  noun:n:v_zna:inanim:&pron:int:rel
+
+ніби	                 ніби     conj:subord 
+                                  part 
+
+на	                   на     prep:rv_zna:rv_mis
+ 
+неї	                 вона     noun:f:v_rod:&pron:pers:3 
+                                  noun:f:v_zna:&pron:pers:3 
+
+всі	                 весь     adj:p:v_naz:&pron:dem 
+                                  adj:p:v_zna:&pron:dem 
+
+накинулися	   накинутися     verb:rev:past:p:perf 
+
+з	                    з     prep:rv_rod:rv_zna:rv_oru 
+
+цим	                  цей     adj:m:v_oru:&pron:dem 
+                                  adj:n:v_oru:&pron:dem 
+                                  adj:p:v_dav:&pron:dem 
+
+замовленням	   замовлення     noun:n:v_oru 
+                                  noun:p:v_dav 
+
+своїм	                 свій     adj:m:v_mis:&pron:pos 
+                                  adj:m:v_oru:&pron:pos 
+                                  adj:n:v_mis:&pron:pos 
+                                  adj:n:v_oru:&pron:pos 
+                                  adj:p:v_dav:&pron:pos 
+
+колегам	               колега     noun:p:v_dav:anim 
+
+,	                    -     - 
+
+які	                 який     adj:p:v_naz:&pron:int:rel:def 
+                                  adj:p:v_zna:&pron:int:rel:def 
+
+щойно	                щойно     adv 
+                                  conj:subord 
+                                  part 
+підійшли	      підійти     verb:past:p:perf 
+.	                    -     SENT_END
+
+
+	                    -     SENT_START 
+Нехай	                нехай     conj:subord 
+                                  part 
+                      нехаяти     verb:impr:s:2:imperf 
+
+адміністратори	адміністратор     noun:p:v_kly:anim 
+                                  noun:p:v_naz:anim 
+
+закладу	               заклад     noun:m:v_dav 
+                                  noun:m:v_mis 
+                                  noun:m:v_rod 
+
+                     закласти     verb:futr:s:1:perf 
+
+краще	              хороший     adj:n:v_naz:compr 
+                                  adj:n:v_zna:compr 
+
+добирають	     добирати     verb:pres:p:3:imperf 
+
+персонал	     персонал     noun:m:v_naz 
+                                  noun:m:v_zna
+ 
+,	                    -     - 
+
+або	                  або     conj:coord 
+
+слідкують	   слідкувати     verb:pres:p:3:imperf 
+,	                    -     - 
+
+щоб	                  щоб     conj:subord 
+                                  part 
+
+на	                   на     prep:rv_zna:rv_mis 
+
+кожному	               кожний     adj:m:v_dav:&pron:def 
+                                  adj:m:v_mis:&pron:def 
+                                  adj:n:v_dav:&pron:def 
+                                  adj:n:v_mis:&pron:def 
+
+поверсі    	       поверх     noun:m:v_mis 
+
+були	                 бути     verb:past:p:imperf 
+
+певна	               певний     adj:f:v_naz:compb 
+
+кількість	    кількість     noun:f:v_naz 
+                                  noun:f:v_zna 
+
+офіціантів	     офіціант     noun:p:v_rod:anim 
+                                  noun:p:v_zna:anim 
+.	                    -     SENT_END
+
+
+	                    -     SENT_START 
+Їжа	                  їжа     noun:f:v_naz 
+
+була	                булий     adjp:actv:past:f:v_naz 
+                         бути     verb:past:f:imperf 
+
+несмачна	    несмачний     adj:f:v_naz 
+
+,	                    -     - 
+
+недосолена	  недосолений     adjp:pasv:past:f:v_naz 
+
+і	                    і     conj:coord 
+                                  part 
+
+ціни	               цінити     verb:impr:s:2:imperf 
+                         ціна     noun:f:v_rod 
+                                  noun:p:v_naz 
+                                  noun:p:v_zna 
+
+значно	               значно     adv:compb 
+завищені	    завищений     adjp:pasv:past:p:v_naz 
+                                  adjp:pasv:past:p:v_zna 
+.	                    -     SENT_END
+
+
+	                    -     SENT_START 
+Плюс	                 плюс     noun:m:v_naz 
+                                  noun:m:v_zna
+ 
+до	                   до     prep:rv_rod 
+
+всього	                 весь     adj:m:v_rod:&pron:dem 
+                                  adj:m:v_zna:&pron:dem 
+                                  adj:n:v_rod:&pron:dem 
+
+вище	                 вище     adv:compr:compr 
+                      високий     adj:n:v_naz:compr 
+                                  adj:n:v_zna:compr 
+                       високо     adv:compr 
+
+вказаного	     вказаний     adjp:pasv:past:m:v_rod:v-u 
+                                  adjp:pasv:past:m:v_zna:v-u 
+                                  adjp:pasv:past:n:v_rod:v-u 
+
+у	                    у     prep:rv_zna:rv_mis:rv_rod:v-u 
+
+наш	                  наш     adj:m:v_naz:&pron:pos 
+                                  adj:m:v_zna:&pron:pos 
+
+рахунок	              рахунок     noun:m:v_naz 
+                                  noun:m:v_zna 
+
+дописали	     дописати     verb:past:p:perf 
+
+зайві	               зайвий     adj:p:v_naz 
+                                  adj:p:v_zna
+ 
+позиції	              позиція     noun:f:v_dav 
+                                  noun:f:v_mis 
+                                  noun:f:v_rod 
+                                  noun:p:v_naz 
+                                  noun:p:v_zna 
+
+,	                    -     - 
+
+які	                 який     adj:p:v_naz:&pron:int:rel:def 
+                                  adj:p:v_zna:&pron:int:rel:def 
+
+ми	                   ми     noun:p:v_naz:anim:&pron:pers:1
+
+не	                   не     part 
+замовляли	    замовляти     verb:past:p:imperf 
+.	                    -     SENT_END
+
+
+	                    -     SENT_START 
+ПРОСТО	               просто     adv:compb 
+                                  part 
+                                  prep:rv_rod 
+
+ЖАХ	                  жах     noun:m:v_naz 
+                                  noun:m:v_zna 
+.	                    -     SENT_END
+
+
+	                    -     SENT_START 
+ВАМ	                   ви     noun:p:v_dav:anim:&pron:pers:2
+
+МАЄ	                 мати     verb:pres:s:3:imperf 
+                        маяти     verb:pres:s:3:imperf 
+
+БУТИ	                 бути     verb:inf:imperf 
+
+СОРОМНО	              соромно     adv 
+
+ЗА	                   за     prep:rv_rod:rv_zna:rv_oru
+ 
+ТАКЕ	                такий     adj:n:v_naz:&pron:def 
+                                  adj:n:v_zna:&pron:def 
+
+ПОВОДЖЕННЯ	   поводження     noun:n:v_naz 
+                                  noun:n:v_rod 
+                                  noun:n:v_zna 
+                                  noun:p:v_naz 
+                                  noun:p:v_zna 
+
+З	                    з     prep:rv_rod:rv_zna:rv_oru 
+
+КЛІЄНТАМИ	       клієнт     noun:p:v_oru:anim 
+.	                    -     SENT_END
+
+
+	                    -     SENT_START 
+Враження	     враження     noun:n:v_naz 
+                                  noun:n:v_rod 
+                                  noun:n:v_zna 
+                                  noun:p:v_naz 
+                                  noun:p:v_zna 
+
+залишились	   залишитися     verb:rev:past:p:perf 
+
+і	                    і     conj:coord 
+                                  part 
+
+хороші	              хороший     adj:p:v_naz:compb 
+                                  adj:p:v_zna:compb 
+
+,	                    -     - 
+
+і	                    і     conj:coord 
+                                  part 
+
+не	                   не     part 
+
+дуже	                 дуже     adv 
+                        дужий     adj:n:v_naz:compb 
+                                  adj:n:v_zna:compb 
+.	                    -     SENT_END
+
+
+	                    -     SENT_START 
+Почнем	               почати     verb:futr:p:1:perf 
+
+з	                    з     prep:rv_rod:rv_zna:rv_oru
+
+«	                    -     - 
+
+не	                   не     part 
+
+дуже	                 дуже     adv 
+                        дужий     adj:n:v_naz:compb 
+                                  adj:n:v_zna:compb 
+
+»	                    -     - 
+.	                    -     SENT_END
+
+
+	                    -     SENT_START 
+Зрозуміло	    зрозуміло     adv:compb 
+                    зрозуміти     verb:past:n:perf 
+
+,	                    -     - 
+
+що	                   що     conj:subord 
+                                  noun:n:v_naz:inanim:&pron:int:rel
+                                  noun:n:v_zna:inanim:&pron:int:rel
+
+найбільше	       багато     adv:super 
+                      великий     adj:n:v_naz:super 
+                                  adj:n:v_zna:super 
+
+людей	                 люди     noun:p:v_rod:anim 
+                                  noun:p:v_zna:anim 
+
+збирається	    збиратися     verb:rev:pres:s:3:imperf 
+
+там	                  там     adv:&pron:dem 
+                                  part 
+
+після	                після     adv 
+                                  prep:rv_rod 
+
+10-11	                10-11     number 
+
+години	               година     noun:f:v_rod 
+                                  noun:p:v_naz 
+                                  noun:p:v_zna
+ 
+вечора	                вечір     noun:m:v_rod
+ 
+,	                    -     - 
+
+але	                  але     conj:coord 
+                                  excl 
+
+ж	                    ж     conj:coord 
+                                  part 
+
+не	                   не     part 
+
+означає	             означати     verb:pres:s:3:imperf 
+
+,	                    -     - 
+
+що	                   що     conj:subord 
+                                  noun:n:v_naz:inanim:&pron:int:rel
+                                  noun:n:v_zna:inanim:&pron:int:rel
+
+до	                   до     prep:rv_rod 
+
+цього	                  цей     adj:m:v_rod:&pron:dem 
+                                  adj:m:v_zna:&pron:dem 
+                                  adj:n:v_rod:&pron:dem 
+
+відвідувачів	   відвідувач     noun:p:v_rod:anim 
+                                  noun:p:v_zna:anim 
+
+менше	                малий     adj:n:v_naz:compr 
+                                  adj:n:v_zna:compr 
+                         мало     adv:compr 
+
+,	                    -     - 
+
+і	                    і     conj:coord 
+                                  part 
+
+можна	                можна     predic 
+
+ними	                 вони     noun:p:v_oru:&pron:pers:3 
+
+«	                    -     - 
+
+не	                   не     part 
+
+паритись	     паритися     verb:rev:inf:imperf 
+
+»	                    -     - 
+.	                    -     SENT_END
+
+
+	                    -     SENT_START 
+Тому	                 тому     adv 
+                                  conj:subord 
+                          том     noun:m:v_dav 
+                                  noun:m:v_mis 
+                                  noun:m:v_rod 
+                          той     adj:m:v_dav:&pron:dem 
+                                  adj:m:v_mis:&pron:dem 
+                                  adj:n:v_dav:&pron:dem 
+                                  adj:n:v_mis:&pron:dem 
+
+шо	                    -     - 
+
+до	                   до     prep:rv_rod 
+
+9-10	                 9-10     number 
+
+вечора	                вечір     noun:m:v_rod 
+
+там	                  там     adv:&pron:dem 
+                                  part 
+
+просто	               просто     adv:compb 
+                                  part 
+                                  prep:rv_rod 
+
+нічого	               нічого     adv 
+                                  predic 
+                         ніщо     noun:v_rod:inanim:&pron:neg
+                                  noun:v_zna:inanim:&pron:neg
+
+не	                   не     part 
+
+відбувається	  відбуватися     verb:rev:pres:s:3:imperf 
+.	                    -     SENT_END
+
+
+	                    -     SENT_START 
+Ні	                   ні     part 
+
+шоу	                  шоу     noun:n:v_dav:nv 
+                                  noun:n:v_mis:nv 
+                                  noun:n:v_naz:nv 
+                                  noun:n:v_oru:nv 
+                                  noun:n:v_rod:nv 
+                                  noun:n:v_zna:nv 
+                                  noun:p:v_dav:nv 
+                                  noun:p:v_mis:nv 
+                                  noun:p:v_naz:nv 
+                                  noun:p:v_oru:nv 
+                                  noun:p:v_rod:nv 
+                                  noun:p:v_zna:nv 
+
+,	                    -     - 
+
+ні	                   ні     part 
+
+цікавинок	    цікавинка     noun:p:v_rod 
+
+,	                    -     - 
+
+сидите	               сидіти     verb:pres:p:2:imperf 
+
+собі	                 себе     noun:m:v_dav:&pron:refl 
+                                  noun:m:v_mis:&pron:refl 
+                                  noun:n:v_dav:&pron:refl 
+                                  noun:n:v_mis:&pron:refl 
+
+і	                    і     conj:coord 
+                                  part 
+
+їсте	                 їсти     verb:pres:p:2:imperf 
+
+під	                  під     prep:rv_zna:rv_oru 
+
+музику	               музика     noun:f:v_zna 
+                                  noun:f:v_zna:anim 
+
+з	                    з     prep:rv_rod:rv_zna:rv_oru
+
+колонок	              колонка     noun:p:v_rod 
+.	                    -     SENT_END
+
+
+	                    -     SENT_START 
+Можна	                можна     predic 
+
+якусь	               якийсь     adj:f:v_zna:&pron:ind 
+
+програму	     програма     noun:f:v_zna 
+
+для	                  для     prep:rv_rod 
+
+розігріву	     розігрів     noun:m:v_dav 
+                                  noun:m:v_mis 
+                                  noun:m:v_rod 
+
+придумати	    придумати     verb:inf:perf 
+
+і	                    і     conj:coord 
+                                  part 
+
+на	                   на     excl 
+                                  part 
+                                  prep:rv_zna:rv_mis 
+
+початок	              початок     noun:m:v_naz 
+                                  noun:m:v_zna 
+
+вечора	                вечір     noun:m:v_rod 
+.	                    -     SENT_END
+
+
+	                    -     SENT_START 
+Щодо	                 щодо     prep:rv_rod 
+
+того	                  той     adj:m:v_rod:&pron:dem 
+                                  adj:m:v_zna:&pron:dem 
+                                  adj:n:v_rod:&pron:dem 
+
+,	                    -     - 
+
+що	                   що     conj:subord 
+                                  noun:n:v_naz:inanim:&pron:int:rel
+                                  noun:n:v_zna:inanim:&pron:int:rel
+
+відбувається	  відбуватися     verb:rev:pres:s:3:imperf 
+
+після	                після     adv 
+                                  prep:rv_rod 
+
+10	                   10     number
+ 
+—	                    -     - 
+
+враження	     враження     noun:n:v_naz 
+                                  noun:n:v_rod 
+                                  noun:n:v_zna 
+                                  noun:p:v_naz 
+                                  noun:p:v_zna 
+
+вже	                  вже     adv:v-u 
+
+хороші	              хороший     adj:p:v_naz:compb 
+                                  adj:p:v_zna:compb 
+.	                    -     SENT_END
+
+
+	                    -     SENT_START 
+Конкурси	      конкурс     noun:p:v_naz 
+                                  noun:p:v_zna 
+
+,	                    -     - 
+
+музика	               музика     noun:f:v_naz 
+                                  noun:f:v_naz:anim
+.	                    -     SENT_END
+
+
+	                    -     SENT_START 
+Якщо	                 якщо     conj:subord 
+
+святкуєте	   святкувати     verb:pres:p:2:imperf 
+
+День	                 день     noun:m:v_naz 
+                                  noun:m:v_zna 
+
+народження	   народження     noun:n:v_naz 
+                                  noun:n:v_rod 
+                                  noun:n:v_zna 
+                                  noun:p:v_naz 
+                                  noun:p:v_zna 
+
+—	                    -     - 
+
+торт	                 торт     noun:m:v_naz 
+                                  noun:m:v_zna 
+
+у	                    у     prep:rv_zna:rv_mis:rv_rod:v-u 
+
+подарунок	    подарунок     noun:m:v_naz 
+                                  noun:m:v_zna
+ 
+отримаєте	     отримати     verb:futr:p:2:perf 
+
+і	                    і     conj:coord 
+                                  part 
+
+будете	                 бути     verb:futr:p:2:imperf
+ 
+на	                   на     prep:rv_zna:rv_mis 
+
+сцені	                сцена     noun:f:v_dav 
+                                  noun:f:v_mis 
+
+стояти	               стояти     verb:inf:imperf 
+
+і	                    і     conj:coord 
+                                  part 
+
+слухати	              слухати     verb:inf:imperf 
+
+привітання	   привітання     noun:n:v_naz 
+                                  noun:n:v_rod 
+                                  noun:n:v_zna 
+                                  noun:p:v_naz 
+                                  noun:p:v_zna 
+
+:	                    -     - 
+
+)	                    -     - 
+
+Торт	                 торт     noun:m:v_naz 
+                                  noun:m:v_zna 
+
+на	                   на     excl 
+                                  part 
+                                  prep:rv_zna:rv_mis 
+
+смак	                 смак     noun:m:v_naz 
+                                  noun:m:v_zna 
+
+не	                   не     part 
+
+з	                    з     prep:rv_rod:rv_zna:rv_oru 
+
+найкращих	      хороший     adj:p:v_mis:super 
+                                  adj:p:v_rod:super 
+                                  adj:p:v_zna:super 
+
+,	                    -     - 
+
+які	                 який     adj:p:v_naz:&pron:int:rel:def
+                                  adj:p:v_zna:&pron:int:rel:def
+
+можна	                можна     predic 
+
+було	                 бути     verb:past:n:imperf 
+
+хотіти	               хотіти     verb:inf:imperf 
+
+,	                    -     - 
+
+але	                  але     conj:coord 
+                                  excl 
+
+на	                   на     excl 
+                                  part 
+                                  prep:rv_zna:rv_mis 
+
+бекоштовний	            -     - 
+
+гріх	                 гріх     noun:m:v_naz 
+                                  noun:m:v_zna 
+
+жалітись	     жалітися     verb:rev:inf:imperf 
+
+,	                    -     - 
+
+настрій	              настрій     noun:m:v_naz 
+                                  noun:m:v_zna 
+
+принаймні	    принаймні     adv 
+
+піднімає	    піднімати     verb:pres:s:3:imperf 
+
+:	                    -     - 
+
+)	                    -     - 
+
+Тому	                  том     noun:m:v_dav 
+                                  noun:m:v_mis 
+                                  noun:m:v_rod 
+                          той     adj:m:v_dav:&pron:dem 
+                                  adj:m:v_mis:&pron:dem 
+                                  adj:n:v_dav:&pron:dem 
+                                  adj:n:v_mis:&pron:dem 
+
+,	                    -     - 
+
+загалом	              загалом     adv 
+                        загал     noun:m:v_oru 
+
+,	                    -     - 
+
+якщо	                 якщо     conj:subord 
+
+приходити	    приходити     verb:inf:imperf 
+
+туди	                 туди     adv:&pron:dem 
+
+вже	                  вже     adv:v-u 
+
+для	                  для     prep:rv_rod 
+
+розваг	              розвага     noun:p:v_rod 
+
+,	                    -     - 
+
+варто	                варто     predic 
+
+лише	                 лише     conj:subord 
+                                  part 
+ї
+після	                після     adv     
+                                  prep:rv_rod 
+
+9-10	                 9-10     number 
+
+години	               година     noun:f:v_rod 
+                                  noun:p:v_naz 
+                                  noun:p:v_zna 
+
+,	                    -     - 
+
+до	                   до     prep:rv_rod 
+
+того	                  той     adj:m:v_rod:&pron:dem 
+                                  adj:m:v_zna:&pron:dem 
+                                  adj:n:v_rod:&pron:dem 
+
+там	                  там     adv:&pron:dem 
+                                  part 
+
+просто	               просто     adv:compb 
+                                  part     
+                                  prep:rv_rod 
+
+нудно	                нудно     adv 
+.	                    -     SENT_END
+
+
+	                    -     SENT_START 
+Цікавий	              цікавий     adj:m:v_naz:compb 
+                                  adj:m:v_zna:compb 
+
+інтер'єр	     інтер'єр     noun:m:v_naz 
+                                  noun:m:v_zna 
+
+-	                    -     - 
+
+величезні	   величезний     adj:p:v_naz 
+                                  adj:p:v_zna 
+
+лампи	                лампа     noun:f:v_rod 
+                                  noun:p:v_naz 
+                                  noun:p:v_zna 
+
+та	                   та     conj:coord 
+                                  part 
+
+картини	              картина     noun:f:v_rod 
+                                  noun:p:v_naz 
+                                  noun:p:v_zna 
+
+,	                    -     - 
+
+гігантські	  гігантський     adj:p:v_naz 
+                                  adj:p:v_zna 
+
+дзерксла	            -     - 
+
+на	                   на     excl 
+                                  part 
+                                  prep:rv_zna:rv_mis 
+
+стелі	                стела     noun:f:v_dav 
+                                  noun:f:v_mis 
+                        стеля     noun:f:v_dav 
+                                  noun:f:v_mis 
+                                  noun:f:v_rod 
+                                  noun:p:v_naz 
+                                  noun:p:v_zna 
+
+створюють	   створювати     verb:pres:p:3:imperf 
+
+враження	     враження     noun:n:v_naz 
+                                  noun:n:v_rod 
+                                  noun:n:v_zna 
+                                  noun:p:v_naz 
+                                  noun:p:v_zna 
+
+ніби	                 ніби     conj:subord 
+                                  part 
+
+ви	                   ви     noun:p:v_kly:anim:&pron:pers:2 
+                                  noun:p:v_naz:anim:&pron:pers:2
+
+потрапили	    потрапити     verb:past:p:perf 
+
+до	                   до     prep:rv_rod 
+
+казки	                казка     noun:f:v_rod 
+                                  noun:p:v_naz 
+                                  noun:p:v_zna 
+
+"	                    -     - 
+
+Аліса	                Аліса     noun:f:v_naz:anim:fname
+ 
+в	                    в     prep:rv_zna:rv_mis:rv_rod:v-u 
+
+країні	               країна     noun:f:v_dav 
+                                  noun:f:v_mis 
+
+чудес	               чудеса     noun:p:v_rod 
+
+"	                    -     - 
+
+,	                    -     - 
+
+екстер'єр	    екстер'єр     noun:m:v_naz 
+                                  noun:m:v_zna 
+
+також	                також     adv 
+                                  conj:coord 
+
+затишний	     затишний     adj:m:v_naz:compb 
+                                  adj:m:v_zna:compb 
+
+-	                    -     - 
+
+комфортні	   комфортний     adj:p:v_naz:compb 
+                                  adj:p:v_zna:compb 
+
+сезонні              сезонний     adj:p:v_naz 
+                                  adj:p:v_zna 
+
+літні	               літній     adj:p:v_naz 
+                                  adj:p:v_zna 
+                       літній     adj:p:v_naz 
+                                  adj:p:v_zna
+ 
+меблі	                меблі     noun:p:v_naz 
+                                  noun:p:v_zna
+ 
+,	                    -     - 
+
+багато	               багато     adv 
+                                  numr:p:v_naz:&pron:ind 
+                                  numr:p:v_zna:&pron:ind 
+
+квітів	                квіти     noun:p:v_rod 
+.	                    -     SENT_END
+
+
+	                    -     SENT_START 
+Зручні	              зручний     adj:p:v_naz:compb 
+                                  adj:p:v_zna:compb 
+
+меблі	                меблі     noun:p:v_naz 
+                                  noun:p:v_zna 
+.	                    -     SENT_END
+
+
+	                    -     SENT_START 
+Спокійна	    спокійний     adj:f:v_naz:compb 
+
+атмосфера	    атмосфера     noun:f:v_naz 
+
+,	                    -     - 
+
+якщо	                 якщо     conj:subord 
+
+ви	                   ви     noun:p:v_kly:anim:&pron:pers:2 
+                                  noun:p:v_naz:anim:&pron:pers:2
+
+бажаєте	               бажати     verb:pres:p:2:imperf 
+
+,	                    -     - 
+
+щоб	                  щоб     conj:subord 
+                                  part 
+
+вас	                   ви     noun:p:v_mis:anim:&pron:pers:2
+                                  noun:p:v_rod:anim:&pron:pers:2
+                                  noun:p:v_zna:anim:&pron:pers:2
+
+ніхто	                ніхто     noun:v_naz:anim:&pron:neg 
+
+не	                   не     part 
+
+турбував	    турбувати     verb:past:m:imperf 
+
+-	                    -     - 
+
+ця	                  цей     adj:f:v_naz:&pron:dem 
+
+кав'ярня	     кав'ярня     noun:f:v_naz 
+
+для	                  для     prep:rv_rod 
+
+вас	                   ви     noun:p:v_mis:anim:&pron:pers:2
+                                  noun:p:v_rod:anim:&pron:pers:2
+                                  noun:p:v_zna:anim:&pron:pers:2
+.	                    -     SENT_END
+
+
+	                    -     SENT_START 
+Лаунжовий	            -     - 
+
+музичний	     музичний     adj:m:v_naz 
+                                  adj:m:v_zna 
+
+супровід	     супровід     noun:m:v_naz 
+                                  noun:m:v_zna 
+.	                    -     SENT_END
+
+
+	                    -     SENT_START 
+Будьте	                 бути     verb:impr:p:3:imperf 
+
+готові	              готовий     adj:p:v_naz 
+                                  adj:p:v_zna 
+                          гот     noun:m:v_dav:anim 
+                                  noun:m:v_mis:anim 
+
+до	                   до     prep:rv_rod 
+
+самообслуговування самообслуговування  noun:n:v_naz 
+                                  noun:n:v_rod 
+                                  noun:n:v_zna 
+                                  noun:p:v_naz 
+                                  noun:p:v_zna 
+
+у	                    у     prep:rv_zna:rv_mis:rv_rod:v-u 
+
+широкому	      широкий     adj:m:v_dav:compb 
+                                  adj:m:v_mis:compb 
+                                  adj:n:v_dav:compb 
+                                  adj:n:v_mis:compb 
+
+значенні	     значення     noun:n:v_mis 
+
+-	                    -     - 
+
+до	                   до     prep:rv_rod 
+
+вас	                   ви     noun:p:v_mis:anim:&pron:pers:2
+                                  noun:p:v_rod:anim:&pron:pers:2
+                                  noun:p:v_zna:anim:&pron:pers:2
+
+ніхто	                ніхто     noun:v_naz:anim:&pron:neg 
+
+не	                   не     part 
+
+підійде        	      підійти     verb:futr:s:3:perf 
+
+,	                    -     - 
+
+а	                    а     conj:coord 
+                                  excl 
+                                  part 
+
+прибиральниці	прибиральниця     noun:f:v_dav:anim 
+                                  noun:f:v_mis:anim 
+                                  noun:f:v_rod:anim 
+                                  noun:p:v_kly:anim 
+                                  noun:p:v_naz:anim 
+
+будуть	                 бути     verb:futr:p:3:imperf 
+
+,	                    -     - 
+
+зверхньо	     зверхньо     adv 
+
+дивлячись	     дивитися     advp:rev:imperf 
+
+,	                    -     - 
+
+проходити	    проходити     verb:inf:imperf 
+
+повз	                 повз     adv 
+                                  prep:rv_zna 
+                       повзти     verb:past:m:imperf 
+.	                    -     SENT_END
+
+
+	                    -     SENT_START 
+Ціни	               цінити     verb:impr:s:2:imperf 
+                         ціна     noun:f:v_rod 
+                                  noun:p:v_naz 
+                                  noun:p:v_zna 
+
+неприємно	    неприємно     adv:compb 
+
+вразили	              вразити     verb:past:p:perf
+ 
+,	                    -     - 
+
+асортимент	   асортимент     noun:m:v_naz 
+                                  noun:m:v_zna 
+
+страв        	       страва     noun:p:v_rod 
+
+невеликий	    невеликий     adj:m:v_naz 
+                                  adj:m:v_zna 
+
+,	                    -     - 
+
+проте	                проте     adv 
+                                  conj:coord 
+                                  insert 
+
+це	                  цей     adj:n:v_naz:&pron:dem 
+                                  adj:n:v_zna:&pron:dem 
+
+нормально	    нормально     adv 
+
+так	                  так     adv:&pron:dem 
+                                  conj:coord:subord 
+                                  part 
+
+як	                   як     adv:&pron:int:rel 
+                                  conj:subord 
+                                  noun:m:v_naz:anim 
+                                  part 
+
+кафе	                 кафе     noun:n:v_dav:nv 
+                                  noun:n:v_mis:nv 
+                                  noun:n:v_naz:nv 
+                                  noun:n:v_oru:nv 
+                                  noun:n:v_rod:nv 
+                                  noun:n:v_zna:nv 
+                                  noun:p:v_dav:nv 
+                                  noun:p:v_mis:nv 
+                                  noun:p:v_naz:nv 
+                                  noun:p:v_oru:nv 
+                                  noun:p:v_rod:nv 
+                                  noun:p:v_zna:nv 
+
+позиціонує	позиціонувати     verb:pres:s:3:imperf:bad 
+
+себе	                 себе     noun:m:v_rod:&pron:refl 
+                                  noun:m:v_zna:&pron:refl 
+                                  noun:n:v_rod:&pron:refl 
+                                  noun:n:v_zna:&pron:refl 
+
+перш	                 перш     adv 
+
+за	                   за     prep:rv_rod:rv_zna:rv_oru
+
+все	                  все     adv:v-u 
+                                  conj:coord:v-u 
+                                  part:v-u 
+                         весь     adj:n:v_naz:&pron:dem 
+                                  adj:n:v_zna:&pron:dem 
+
+як	                   як     adv:&pron:int:rel 
+                                  conj:subord 
+                                  noun:m:v_naz:anim 
+                                  part 
+
+кав'ярня	     кав'ярня     noun:f:v_naz 
+.	                    -     SENT_END
+
+
+	                    -     SENT_START 
+А	                    а     conj:coord 
+                                  excl 
+                                  part 
+
+от	                   от     part 
+
+кава	                 кава     noun:f:v_naz 
+
+відверто	     відверто     adv:compb
+ 
+не	                   не     part 1
+
+смачна                смачний     adj:f:v_naz:compb 
+
+та	                   та     conj:coord 
+                                  part
+ 
+і	                    і     conj:coord 
+                                  part
+ 
+ціна	                 ціна     noun:f:v_naz 
+
+зовсім	               зовсім     adv 
+
+не	                   не     part 
+
+відповідає	  відповідати     verb:pres:s:3:imperf 
+
+смаку	                 смак     noun:m:v_dav 
+                                  noun:m:v_mis 
+                                  noun:m:v_rod 
+.	                    -     SENT_END
+
+
+	                    -     SENT_START 
+Всередині	    всередині     adv:v-u 
+
+дуже	                 дуже     adv 
+                        дужий     adj:n:v_naz:compb 
+                                  adj:n:v_zna:compb
+ 
+душно	                душно     adv 
+
+,	                    -     - 
+
+на	                   на     excl 
+                                  part 
+                                  prep:rv_zna:rv_mis 
+
+всі	                 весь     adj:p:v_naz:&pron:dem
+                                  adj:p:v_zna:&pron:dem
+
+зали	                  зал     noun:p:v_naz 
+                                  noun:p:v_zna 
+                         зала     noun:f:v_rod 
+                                  noun:p:v_naz 
+                                  noun:p:v_zna
+
+поставили	    поставити     verb:past:p:perf 
+
+тільки	               тільки     adv 
+                                  conj:subord 
+                                  part 
+
+два	                  два     numr:m:v_naz 
+                                  numr:m:v_zna 
+                                  numr:n:v_naz 
+                                  numr:n:v_zna 
+
+вентилятори	   вентилятор     noun:p:v_naz 
+                                  noun:p:v_zna 
+.	                    -     SENT_END
+
+
+	                    -     SENT_START 
+Влітку	               влітку     adv:v-u 
+
+неможливо	    неможливо     adv 
+
+всидіти	              всидіти     verb:inf:perf:v-u
+ 
+ні	                   ні     part 
+
+зовні	                зовні     adv 
+
+,	                    -     - 
+
+ні	                   ні     part
+ 
+всередині	    всередині     adv:v-u 
+.	                    -     SENT_END
+
+
+	                    -     SENT_START 
+Кав'ярня	     кав'ярня     noun:f:v_naz 
+
+не	                   не     part 
+
+нова	                новий     adj:f:v_naz:compb 
+
+,	                    -     - 
+
+але	                  але     conj:coord 
+                                  excl 
+
+немає	                немає     predic 
+
+жодного	               жодний     adj:m:v_rod:&pron 
+                                  adj:m:v_zna:&pron 
+                                  adj:n:v_rod:&pron 
+
+кондиціонера	  кондиціонер     noun:m:v_rod 
+!	                    -     SENT_END
+
+
+	                    -     SENT_START 
+Непогано	     непогано     adv 
+
+,	                    -     - 
+
+проте	                проте     adv 
+                                  conj:coord 
+                                  insert 
+
+,	                    -     -
+ 
+очікування	   очікування     noun:n:v_naz 
+                                  noun:n:v_rod 
+                                  noun:n:v_zna 
+                                  noun:p:v_naz 
+                                  noun:p:v_zna 
+
+були	                 бути     verb:past:p:imperf
+ 
+зведені	             зведений     adjp:pasv:past:p:v_naz 
+                                  adjp:pasv:past:p:v_zna 
+
+нанівець	     нанівець     adv 
+.	                    -     SENT_END
+
+
+	                    -     SENT_START 
+У	                    у     prep:rv_zna:rv_mis:rv_rod:v-u 
+
+Львові	                Львов     noun:m:v_mis:anim:lname 
+                        Львів     noun:m:v_mis 
+
+є	                 бути     verb:pres:p:1:imperf 
+                                  verb:pres:p:2:imperf 
+                                  verb:pres:p:3:imperf 
+                                  verb:pres:p::imperf 
+                                  verb:pres:s:1:imperf 
+                                  verb:pres:s:2:imperf 
+                                  verb:pres:s:3:imperf 
+                                  verb:pres:s::imperf 
+
+багато	               багато     adv 
+                                  numr:p:v_naz:&pron:ind 
+                                  numr:p:v_zna:&pron:ind 
+
+кращих	              хороший     adj:p:v_mis:compr 
+                                  adj:p:v_rod:compr 
+                                  adj:p:v_zna:compr
+ 
+кав'ярень	     кав'ярня     noun:p:v_rod 
+
+та	                   та     conj:coord 
+                                  part 
+
+кафе	                 кафе     noun:n:v_dav:nv 
+                                  noun:n:v_mis:nv 
+                                  noun:n:v_naz:nv 
+                                  noun:n:v_oru:nv 
+                                  noun:n:v_rod:nv 
+                                  noun:n:v_zna:nv 
+                                  noun:p:v_dav:nv 
+                                  noun:p:v_mis:nv 
+                                  noun:p:v_naz:nv 
+                                  noun:p:v_oru:nv 
+                                  noun:p:v_rod:nv 
+                                  noun:p:v_zna:nv
+ 
+,	                    -     - 
+
+аніж	                 аніж     conj:subord 
+
+"	                    -     - 
+
+Glory	                    -     - 
+
+Cafe	                    -     - 
+
+"	                    -     - 
+.	                    -     SENT_END
+
+
+	                    -     SENT_START 
+Якщо	                 якщо     conj:subord 
+
+є	                 бути     verb:pres:p:1:imperf 
+                                  verb:pres:p:2:imperf 
+                                  verb:pres:p:3:imperf 
+                                  verb:pres:p::imperf 
+                                  verb:pres:s:1:imperf 
+                                  verb:pres:s:2:imperf 
+                                  verb:pres:s:3:imperf 
+                                  verb:pres:s::imperf 
+
+час	                  час     noun:m:v_naz 
+                                  noun:m:v_zna 
+
+і	                    і     conj:coord 
+                                  part 
+
+сили	                 сила     noun:f:v_rod 
+                                  noun:p:v_naz 
+                                  noun:p:v_zna 
+
+-	                    -     - 
+
+проходьте	    проходити     verb:impr:p:2:imperf 
+
+повз	                 повз     adv 
+                                  prep:rv_zna 
+                       повзти     verb:past:m:imperf 
+
+та	                   та     conj:coord 
+                                  part 
+
+відвідайте	    відвідати     verb:impr:p:2:perf 
+
+реально	              реально     adv:compb 
+
+львівський	   львівський     adj:m:v_naz 
+                                  adj:m:v_zna 
+
+гарний	               гарний     adj:m:v_naz:compb 
+                                  adj:m:v_zna:compb 
+
+заклад	               заклад     noun:m:v_naz 
+                                  noun:m:v_zna 
+.	                    -     SENT_END
+
