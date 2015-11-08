@@ -93,7 +93,7 @@ Token				Lemma			Part-of-speech					 Chunk
 наявності			наявність 		noun:f:v_mis 
 були				бути 			verb:past:p:imperf 
 не					не 				part 
-всі					весь 			adj:p:v_naz:&pron:dem
+всі					весь 			pron:dem
 штруделі			штрудель 		noun:p:v_naz:alt 
 ...					- 				- 
 так					так 			part 
@@ -122,8 +122,8 @@ Token				Lemma			Part-of-speech					 Chunk
 8.00				8.00 			time 
 ранку				ранок 			noun:m:v_rod 
 буде				бути 			verb:futr:s:3:imperf 
-весь				весь 			adj:m:v_naz:&pron:dem
-ваш					ваш 			adj:m:v_naz:&pron:pos 
+весь				весь 			pron:dem
+ваш					ваш 			pron:pos 
 асортимент			асортимент 		noun:m:v_naz  
 продукції			продукція 		noun:f:v_rod 
 в					в 				prep:rv_mis:v-u 
@@ -156,7 +156,7 @@ Token				Lemma			Part-of-speech					 Chunk
 враження			враження 		noun:p:v_naz 
 .					- 				SENT_END
 					- 				SENT_START
-Колись				колись 			adv:&pron:ind 
+Колись				колись 			adv 
 давніше				давно			adv:compr 
 прийшов				прийти 			verb:past:m:perf 
 перший				перший 			adj:m:v_naz 
@@ -166,8 +166,8 @@ Token				Lemma			Part-of-speech					 Chunk
 сподобалося			сподобатися 	verb:rev:past:n:perf 
 ,					- 				- 
 а					а 				conj:coord 
-тепер				тепер 			adv:&pron:dem 
-це					цей 			adj:n:v_naz:&pron:dem 
+тепер				тепер 			adv 
+це					цей 			adj:n:v_naz:&pron:dem            (part) 
 взагалі				взагалі 		adv:v-u 
 жах					жах 			noun:m:v_naz 
 .					- 				SENT_END 
@@ -199,7 +199,7 @@ Token				Lemma			Part-of-speech					 Chunk
 палянички			паляничка 		noun:p:v_zna 
 -					- 				- 
 та					та 				part 
-це					цей 			adj:n:v_zna:&pron:dem 
+це					цей 			pron:dem 
 на					на 				prep:rv_zna
 один				один			numr:m:v_zna 
 зуб					зуб 			noun:m:v_zna 
@@ -216,7 +216,7 @@ Token				Lemma			Part-of-speech					 Chunk
 ресторан			ресторан 		noun:m:v_naz 
 вдається			вдаватися 		verb:rev:pres:s:3:imperf 
 до					до 				prep:rv_rod 
-всіляких			всілякий 		adj:p:v_rod:&pron:gen:v-u 
+всіляких			всілякий 		pron:gen:v-u 
 маркетингових		маркетинговий 	adj:p:v_rod 
 маніпуляцій			маніпуляція 	noun:p:v_rod 
 .					- 				SENT_END 
@@ -328,7 +328,7 @@ Token				Lemma			Part-of-speech					 Chunk
 головне				головний		adj:n:v_naz:compb 
 ,					-				- 
 так					так 			part 
-це					цей 			adj:n:v_zna:&pron:dem
+це					цей 			adj:n:v_zna:&pron:dem           (part)
 відвідувачі			відвідувач 		noun:p:v_naz:anim 
 .					- 				SENT_END
 					- 				SENT_START 
@@ -397,7 +397,7 @@ Token				Lemma			Part-of-speech					 Chunk
 					-				SENT_START 
 Ідея				ідея 			noun:f:v_naz 
 ,					- 				- 
-яку					який			adj:f:v_zna:&pron:int:rel:def 
+яку					який			pron:int:rel:def 
 колись				колись 			adv:&pron:ind 
 підтримували		підтримувати 	verb:past:p:imperf 
 ,					- 				- 
@@ -419,7 +419,7 @@ Token				Lemma			Part-of-speech					 Chunk
 меню				меню 			noun:n:v_zna:nv 
 треба				треба 			predic 
 просити				просити 		verb:inf:imperf 
-самій				сам 			adj:f:v_dav:&pron:def 			
+самій				сам 			pron:def 			
 )					- 				- 
 і					і 				conj:coord 
 через				через 			prep:rv_zna 
@@ -466,7 +466,7 @@ Token				Lemma			Part-of-speech					 Chunk
 а					а 				conj:coord 
 потім				потім 			adv
 приходить			приходити 		verb:pres:s:3:imperf 
-наша				наш 			adj:f:v_naz:&pron:pos 
+наша				наш 			pron:pos 
 офіціантка			офіціантка 		noun:f:v_naz:anim 
 і					і 				conj:coord 
 грубо				грубо 			adv:compb 
@@ -482,7 +482,7 @@ Token				Lemma			Part-of-speech					 Chunk
 з					з 				prep:rv_rod
 попереднього		попередній 		adj:m:v_rod 
 столика				столик 			noun:m:v_rod 
-самі				сам 			adj:p:v_naz:&pron:def  
+самі				сам 			pron:def  
 .					- 				SENT_END
 					- 				SENT_START 
 Коли				коли 			conj:subord  
@@ -522,7 +522,7 @@ Token				Lemma			Part-of-speech					 Chunk
 підсунули			підсунути 		verb:past:p:perf 
 діда-охоронця		дід-охоронець 	noun:m:v_rod:anim
 ,					- 				- 
-який				який 			adj:m:v_naz:&pron:int:rel:def
+який				який 			pron:int:rel:def
 представився		представитися 	verb:rev:past:m:perf 
 менеджером			менеджер 		noun:m:v_oru:anim 
 .					- 				SENT_END
@@ -574,7 +574,7 @@ Token				Lemma			Part-of-speech					 Chunk
 ,					- 				- 
 теж					теж 			adv 		
 від					від 			prep:rv_rod 
-Lokal				Lokal			vlname
+Lokal				Lokal			-                            (vlname)
 ,					- 				- 
 люди				люди 			noun:p:v_naz:anim 
 потравились			потравити 		verb:rev:past:p:perf:coll 
@@ -609,7 +609,7 @@ Lokal				Lokal			vlname
 конвеєром			конвеєр 		noun:m:v_oru 
 всім				весь 			pron:dem 
 наливають			наливати 		verb:pres:p:3:imperf 
-медовуху			-												 (noun:f:v_zna) 
+медовуху			-				-								 (noun:f:v_zna) 
 									SENT_END 
 									PARA_END
 									
@@ -649,8 +649,8 @@ Lokal				Lokal			vlname
 									PARA_END 
 									
 					- 				SENT_START 
-Моя					мій 			adj:f:v_naz:&pron:pos 
-улюблена			улюблений 		adj:f:v_naz:compb:&adjp:pasv:past
+Моя					мій 			pron:pos 
+улюблена			улюблений 		adj:f:v_naz:compb
 піцерія				піцерія 		noun:f:v_naz 
 !					- 				- 
 !					- 				- 
@@ -693,7 +693,7 @@ Lokal				Lokal			vlname
 
 					- 				SENT_START 
 У					у 				prep:rv_mis:v-u 
-цьому				цей 			adj:m:v_mis:&pron:dem
+цьому				цей 			pron:dem
 закладі				заклад 			noun:m:v_mis 
 були				бути 			verb:past:p:imperf 
 минулого			минулий 		adjp:actv:past:m:v_rod 
@@ -736,7 +736,7 @@ Lokal				Lokal			vlname
 змінилося			змінитися 		verb:rev:past:n:perf 
 і					і 				conj:coord 		
 за					за 				prep:rv_rod
-декілька			декілька 		numr:p:v_naz:&pron:ind 
+декілька			декілька 		numr:p:v_naz
 днів				день			noun:p:v_rod 
 знову				знову 			adv 
 матиму				мати 			verb:futr:s:1:imperf 
@@ -744,7 +744,7 @@ Lokal				Lokal			vlname
 переконатися		переконатися 	verb:rev:inf:perf 
 ,					- 				- 
 що					що 				conj:subord 		
-цей					цей 			adj:m:v_naz:&pron:dem 
+цей					цей 			pron:dem 
 заклад				заклад 			noun:m:v_naz 
 найкращий			хороший 		adj:m:v_naz:super 
 (					- 				- 
@@ -761,7 +761,7 @@ Lokal				Lokal			vlname
 але					але 			conj:coord 
 загального			загальний 		adj:n:v_rod:compb 
 враження			враження 		noun:n:v_rod 
-це					цей 			adj:n:v_naz:&pron:dem
+це					цей 			pron:dem
 не					не 				part 
 зіпсувало			зіпсувати 		verb:past:n:perf 
 									SENT_END 
@@ -801,13 +801,13 @@ Lokal				Lokal			vlname
 дуже				дуже 			adv 
 давно				давно 			adv 
 на					на 				part 
-моє					мій 			adj:n:v_zna:&pron:pos
+моє					мій 			pron:pos
 ім'я				ім'я 			noun:n:v_zna 
 ,					-				- 
 відвідувала			відвідувати 	verb:past:f:imperf 
 заклад				заклад 			noun:m:v_zna 
-вся					весь 			adj:f:v_naz:&pron:dem 
-наша				наш 			adj:f:v_naz:&pron:pos 
+вся					весь 			pron:dem 
+наша				наш 			pron:pos 
 сім'я				сім'я 			noun:f:v_naz 
 ,					-				-  
 персонал			персонал 		noun:m:v_naz 
@@ -820,12 +820,12 @@ Lokal				Lokal			vlname
 Аж					аж 				part 
 тут					тут 			adv
 як					як 				adv
-завжди				завжди 			adv:&pron:gen 
+завжди				завжди 			adv 
 замовляєм			замовляти 		verb:pres:p:1:imperf 
-наш					наш 			adj:m:v_naz:&pron:pos
+наш					наш 			pron:pos
 улюблений			улюблений 		adj:m:v_zna:compb
 «					-				-   
-сен-сей				сен-сей 		vlname	
+сен-сей				сен-сей 		-                                  (vlname)	
 »					- 				- 
 а					а 				conj:coord 
 з					з 				prep:rv_rod
@@ -857,7 +857,7 @@ Lokal				Lokal			vlname
 ми					ми 				noun:p:v_naz:anim:&pron:pers:1 	  (pron:pers:p:1:v_naz:anim)
 вам					ви 				noun:p:v_dav:anim:&pron:pers:2 	  (pron:pers:p:2:v_dav:anim)
 не					не 				part 
-ваших				ваш 			adj:p:v_rod:&pron:pos 
+ваших				ваш 			pron:pos 
 -10					-10 			number 
 %					- 				- 
 ,					- 				-
@@ -887,14 +887,14 @@ Lokal				Lokal			vlname
 паралізувало		паралізувати 	verb:past:n:imperf 
 ,					-				- 
 про					про 			prep:rv_zna 
-яку					який			adj:f:v_zna:&pron:int:rel:def
+яку					який			pron:int:rel:def
 знижку				знижка 			noun:f:v_zna 
 могла				могти 			verb:unknown 					 (verb:past:s:3:imperf)
 йтися				йтися 			verb:rev:inf:imperf 
 мова				мова 			noun:f:v_naz 
 і					і 				conj:coord 
 для					для 			prep:rv_rod 
-чого				що 				noun:n:v_rod:inanim:&pron:int:rel
+чого				що 				noun:n:v_rod:inanim
 вона				вона 			noun:f:v_naz:&pron:pers:3		  (pron:pers:s:3:v_naz)
 людям				люди 			noun:p:v_dav:anim 
 досить				досить 			adv 
@@ -918,7 +918,7 @@ Lokal				Lokal			vlname
 дирекція			дирекція 		noun:f:v_naz 
 про					про 			prep:rv_zna 
 професіоналізм		професіоналізм 	noun:m:v_zna 
-своїх				свій 			adj:p:v_rod:&pron:pos
+своїх				свій 			pron:pos
 працівників			працівник 		noun:p:v_rod:anim
 —					- 				- 
 не					не 				part 
@@ -938,7 +938,7 @@ Lokal				Lokal			vlname
 санепідемстанції   санепідемстанція	noun:f:v_mis 
 і					і 				conj:coord 
 принциповість		принциповість 	noun:f:v_naz 
-моя					мій 			adj:f:v_naz:&pron:pos  
+моя					мій 			pron:pos  
 в					в 				prep:rv_mis:v-u 
 даній				даний 			adjp:pasv:past:f:v_mis 
 справі				справа 			noun:f:v_mis 
@@ -991,7 +991,7 @@ Lokal				Lokal			vlname
 чекали				чекати 			verb:past:p:imperf 
 бармена				бармен 			noun:m:v_rod:anim 
 ,					- 				- 
-який				який 			adj:m:v_naz:&pron:int:rel:def
+який				який 			pron:int:rel:def
 нікуди				нікуди 			adv
 не					не 				part 
 спішив				спішити 		verb:past:m:perf 
@@ -1008,8 +1008,6 @@ Lokal				Lokal			vlname
 					- 				SENT_START 
 Після				після 			prep:rv_rod 
 того				той (того)		adj:m:v_rod:&pron:dem			  (adv)
-									adj:m:v_zna:&pron:dem
-									adj:n:v_rod:&pron:dem 
 бармен				бармен 			noun:m:v_naz:anim 
 кудись				кудись 			adv:&pron:ind 
 пішов				піти 			verb:past:m:perf 
@@ -1099,7 +1097,7 @@ Lokal				Lokal			vlname
 Сподобались			сподобатися 	verb:rev:past:p:perf 
 страви				страва 			noun:p:v_naz 
 ,					- 				- 
-яких				який 			adj:p:v_zna:&pron:int:rel:def
+яких				який 			pron:int:rel:def
 чекати				чекати 			verb:inf:imperf 
 не					не 				part 
 довелось			довестися 		verb:rev:past:n:perf 
@@ -1190,7 +1188,7 @@ Lokal				Lokal			vlname
 коротше				коротко 		adv:compr 
 кажучи				казати 			advp:imperf 
 ,					- 				- 
-це					цей 			adj:n:v_zna:&pron:dem
+це					цей 			pron:dem
 100%				100% 			number 
 кохання				кохання 		noun:n:v_naz 
 .					- 				SENT_END
@@ -1219,7 +1217,7 @@ Lokal				Lokal			vlname
 персоналом			персонал 		noun:m:v_oru 
 .					- 				SENT_END
 					- 				SENT_START 
-Таке				такий 			adj:n:v_naz:&pron:def 
+Таке				такий 			adj:n:v_naz
 враження			враження 		noun:n:v_naz 
 ,					- 				- 
 ніби				ніби 			conj:subord 
