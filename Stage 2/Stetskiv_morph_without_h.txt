@@ -643,7 +643,7 @@ SENT_START
 в	в      prep:rv_mis
 Кумпелі	- - (noun:m:v_mis)
 на	на     prep:rv_mis 
-Чорновола  Чорновіл   noun:m:v_rod:anim:lname 
+Чорновола  Чорновіл noun:m:v_rod:anim:lname (noun:m:v_mis:anim:lname) 
 
 .	- 
 SENT_END 
@@ -958,7 +958,7 @@ SENT_START
 в	в                prep:rv_mis:v-u 
 ресторані	ресторан noun:m:v_mis 
 на	на               prep:rv_mis 
-Чорновола	Чорновіл noun:m:v_rod:anim:lname 
+Чорновола	Чорновіл noun:m:v_rod:anim:lname (noun:m:v_mis:anim:lname) 
                          noun:m:v_zna:anim:lname 
 !	- 
 SENT_END 
