@@ -97,7 +97,7 @@ SENT_START
 на	        на         prep:rv_mis 
 терасі	        тераса     noun:f:v_mis 
 ...	        -          - 
-де	        де         adv:&pron:int:rel 
+де	        де         pron:int:rel 
 прекрасний	прекрасний adj:m:v_naz:compb  
 відкривається	відкриватися verb:rev:pres:s:3:imperf 
 вид	        вид        noun:m:v_naz  
@@ -317,8 +317,8 @@ SENT_START
 Тобто	        тобто       conj:subord
 самі	        сам         pron:def 
 більше	        багато      adv:compr 
-ніколи	        ніколи      adv:&pron:neg 
-туди	        туди        adv:&pron:dem 
+ніколи	        ніколи      pron:neg 
+туди	        туди        pron:dem 
 не	        не          part 
 підемо	        піти        verb:futr:p:1:perf 
 та	        та          conj:coord  
@@ -348,7 +348,7 @@ SENT_START
 а	        а           conj:coord 
 от	        от          part 
 кава	        кава        noun:f:v_naz 
-своїй	        свій        adj:f:v_dav:&pron:pos !!!
+своїй	        свій        pron:pos 
 ціні	        ціна        noun:f:v_dav 
 взагалі	        взагалі     adv:v-u 
 не	        не          part 
@@ -415,7 +415,7 @@ SENT_START
 SENT_END 
 - 
 SENT_START 
-Там	        там           adv:&pron:dem 
+Там	        там           pron:dem 
 вже	        вже           adv:v-u 
 йде	        йти           verb:pres:s:3:imperf 
 не	        не            part 
@@ -437,7 +437,7 @@ SENT_START
 Більше	       багато         adv:compr  
 в	       в              prep:rv_mis:v-u 
 житі	       жито           noun:n:v_mis 
-туди	       туди           adv:&pron:dem 
+туди	       туди           pron:dem 
 не	       не             part 
 піду	       піти           verb:futr:s:1:perf 
 .	       - 
@@ -452,7 +452,7 @@ SENT_START
 атмосферне      атмосферний   adj:n:v_naz 
 місце	        місце         noun:n:v_naz 
 ,	        -             - 
-де	        де            adv:&pron:int:rel  
+де	        де            adv 
 відчуваєш	відчувати     verb:pres:s:2:imperf 
 дух	        дух           noun:m:v_zna 
 міста	        місто         noun:n:v_rod  
@@ -623,7 +623,7 @@ SENT_START
 який	        який         pron:int:rel:def
 не	        не           part 
 залишить        залишити     verb:futr:s:3:perf 
-вас	        ви           &pron:pers:2 
+вас	        ви           pron:pers:2 
 байдужим	байдужий     adj:m:v_oru:compb 
 .	        - 
 SENT_END 
@@ -751,7 +751,7 @@ SENT_START
 5	         5              number  
 разів	         раз            noun:p:v_rod 
 і	         і              conj:coord  
-завжди	         завжди         adv:&pron:gen 
+завжди	         завжди         adv
 це	         цей            pron:dem  
 було	         бути           verb:past:n:imperf 
 моє	         мій            pron:pos  
@@ -969,7 +969,7 @@ SENT_START
 не	        не             part 
 підем	        піти           verb:futr:p:1:perf 
 а	        а              conj:coord  
-нас	        ми             noun:p:v_rod:anim:&pron:pers:1
+нас	        ми             pron:pers:1
 було	        бути           verb:past:n:imperf 
 12	        12             number 
 чоловік 	чоловік        noun:m:v_naz:anim  (noun:p:v_rod:anim )
@@ -1145,7 +1145,7 @@ SENT_START
 змінюється	змінюватися    verb:rev:pres:s:3:imperf 
 залежно	        залежно        prep:rv_rod 
 від	        від            prep:rv_rod 
-того	        той            adj:m:v_rod:&pron:dem 
+того	        той            pron:dem 
 ,	        -              - 
 хто	        хто            pron:int:rel  
 коли	        коли           adv
@@ -1249,7 +1249,7 @@ SENT_START
 обслуговування	обслуговування noun:n:v_naz 
 падає	        падати         verb:pres:s:3:imperf 
 з	        з              prep:rv_oru 
-кожним	        кожний         adj:m:v_oru:&pron:def 
+кожним	        кожний         pron:def 
 роком	        рік            noun:m:v_oru 
 .	        - 
 SENT_END 
