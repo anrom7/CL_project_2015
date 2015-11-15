@@ -190,6 +190,7 @@ SENT_START Що conj:subord це pron:dem було verb:past:n:imperf ? SENT_END
 було verb:past:n:imperf ? SENT_END 
 це pron:dem було verb:past:n:imperf 
 Що conj:subord це pron:dem 
+Що conj:subord це pron:dem було verb:past:n:imperf
 
 SENT_START Ми pron:pers:1 з prep:rv_oru сім'єю noun:f:v_oru і conj:coord друзями noun:p:v_oru:anim з prep:rv_rod Києва noun:m:v_rod в prep:rv_mis шоці noun:m:v_mis . SENT_END 
 Ми pron:pers:1 
@@ -664,6 +665,8 @@ SENT_START Метрова adj:f:v_naz ковбаса noun:f:v_naz теж	adv д�
 добра adj:f:v_naz:compb . SENT_END 
 
 SENT_START Офіціанти noun:p:v_naz:anim могли verb:unknown б part бути verb:inf:imperf трохи adv привітніші adj:p:v_naz:compr , - але conj:coord зате conj:coord вони pron:pers:3 швидкі	adj:p:v_naz:compb . SENT_END 
+, - але conj:coord зате conj:coord вони pron:pers:3 швидкі adj:p:v_naz:compb . SENT_END 
+, - але conj:coord зате conj:coord вони pron:pers:3 швидкі adj:p:v_naz:compb
 Офіціанти noun:p:v_naz:anim 
 могли verb:unknown 
 б part 
@@ -788,6 +791,7 @@ SENT_START Не part тільки adv нас pron:pers:1 , - а conj:coord ще 
 , - а conj:coord 
 нас pron:pers:1 , - 
 а conj:coord ще adv й conj:coord нашого pron:pos пса noun:m:v_rod:anim Зевса noun:m:v_rod:anim:fname ! SENT_END 
+, - а conj:coord ще adv й	conj:coord нашого pron:pos пса noun:m:v_rod:anim Зевса noun:m:v_rod:anim:fname ! SENT_END
 а conj:coord ще adv й conj:coord нашого pron:pos пса noun:m:v_rod:anim Зевса noun:m:v_rod:anim:fname 
 нашого pron:pos пса noun:m:v_rod:anim Зевса noun:m:v_rod:anim:fname ! SENT_END
 нашого pron:pos пса noun:m:v_rod:anim Зевса noun:m:v_rod:anim:fname
@@ -922,6 +926,7 @@ SENT_START Принесли verb:past:p:perf скисший -(скислий adj
 за prep:rv_zna язик noun:m:v_zna 
 
 SENT_START Ну part всяке pron:gen:v-u (pron:def:v-u) буває verb:pres:s:3:imperf ... - літо noun:n:v_naz ж part на prep:rv_mis дворі noun:m:v_mis !(SENT_END) (SENT_START) сказали verb:past:p:perf офіціанту- - (офіціант noun:m:v_dav:anim) офіціант noun:m:v_naz:anim узвар noun:m:v_zna забрав verb:past:m:perf погодився verb:rev:past:m:perf що conj:subord " - провинились verb:rev:past:p:perf " - ( - дослівно adv ) - . SENT_END 
+... - літо noun:n:v_naz ж part на prep:rv_mis дворі noun:m:v_mis !(SENT_END)
 Ну part всяке pron:gen:v-u (pron:def:v-u) буває verb:pres:s:3:imperf ... -
 літо noun:n:v_naz ж part на prep:rv_mis дворі noun:m:v_mis ! - (SENT_END)
 літо noun:n:v_naz ж part на prep:rv_mis дворі noun:m:v_mis
@@ -1083,10 +1088,13 @@ SENT_START Книгу noun:f:v_zna скарг noun:p:v_rod приніс verb:pas
 Книгу noun:f:v_zna скарг noun:p:v_rod приніс verb:past:m:perf пусту adj:f:v_zna:compb ... - 
 можливо adv якась pron:ind плва - , -
 можливо adv якась pron:ind плва - 
+... - можливо adv якась pron:ind плва - ,
+... - можливо adv якась pron:ind плва - 
 це pron:dem більше adv:compr скарга noun:f:v_naz не part на prep:rv_zna узвар noun:m:v_zna а conj:coord
 це pron:dem більше adv:compr скарга noun:f:v_naz не part на prep:rv_zna узвар noun:m:v_zna
 на prep:rv_zna адміністратора noun:m:v_rod:anim . SENT_END 
-- хостес - (noun:f:v_naz)сказала verb:past:f:perf що conj:subord 
+, - хостес - (noun:f:v_naz)сказала verb:past:f:perf що
+хостес - (noun:f:v_naz)сказала verb:past:f:perf що conj:subord 
 у prep:rv_rod:v-u вас pron:pers:2 різні adj:p:v_naz власники noun:p:v_naz:anim , - але conj:coord
 у prep:rv_rod:v-u вас pron:pers:2 різні adj:p:v_naz власники noun:p:v_naz:anim , -
 у prep:rv_rod:v-u вас pron:pers:2 різні adj:p:v_naz власники noun:p:v_naz:anim
@@ -1154,7 +1162,7 @@ SENT_START Ніякої pron:neg поваги noun:f:v_rod до prep:rv_rod кл
 поваги noun:f:v_rod до prep:rv_rod 
 до prep:rv_rod клієнтів noun:p:v_rod:anim
 клієнтів noun:p:v_rod:anim . SENT_END 
-- 
+
 SENT_START Обурює verb:pres:s:3:imperf така pron:def (pron:dem) реакція	noun:f:v_naz адміністратора noun:m:v_rod:anim . SENT_END 
 Обурює verb:pres:s:3:imperf 
 така pron:def (pron:dem)
@@ -1209,7 +1217,7 @@ SENT_START Обслуговування noun:n:v_naz жахливе adj:n:v_naz:
 , - їжа noun:f:v_naz не part свіжа adj:f:v_naz:compb і conj:coord не part смачна adj:f:v_naz:compb
 їжа noun:f:v_naz не part свіжа adj:f:v_naz:compb і conj:coord не part смачна adj:f:v_naz:compb
 замовляли verb:past:p:imperf рибу noun:f:v_zna:anim і conj:coord салат noun:m:v_zna
-на prep:rv_zna страви noun:p:v_zna приготування noun:n:v_rod чекали verb:past:p:imperf більше adv:compr 50 number хв noun:f:v_rod:nv:abbr . SENT_END
+на prep:rv_zna страви noun:p:v_zna елементарного adj:n:v_rod:compb приготування noun:n:v_rod чекали verb:past:p:imperf більше adv:compr 50 number хв noun:f:v_rod:nv:abbr . SENT_END
 , - на prep:rv_zna страви noun:p:v_zna елементарного adj:n:v_rod:compb приготування noun:n:v_rod чекали verb:past:p:imperf більше adv:compr 50 number хв noun:f:v_rod:nv:abbr . SENT_END 
 , - на prep:rv_zna страви noun:p:v_zna елементарного adj:n:v_rod:compb приготування noun:n:v_rod чекали verb:past:p:imperf більше adv:compr 50 number хв noun:f:v_rod:nv:abbr
 Обслуговування	noun:n:v_naz 
@@ -1621,13 +1629,10 @@ SENT_START Але conj:coord цей pron:dem смак noun:m:v_naz переби�
 львівське adj:n:v_zna ретро noun:n:v_zna:nv:np 
 ретро noun:n:v_zna:nv:np . SENT_END
 
-SENT_START ох excl ... - ! - ! - ! - ! SENT_END 
+SENT_START ох excl ... - !!!! SENT_END 
 ох excl 
 ... - 
-! - 
-! - 
-! - 
-! - 
+!!!! SENT_END
 ох excl ... -
 ... - !!!! SENT_END
 
@@ -1658,6 +1663,8 @@ SENT_START Прийшов verb:past:m:perf через prep:rv_zna півтора
 Прийшов verb:past:m:perf через prep:rv_zna півтора numr:m:v_zna:nv роки noun:p:v_zna (прав. року noun:m:v_zna) - -
 ну part так adv відрядження noun:p:v_naz складаються verb:rev:pres:p:3:imperf
 ну part так adv відрядження noun:p:v_naz складаються verb:rev:pres:p:3:imperf , -
+- - ну part так adv відрядження noun:p:v_naz складаються verb:rev:pres:p:3:imperf ,
+- - ну part так adv відрядження noun:p:v_naz складаються verb:rev:pres:p:3:imperf
 то conj:subord (conj:coord) повз adv , - 
 то conj:subord (conj:coord) не part туди adv. SENT_END 
 то conj:subord (conj:coord) не part туди adv
@@ -1986,7 +1993,7 @@ SENT_START Наш pron:pos чек noun:m:v_naz на prep:rv_zna двох numr:p:
 склав verb:past:m:perf 
 200 number 
 грн noun:p:v_rod:nv:abbr 
-.SENT_END
+. SENT_END
 Наш pron:pos чек noun:m:v_naz
 чек noun:m:v_naz на prep:rv_zna 
 на prep:rv_zna двох numr:p:v_zna 
@@ -2087,6 +2094,7 @@ SENT_START Банош - (noun:m:v_naz) у prep:rv_mis Кумпелі	- (noun:m:v
 ... - але conj:coord пробувавши advp:imperf інші pron:def страви noun:p:v_zna у prep:rv_mis цьому pron:dem закладі noun:m:v_mis
 пробувавши advp:imperf інші pron:def страви noun:p:v_zna у prep:rv_mis цьому pron:dem закладі noun:m:v_mis
 розумію verb:pres:s:1:imperf що conj:subord це pron:dem дууууужееее - (дуже adv:bad) самачно - (смачно adv:bad) . SENT_END 
+розумію verb:pres:s:1:imperf що conj:subord це pron:dem дууууужееее - (дуже adv:bad) самачно - (смачно adv:bad)
 Банош - (noun:m:v_naz)
 у prep:rv_mis
 Кумпелі	- (noun:m:v_mis)
