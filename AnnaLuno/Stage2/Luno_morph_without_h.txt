@@ -795,3 +795,281 @@ Token	Lemma	Part-of-speech	Chunk
 виявлено виявити verb:impers:perf 
 		 SENT_END 
 		 PARA_END 
+
+Disambiguator log: (no disambiguations)
+Token 	Lemma 	Part-of-speech 	Chunk
+	-   	SENT_START 
+Вчора  вчора  adv:v-u 
+відвідали відвідати verb:past:p:perf 
+"  	- 	- 
+Криївку  криївка noun:f:v_zna 
+" 	- 	- 
+.  	- 	SENT_END  
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+	-	SENT_START 
+Отримали отримати verb:past:p:perf 
+купу  	купа 	 noun:f:v_zna 
+позитивних позитивний adj:p:v_zna:compb 
+емоцій  емоція  noun:p:v_rod 
+. 	- 	SENT_END  
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+	-	SENT_START 
+Дуже 	дуже  	adv 
+засмакували  засмакувати verb:past:p:perf 
+замовлені  замовлений adjp:pasv:past:p:v_zna 
+страви  страва noun:p:v_zna 
+.  	- 	SENT_END  
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+	-	SENT_START 
+Морозиво  морозиво noun:n:v_naz 
+просто  просто  adv:compb 
+супер  супер  noun:m:v_naz 
+!  	- 	SENT_END  
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+	- 	SENT_START 
+Вразила  вразити  verb:past:f:perf 
+приємна  приємний adj:f:v_naz:compb 
+доброзичлива  доброзичливий adj:f:v_naz:compb 
+атмосфера  атмосфера noun:f:v_naz 
+,  	- 	 - 
+добре 	добре 	adv 
+вишколені  вишколений adjp:pasv:past:p:v_naz 
+молоденькі  молоденький adj:p:v_naz 
+офіціанти  офіціант noun:p:v_naz:anim 
+,	- 	- 
+чистота  чистота noun:f:v_naz 
+закладу  заклад	noun:m:v_rod
+.  	- 	SENT_END  
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+	- 	SENT_START 
+Хочу 	хотіти	verb:pres:s:1:imperf 
+відмітити  відмітити verb:inf:perf 
+,  	- 	- 
+що 	що 	conj:subord 
+страви  страва  noun:p:v_naz 
+подавались  подаватися  verb:rev:past:p:imperf 
+досить  досить 	predic 
+швидко  швидко 	adv:compb 
+.  	- 	SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+	- 	SENT_START 
+Це  	цей 	adj:n:v_naz:&pron:dem 
+є  	бути	verb:pres:s:3:imperf 
+великим  великий adj:m:v_oru:compb 
+плюсом  плюс 	noun:m:v_oru 
+закладу  заклад	noun:m:v_rod 
+,  	- 	- 
+бо  	бо	conj:subord 
+,  	- 	- 
+наприклад  наприклад insert 
+,  	- 	- 
+в  	в 	prep:rv_mis:v-u 
+Українському  український adj:n:v_mis 
+подвір'ї  подвір'я noun:n:v_mis 
+на 	  на 	prep:rv_mis 
+замовлення  замовлення  noun:n:v_zna 
+потрібно  потрібно	adv:compb 
+чекати	  чекати 	verb:inf:imperf 
+більше	  багато 	adv:compr 
+години	  година	noun:f:v_rod 
+.	  - 		SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+	-	SENT_START 
+Послухали  послухати verb:past:p:perf 
+гарних	   гарний    adj:p:v_zna:compb 
+патріотичних  патріотичний adj:p:v_zna:compb 
+пісень  пісня  noun:p:v_rod 
+,  	- 	 - 
+поспівали  поспівати verb:past:p:imperf 
+й  	й 	conj:coord 
+самі	самий	adj:p:v_naz 
+.	 - 	SENT_END 
+Disambiguator log: (no disambiguations)
+Token  Lemma	Part-of-speech	Chunk
+	-	SENT_START 
+Ціни	ціна 	noun:p:v_naz 
+помірні  помірний adj:p:v_naz 
+,	- 	- 
+не	не 	part 
+дуже    дуже	adv 
+кусаються  кусатися verb:rev:pres:p:3:imperf 
+. 	- 	SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+	-	SENT_START 
+Сподобався  сподобатися verb:rev:past:m:perf 
+інтер'єр    інтер'єр 	noun:m:v_naz 
+ресторану  ресторан noun:m:v_rod
+.  	- 	SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+	-	SENT_START 
+Хочу  хотіти 	verb:pres:s:1:imperf 
+подякувати  подякувати verb:inf:perf 
+організаторам  організатор noun:p:v_dav:anim 
+і  	і 	conj:coord 
+працівникам  працівник noun:p:v_dav:anim 
+цього	    цей 	adj:m:v_rod:&pron:dem 
+закладу  заклад  noun:m:v_rod
+.  	-  	ENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+	-	SENT_START 
+Всім  весь  adj:p:v_dav:&pron:dem 
+рекомендую  рекомендувати verb:pres:s:1:imperf   
+відвідати   відвідати 	verb:inf:perf 
+«	 - 	  - 
+Криївку  криївка 	noun:f:v_zna 
+»	 - 	  - 
+-	 -	  - 
+не	  не 	part  
+пожалкуєте  пожалкувати verb:futr:p:2:perf 
+!	 - 	SENT_END 
+		PARA_END  
+
+Disambiguator log: 
+DIS_PREP_OR_NOUN_DO[1]: до[до/noun:n:v_dav:nv,до/noun:n:v_mis:nv,до/noun:n:v_naz:nv,до/noun:n:v_oru:nv,до/noun:n:v_rod:nv,до/noun:n:v_zna:nv,до/noun:p:v_dav:nv,до/noun:p:v_mis:nv,до/noun:p:v_naz:nv,до/noun:p:v_oru:nv,до/noun:p:v_rod:nv,до/noun:p:v_zna:nv,до/prep:rv_rod] -> до[до/prep:rv_rod]
+Token	Lemma	Part-of-speech	Chunk
+	-	SENT_START 
+Криївка  криївка  noun:f:v_naz 
+—	 - 	 - 
+це	 цей 	adj:n:v_naz:&pron:dem 
+те	 той	adj:n:v_naz:&pron:dem 
+місце  місце 	noun:n:v_naz 
+,	 - 	- 
+в	в 	prep:rv_mis:v-u 
+яке  який	pron:n:v_zna:int:rel:def 
+йшли  йти 	verb:past:p:imperf 
+відразу  відразу  adv 
+ж 	 ж 	part 
+по	 по 	prep:rv_mis:rv_zna 
+приїзду  приїзд noun:m:v_rod 
+до	 до 	prep:rv_rod 
+Львова  Львів	noun:m:v_rod 
+.  	- 	SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+	-	SENT_START   
+	- 	SENT_END 
+		PARA_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+	-	SENT_START   
+Смачна  смачний adj:f:v_naz:compb 
+кухня  	кухня 	noun:f:v_naz   
+,  	- 	- 
+цікава  цікавий adj:f:v_naz:compb 
+тематика  тематика noun:f:v_naz 
+інтер'єру  інтер'єр noun:m:v_rod 
+під  	під 	prep:rv_zna:rv_oru 
+землянку  землянка noun:f:v_zna 
+,  	- 	- 
+в  	в  prep:v_mis:v-u 
+якій  	який  adj:f:v_mis:&pron:int:rel:def 
+бігають  бігати  verb:pres:p:3:imperf 
+справжні  справжній adj:p:v_naz 
+ЩУРІ 	 щур 	noun:m:v_mis:anim 
+! 	- 		- 
+!	- 		- 
+!	-	 SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+	-	SENT_START 
+	-	SENT_END 
+		PARA_END 
+Disambiguator log: 
+DIS_INSERTS[1]: може[може/insert,могти/verb:unknown] -> може[могти/verb:unknown]
+Token	Lemma	Part-of-speech	Chunk
+	-	SENT_START   
+По	 по 	prep:rv_mis
+підлозі  підлога  noun:f:v_mis 
+під	 під 	prep:rv_zna:rv_oru			prep:rv_mis
+столами  стіл 	noun:p:v_oru 				noun:p:v_mis 
+біг	 бігти   verb:past:m:imperf 
+щур 	 щур 	noun:m:v_naz:anim 
+—	 - 	  - 
+сказали  сказати verb:past:p:perf 
+офіціантам  офіціант noun:p:v_dav:anim 
+, 	 - 	  - 
+на	 на 	prep:rv_zna:rv_mis 
+що 	 що 	noun:n:v_zna:inanim:&pron:int:rel 
+вони	 вони 	noun:p:v_naz:&pron:pers:3 
+відповіли  відповісти verb:past:p:perf 
+— 	- 	- 
+бути	бути 	verb:inf:imperf 
+такого  такий 	adj:n:v_rod:&pron:def 
+не 	 не 	part 
+може	 могти  verb:unknown 
+,	  - 	- 
+і	 і 	conj:coord 
+пересадили  пересадити  verb:past:p:perf 
+в  	в 	prep:rv_zna:v-u 
+інший  інший 	pron:m:v_zna:def 
+зал  	зал	noun:m:v_zna 
+! 	-	SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+	-	SENT_START   
+	- 	SENT_END 
+		PARA_END 
+Disambiguator log: 
+DIS_PREP_NA[1]: на[на/excl,на/part,на/prep:rv_zna:rv_mis] -> на[на/prep:rv_zna:rv_mis]
+Token	Lemma	Part-of-speech	Chunk
+	-	SENT_START   
+Але 	але 	conj:coord 
+на	на 	prep:rv_zna:rv_mis 
+шизофренію  шизофренія noun:f:v_zna 
+не	не 	part 
+страждаемо - 	- 			(страждаємо, verb:pres:p:1:perf)
+!	 - 	SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+	-	SENT_START  
+	- 	SENT_END 
+		PARA_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+	-	SENT_START  
+Настрій  настрій noun:m:v_naz 
+зіпсований  зіпсований  adjp:pasv:past:m:v_naz 
+, 	 - 	 - 
+апетит  апетит 	noun:m:v_naz 
+теж	  теж 	part 
+.  	- 	SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+	-	SENT_START   
+	- 	SENT_END 
+ 		PARA_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+	-	SENT_START   
+Висновок  висновок noun:m:v_naz 
+один  один 	numr:m:v_naz 
+—	- 	- 
+відвідування  відвідування noun:n:v_naz 
+цього  цей    pron:n:v_rod:dem 
+місця  місце  noun:n:v_rod 
+припинили  припинити verb:past:p:perf 
+! 	 - 	SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+	-	SENT_START   
+Це	цей 	pron:n:v_naz:dem  
+геть	геть 	excl 
+НЕПОДОБСТВО  неподобство noun:n:v_naz 
+!	  - 	- 
+!	  - 	- 
+!	  - 	SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+	-	SENT_START 
+	-	SENT_END 
+		PARA_END  
