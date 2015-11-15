@@ -1,6 +1,6 @@
-Token	 Lemma	    Part-of-speech	          
+﻿Token	 Lemma	    Part-of-speech	          
          -          SENT_START 
-Наш	      наш       adj:m:v_naz:&pron:pos 
+Наш	  наш       adj:m:v_naz:&pron:pos 
 улюблений улюблений	adj:m:v_naz:compb:&adjp:pasv:past
 заклад	  заклад    noun:m:v_naz 
 ,	      -         - 
@@ -63,7 +63,7 @@ Token	 Lemma	    Part-of-speech
 
           -         SENT_START 
 Всі	      весь      adj:p:v_naz:&pron:dem
-прцівники -         - 
+прцівники -         noun:p:v_naz
 ресторану ресторан  noun:m:v_rod 
 бездоганно бездоганно adv:compb 
 виконують виконувати verb:pres:p:3:imperf 
@@ -1085,7 +1085,7 @@ S	  -              -
 
       -              SENT_START 
 Столик	столик       noun:m:v_naz 
-біля	біля         adv 
+біля	біля         prep
 вікна	вікно        noun:n:v_rod  
 з	    з            prep:rv_rod:rv_zna:rv_oru
 виглядом вигляд      noun:m:v_oru 
@@ -1129,7 +1129,7 @@ S	  -              -
 негативно негативно  adv:compb 
 відкликалися	відкликатися verb:rev:past:p:imperf 
 єдине	єдиний       adj:n:v_naz 
-прохання -	         - 
+прохання -	         noun:f:v_naz 
 НЕ	    не           part 
 ЙДІТЬ	йти          verb:impr:p:2:imperf 
 ТУДИ	туди         adv:&pron:dem 
@@ -1156,7 +1156,7 @@ S	  -              -
 я	    я            noun:s:v_naz:anim:&pron:pers:1 
 куштував куштувати   verb:past:m:imperf 
 ,	    -            - 
-прийнамні	-        - 
+прийнамні	-        adv
 з	    з            prep:rv_rod:rv_zna:rv_oru 
 ти	    ти           noun:s:v_naz:anim:&pron:pers:2 
 7-8	    7-8          number 
@@ -1193,10 +1193,12 @@ S	  -              -
 .	    -            SENT_END 
 
         -            SENT_START 
-Порада-якщо	-        - 
+Порада   -               noun:f:v_naz
+якщо	-                conj:subord 
 ви	   ви            noun:p:v_naz:anim:&pron:pers:2
 з	   з             prep:rv_rod:rv_zna:rv_oru 
-половинкою-забронюйте	-   - 
+половинкою  половинка    noun:f:v_oru 
+забронюйте  забронювати  verb:impr:p:2:perf
 заздалегідь	заздалегідь adv 
 столик столик       noun:m:v_zna 
 на	   на           prep:rv_zna:rv_mis 
@@ -1204,7 +1206,8 @@ S	  -              -
 .	   -            SENT_END 
 
        -            SENT_START 
-Ресторану-успіхів	-  - 
+Ресторану ресторан noun:m:v_dav
+успіхів	  успіх    noun:p:v_rod 
 ,	   -            - 
 а	   а            conj:coord 
 конкуренти	конкурент noun:p:v_naz:anim 
