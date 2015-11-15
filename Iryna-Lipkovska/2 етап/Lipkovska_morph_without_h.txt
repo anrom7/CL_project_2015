@@ -66,7 +66,7 @@ Svitlana			- 				-									(noun:f:v_naz:anim:fname)
 .					- 				SENT_END 
 					-				SENT_START 
 Всі					весь			adj:p:v_naz:&pron:dem
-прцівники			-				 - 							(працівник noun:p:v_naz:anim )
+прцівники			-				 - 
 ресторану			ресторан 		noun:m:v_rod 
 бездоганно			бездоганно 		adv:compb 
 виконують			виконувати 		verb:pres:p:3:imperf 
@@ -244,6 +244,7 @@ Svitlana			- 				- 								(noun:f:v_naz:anim:fname)
 .					- 				SENT_END 
 					- 				SENT_START 
 Дуже				дуже 			adv
+					дужий  			adj:n:v_naz:compb 
 гарний				гарний 			adj:m:v_naz:compb
 ресторан			ресторан 		noun:m:v_naz 
 .					-				SENT_END 
@@ -257,7 +258,7 @@ Svitlana			- 				- 								(noun:f:v_naz:anim:fname)
 скуштуйте			скуштувати 		verb:impr:p:2:perf 
 комплексний			комплексний		adj:m:v_zna 
 обід				обід 			noun:m:v_zna 
-.					- 				SENT_END 
+.					- 				- 
 )					- 				- 
 Професійна			професійний 	adj:f:v_naz:compb 
 робота				робота 			noun:f:v_naz
@@ -325,7 +326,7 @@ Svitlana			- 				- 								(noun:f:v_naz:anim:fname)
 татом				тато 			noun:m:v_oru:anim 
 також				також 			conj:coord 
 з					з 				prep:rv_rod:rv_zna:rv_oru 
-	подугою				- 				- 									(подругою	noun:f:v_naz:anim )
+подугою				- 				- 
 та					та 				conj:coord part 
 двоюрідним			двоюрідний 		adj:m:v_oru 
 братом				брат 			noun:m:v_oru:anim 
@@ -338,14 +339,14 @@ Svitlana			- 				- 								(noun:f:v_naz:anim:fname)
 12					12 				number 
 :					- 				- 
 30					30 				number 
-на					на 				part  
+десь				на 				part  
 привеликий			- 				- 							(превеликий	превеликий	adj:m:v_zna )
 жаль				жаль 			noun:m:v_zna 
 дорогу				дорога 			noun:f:v_zna
 ремонтували			ремонтувати 	verb:past:p:imperf 
 (					- 				- 
 (					- 				- 
-(					- 				SENT_END 
+(					- 				- 
 І					і 				conj:coord 
 які					який 			adj:p:v_zna:&pron:int:rel:def 
 дебіли				дебіл 			noun:p:v_naz:anim 
@@ -415,7 +416,7 @@ Svitlana			- 				- 								(noun:f:v_naz:anim:fname)
 доїхав				доїхати 		verb:past:m:perf 
 ?					- 				- 
 ?					- 				- 
-?					- 				SENT_END 
+?					- 				- 
 ми					ми 				noun:p:v_naz:anim:&pron:pers:1 
 стали				стати 			verb:past:p:perf 
 кликати				кликати 		verb:inf:imperf 
@@ -432,13 +433,12 @@ Svitlana			- 				- 								(noun:f:v_naz:anim:fname)
 ПРЯМО				прямо 			adv:compb 
 ТАКА				такий 			adj:f:v_naz:&pron:def 
 МОВЧАЖНА			- 				- 									(мовчазна	мовчазний	adj:f:v_naz)
-!					- 				SENT_END 
+!					- 				- 
 нічого				ніщо 			noun:v_zna:inanim:&pron:neg 
 нке					- 				- 									(не	не	part )
 могла				могти 			verb:unknown 
 сказати				сказати 		verb:inf:perf 
 ну					ну 				part 
-що					що				conj:subord 
 там					там 			adv:&pron:dem  
 не					не 				part 
 можна				можна 			predic 
@@ -463,7 +463,7 @@ Svitlana			- 				- 								(noun:f:v_naz:anim:fname)
 шляхом				шлях 			noun:m:v_oru 
 !					- 				- 
 !					- 			 	-
-!					- 				SENT_END 
+!					- 				- 
 уви					- 				- 
 нічого				ніщо 			noun:v_rod:inanim:&pron:neg 
 там					там 			adv:&pron:dem 
@@ -471,7 +471,7 @@ Svitlana			- 				- 								(noun:f:v_naz:anim:fname)
 було				бути 			verb:past:n:imperf 
 !					- 				- 
 !					- 				- 
-!					- 				SENT_END  
+!					- 				-  
 і					і 				conj:coord 
 тут					тут 			adv:&pron:dem 
 як					як 				part 
@@ -492,12 +492,12 @@ Svitlana			- 				- 								(noun:f:v_naz:anim:fname)
 словами				слово 			noun:p:v_oru 
 !					- 				- 
 !					- 				- 
-!					- 				SENT_END 
+!					- 				- 
 
 нахабство			нахабство 		noun:n:v_naz 
 !					- 				- 
 !					- 				- 
-!					- 				SENT_END
+!					- 				- 
 прошу				просити 		verb:pres:s:1:imperf 
 негайно				негайно 		adv 
 зробити				зробити 		verb:inf:perf 
@@ -508,7 +508,7 @@ Svitlana			- 				- 								(noun:f:v_naz:anim:fname)
 !					- 				- 
 !					- 				- 
 !					- 				- 
-!					- 				SENT_END
+!					- 				- 
 нерозумію			- 				- 										(не	не	part 
 																			розумію	розуміти	verb:pres:s:1:imperf)
 як					як 				part 
@@ -527,7 +527,9 @@ Svitlana			- 				- 								(noun:f:v_naz:anim:fname)
 спортив				- 				- 
 !					- 				- 
 !					- 				- 
-!					- 				SENT_END 
+!					- 				-  
+
+					-				SENT_END 
 					- 				SENT_START 
 прошу				просити 		verb:pres:s:1:imperf 
 звернути			звернути 		verb:inf:perf 
@@ -539,7 +541,7 @@ Svitlana			- 				- 								(noun:f:v_naz:anim:fname)
 строгим				строгий 		adj:m:v_oru:compb 
 !					- 				- 
 !					- 				- 
-!					- 				SENT_END
+!					- 				- 
 і					і				conj:coord 
 по					по 				prep:rv_mis:rv_zna 
 третє				третій 			adj:n:v_zna 
@@ -549,7 +551,7 @@ Svitlana			- 				- 								(noun:f:v_naz:anim:fname)
 ціни				ціна  			noun:p:v_naz 
 !					- 				- 
 !					- 				- 
-!					- 				SENT_END
+!					- 				- 
 стаканчик			- 				- 							(стаканчик	noun:m:v_rod)
 морозива			морозиво 		noun:n:v_rod 
 180					180 			number 
@@ -557,33 +559,33 @@ Svitlana			- 				- 								(noun:f:v_naz:anim:fname)
 коштує				коштувати 		verb:pres:s:3:imperf 
 !					- 				- 
 !					- 				- 
-!					- 				SENT_END 
+!					- 				-  
 увага				увага 			noun:f:v_naz 
 ціна				ціна			noun:f:v_naz 
 35					35 				number 
 грн					грн 			noun:p:v_rod:nv:abbr 
 !					- 				- 
 !					- 				- 
-!					- 				SENT_END
+!					- 				- 
 нема				нема 			predic 
 вибору				вибір 			noun:m:v_rod 
 !					- 				- 
 !					- 				- 
-!					- 				SENT_END
+!					- 				- 
 щз					- 				- 
 фрруктами			- 				- 								(фруктами	фрукт	noun:p:v_oru )
 так					так 			part 
 так					так 			part 
 !					- 				- 
 !					- 				- 
-!					- 				SENT_END
+!					- 				- 
 з					з 				prep:rv_rod:rv_zna:rv_oru 
 гнилим				гнилий 			adj:m:v_oru:compb 
 бананом				банан 			noun:m:v_oru 
 !					- 				- 
 !					- 				- 
-!					- 				SENT_END
-неможна				неможний 		- 							(не	не	part 
+!					- 				- 
+неможна				неможний 		adj:f:v_naz:rare 			(не	не	part 
 																можна	можна	predic)
 нічого				ніщо 			noun:v_zna:inanim:&pron:neg 
 замовити			замовити 		verb:inf:perf 
@@ -607,7 +609,7 @@ Svitlana			- 				- 								(noun:f:v_naz:anim:fname)
 смардить			- 				- 									(смердить	смердіти	verb:pres:s:3:imperf)
 !					- 				- 
 !					- 				- 
-!					- 				SENT_END
+!					- 				- 
 і					і 				conj:coord 
 по					по 				prep:rv_mis:rv_zna 
 третє				третій 			adj:n:v_zna 
@@ -620,7 +622,7 @@ Svitlana			- 				- 								(noun:f:v_naz:anim:fname)
 риба				риба 			noun:f:v_naz:anim 
 !					- 				- 
 !					- 				- 
-!					- 				SENT_END
+!					- 				- 
 як					як 				adv:&pron:int:rel 
 це					цей 			adj:n:v_naz:&pron:dem 
 можливо				можливо 		adv 
@@ -628,30 +630,31 @@ Svitlana			- 				- 								(noun:f:v_naz:anim:fname)
 вмію				вміти 			verb:pres:s:1:imperf:v-u 
 плавати				плавати 		verb:inf:imperf 
 пливу				пливти 			verb:pres:s:1:imperf 
-.					- 				SENT_END
+.					- 				- 
 пливу				пливти 			verb:pres:s:1:imperf 
 аж					аж 				part 
 чую					чути  			verb:pres:s:1:imperf 
 щось				щось 			noun:n:v_zna:inanim:&pron:ind 
 за					за 				prep:rv_rod:rv_zna:rv_oru 
 ногу				нога 			noun:f:v_zna 
-хватануло			- 				- 										(verb:past:n:perf:v-u )
-і					і 				conj:coord 
-потягро				- 				- 										(verb:past:n:perf )
-на					на 				prep:rv_zna:rv_mis 						
+хватануло			- 				- 
+і					і 				part 
+потягро				- 				- 
+на					на 				prep:rv_zna:rv_mis 							(наниз	наниз adv) 
 низ					низ 			noun:m:v_zna 
 !					- 				- 
 !					- 				- 
-!					- 				SENT_END
+!					- 				-
 я					я 				noun:s:v_naz:anim:&pron:pers:1 
 чуть				- 				- 										(чуть adv )
-нне					- 				- 										(не	не	part )
+нне					- 				- 											(не	не	part )
 втопилась			втопитися 		verb:rev:past:f:perf:v-u 
 але					але 			conj:coord 
 ця					цей 			adj:f:v_naz:&pron:dem 
 рибка				рибка 			noun:f:v_naz:anim 
 відрустила			- 				- 
-мене				я 				noun:s:v_zna:anim:&pron:pers:1 
+мене				я 				noun:s:v_rod:anim:&pron:pers:1 
+									noun:s:v_zna:anim:&pron:pers:1 
 !					- 				- 
 !					- 				- 
 !					- 				SENT_END 
@@ -769,9 +772,7 @@ Svitlana			- 				- 								(noun:f:v_naz:anim:fname)
 у					у 				prep:rv_zna:rv_mis:rv_rod:v-u 
 іншого				інший 			adj:m:v_rod:&pron:def  
 офіціанта			офіціант 		noun:m:v_rod:anim 
-.					- 				- 
-.					- 				- 
-.					- 				SENT_END 
+...					- 				- 
 наш					наш 			adj:m:v_naz:&pron:pos 
 взагалі				взагалі 		adv:v-u 
 не					не 				part 
@@ -802,7 +803,7 @@ Svitlana			- 				- 								(noun:f:v_naz:anim:fname)
 					- 				SENT_START 
 Нам					ми 				noun:p:v_dav:anim:&pron:pers:1
 хотілось			хотітися 		verb:rev:past:n:imperf 
-як					як 				-					(якомога	якомога	adv) 
+як					як 				adv:&pron:int:rel 					(якомога	якомога	adv) 
 умога				- 				- 
 швидше				швидко			adv:compr 
 піти				піти 			verb:inf:perf
@@ -817,10 +818,8 @@ Svitlana			- 				- 								(noun:f:v_naz:anim:fname)
 лише				лише 			part 
 4					4 				number 
 столики				столик 			noun:p:v_zna 
+...					- 				- 
 .					- 				- 
-.					- 				- 
-.					- 				- 
-.					- 				SENT_END
 не					не 				part 
 думаю				думати 			verb:pres:s:1:imperf 
 ,					- 
@@ -863,7 +862,7 @@ Svitlana			- 				- 								(noun:f:v_naz:anim:fname)
 !					- 				- 
 !					- 				-
 !					- 				- 
-!					- 				SENT_END 
+!					- 				-  
 дякую				дякувати 		verb:pres:s:1:imperf 
 за					за 				prep:rv_rod:rv_zna:rv_oru 
 увагу				увага 			noun:f:v_zna 
@@ -898,7 +897,7 @@ Svitlana			- 				- 								(noun:f:v_naz:anim:fname)
 не					не 				part 
 відповідає			відповідати 	verb:pres:s:3:imperf 
 ,					- 				- 
-так					так 			part 
+так					так 			apart 
 як					як 				part 
 я					я 				noun:s:v_naz:anim:&pron:pers:1
 без					без 			prep:rv_rod 
@@ -917,7 +916,7 @@ Svitlana			- 				- 								(noun:f:v_naz:anim:fname)
 маю					мати 			verb:pres:s:1:imperf
 і					і 				conj:coord 
 ціна				ціна 			noun:f:v_naz 
-капучіно			- 				- 								(капучино noun:n:v_zna:nv:np)
+капучіно			- 				- 
 38					38 				number 
 гривень				гривня 			noun:p:v_rod 
 за					за 				prep:rv_rod:rv_zna:rv_oru 
@@ -926,7 +925,6 @@ Svitlana			- 				- 								(noun:f:v_naz:anim:fname)
 ,					- 				- 
 це					цей 			adj:n:v_naz:&pron:dem 
 вибачте				вибачити 		verb:impr:p:2:perf 
-мене				я 				noun:s:v_zna:anim:&pron:pers:1
 дуже				дуже 			adv
 дивно				дивно 			adv:compb 
 .					- 				SENT_END 
@@ -935,8 +933,7 @@ Svitlana			- 				- 								(noun:f:v_naz:anim:fname)
 готова				готовий 		adj:f:v_naz 
 дати				дати 			verb:inf:perf 
 і					і 				conj:coord 
-50гривень			- 				- 								(50 number 
-																	гривень	гривня noun:p:v_rod )
+50гривень			- 				- 
 але					але 			conj:coord 
 кава				кава 			noun:f:v_naz 
 має					мати 			verb:pres:s:3:imperf 
@@ -958,7 +955,8 @@ Svitlana			- 				- 								(noun:f:v_naz:anim:fname)
 йде					йти 			verb:pres:s:3:imperf 
 не					не 				part 
 на					на 				prep:rv_zna:rv_mis 
-якість				якість 			noun:f:v_zna 
+якість				якість 			noun:f:v_naz 
+									noun:f:v_zna 
 ,					- 				- 
 а					а 				conj:coord  
 на					на 				exclprep:rv_zna:rv_mis 
@@ -970,8 +968,9 @@ Svitlana			- 				- 								(noun:f:v_naz:anim:fname)
 .					- 				SENT_END 
 					- 				SENT_START 
 Більше				багато 			adv:compr
+					великий 		adj:n:v_naz:compr 
 в					в 				prep:rv_zna:rv_mis:rv_rod:v-u 
-житі				жито 			noun:n:v_mis					(життя noun:n:v_mis ) 
+житі				жито 			noun:n:v_mis 
 туди				туди 			adv:&pron:dem 
 не					не 				part 
 піду				піти 			verb:futr:s:1:perf 
@@ -1002,8 +1001,9 @@ Svitlana			- 				- 								(noun:f:v_naz:anim:fname)
 .					- 				SENT_END 
 					- 				SENT_START 
 Морозиво			морозиво 		noun:n:v_naz 
+									noun:n:v_zna 
 180					180 			number 
-г					грн 			noun:p:v_rod:nv:abbr
+г					г 				noun:p:v_rod:nv:abbr
 35					35 				number 
 грн					грн 			noun:p:v_rod:nv:abbr 
 ,					- 				- 
@@ -1070,9 +1070,9 @@ Svitlana			- 				- 								(noun:f:v_naz:anim:fname)
 занагло				- 				- 
 платити				платити 		verb:inf:imperf 
 за					за 				prep:rv_rod:rv_zna:rv_oru 
-в					в 				-
+в					в 				prep:rv_zna:rv_mis:rv_rod:v-u 
 "					- 				- 
-їзд					- 				- 									(в'їзд noun:m:v_zna )
+їзд					- 				- 
 20					20 				number 
 грн					грн 			noun:p:v_rod:nv:abbr 
 і					і 				conj:coord 
@@ -1097,8 +1097,7 @@ Svitlana			- 				- 								(noun:f:v_naz:anim:fname)
 тільки				тільки 			part 
 1					1 				number 
 хлопець				хлопець 		noun:m:v_naz:anim 
-неможе				- 				- 								(не part 
-																може verb:unknown )
+неможе				- 				- 
 впоратися			впоратися 		verb:rev:inf:perf:v-u 
 я					я 				noun:s:v_naz:anim:&pron:pers:1
 як					як 				adv:&pron:int:rel
