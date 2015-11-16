@@ -1205,7 +1205,7 @@ SENT_START
 ,	        -              - 
 після	        після          prep:rv_rod 
 того	        той            pron:dem 
-ми	        ми             adv 
+ми	        ми              pron:pers:1 
 там	        там            pron:dem 
 буди	        будити         verb:impr:s:2:imperf  
 раз	        раз            noun:m:v_naz 
