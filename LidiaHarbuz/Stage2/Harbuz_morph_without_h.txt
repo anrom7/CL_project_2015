@@ -131,7 +131,6 @@ Station			- 			-
 шкода			шкода 			noun:f:v_naz 
 ,			- 			- 
 бо			бо 			conj:subord 
-part 
 я			я 			noun:s:v_naz:anim:&pron:pers:1
 любила			любити 			verb:past:f:imperf 
 Gas			- 			- 
@@ -737,7 +736,6 @@ Station			- 			-
 Як			як 			part 
 для			для 			prep:rv_rod 
 пивоварні		пивоварня 		noun:f:v_rod 
-						
 якість			якість 			noun:f:v_naz 
 і			і 			conj:coord 
 смак			смак 			noun:m:v_naz 
