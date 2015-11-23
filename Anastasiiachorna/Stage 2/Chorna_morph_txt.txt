@@ -1,0 +1,1859 @@
+﻿Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Очікування	- 
+- 
+B-NP-singular
+не	- 
+- 
+I-NP-singular
+виправдались	- 
+- 
+E-NP-singular
+.	. 
+
+. 
+SENT_END 
+O
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Обслуговування	- 
+- 
+B-VP
+жахливе	- 
+- 
+B-ADJP
+-	- 
+- 
+O
+необхідно	- 
+- 
+B-NP-singular
+дуже	- 
+- 
+E-NP-singular
+довго	- 
+- 
+B-PP
+
+Щойно	
+
+adv 
+conj:subord 
+part 
+з	
+prep:rv_rod:rv_zna:rv_oru
+Дому	 
+
+
+noun:m:v_dav 
+noun:m:v_mis 
+noun:m:v_rod 
+легенд	легенда 
+noun:p:v_rod 
+сповнені	
+
+adjp:pasv:past:p:v_naz 
+adjp:pasv:past:p:v_zna 
+самих	
+
+
+adj:p:v_mis 
+adj:p:v_rod 
+adj:p:v_zna 
+adj:p:v_mis:&pron:def 
+adj:p:v_rod:&pron:def 
+adj:p:v_zna:&pron:def 
+приємних	
+
+
+adj:p:v_mis:compb 
+adj:p:v_rod:compb 
+adj:p:v_zna:compb 
+вражень	враження 
+noun:p:v_rod 
+!	- 
+SENT_END 
+Disambiguator log: 
+DIS_PREP_NA[1]: на[на/excl,на/part,на/prep:rv_zna:rv_mis] -> на[на/prep:rv_zna:rv_mis]
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+А	
+
+conj:coord 
+excl 
+part 
+особливого 
+
+
+adj:m:v_rod 
+adj:m:v_zna 
+adj:n:v_rod 
+шарму	
+
+
+noun:m:v_dav 
+noun:m:v_mis 
+noun:m:v_rod 
+цьому	
+
+
+
+adj:m:v_dav:&pron:dem 
+adj:m:v_mis:&pron:dem 
+adj:n:v_dav:&pron:dem 
+adj:n:v_mis:&pron:dem 
+закладу	 
+noun:m:v_dav 
+noun:m:v_mis 
+noun:m:v_rod 
+verb:futr:s:1:perf 
+додає	 
+verb:pres:s:3:imperf 
+сажотрус	
+noun:m:v_naz:anim 
+на	
+prep:rv_zna:rv_mis 
+вході	
+noun:m:v_mis 
+,	- 
+- 
+без	
+prep:rv_rod 
+нього	 
+
+noun:m:v_rod:&pron:pers:3
+noun:m:v_zna:&pron:pers:3
+noun:n:v_rod:&pron:pers:3 
+noun:n:v_zna:&pron:pers:3 
+аж	 
+
+conj:subord 
+part 
+ніяк	
+
+adv:&pron:neg 
+predic 
+!	- 
+SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Він	
+noun:m:v_naz:&pron:pers:3 
+ввів	ввести 
+verb:past:m:perf:v-u 
+нас	
+
+
+noun:p:v_mis:anim:&pron:pers:1
+noun:p:v_rod:anim:&pron:pers:1
+noun:p:v_zna:anim:&pron:pers:1
+в	 
+prep:rv_zna:rv_mis:rv_rod:v-u 
+курс	
+
+noun:m:v_naz 
+noun:m:v_zna 
+всіх	
+
+
+adj:p:v_mis:&pron:dem 
+adj:p:v_rod:&pron:dem 
+adj:p:v_zna:&pron:dem 
+справ	 
+
+noun:p:v_rod 
+verb:impr:s:2:perf 
+:	- 
+- 
+і	
+
+conj:coord 
+part 
+історичних	
+
+
+adj:p:v_mis 
+adj:p:v_rod 
+adj:p:v_zna 
+,	- 
+- 
+і	
+
+conj:coord 
+part 
+політичних	
+
+
+adj:p:v_mis 
+adj:p:v_rod 
+adj:p:v_zna 
+,	- 
+- 
+і	 
+
+conj:coord 
+part 
+просто	
+
+
+adv:compb 
+part 
+prep:rv_rod 
+життєвих	
+
+
+adj:p:v_mis 
+adj:p:v_rod 
+adj:p:v_zna 
+.	- 
+- 
+.	- 
+SENT_END 
+Disambiguator log: 
+PRON_OR_CONJ_TA[1]: та[та/conj:coord,та/part,той/adj:f:v_naz:&pron:dem] -> та[та/conj:coord,та/part]
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Поспілкувалися	
+verb:rev:past:p:perf 
+з	
+prep:rv_rod:rv_zna:rv_oru 
+сажотрусом	 
+noun:m:v_oru:anim 
+,	- 
+- 
+і	 
+
+conj:coord 
+part 
+однозначно
+adv 
+оцінили
+verb:past:p:perf 
+його	
+
+adj:m:v_dav:nv:&pron:pos 
+adj:m:v_mis:nv:&pron:pos 
+adj:m:v_naz:nv:&pron:pos 
+adj:m:v_oru:nv:&pron:pos 
+adj:m:v_rod:nv:&pron:pos 
+adj:m:v_zna:nv:&pron:pos 
+adj:n:v_dav:nv:&pron:pos 
+adj:n:v_mis:nv:&pron:pos 
+adj:n:v_naz:nv:&pron:pos 
+adj:n:v_oru:nv:&pron:pos 
+adj:n:v_rod:nv:&pron:pos 
+adj:n:v_zna:nv:&pron:pos 
+noun:m:v_rod:&pron:pers:3
+noun:m:v_zna:&pron:pers:3
+noun:n:v_rod:&pron:pers:3 
+noun:n:v_zna:&pron:pers:3 
+чудову	чудовий 
+adj:f:v_zna:compb 
+розповідь	
+
+noun:f:v_naz 
+noun:f:v_zna 
+на	
+
+
+excl 
+part 
+prep:rv_zna:rv_mis 
+5	 
+number 
+балів	
+noun:p:v_rod 
+!	- 
+- 
+отримали	
+verb:past:p:perf 
+море	
+
+noun:n:v_naz 
+noun:n:v_zna 
+радості	
+
+
+
+
+noun:f:v_dav 
+noun:f:v_mis 
+noun:f:v_rod 
+noun:p:v_naz 
+noun:p:v_zna 
+,	- 
+- 
+щастя	 
+
+noun:n:v_naz 
+noun:n:v_rod 
+noun:n:v_zna 
+noun:p:v_naz 
+noun:p: 
+
+conj:coord 
+part 
+позитиву	
+
+
+noun:m:v_dav 
+noun:m:v_mis 
+noun:m:v_rod 
+.	- 
+SENT_END 
+Disambiguator log: 
+DIS_PREP_OR_NOUN_DO[1]: до[до/noun:n:v_dav:nv,до/noun:n:v_mis:nv,до/noun:n:v_naz:nv,до/noun:n:v_oru:nv,до/noun:n:v_rod:nv,до/noun:n:v_zna:nv,до/noun:p:v_dav:nv,до/noun:p:v_mis:nv,до/noun:p:v_naz:nv,до/noun:p:v_oru:nv,до/noun:p:v_rod:nv,до/noun:p:v_zna:nv,до/prep:rv_rod] -> до[до/prep:rv_rod]
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Потрималися	
+verb:rev:past:p:perf 
+за	
+prep:rv_rod:rv_zna:rv_oru 
+гудзик	
+
+noun:m:v_naz:bad 
+noun:m:v_zna:bad 
+,	- 
+- 
+щоб	
+
+conj:subord 
+part 
+більше	
+
+adv:compr 
+adj:n:v_naz:compr 
+adj:n:v_zna:compr 
+успіху
+
+
+noun:m:v_dav 
+noun:m:v_mis 
+noun:m:v_rod 
+нас	 
+
+
+noun:p:v_mis:anim:&pron:pers:1
+noun:p:v_rod:anim:&pron:pers:1
+noun:p:v_zna:anim:&pron:pers:1
+супроводжувало	супроводжувати 
+verb:past:n:imperf 
+,	- 
+- 
+і	
+
+conj:coord 
+part 
+вирішили	
+verb:past:p:perf 
+ще	
+
+adv 
+part 
+не	
+part 
+раз	
+
+
+adv 
+conj:subord 
+noun:m:v_naz 
+noun:m:v_zna 
+навідатися	
+verb:rev:inf:perf 
+до	
+prep:rv_rod 
+вас	
+
+
+noun:p:v_mis:anim:&pron:pers:2
+noun:p:v_rod:anim:&pron:pers:2
+noun:p:v_zna:anim:&pron:pers:2
+!	- 
+SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Бо	
+
+conj:subord 
+part 
+ще
+
+adv 
+part 
+хочемо
+verb:pres:p:1:imperf 
+відмітити	
+verb:inf:perf 
+офіціантів	 
+
+noun:p:v_rod:anim 
+noun:p:v_zna:anim 
+з	
+prep:rv_rod:rv_zna:rv_oru
+бібліотеки	 
+
+
+noun:f:v_rod 
+noun:p:v_naz 
+noun:p:v_zna 
+-	- 
+- 
+гарно	 
+adv:compb 
+працюють	 
+verb:pres:p:3:imperf 
+і	і 
+
+conj:coord 
+part 
+додають	 
+verb:pres:p:3:imperf 
+хорошого	
+
+
+adj:m:v_rod:compb 
+adj:m:v_zna:compb 
+adj:n:v_rod:compb 
+настрою	
+
+
+verb:futr:s:1:perf 
+noun:m:v_dav 
+noun:m:v_mis 
+noun:m:v_rod 
+!	- 
+SENT_END 
+Disambiguator log: 
+DIS_PREP_OR_NOUN_DO[1]: до[до/noun:n:v_dav:nv,до/noun:n:v_mis:nv,до/noun:n:v_naz:nv,до/noun:n:v_oru:nv,до/noun:n:v_rod:nv,до/noun:n:v_zna:nv,до/noun:p:v_dav:nv,до/noun:p:v_mis:nv,до/noun:p:v_naz:nv,до/noun:p:v_oru:nv,до/noun:p:v_rod:nv,до/noun:p:v_zna:nv,до/prep:rv_rod] -> до[до/prep:rv_rod]
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+:	- 
+- 
+)	- 
+
+Приїжджайте	
+verb:impr:p:2:imperf 
+до	
+prep:rv_rod 
+нас	
+
+
+noun:p:v_mis:anim:&pron:pers:1
+noun:p:v_rod:anim:&pron:pers:1
+noun:p:v_zna:anim:&pron:pers:1
+в	
+prep:rv_zna:rv_mis:rv_rod:v-u 
+гості
+
+noun:f:v_dav:anim 
+noun:f:v_mis:anim 
+noun:f:v_rod:anim 
+noun:p:v_kly:anim 
+noun:p:v_naz:anim 
+noun:m:v_mis:anim 
+noun:p:v_kly:anim 
+noun:p:v_naz:anim 
+в	
+prep:rv_zna:rv_mis:rv_rod:v-u 
+Дніпропетровськ
+
+noun:m:v_naz 
+noun:m:v_zna 
+,	- 
+- 
+особливо	 
+adv 
+загляніть	- 
+- 
+в	 
+prep:rv_zna:rv_mis:rv_rod:v-u 
+кнайпу	 
+noun:f:v_zna 
+Миші	 
+
+
+
+
+noun:f:v_dav:anim 
+noun:f:v_mis:anim 
+noun:f:v_rod:anim 
+noun:p:v_naz:anim 
+noun:p:v_zna:anim 
+Бляхера	- 
+- 
+-	- 
+- 
+будемо	
+verb:futr:p:1:imperf 
+раді	
+
+noun:f:v_dav 
+noun:f:v_mis 
+adj:p:v_naz 
+adj:p:v_zna 
+вас	
+
+
+noun:p:v_mis:anim:&pron:pers:2
+noun:p:v_rod:anim:&pron:pers:2
+noun:p:v_zna:anim:&pron:pers:2
+там	
+adv:&pron:dem 
+part 
+зустріти	
+verb:inf:perf 
+!	- 
+SENT_END 
+Disambiguator log: 
+DIS_PREP_OR_NOUN_DO[1]: до[до/noun:n:v_dav:nv,до/noun:n:v_mis:nv,до/noun:n:v_naz:nv,до/noun:n:v_oru:nv,до/noun:n:v_rod:nv,до/noun:n:v_zna:nv,до/noun:p:v_dav:nv,до/noun:p:v_mis:nv,до/noun:p:v_naz:nv,до/noun:p:v_oru:nv,до/noun:p:v_rod:nv,до/noun:p:v_zna:nv,до/prep:rv_rod] -> до[до/prep:rv_rod]
+PRON_OR_CONJ_TA[1]: та[та/conj:coord,та/part,той/adj:f:v_naz:&pron:dem] -> та[та/conj:coord,та/part]
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+А	
+
+conj:coord 
+excl 
+part 
+ще	
+
+adv 
+part 
+краще	 
+
+adj:n:v_naz:compr 
+adj:n:v_zna:compr 
+зі	 
+prep:rv_rod:rv_zna:rv_oru 
+своєю	 
+adj:f:v_oru:&pron:pos 
+кнайпою	
+noun:f:v_oru 
+до	
+prep:rv_rod 
+нас	
+
+
+noun:p:v_mis:anim:&pron:pers:1
+noun:p:v_rod:anim:&pron:pers:1
+noun:p:v_zna:anim:&pron:pers:1
+завітайте	
+verb:impr:p:2:perf 
+та	
+
+conj:coord 
+part 
+зі	 
+prep:rv_rod:rv_zna:rv_oru 
+своїм	 
+
+
+
+
+adj:m:v_mis:&pron:pos 
+adj:m:v_oru:&pron:pos 
+adj:n:v_mis:&pron:pos 
+adj:n:v_oru:&pron:pos 
+adj:p:v_dav:&pron:pos 
+сажотрусом	
+noun:m:v_oru:anim 
+!
+
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Кафетерій	- 
+
+B-NP-singular
+супер	- 
+
+E-NP-singular
+.	
+SENT_END 
+O
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Видно	- 
+ 
+B-NP-singular
+E-NP-singular
+,	 
+O
+що	- 
+
+B-NP-singular
+в	- 
+
+I-NP-singular
+створення	- 
+
+I-NP-singular
+і	
+
+I-NP-singular
+оформлення	- 
+
+I-NP-singular
+цього	- 
+
+I-NP-singular
+закладу	- 
+
+I-NP-singular
+вклали	- 
+
+I-NP-singular
+душу	- 
+ 
+E-NP-singular
+.	
+
+
+SENT_END 
+O
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Персонал	- 
+ 
+B-NP-singular
+привітний	- 
+- 
+E-NP-singular
+,	
+O
+атмосфера	- 
+
+B-NP-singular
+затишна	- 
+
+E-NP-singular
+.
+SENT_END 
+O
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Все	- 
+
+B-NP-singular
+продумано	- 
+- 
+E-NP-singular
+до	- 
+- 
+B-PP
+дрібненьких	- 
+
+B-NP-singular
+деталей	- 
+ 
+E-NP-singular
+.
+SENT_END 
+O
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Молодці	- 
+- 
+B-NP-singular
+E-NP-singular
+.	
+SENT_END 
+O
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Душевно	- 
+
+.	
+SENT_END 
+PARA_END 
+O
+
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Учора	- 
+
+B-NP-singular
+разом	- 
+
+E-NP-singular
+із	- 
+
+B-PP
+гостями	- 
+ 
+B-NP-singular
+з	- 
+ 
+I-NP-singular
+Києва	- 
+ 
+I-NP-singular
+побували	- 
+
+I-NP-singular
+у	- 
+ 
+I-NP-singular
+будинку	- 
+
+I-NP-singular
+легенд	- 
+- 
+E-NP-singular
+.	
+SENT_END 
+O
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Враження	- 
+ 
+B-NP-singular
+не	- 
+
+I-NP-singular
+однозначні	- 
+ 
+E-NP-singular
+.	
+SENT_END 
+O
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+
+SENT_START 
+У	- 
+ 
+B-NP-singular
+залах	- 
+ 
+E-NP-singular
+дуже	- 
+ 
+B-PP
+душно	- 
+
+B-NP-singular
+E-NP-singular
+,	 
+O
+дихати	- 
+
+B-NP-singular
+немає	- 
+ 
+I-NP-singular
+чим	- 
+
+E-NP-singular
+.	
+SENT_END 
+O
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Кухня	- 
+ 
+B-NP-singular
+нормальна	- 
+
+E-NP-singular
+,	 
+O
+але	- 
+ 
+B-NP-singular
+замовлення	- 
+
+I-NP-singular
+несуть	- 
+ 
+I-NP-singular
+дуже	- 
+ 
+I-NP-singular
+довго	- 
+
+E-NP-singular
+.	 
+SENT_END 
+O
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+А	- 
+
+B-NP-singular
+швейцар-сажотрус	- 
+- 
+I-NP-singular
+справді	- 
+I-NP-singular
+МЕГА	- 
+ 
+E-NP-singular
+.	
+SENT_END 
+O
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Кияни	- 
+
+B-NP-singular
+як	- 
+
+E-NP-singular
+і	- 
+ 
+B-PP
+ми	- 
+ 
+B-NP-singular
+з	- 
+ 
+I-NP-singular
+дружиною	- 
+ 
+I-NP-singular
+були	- 
+ 
+I-NP-singular
+просто	- 
+
+I-NP-singular
+в	- 
+ 
+I-NP-singular
+захваті	- 
+
+I-NP-singular
+від	- 
+ 
+I-NP-singular
+його	- 
+ 
+I-NP-singular
+легенд	- 
+ 
+E-NP-singular
+.	
+SENT_END 
+O
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+
+SENT_START 
+Дякую	- 
+- 
+B-NP-singular
+попередній	- 
+ 
+E-NP-singular
+дописквачці	- 
+ 
+B-PP
+за	- 
+
+B-NP-singular
+пораду	- 
+
+I-NP-singular
+зкористатися	- 
+
+I-NP-singular
+його	- 
+
+I-NP-singular
+розвіддю	- 
+ 
+E-NP-singular
+.	 
+SENT_END 
+O
+Disambiguator log: 
+QUOT[3]: "["/'',"/``,O] -> "["/``,O]
+QUOT[2]: "["/''*,"/``*,I-NP-singular] -> "["/''*,I-NP-singular]
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Зізнаюся	- 
+
+B-NP-singular
+E-NP-singular
+,	 
+O
+що	- 
+ 
+B-NP-singular
+він	- 
+ 
+I-NP-singular
+нам	- 
+ 
+I-NP-singular
+нетільки	- 
+ 
+I-NP-singular
+ці	- 
+
+I-NP-singular
+легенди	- 
+ 
+I-NP-singular
+розповів	- 
+ 
+E-NP-singular
+,	
+O
+він	- 
+
+B-NP-singular
+ще	- 
+ 
+E-NP-singular
+і	- 
+
+O
+про	- 
+ 
+B-VP
+"	
+O
+Золоту	- 
+ 
+B-NP-singular
+Розу	- 
+
+I-NP-singular
+"	 
+I-NP-singular
+легенду	- 
+ 
+E-NP-singular
+розповів	- 
+ 
+B-NP-singular
+і	- 
+ 
+E-NP-singular
+про	- 
+ 
+B-PP
+ісорію	- 
+ 
+B-NP-singular
+винайдення	- 
+ 
+I-NP-singular
+газової	- 
+
+E-NP-singular
+(	- 
+ 
+B-VP
+керасинової	- 
+
+B-NP-singular
+)	- 
+
+I-NP-singular
+лампи	- 
+ 
+E-NP-singular
+,	 
+O
+і	- 
+ 
+B-NP-singular
+про	- 
+ 
+I-NP-singular
+Мазоха	- 
+
+E-NP-singular
+.	
+SENT_END 
+O
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Дякую	- 
+
+B-NP-singular
+вашій	- 
+
+I-NP-singular
+мережі	- 
+ 
+E-NP-singular
+,	
+O
+що	- 
+ 
+B-NP-singular
+у	- 
+
+I-NP-singular
+будинок	- 
+
+I-NP-singular
+легенд	- 
+ 
+I-NP-singular
+ви	- 
+ 
+I-NP-singular
+знайшли	- 
+
+I-NP-singular
+спрвжню	- 
+ 
+I-NP-singular
+людину	- 
+
+I-NP-singular
+легенду	- 
+
+E-NP-singular
+.	
+SENT_END 
+PARA_END 
+O
+
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Дуже	- 
+ 
+B-NP-singular
+смачний	- 
+ 
+I-NP-singular
+кавовий	- 
+ 
+I-NP-singular
+напій	- 
+ 
+E-NP-singular
+-	 
+O
+"	 
+O
+Меделін	- 
+- 
+!	- 
+SENT_END 
+O
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Затишне	- 
+
+B-NP-singular
+місце	- 
+ 
+E-NP-singular
+,	 
+O
+привітні	- 
+
+B-NP-singular
+офіціанти	- 
+
+E-NP-singular
+,	 
+
+O
+гарна	- 
+
+B-NP-singular
+музика	- 
+
+E-NP-singular
+,	 
+O
+оригінельне	- 
+ 
+B-NP-singular
+оздоблення	- 
+
+I-NP-singular
+і	- 
+ 
+I-NP-singular
+взагалі	- 
+ 
+E-NP-singular
+-	- 
+ 
+O
+це	- 
+ 
+B-VP
+
+B-NP-singular
+улюблене	- 
+ 
+I-NP-singular
+місце	- 
+ 
+E-NP-singular
+)	- 
+
+SENT_END 
+PARA_END 
+O
+
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Цього	- 
+ 
+B-NP-singular
+року	- 
+ 
+E-NP-singular
+були	- 
+ 
+B-PP
+знову	- 
+
+B-NP-singular
+у	- 
+ 
+I-NP-singular
+Львові	- 
+ 
+E-NP-singular
+,	 
+O
+проїздом	- 
+
+B-NP-singular
+E-NP-singular
+.	 
+SENT_END 
+O
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Декілька	- 
+
+B-NP-singular
+років	- 
+ 
+E-NP-singular
+відвідували	- 
+ 
+B-PP
+і	- 
+
+B-NP-singular
+Криївку	- 
+
+E-NP-singular
+,	 
+O
+і	- 
+ 
+B-NP-singular
+піццу	- 
+
+I-NP-singular
+Челінтано	- 
+
+E-NP-singular
+,	 
+O
+але	- 
+
+B-NP-singular
+вже	- 
+ 
+I-NP-singular
+воно	- 
+ 
+I-NP-singular
+остогидло	- 
+
+E-NP-singular
+.	 
+SENT_END 
+O
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Ось	- 
+ 
+B-NP-singular
+і	- 
+
+E-NP-singular
+знайомі	- 
+ 
+B-PP
+порадили	- 
+
+B-NP-singular
+пообідати	- 
+
+I-NP-singular
+в	- 
+
+I-NP-singular
+«	- 
+
+Гасовій	- 
+ 
+лямпі	- 
+
+»	
+- 
+.
+SENT_END 
+O
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Знайшли	- 
+ 
+B-NP-singular
+заклад	- 
+
+E-NP-singular
+доволі	- 
+
+B-PP
+легко	- 
+ 
+B-NP-singular
+E-NP-singular
+,	 
+O
+навіть	- 
+ 
+B-NP-singular
+якщо	- 
+
+I-NP-singular
+ви	- 
+ 
+I-NP-singular
+не	- 
+ 
+I-NP-singular
+помітете	- 
+
+I-NP-singular
+вивіски	- 
+
+E-NP-singular
+,	 
+O
+усі	- 
+ 
+B-NP-singular
+знають	- 
+ 
+I-NP-singular
+де	- 
+ 
+I-NP-singular
+знаходиться	- 
+ 
+I-NP-singular
+«	- 
+
+лямпа	- 
+ 
+»	
+. 
+SENT_END 
+O
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Нам	- 
+ 
+B-NP-singular
+все	- 
+ 
+I-NP-singular
+надзвичайно	- 
+ 
+I-NP-singular
+сподобалось	- 
+ 
+E-NP-singular
+.	
+SENT_END 
+O
+Disambiguator log: 
+CD[1]: 15[15/null*] -> 15[15/CD*]
+CD[1]: 08[08/null*] -> 08[08/CD*]
+CD[1]: 2012[2012/null*] -> 2012[2012/CD*]
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+На	- 
+ 
+B-NP-singular
+жаль	- 
+ 
+E-NP-singular
+,	 
+O
+коли	- 
+- 
+B-PP
+ми	- 
+
+B-NP-singular
+були	- 
+ 
+E-NP-singular
+(	- 
+ 
+O
+15	- 
+CD 
+.	 
+08	- 
+CD 
+.	
+2012	- 
+CD 
+)	- 
+ 
+I-NP-singular
+тераса	- 
+ 
+I-NP-singular
+була	- 
+
+I-NP-singular
+зачинена	- 
+ 
+E-NP-singular
+,	
+O
+тому	- 
+ 
+B-NP-singular
+ми	- 
+
+I-NP-singular
+сиділи	- 
+ 
+I-NP-singular
+у	- 
+
+I-NP-singular
+залі	- 
+
+I-NP-singular
+перед	- 
+- 
+I-NP-singular
+самою	- 
+ 
+I-NP-singular
+терасою	- 
+
+E-NP-singular
+.	 
+SENT_END 
+O
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Хлопець-офіціант	- 
+
+B-NP-singular
+був	- 
+ 
+I-NP-singular
+дуже	- 
+ 
+I-NP-singular
+ввічливий	- 
+ 
+E-NP-singular
+,	
+O
+відповів	- 
+ 
+B-NP-singular
+на	- 
+ 
+I-NP-singular
+усі	- 
+
+I-NP-singular
+наші	- 
+
+I-NP-singular
+запитання	- 
+ 
+E-NP-singular
+.	
+SENT_END 
+O
+Disambiguator log: 
+CD[1]: 30[30/null*,B-NP-singular] -> 30[30/CD*,B-NP-singular]
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+ 
+B-NP-singular
+швидкості	- 
+ 
+E-NP-singular
+виконання	- 
+ 
+B-PP
+замовлення	- 
+ 
+B-NP-singular
+E-NP-singular
+,	 
+O
+
+B-NP-singular
+чекали	- 
+
+I-NP-singular
+недовго	- 
+
+E-NP-singular
+,	 
+O
+найдовше	- 
+ 
+B-NP-singular
+несли	- 
+ 
+I-NP-singular
+вареники	- 
+ 
+I-NP-singular
+з	- 
+
+I-NP-singular
+мачкою	- 
+ 
+E-NP-singular
+(	- 
+
+O
+30	- 
+CD 
+B-NP-singular
+хв	- 
+
+E-NP-singular
+.	 
+O
+)		
+SENT_END 
+O
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Страви	- 
+ 
+B-NP-singular
+були	- 
+ 
+I-NP-singular
+просто	- 
+ 
+I-NP-singular
+надзвичайні	- 
+ 
+E-NP-singular
+!	- 
+
+O
+SENT_END 
+O
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Дуже	- 
+
+B-NP-singular
+сподобалось	- 
+
+E-NP-singular
+!	- 
+SENT_END 
+O
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+
+SENT_START 
+Інтер	- 
+ 
+єр	- 
+ 
+дуже	- 
+ 
+I-NP-singular
+цікавий	- 
+ 
+E-NP-singular
+,	
+O
+багато	- 
+ 
+B-NP-singular
+різних	- 
+ 
+I-NP-singular
+ламп	- 
+
+E-NP-singular
+,	 
+O
+біографії	- 
+
+B-NP-singular
+E-NP-singular
+,	 
+O
+фотографії	- 
+
+.	
+SENT_END 
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Ціни	- 
+
+B-NP-singular
+не	- 
+ 
+E-NP-singular
+ 
+B-PP
+високі	- 
+ 
+B-NP-singular
+як	- 
+
+I-NP-singular
+для	- 
+ 
+I-NP-singular
+центру	- 
+ 
+I-NP-singular
+Львова	- 
+ 
+E-NP-singular
+.	 
+SENT_END 
+O
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Якщо	- 
+ 
+B-NP-singular
+наступного	- 
+ 
+E-NP-singular
+разу	- 
+ 
+B-PP
+будемо	- 
+
+B-NP-singular
+у	- 
+ 
+I-NP-singular
+Львові	- 
+
+E-NP-singular
+,	 
+O
+обов	- 
+- 
+*	
+язково	- 
+
+відвідаємо	- 
+ 
+I-NP-singular
+ще	- 
+ 
+I-NP-singular
+раз	- 
+ 
+I-NP-singular
+це	- 
+ 
+I-NP-singular
+чудове	- 
+ 
+I-NP-singular
+місце	- 
+
+E-NP-singular
+!	- 
+
+SENT_END 
+PARA_END 
+O
+
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Відвідали	- 
+ 
+O
+вчора	- 
+
+B-VP
+"	 
+O
+Дім	- 
+ 
+B-NP-singular
+легенд	- 
+
+"	 
+.	 
+SENT_END 
+O
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Сподобалося	- 
+ 
+B-NP-singular
+дуже	- 
+
+E-NP-singular
+.	
+SENT_END 
+O
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Особливо	- 
+ 
+B-NP-singular
+приємне	- 
+ 
+E-NP-singular
+враження	- 
+ 
+B-PP
+справив	- 
+ 
+B-NP-singular
+цей	- 
+ 
+I-NP-singular
+дядько	- 
+ 
+I-NP-singular
+на	- 
+ 
+I-NP-singular
+вході	- 
+ 
+E-NP-singular
+.	 
+SENT_END 
+O
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Він	- 
+ 
+B-NP-singular
+так	- 
+
+E-NP-singular
+захоплююче	- 
+
+B-PP
+і	- 
+ 
+B-NP-singular
+артистично	- 
+ 
+I-NP-singular
+розповідав	- 
+ 
+I-NP-singular
+нам	- 
+ 
+I-NP-singular
+ці	- 
+ 
+I-NP-singular
+лнгенди	- 
+ 
+E-NP-singular
+,	 
+O
+що	- 
+ 
+B-NP-singular
+ми	- 
+ 
+I-NP-singular
+слухали	- 
+ 
+I-NP-singular
+їх	- 
+ 
+I-NP-singular
+із	- 
+
+I-NP-singular
+відкритим	- 
+ 
+I-NP-singular
+ротом	- 
+
+E-NP-singular
+.	 
+SENT_END 
+O
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Без	- 
+ 
+B-NP-singular
+цих	- 
+
+I-NP-singular
+легенд	- 
+ 
+E-NP-singular
+,
+O
+це	- 
+ 
+B-NP-singular
+просто	- 
+ 
+I-NP-singular
+красивий	- 
+ 
+I-NP-singular
+ресторан	- 
+
+E-NP-singular
+,	
+O
+яких	- 
+ 
+B-NP-singular
+у	- 
+ 
+I-NP-singular
+львові	- 
+ 
+I-NP-singular
+хоч	- 
+ 
+I-NP-singular
+греблю	- 
+ 
+I-NP-singular
+гати	- 
+ 
+E-NP-singular
+.	 
+SENT_END 
+O
+Disambiguator log: (no disambiguations)
+Token	Lemma	Part-of-speech	Chunk
+- 
+SENT_START 
+Моя	- 
+ 
+B-NP-singular
+порада	- 
+ 
+E-NP-singular
+всім	- 
+
+B-PP
+скористатися	- 
+ 
+B-NP-singular
+його	- 
+ 
+I-NP-singular
+розповіддю	- 
+
+E-NP-singular
+,	 
+O
+і	- 
+ 
+B-NP-singular
+враження	- 
+ 
+I-NP-singular
+будуть	- 
+ 
+I-NP-singular
+неперевершенні	- 
+
+E-NP-singular
+.	
+SENT_END 
+PARA_END 
+O
