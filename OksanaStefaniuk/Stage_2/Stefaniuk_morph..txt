@@ -196,6 +196,10 @@ smile            	-                       -
 !	                -                       - 
 !	                -                       SENT_END 
 	                -                       SENT_START 
+Смайлик             смайлик                 noun:m:v_naz 
+«	                -                       - 
+smile            	-                       - 
+»	                -                       - 
 Дивуюсь             дивуватися              verb:rev:pres:s:1:imperf
 негативним          негативний              adj:m:v_oru:compb 
                                             adj:n:v_oru:compb 
@@ -353,6 +357,98 @@ smile            	-                       -
 )	                -                       SENT_END 
                                             PARA_END 
 	                -                       SENT_START 
+ДОброго	            -                       - 
+дня	                день                    noun:m:v_rod 
+.	                -                       SENT_END 		
+	                -                       SENT_START 
+Хочу	            хотіти                  verb:pres:s:1:imperf 
+залишити	        залишити                verb:inf:perf 
+свій	            свій                    adj:m:v_naz:&pron:pos
+                                            adj:m:v_zna:&pron:pos
+відгук	            відгук                  noun:m:v_naz 
+                                            noun:m:v_zna 
+і	                і                       conj:coord 
+                                            part 
+велику	            великий                 adj:f:v_zna:compb 
+вдячність	        вдячність               noun:f:v_naz 
+                                            noun:f:v_zna 
+роботі	            робот                   noun:m:v_mis:anim 
+                    робота                  noun:f:v_dav 
+                                            noun:f:v_mis 
+даного	            даний                   adjp:pasv:past:m:v_rod
+                                            adjp:pasv:past:m:v_zna
+                                            adjp:pasv:past:n:v_rod 
+закладу	            заклад                  noun:m:v_dav 
+                                            noun:m:v_mis 
+                                            noun:m:v_rod 
+                    закласти                verb:futr:s:1:perf 
+.	                -                       SENT_END 			
+	                -                       SENT_START 
+А	                а                       conj:coord 
+                                            excl 
+                                            part 
+головне	            головний                adj:n:v_naz:compb 
+                                            adj:n:v_zna:compb 
+професіоналізму	    професіоналізм          noun:m:v_dav 
+                                            noun:m:v_mis 
+                                            noun:m:v_rod 
+та	                та                      conj:coord 
+                                            part 
+терпінню	        терпіння                noun:n:v_dav 
+                                            noun:n:v_mis 
+адміністратора	    адміністратор           noun:m:v_rod:anim 
+                                            noun:m:v_zna:anim 
+та	                та                      conj:coord 
+                                            part 
+кухаря	            кухар                   noun:m:v_rod:anim 
+                                            noun:m:v_zna:anim 
+що	                що                      conj:subord 
+                                            noun:n:v_naz:inanim:&pron:int:rel
+                                            noun:n:v_zna:inanim:&pron:int:rel
+працювали	        працювати               verb:past:p:imperf 
+на	                на                      prep:rv_zna:rv_mis 
+зміні	            зміна                   noun:f:v_dav 
+                                            noun:f:v_mis 
+23	                23                      number 
+травня	            травень                 noun:m:v_rod 
+.	                -                       SENT_END 		
+	                -                       SENT_START 		
+Мега	            -                       - 
+велика	            великий                 adj:f:v_naz:compb 
+вдячність	        вдячність               noun:f:v_naz 
+                                            noun:f:v_zna 
+за	                за                      prep:rv_rod:rv_zna:rv_oru 
+оперативність	    оперативність           noun:f:v_naz 
+                                            noun:f:v_zna 
+,	                -                       - 
+за	                за                      prep:rv_rod:rv_zna:rv_oru 
+лічені	            лічений                 adjp:pasv:past:p:v_naz 
+                                            adjp:pasv:past:p:v_zna 
+хвилини	            хвилина                 noun:f:v_rod 
+                                            noun:p:v_naz 
+                                            noun:p:v_zna 
+Ви	                ви                      noun:p:v_kly:anim:&pron:pers:2 
+                                            noun:p:v_naz:anim:&pron:pers:2
+нагодували	        нагодувати              verb:past:p:perf 
+весь	            весь                    adj:m:v_naz:&pron:dem 
+                                            adj:m:v_zna:&pron:dem 
+клас	            клас                    noun:m:v_naz 
+                                            noun:m:v_zna 
+голодних	        голодний                adj:p:v_mis:compb 
+                                            adj:p:v_rod:compb 
+                                            adj:p:v_zna:compb 
+школярів	        школяр                  noun:p:v_rod:anim 
+                                            noun:p:v_zna:anim 
+.	                -                       SENT_END 
+	                -                       SENT_START 
+ДЯКУЄМО	            дякувати                verb:pres:p:1:imperf 
+                                            SENT_END 
+                                            PARA_END 
+							
+							
+							
+							
+	                -                       SENT_START 
 Доброго	            добрий                  adj:m:v_rod:compb 
                                             adj:m:v_zna:compb 
                                             adj:n:v_rod:compb 
@@ -495,9 +591,6 @@ smile            	-                       -
 !	                -                       SENT_END 
                                             PARA_END 
                     -                       SENT_START 
-2	                2                       number 
-.	                -                       SENT_END 
-	                -                       SENT_START 
 З	                з                       prep:rv_rod:rv_zna:rv_oru 
 нами	            ми                      noun:p:v_oru:anim:&pron:pers:1 
 сталася             статися                 verb:rev:past:f:perf 
@@ -681,8 +774,6 @@ smile            	-                       -
 											adj:p:v_zna:&pron:pos 
 порад	            порада                  noun:p:v_rod 
 :	                -                       - 
-3	                3                       number 
-.	                -                       - 
 №1	                -                       - 
 Слідкуйте           слідкувати              verb:impr:p:2:imperf 
 за	                за                      prep:rv_rod:rv_zna:rv_oru 
@@ -696,8 +787,6 @@ smile            	-                       -
 					кіл 					noun:p:v_naz 
 											noun:p:v_zna 
 розраховуєтесь	    розраховуватися         verb:rev:pres:p:2:imperf 
-4	                4                       number 
-.	                -                       - 
 №2	                -                       - 
 Дивіться            дивитися                verb:rev:impr:p:2:imperf 
 щоб	                щоб                     conj:subord 
@@ -714,8 +803,6 @@ smile            	-                       -
 											adj:n:v_zna            
 до                  до                      prep:rv_rod 
 касси	            -                       - 
-5	                5                       number 
-.	                -                       - 
 №3	                -                       - 
 Слідкуйте	        слідкувати              verb:impr:p:2:imperf 
 щоб	                щоб                     conj:subord 
@@ -757,8 +844,6 @@ smile            	-                       -
 !	                -                       - 
 !	                -                       SENT_END 
 	                -                       SENT_START 
-6                   6                       number 
-.	                -                       - 
 №4	                -                       - 
 Якщо	            якщо                    conj:subord 
 вам	                ви                      noun:p:v_dav:anim:&pron:pers:2
@@ -854,8 +939,6 @@ smile            	-                       -
 в	                в                       prep:rv_zna:rv_mis:rv_rod:v-u 
 желудку	            -                       - 
 )	                -                       - 
-3	                3                       number 
-.	                -                       SENT_END 
                     -                       SENT_START 
 Дякую	            дякувати                verb:pres:s:1:imperf 
 "	                -                       - 
@@ -877,9 +960,6 @@ smile            	-                       -
 .	                -                       SENT_END 
                                             PARA_END
 					-                       SENT_START 
-2	                2                       number 
-.	                -                       SENT_END 
-	                -                       SENT_START 
 Дивно	            дивно                   adv:compb 
 читати	            читати                  verb:inf:imperf 
 стільки	            стільки                 adv 
@@ -889,9 +969,6 @@ smile            	-                       -
                                             adj:p:v_rod:compb 
 											adj:p:v_zna:compb 
 коментарів	        коментар                noun:p:v_rod 
-.	                -                       SENT_END 
-	                -                       SENT_START 
-3                   3                       number 
 .	                -                       SENT_END 
 	                -                       SENT_START 
 Як	                як                      adv:&pron:int:rel 
@@ -964,8 +1041,93 @@ smile            	-                       -
 немає	            немає                   predic 
 .	                -                       SENT_END 
 	                -                       SENT_START 
-2	                2                       number 
+Отруєнь	            отруєння                noun:p:v_rod 
+чи	                чи                      conj:coord:subord 
+                                            part 
+поганого	        поганий                 adj:m:v_rod:compb 
+                                            adj:m:v_zna:compb 
+                                            adj:n:v_rod:compb 
+самопочуття	        самопочуття             noun:n:v_naz 
+                                            noun:n:v_rod 
+                                            noun:n:v_zna 
+після	            після                   adv 
+                                            prep:rv_rod 
+відвідування	    відвідування            noun:n:v_naz 
+                                            noun:n:v_rod 
+                                            noun:n:v_zna 
+                                            noun:p:v_naz 
+                                            noun:p:v_zna 
+ПХ	                -                       - 
+не	                не                      part 
+було	            бути                    verb:past:n:imperf 
+.	                -                       SENT_END
+	                -                       SENT_START 
+На	                на                      excl 
+                                            part 
+                                            prep:rv_zna:rv_mis 
+рахунок	            рахунок                 noun:m:v_naz 
+                                            noun:m:v_zna 
+чистоти	            чистота                 noun:f:v_rod 
+то	                то                      conj:subord 
+варто	            варто                   predic 
+було	            бути                    verb:past:n:imperf 
+б	                б                       part 
+частіше	            частіше                 adv 
+                    частий                  adj:n:v_naz:compr 
+                                            adj:n:v_zna:compr 
+                    часто                   adv:compr     
+прибирати	        прибирати               verb:inf:imperf 
+туалети	            туалет                  noun:p:v_naz 
+                                            noun:p:v_zna 
+і	                і                       conj:coord 
+                                            part 
+якомога	            якомога                 adv 
+ретельніше	        ретельний               adj:n:v_naz:compr 
+                                            adj:n:v_zna:compr 
+                    ретельно                adv:compr 
+,	                -                       - 
+бо	                бо                      conj:subord 
+                                            part 
+складається	        складатися              verb:rev:pres:s:3:imperf 
+враження	        враження                noun:n:v_naz 
+                                            noun:n:v_rod 
+                                            noun:n:v_zna 
+                                            noun:p:v_naz 
+                                            noun:p:v_zna 
+,               	-                       -  
+що	                що                      conj:subord 
+                                            noun:n:v_naz:inanim:&pron:int:rel
+                                            noun:n:v_zna:inanim:&pron:int:rel
+це	                цей                     adj:n:v_naz:&pron:dem 
+                                            adj:n:v_zna:&pron:dem 
+робиться	        робитися                verb:rev:pres:s:3:imperf 
+"	                -                       - 
+на	                на                      prep:rv_zna:rv_mis 
+відчіпного	        відчіпний               adj:m:v_rod 
+                                            adj:m:v_zna 
+                                            adj:n:v_rod 
+"	                -                       - 
+.	                -                       SENT_END
+	                -                       SENT_START 
+На	                на                      prep:rv_zna:rv_mis 
+найвищу	            високий                 adj:f:v_zna:super 
+оцінку	            оцінка                  noun:f:v_zna 
+заклад	            заклад                  noun:m:v_naz 
+                                            noun:m:v_zna 
+не	                не                      part 
+заслуговує	        заслуговувати           verb:pres:s:3:imperf 
+,	                -                       - 
+але	                але                     conj:coord 
+                                            excl 
+на                  на                      excl 
+                                            part 
+                                            prep:rv_zna:rv_mis 
+8	                8                       number 
+з	                з                       prep:rv_rod:rv_zna:rv_oru
+10	                10                      number 
+цілком	            цілком                  adv 
 .	                -                       SENT_END 
+                                            PARA_END					
 	                -                       SENT_START 
 Класний	            класний                 adj:m:v_naz 
                                             adj:m:v_zna 
@@ -1029,7 +1191,6 @@ smile            	-                       -
 .                   -                       - 
 )	                -                       - 
 )	                -                       - 
-3	                3                       number 
 .	                -                       SENT_END 
 	                -                       SENT_START 
 Дуже	            дуже                    adv 
@@ -1072,9 +1233,6 @@ smile            	-                       -
 вечора	            вечір                   noun:m:v_rod 
 !	                -                       SENT_END 
                     -                       SENT_START 
-3	                3                       number 
-.	                -                       SENT_END 
-	                -                       SENT_START 
 Сьогодні	        сьогодні                adv 
 ,	                -                       - 
 18.09.2015	        18.09.2015              date 
@@ -1207,9 +1365,6 @@ smile            	-                       -
 нема	            нема                    predic 
 .	                -                       SENT_END 
 	                -                       SENT_START 
-4	                4                       number 
-.	                -                       SENT_END 
-	                -                       SENT_START 
 В	                в                       prep:rv_zna:rv_mis:rv_rod:v-u 
 туалеті	            туалет                  noun:m:v_mis 
 не	                не                      part 
@@ -1234,8 +1389,6 @@ smile            	-                       -
 					запахнути     			verb:past:m:perf       
 .	                -                       SENT_END 
                     -                       SENT_START 
-5	                5                       number 
-.	                -                       SENT_END 
                     -                       SENT_START 
 Раз	                раз                     adv 
                                             conj:subord 
@@ -1315,9 +1468,6 @@ smile            	-                       -
 .	                -                       SENT_END 
                                             PARA_END 
 	                -                       SENT_START 
-2	                2                       number 
-.	                -                       SENT_END 
-                    -                       SENT_START 
 Гм	                гм                      excl 
 ...	                -                       - 
 мені	            я                       noun:s:v_dav:anim:&pron:pers:1 
@@ -1382,9 +1532,6 @@ smile            	-                       -
 смачне	            смачний                 adj:n:v_naz:compb 
                                             adj:n:v_zna:compb 
 )	                -                       - 
-3	                3                       number 
-.	                -                       SENT_END 
-                    -                       SENT_START 
 Можна	            можна                   predic 
 дешево	            дешево                  adv:compb 
 і	                і                       conj:coord 
