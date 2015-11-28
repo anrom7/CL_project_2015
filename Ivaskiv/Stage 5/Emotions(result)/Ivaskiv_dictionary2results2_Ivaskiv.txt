@@ -1,0 +1,319 @@
+Ivaskiv 20-30 female
+Були joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Львові joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Львові, joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відвідали joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кафе joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+«Вірменка» joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+«Вірменка». joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у Львові joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у Львові, joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відвідали кафе joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кафе «Вірменка» joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кафе «Вірменка». joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Були у Львові joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Були у Львові, joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відвідали кафе «Вірменка» joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відвідали кафе «Вірменка». joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Були у Львові, відвідали  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Були у Львові, відвідали кафе joy 20 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у Львові, відвідали кафе «Вірменка» joy 20 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у Львові, відвідали кафе «Вірменка». joy 20 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Були у Львові, відвідали кафе «Вірменка» joy 25 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Були у Львові, відвідали кафе «Вірменка».  joy 25 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Чудово joy 100 sadness 0 anger 0 fear 0 amazement 5 disgust 0
+Чудово!! joy 100 sadness 0 anger 0 fear 0 amazement 5 disgust 0
+По-перше joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+По-перше, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дивовижного joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смаку joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кава joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кава, joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зварена joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+джезві joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+піску joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+піску. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+По-перше, дивовижного joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дивовижного смаку joy 85 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смаку кава joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смаку кава, joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кава, зварена joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в джезві joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на піску joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на піску. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+По-перше, дивовижного смаку joy 85 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дивовижного смаку кава joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дивовижного смаку кава, joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зварена в джезві joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в джезві на піску joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в джезві на піску. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+По-перше, дивовижного смаку кава joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+По-перше, дивовижного смаку кава, joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дивовижного смаку кава, зварена joy 80 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кава, зварена в джезві joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+По-перше, дивовижного смаку кава, зварена joy 85 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смаку кава, зварена в джезві joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зварена в джезві на піску joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зварена в джезві на піску. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дивовижного смаку кава, зварена в джезві joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кава, зварена в джезві на піску joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кава, зварена в джезві на піску. joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+По-перше, дивовижного смаку кава, зварена в джезві joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дивовижного смаку кава, зварена в джезві на піску joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дивовижного смаку кава, зварена в джезві на піску. joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+По-перше, дивовижного смаку кава, зварена в джезві на піску joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+По-перше, дивовижного смаку кава, зварена в джезві на піску.  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Кава joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не joy 0 sadness 5 anger 0 fear 0 amazement 0 disgust 0
+гірше joy 0 sadness 60 anger 0 fear 0 amazement 5 disgust 0
+ніж joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ніж, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+справжніх joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Єреванських joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кав'ярнях joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+80-х joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+років joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+років. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Кава не joy 45 sadness 5 anger 0 fear 0 amazement 0 disgust 0
+не гірше joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+гірше ніж joy 0 sadness 75 anger 0 fear 0 amazement 0 disgust 0
+гірше ніж, joy 0 sadness 75 anger 0 fear 0 amazement 0 disgust 0
+в справжніх joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+справжніх Єреванських joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Єреванських кав'ярнях joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кав'ярнях 80-х joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+80-х років joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+80-х років.  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Кава не гірше joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не гірше ніж joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не гірше ніж, joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в справжніх Єреванських joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+справжніх Єреванських кав'ярнях joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Єреванських кав'ярнях 80-х joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кав'ярнях 80-х років joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кав'ярнях 80-х років. joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Кава не гірше ніж joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Кава не гірше ніж, joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не гірше ніж, в справжніх joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в справжніх Єреванських кав'ярнях joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+справжніх Єреванських кав'ярнях 80-х joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Єреванських кав'ярнях 80-х років joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Єреванських кав'ярнях 80-х років.  joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не гірше ніж, в справжніх Єреванських joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в справжніх Єреванських кав'ярнях 80-х joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+справжніх Єреванських кав'ярнях 80-х років joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+справжніх Єреванських кав'ярнях 80-х років. joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Кава не гірше ніж, в справжніх joy 65 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не гірше ніж, в справжніх Єреванських кав'ярнях joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в справжніх Єреванських кав'ярнях 80-х років joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в справжніх Єреванських кав'ярнях 80-х років. joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Кава не гірше ніж, в справжніх Єреванських joy 65 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Кава не гірше ніж, в справжніх Єреванських кав'ярнях joy 65 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не гірше ніж, в справжніх Єреванських кав'ярнях 80-х років joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не гірше ніж, в справжніх Єреванських кав'ярнях 80-х років. joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Кава не гірше ніж, в справжніх Єреванських кав'ярнях 80-х років joy 65 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Кава не гірше ніж, в справжніх Єреванських кав'ярнях 80-х років.  joy 65 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Можна joy 20 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+взяти joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+до joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кави joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+50 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+гр joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+гр. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Лікеру joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 15
+Лікеру, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 15
+настойки joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 20
+настойки, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 20
+коньячку joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 25
+коньячку. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 25
+Можна взяти joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+до кави joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і 50 гр joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і 50 гр. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+50 гр. Лікеру joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 10
+50 гр. Лікеру, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 10
+Лікеру, настойки joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 21
+Лікеру, настойки, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 21
+настойки, коньячку joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 30
+настойки, коньячку. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 30
+взяти до кави joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і 50 гр. Лікеру joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 10
+і 50 гр. Лікеру, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 10
+Лікеру, настойки, коньячку joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 45
+Лікеру, настойки, коньячку.  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 45
+Можна взяти до кави joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+до кави і 50 гр joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+до кави і 50 гр. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+50 гр. Лікеру, настойки joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 20
+50 гр. Лікеру, настойки, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 20
+50 гр. Лікеру, настойки, коньячку joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 45
+50 гр. Лікеру, настойки, коньячку.  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 45
+Можна взяти до кави і 50 гр joy 0 sadness 5 anger 0 fear 0 amazement 0 disgust 7
+Можна взяти до кави і 50 гр. joy 0 sadness 5 anger 0 fear 0 amazement 0 disgust 7
+взяти до кави і 50 гр joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 7
+взяти до кави і 50 гр.  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 7
+до кави і 50 гр. Лікеру, настойки joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 45
+до кави і 50 гр. Лікеру, настойки, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 45
+Можна взяти до кави і 50 гр. Лікеру joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 20
+Можна взяти до кави і 50 гр. Лікеру, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 20
+взяти до кави і 50 гр. Лікеру, настойки joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 25
+взяти до кави і 50 гр. Лікеру, настойки, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 25
+до кави і 50 гр. Лікеру, настойки, коньячку joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 45
+до кави і 50 гр. Лікеру, настойки, коньячку. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 45
+Можна взяти до кави і 50 гр. Лікеру, настойки, коньячку joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 45
+Можна взяти до кави і 50 гр. Лікеру, настойки, коньячку.  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 45
+По-друге joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+По-друге, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смачні joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+свіжі joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+солодощі joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+солодощі. joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+По-друге, дуже joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже смачні joy 16 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і свіжі joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+свіжі солодощі joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+свіжі солодощі.  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+По-друге, дуже смачні joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смачні і свіжі joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і свіжі солодощі joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і свіжі солодощі. joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже смачні і свіжі joy 20 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смачні і свіжі солодощі joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смачні і свіжі солодощі. joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+По-друге, дуже смачні і свіжі joy 20 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже смачні і свіжі солодощі joy 80 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже смачні і свіжі солодощі. joy 80 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+По-друге, дуже смачні і свіжі солодощі joy 80 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+По-друге, дуже смачні і свіжі солодощі. joy 80 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ціни- joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+понад joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+демократичні joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+демократичні. joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ціни- понад joy 0 sadness 5 anger 5 fear 0 amazement 0 disgust 0
+понад демократичні joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+понад демократичні. joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ціни- понад демократичні joy 20 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ціни- понад демократичн. joy 20 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+А joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+головне joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+головне, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+так joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+це joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відвідувачі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відвідувачі. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+А головне joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+А головне, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+так це joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+це відвідувачі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+це відвідувачі. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+А головне, так це joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+головне, так це joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+так це відвідувачі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+так це відвідувачі. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+головне, так це відвідувачі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+головне, так це відвідувачі. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+А головне, так це відвідувачі joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+А головне, так це відвідувачі. joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Мила joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Мила, joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сучасна joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+інтелігентна joy 67 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+публіка joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+публіка. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Мила, сучасна joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сучасна інтелігентна joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+інтелігентна публіка joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+інтелігентна публіка. joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Мила, сучасна інтелігентна joy 80 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сучасна інтелігентна публіка joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сучасна інтелігентна публіка. joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Мила, сучасна інтелігентна публіка joy 80 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Мила, сучасна інтелігентна публіка. joy 80 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Все joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чудово joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чудово, joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+раджу joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+усім joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відвідати joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Все чудово, joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+раджу усім joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+усім відвідати joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Все чудово, раджу joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чудово, раджу усім joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+раджу усім відвідати joy 20 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Все чудово, раджу усім joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чудово, раджу усім відвідати joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Все чудово, раджу усім відвідати joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Чесно joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кажучи joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кажучи, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+звичайна joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+українська joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кухня joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кухня. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Чесно кажучи joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Чесно кажучи, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+звичайна українська joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+українська кухня joy 20 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+українська кухня.  joy 20 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Чесно кажучи, звичайна joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+звичайна українська кухня joy 50 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+звичайна українська кухня. joy 50 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Чесно кажучи, звичайна українська joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Чесно кажучи, звичайна українська кухня joy 50 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+Чесно кажучи, звичайна українська кухня. joy 50 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+Нічого joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+особливого joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+особливого. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Нічого особливого joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+Нічого особливого. joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+Стільки joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чудових joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відгуків joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відгуків, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+очікування joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не joy 0 sadness 5 anger 0 fear 0 amazement 0 disgust 0
+виправдані joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+виправдані. joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Стільки чудових joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чудових відгуків joy 80 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чудових відгуків, joy 80 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але очікування joy 20 sadness 3 anger 0 fear 0 amazement 0 disgust 0
+не виправдані joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+не виправдані. joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Стільки чудових відгуків joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Стільки чудових відгуків, joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чудових відгуків, але joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+очікування не виправдані joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+очікування не виправдані.  joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+Стільки чудових відгуків, але joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чудових відгуків, але очікування joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але очікування не виправдані joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+але очікування не виправдані. joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+Стільки чудових відгуків, але очікування joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Стільки чудових відгуків, але очікування не виправдані joy 0 sadness 50 anger 0 fear 0 amazement 0 disgust 0
+Стільки чудових відгуків, але очікування не виправдані. joy 0 sadness 50 anger 0 fear 0 amazement 0 disgust 0
+Ціни joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кусаються joy 0 sadness 30 anger 10 fear 5 amazement 0 disgust 0
+кусаються. joy 0 sadness 30 anger 10 fear 5 amazement 0 disgust 0
+Ціни кусаються joy 0 sadness 30 anger 30 fear 0 amazement 0 disgust 0
+Ціни кусаються. joy 0 sadness 30 anger 30 fear 0 amazement 0 disgust 0
+  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+СМАЧНО joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+СМАЧНО))) joy 35 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ПРИВІТНО joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ПРИВІТНО)))  joy 65 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ЗАТИШНО joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ЗАТИШНО))) joy 80 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тільки joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
++ joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тільки  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0

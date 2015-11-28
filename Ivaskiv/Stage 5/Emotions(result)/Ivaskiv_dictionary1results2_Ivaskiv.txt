@@ -1,0 +1,383 @@
+Ivaskiv 20-30 female
+Нічого joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Нічого! joy 0 sadness 0 anger 10 fear 0 amazement 0 disgust 0
+Дуже joy 20 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+негативні joy 0 sadness 30 anger 10 fear 5 amazement 5 disgust 0
+враження joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+враження. joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Дуже негативні joy 0 sadness 50 anger 15 fear 7 amazement 5 disgust 0
+негативні враження joy 0 sadness 50 anger 15 fear 0 amazement 0 disgust 0
+негативні враження.  joy 0 sadness 50 anger 15 fear 0 amazement 0 disgust 0
+Дуже негативні враження joy 0 sadness 55 anger 20 fear 0 amazement 0 disgust 0
+Дуже негативні враження. joy 0 sadness 55 anger 20 fear 0 amazement 0 disgust 0
+Колись joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+давніше joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+прийшов joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+перший joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+раз joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+мені joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сподобалося joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сподобалося, joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тепер joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+це joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+взагалі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+жах joy 0 sadness 45 anger 15 fear 10 amazement 0 disgust 0
+жах. joy 0 sadness 45 anger 15 fear 10 amazement 0 disgust 0
+Колись давніше joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+давніше прийшов joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+прийшов перший joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+перший раз joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і мені joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+мені сподобалося joy 50 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+мені сподобалося, joy 50 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а тепер joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+це взагалі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+взагалі жах joy 0 sadness 45 anger 15 fear 10 amazement 0 disgust 0
+взагалі жах. joy 0 sadness 45 anger 15 fear 10 amazement 0 disgust 0
+Колись давніше прийшов joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+давніше прийшов перший joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+прийшов перший раз joy 10 sadness 0 anger 0 fear 0 amazement 10 disgust 0
+і мені сподобалося joy 50 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і мені сподобалося, joy 50 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сподобалося, а тепер joy 45 sadness 0 anger 0 fear 0 amazement 5 disgust 0
+тепер це взагалі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+це взагалі жах joy 0 sadness 50 anger 5 fear 10 amazement 10 disgust 0
+це взагалі жах. joy 0 sadness 50 anger 5 fear 10 amazement 10 disgust 0
+Колись давніше прийшов перший joy 20 sadness 0 anger 0 fear 0 amazement 5 disgust 0
+давніше прийшов перший раз joy 20 sadness 0 anger 0 fear 0 amazement 10 disgust 0
+і мені сподобалося, а тепер joy 50 sadness 0 anger 0 fear 0 amazement 5 disgust 0
+а тепер це взагалі жах joy 0 sadness 45 anger 5 fear 8 amazement 5 disgust 0
+а тепер це взагалі жах. joy 0 sadness 45 anger 5 fear 8 amazement 5 disgust 0
+Колись давніше прийшов перший раз joy 50 sadness 0 anger 0 fear 0 amazement 7 disgust 0
+прийшов перший раз і мені сподобалося joy 55 sadness 0 anger 0 fear 0 amazement 7 disgust 0
+прийшов перший раз і мені сподобалося, joy 55 sadness 0 anger 0 fear 0 amazement 7 disgust 0
+перший раз і мені сподобалося joy 55 sadness 0 anger 0 fear 0 amazement 7 disgust 0
+перший раз і мені сподобалося, joy 55 sadness 0 anger 0 fear 0 amazement 7 disgust 0
+сподобалося, а тепер це взагалі жах joy 30 sadness 45 anger 15 fear 0 amazement 5 disgust 0
+сподобалося, а тепер це взагалі жах. joy 30 sadness 45 anger 15 fear 0 amazement 5 disgust 0
+Колись давніше прийшов перший раз і мені сподобалося joy 55 sadness 0 anger 0 fear 0 amazement 5 disgust 0
+Колись давніше прийшов перший раз і мені сподобалося,  joy 55 sadness 0 anger 0 fear 0 amazement 5 disgust 0
+давніше прийшов перший раз і мені сподобалося joy 55 sadness 0 anger 0 fear 0 amazement 5 disgust 0
+давніше прийшов перший раз і мені сподобалося, joy 55 sadness 0 anger 0 fear 0 amazement 5 disgust 0
+перший раз і мені сподобалося, а тепер joy 50 sadness 0 anger 0 fear 0 amazement 7 disgust 0
+і мені сподобалося, а тепер це взагалі жах joy 35 sadness 45 anger 15 fear 0 amazement 0 disgust 0
+і мені сподобалося, а тепер це взагалі жах.  joy 35 sadness 45 anger 15 fear 0 amazement 0 disgust 0
+прийшов перший раз і мені сподобалося, а тепер це joy 50 sadness 0 anger 0 fear 5 amazement 5 disgust 0
+Колись давніше прийшов перший раз і мені сподобалося, а тепер joy 55 sadness 0 anger 0 fear 5 amazement 5 disgust 0
+прийшов перший раз і мені сподобалося, а тепер це взагалі жах joy 30 sadness 50 anger 15 fear 0 amazement 0 disgust 0
+прийшов перший раз і мені сподобалося, а тепер це взагалі жах. joy 30 sadness 50 anger 15 fear 0 amazement 0 disgust 0
+давніше прийшов перший раз і мені сподобалося, а тепер це взагалі жах joy 30 sadness 50 anger 15 fear 0 amazement 0 disgust 0
+давніше прийшов перший раз і мені сподобалося, а тепер це взагалі жах. joy 30 sadness 50 anger 15 fear 0 amazement 0 disgust 0
+Колись давніше прийшов перший раз і мені сподобалося, а тепер це взагалі жах joy 30 sadness 50 anger 15 fear 0 amazement 0 disgust 0
+Колись давніше прийшов перший раз і мені сподобалося, а тепер це взагалі жах.  joy 30 sadness 50 anger 15 fear 0 amazement 0 disgust 0
+Якщо joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ви joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ставите joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+високі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ціни joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ціни, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+то joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бодай joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+порції joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+робіть joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відповідні joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відповідні! joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Якщо ви joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ви ставите joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ставите високі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+високі ціни joy 0 sadness 5 anger 15 fear 0 amazement 0 disgust 0
+високі ціни, joy 0 sadness 5 anger 15 fear 0 amazement 0 disgust 0
+то бодай joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бодай порції joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+порції робіть joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+робіть відповідні joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+робіть відповідні! joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Якщо ви ставите joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ви ставите високі joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 0
+ставите високі ціни joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 0
+ставите високі ціни, joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 0
+високі ціни, то joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+то бодай порції joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бодай порції робіть joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+порції робіть відповідні joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+порції робіть відповідні! joy 5 sadness 0 anger 3 fear 0 amazement 0 disgust 0
+Якщо ви ставите високі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ви ставите високі ціни joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 0
+ви ставите високі ціни, joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 0
+ставите високі ціни, то joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 0
+то бодай порції робіть joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бодай порції робіть відповідні joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бодай порції робіть відповідні! joy 5 sadness 0 anger 3 fear 0 amazement 0 disgust 0
+Якщо ви ставите високі ціни joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 0
+Якщо ви ставите високі ціни, joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 0
+то бодай порції робіть відповідні joy 5 sadness 0 anger 3 fear 0 amazement 0 disgust 0
+то бодай порції робіть відповідні! joy 5 sadness 0 anger 3 fear 0 amazement 0 disgust 0
+ставите високі ціни, то бодай порції joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 0
+Якщо ви ставите високі ціни, то бодай joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 0
+високі ціни, то бодай порції робіть відповідні joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 0
+високі ціни, то бодай порції робіть відповідні! joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 0
+Якщо ви ставите високі ціни, то бодай порції робіть відповідні joy 0 sadness 0 anger 40 fear 0 amazement 0 disgust 0
+Якщо ви ставите високі ціни, то бодай порції робіть відповідні!  joy 0 sadness 0 anger 40 fear 0 amazement 0 disgust 0
+Сирна joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тарілка joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+налічує joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пару joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кусочків joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сиру joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дві joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+якісь joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нещасні joy 0 sadness 45 anger 0 fear 0 amazement 10 disgust 0
+маленькі joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+палянички joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+- joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+та joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+це joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+один joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зуб joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 5
+зуб! joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 5
+Сирна тарілка joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тарілка налічує joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+налічує пару joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пару кусочків joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кусочків сиру joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і дві joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дві якісь joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+якісь нещасні joy 0 sadness 45 anger 0 fear 0 amazement 10 disgust 0
+нещасні маленькі joy 0 sadness 60 anger 0 fear 0 amazement 10 disgust 0
+маленькі палянички joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+та це joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на один joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+один зуб joy 0 sadness 0 anger 0 fear 5 amazement 0 disgust 20
+один зуб! joy 0 sadness 0 anger 0 fear 5 amazement 0 disgust 20
+Сирна тарілка налічує joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тарілка налічує пару joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+налічує пару кусочків joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пару кусочків сиру joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і дві якісь joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дві якісь нещасні joy 0 sadness 45 anger 0 fear 0 amazement 10 disgust 0
+якісь нещасні маленькі joy 0 sadness 60 anger 0 fear 0 amazement 15 disgust 0
+нещасні маленькі палянички joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+це на один joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на один зуб joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на один зуб! joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Сирна тарілка налічує пару joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тарілка налічує пару кусочків joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+налічує пару кусочків сиру joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пару кусочків сиру і joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кусочків сиру і дві joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і дві якісь нещасні joy 0 sadness 45 anger 0 fear 0 amazement 10 disgust 0
+дві якісь нещасні маленькі joy 0 sadness 50 anger 0 fear 0 amazement 10 disgust 0
+якісь нещасні маленькі палянички joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+та це на один joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+це на один зуб joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+це на один зуб! joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Сирна тарілка налічує пару кусочків joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тарілка налічує пару кусочків сиру joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пару кусочків сиру і дві joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і дві якісь нещасні маленькі joy 0 sadness 50 anger 0 fear 0 amazement 10 disgust 0
+дві якісь нещасні маленькі палянички joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+та це на один зуб joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+та це на один зуб! joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Сирна тарілка налічує пару кусочків сиру joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тарілка налічує пару кусочків сиру і joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+налічує пару кусочків сиру і дві joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і дві якісь нещасні маленькі палянички joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+тарілка налічує пару кусочків сиру і дві joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пару кусочків сиру і дві якісь нещасні joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+сиру і дві якісь нещасні маленькі палянички joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+якісь нещасні маленькі палянички - та це joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+маленькі палянички - та це на один joy 0 sadness 15 anger 5 fear 0 amazement 0 disgust 0
+палянички - та це на один зуб joy 0 sadness 0 anger 5 fear 0 amazement 0 disgust 0
+палянички - та це на один зуб! joy 0 sadness 0 anger 5 fear 0 amazement 0 disgust 0
+Сирна тарілка налічує пару кусочків сиру і дві joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тарілка налічує пару кусочків сиру і дві якісь joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+налічує пару кусочків сиру і дві якісь нещасні joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+пару кусочків сиру і дві якісь нещасні маленькі joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+кусочків сиру і дві якісь нещасні маленькі палянички joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+нещасні маленькі палянички - та це на один joy 0 sadness 15 anger 5 fear 0 amazement 0 disgust 0
+маленькі палянички - та це на один зуб joy 0 sadness 15 anger 5 fear 0 amazement 0 disgust 0
+маленькі палянички - та це на один зуб!  joy 0 sadness 15 anger 5 fear 0 amazement 0 disgust 0
+Сирна тарілка налічує пару кусочків сиру і дві якісь joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тарілка налічує пару кусочків сиру і дві якісь нещасні joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+налічує пару кусочків сиру і дві якісь нещасні маленькі joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+пару кусочків сиру і дві якісь нещасні маленькі палянички joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+якісь нещасні маленькі палянички - та це на один зуб joy 0 sadness 15 anger 5 fear 0 amazement 0 disgust 0
+якісь нещасні маленькі палянички - та це на один зуб! joy 0 sadness 15 anger 5 fear 0 amazement 0 disgust 0
+Сирна тарілка налічує пару кусочків сиру і дві якісь нещасні joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+тарілка налічує пару кусочків сиру і дві якісь нещасні маленькі joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+налічує пару кусочків сиру і дві якісь нещасні маленькі палянички joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Сирна тарілка налічує пару кусочків сиру і дві якісь нещасні маленькі joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+тарілка налічує пару кусочків сиру і дві якісь нещасні маленькі палянички joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+дві якісь нещасні маленькі палянички - та це на один зуб joy 0 sadness 15 anger 5 fear 0 amazement 0 disgust 0
+дві якісь нещасні маленькі палянички - та це на один зуб! joy 0 sadness 15 anger 5 fear 0 amazement 0 disgust 0
+Сирна тарілка налічує пару кусочків сиру і дві якісь нещасні маленькі палянички joy 0 sadness 10 anger 15 fear 0 amazement 0 disgust 0
+і дві якісь нещасні маленькі палянички - та це на один зуб joy 0 sadness 10 anger 15 fear 0 amazement 0 disgust 0
+і дві якісь нещасні маленькі палянички - та це на один зуб! joy 0 sadness 10 anger 15 fear 0 amazement 0 disgust 0
+пару кусочків сиру і дві якісь нещасні маленькі палянички - та це на один зуб joy 0 sadness 10 anger 15 fear 0 amazement 0 disgust 0
+пару кусочків сиру і дві якісь нещасні маленькі палянички - та це на один зуб!  joy 0 sadness 10 anger 15 fear 0 amazement 0 disgust 0
+Сирна тарілка налічує пару кусочків сиру і дві якісь нещасні маленькі палянички - та це на один зуб joy 0 sadness 10 anger 15 fear 0 amazement 0 disgust 0
+Сирна тарілка налічує пару кусочків сиру і дві якісь нещасні маленькі палянички - та це на один зуб!  joy 0 sadness 10 anger 15 fear 0 amazement 0 disgust 0
+Словом joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+порції joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не joy 0 sadness 5 anger 0 fear 0 amazement 0 disgust 0
+відповідають joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ціні joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ціні. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Словом порції joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не відповідають joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+відповідають ціні joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відповідають ціні. joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+порції не відповідають joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+не відповідають ціні joy 0 sadness 15 anger 10 fear 0 amazement 0 disgust 0
+не відповідають ціні. joy 0 sadness 15 anger 10 fear 0 amazement 0 disgust 0
+Словом порції не відповідають joy 0 sadness 15 anger 10 fear 0 amazement 0 disgust 0
+порції не відповідають ціні joy 0 sadness 15 anger 10 fear 0 amazement 0 disgust 0
+порції не відповідають ціні.  joy 0 sadness 15 anger 10 fear 0 amazement 0 disgust 0
+Словом порції не відповідають ціні joy 0 sadness 15 anger 10 fear 0 amazement 0 disgust 0
+Словом порції не відповідають ціні.  joy 0 sadness 15 anger 10 fear 0 amazement 0 disgust 0
+Також joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ресторан joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вдається joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+до joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+всіляких joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+маркетингових joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+маніпуляцій joy 0 sadness 15 anger 60 fear 0 amazement 10 disgust 0
+маніпуляцій. joy 0 sadness 15 anger 60 fear 0 amazement 10 disgust 0
+Також ресторан joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ресторан вдається joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+до всіляких joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+всіляких маркетингових joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+маркетингових маніпуляцій joy 0 sadness 15 anger 45 fear 0 amazement 10 disgust 0
+маркетингових маніпуляцій.  joy 0 sadness 15 anger 45 fear 0 amazement 10 disgust 0
+Також ресторан вдається joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вдається до всіляких joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+до всіляких маркетингових joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+всіляких маркетингових маніпуляцій joy 0 sadness 15 anger 45 fear 0 amazement 10 disgust 0
+всіляких маркетингових маніпуляцій.  joy 0 sadness 15 anger 45 fear 0 amazement 10 disgust 0
+Також ресторан вдається до всіляких joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ресторан вдається до всіляких маркетингових joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вдається до всіляких маркетингових маніпуляцій joy 0 sadness 15 anger 44 fear 0 amazement 10 disgust 0
+вдається до всіляких маркетингових маніпуляцій. joy 0 sadness 15 anger 44 fear 0 amazement 10 disgust 0
+Також ресторан вдається до всіляких маркетингових joy 0 sadness 15 anger 44 fear 0 amazement 10 disgust 0
+ресторан вдається до всіляких маркетингових маніпуляцій joy 0 sadness 15 anger 45 fear 0 amazement 10 disgust 0
+ресторан вдається до всіляких маркетингових маніпуляцій. joy 0 sadness 15 anger 45 fear 0 amazement 10 disgust 0
+Також ресторан вдається до всіляких маркетингових маніпуляцій joy 0 sadness 15 anger 45 fear 0 amazement 10 disgust 0
+Також ресторан вдається до всіляких маркетингових маніпуляцій.  joy 0 sadness 15 anger 45 fear 0 amazement 10 disgust 0
+Подали joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чіпси joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+соусом joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+- joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+так joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чіпсів joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+мало joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+мало, joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+а joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+соусу joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ціла joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тарілка joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+- joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+це joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+для joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тих joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хто joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не joy 0 sadness 5 anger 0 fear 0 amazement 0 disgust 0
+здогадався joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+здогадався, joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+щоб joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чіпси joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+окремо joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+докуповували joy 0 sadness 7 anger 15 fear 0 amazement 0 disgust 0
+докуповували) joy 0 sadness 3 anger 10 fear 0 amazement 0 disgust 0
+Подали чіпси joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з соусом joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+так чіпсів joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чіпсів мало joy 0 sadness 5 anger 0 fear 0 amazement 0 disgust 0
+чіпсів мало, joy 0 sadness 5 anger 0 fear 0 amazement 0 disgust 0
+а соусу joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+соусу ціла joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ціла тарілка joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+для тих joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хто не здогадався joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+хто не здогадався, joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+щоб чіпси joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чіпси окремо joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+окремо докуповували joy 0 sadness 15 anger 30 fear 0 amazement 0 disgust 0
+окремо докуповували)  joy 0 sadness 15 anger 30 fear 0 amazement 0 disgust 0
+чіпси з соусом joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+так чіпсів мало joy 0 sadness 5 anger 0 fear 0 amazement 0 disgust 0
+так чіпсів мало, joy 0 sadness 5 anger 0 fear 0 amazement 0 disgust 0
+чіпсів мало, а соусу joy 0 sadness 5 anger 0 fear 0 amazement 0 disgust 0
+а соусу ціла joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+соусу ціла тарілка joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+для тих хто не здогадався joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+для тих хто не здогадався, joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+щоб чіпси окремо joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чіпси окремо докуповували joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+чіпси окремо докуповували)  joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+Подали чіпси з соусом joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а соусу ціла тарілка joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+щоб чіпси окремо докуповували joy 0 sadness 5 anger 20 fear 0 amazement 0 disgust 0
+щоб чіпси окремо докуповували) joy 0 sadness 5 anger 20 fear 0 amazement 0 disgust 0
+чіпсів мало, а соусу ціла joy 0 sadness 5 anger 0 fear 0 amazement 0 disgust 0
+хто не здогадався, щоб чіпси окремо докуповували joy 0 sadness 5 anger 25 fear 0 amazement 0 disgust 0
+хто не здогадався, щоб чіпси окремо докуповували)  joy 0 sadness 5 anger 25 fear 0 amazement 0 disgust 0
+так чіпсів мало, а соусу ціла joy 0 sadness 5 anger 0 fear 0 amazement 0 disgust 0
+чіпсів мало, а соусу ціла тарілка joy 5 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+це для тих хто не здогадався joy 5 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+це для тих хто не здогадався, joy 5 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+чіпси з соусом - так чіпсів мало joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+чіпси з соусом - так чіпсів мало, joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+так чіпсів мало, а соусу ціла тарілка joy 5 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+Подали чіпси з соусом - так чіпсів мало joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Подали чіпси з соусом - так чіпсів мало, joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+тарілка - це для тих хто не здогадався joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+тарілка - це для тих хто не здогадався, joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+для тих хто не здогадався, щоб чіпси окремо докуповували joy 0 sadness 10 anger 30 fear 0 amazement 0 disgust 0
+для тих хто не здогадався, щоб чіпси окремо докуповували) joy 0 sadness 10 anger 30 fear 0 amazement 0 disgust 0
+Подали чіпси з соусом - так чіпсів мало, а joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+Подали чіпси з соусом - так чіпсів мало, а соусу joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+чіпсів мало, а соусу ціла тарілка - це для тих хто joy 5 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+це для тих хто не здогадався, щоб чіпси окремо докуповували joy 0 sadness 10 anger 30 fear 0 amazement 0 disgust 0
+це для тих хто не здогадався, щоб чіпси окремо докуповували) joy 0 sadness 10 anger 30 fear 0 amazement 0 disgust 0
+Подали чіпси з соусом - так чіпсів мало, а соусу ціла joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+чіпси з соусом - так чіпсів мало, а соусу ціла тарілка joy 5 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+а соусу ціла тарілка - це для тих хто не здогадався joy 5 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+а соусу ціла тарілка - це для тих хто не здогадався, joy 5 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+Подали чіпси з соусом - так чіпсів мало, а соусу ціла тарілка joy 5 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+так чіпсів мало, а соусу ціла тарілка - це для тих хто не здогадався joy 5 sadness 5 anger 0 fear 0 amazement 0 disgust 0
+тарілка - це для тих хто не здогадався, щоб чіпси окремо докуповували joy 5 sadness 10 anger 30 fear 0 amazement 0 disgust 0
+тарілка - це для тих хто не здогадався, щоб чіпси окремо докуповували)  joy 5 sadness 10 anger 30 fear 0 amazement 0 disgust 0
+Подали чіпси з соусом - так чіпсів мало, а соусу ціла тарілка - це для тих хто joy 5 sadness 10 anger 10 fear 0 amazement 0 disgust 0
+а соусу ціла тарілка - це для тих хто не здогадався, щоб чіпси окремо докуповували joy 5 sadness 10 anger 30 fear 0 amazement 0 disgust 0
+а соусу ціла тарілка - це для тих хто не здогадався, щоб чіпси окремо докуповували) joy 5 sadness 10 anger 30 fear 0 amazement 0 disgust 0
+так чіпсів мало, а соусу ціла тарілка - це для тих хто не здогадався, щоб чіпси окремо докуповували joy 5 sadness 10 anger 30 fear 0 amazement 0 disgust 0
+так чіпсів мало, а соусу ціла тарілка - це для тих хто не здогадався, щоб чіпси окремо докуповували joy 5 sadness 10 anger 30 fear 0 amazement 0 disgust 0
+чіпсів мало, а соусу ціла тарілка - це для тих хто не здогадався, щоб чіпси окремо докуповували joy 5 sadness 10 anger 30 fear 0 amazement 0 disgust 0
+чіпсів мало, а соусу ціла тарілка - це для тих хто не здогадався, щоб чіпси окремо докуповували) joy 5 sadness 10 anger 30 fear 0 amazement 0 disgust 0
+чіпси з соусом - так чіпсів мало, а соусу ціла тарілка - це для тих хто не здогадався joy 5 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+чіпси з соусом - так чіпсів мало, а соусу ціла тарілка - це для тих хто не здогадався, joy 5 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+так чіпсів мало, а соусу ціла тарілка - це для тих хто не здогадався, щоб чіпси окремо докуповували joy 0 sadness 10 anger 30 fear 0 amazement 0 disgust 0
+так чіпсів мало, а соусу ціла тарілка - це для тих хто не здогадався, щоб чіпси окремо докуповували) joy 0 sadness 10 anger 30 fear 0 amazement 0 disgust 0
+Подали чіпси з соусом - так чіпсів мало, а соусу ціла тарілка - це для тих хто не здогадався joy 5 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+Подали чіпси з соусом - так чіпсів мало, а соусу ціла тарілка - це для тих хто не здогадався, joy 5 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+Подали чіпси з соусом - так чіпсів мало, а соусу ціла тарілка - це для тих хто не здогадався, щоб чіпси окремо докуповували joy 0 sadness 10 anger 30 fear 0 amazement 0 disgust 0
+Подали чіпси з соусом - так чіпсів мало, а соусу ціла тарілка - це для тих хто не здогадався, щоб чіпси окремо докуповували)  joy 0 sadness 10 anger 30 fear 0 amazement 0 disgust 0
+Не joy 0 sadness 5 anger 0 fear 0 amazement 0 disgust 0
+прийду joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+більше joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ніколи joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ніколи! joy 0 sadness 0 anger 5 fear 0 amazement 0 disgust 0
+Не прийду joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+прийду більше joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+більше ніколи joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+більше ніколи! joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+Не прийду більше joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+прийду більше ніколи joy 0 sadness 20 anger 0 fear 0 amazement 0 disgust 0
+прийду більше ніколи! joy 0 sadness 20 anger 0 fear 0 amazement 0 disgust 0
+Не прийду більше ніколи joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+Не прийду більше ніколи joy 0 sadness 30 anger 5 fear 0 amazement 0 disgust 0

@@ -1,0 +1,207 @@
+Ivaskiv 20-30 female
+Абсолютно joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нічого joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+нічого! joy 0 sadness 20 anger 5 fear 0 amazement 0 disgust 0
+Абсолютно нічого joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+Абсолютно нічого! joy 0 sadness 30 anger 40 fear 0 amazement 0 disgust 0
+Дуже joy 30 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+довго joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+чекали joy 0 sadness 0 anger 60 fear 0 amazement 0 disgust 0
+бармена joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бармена, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+який joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нікуди joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не joy 0 sadness 5 anger 0 fear 0 amazement 0 disgust 0
+спішив joy 0 sadness 0 anger 5 fear 0 amazement 15 disgust 0
+спішив. joy 0 sadness 0 anger 5 fear 0 amazement 15 disgust 0
+Дуже довго joy 5 sadness 0 anger 20 fear 0 amazement 0 disgust 0
+довго чекали joy 0 sadness 0 anger 90 fear 0 amazement 0 disgust 0
+чекали бармена joy 0 sadness 0 anger 75 fear 0 amazement 0 disgust 0
+чекали бармена, joy 0 sadness 0 anger 75 fear 0 amazement 0 disgust 0
+бармена, який joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+який нікуди joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не спішив joy 0 sadness 10 anger 20 fear 0 amazement 0 disgust 0
+не спішив.  joy 0 sadness 10 anger 20 fear 0 amazement 0 disgust 0
+Дуже довго чекали бармена joy 0 sadness 0 anger 100 fear 0 amazement 0 disgust 0
+який нікуди не спішив joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+який нікуди не спішив.  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Дуже довго чекали бармена, який нікуди не спішив joy 0 sadness 0 anger 100 fear 0 amazement 0 disgust 0
+Дуже довго чекали бармена, який нікуди не спішив. joy 0 sadness 0 anger 100 fear 0 amazement 0 disgust 0
+Коли joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+він joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нарешті joy 15 sadness 0 anger 0 fear 0 amazement 5 disgust 0
+підійшов joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+підійшов, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зробили joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+замовлення joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+замовлення. joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Коли він joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+він нарешті joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нарешті підійшов joy 0 sadness 0 anger 15 fear 0 amazement 5 disgust 0
+нарешті підійшов, joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+зробили замовлення joy 5 sadness 0 anger 0 fear 0 amazement 5 disgust 0
+зробили замовлення. joy 5 sadness 0 anger 0 fear 0 amazement 5 disgust 0
+Коли він нарешті joy 0 sadness 0 anger 5 fear 0 amazement 0 disgust 0
+він нарешті підійшов joy 0 sadness 0 anger 10 fear 0 amazement 0 disgust 0
+він нарешті підійшов, joy 0 sadness 0 anger 10 fear 0 amazement 0 disgust 0
+підійшов, зробили замовлення joy 15 sadness 0 anger 0 fear 0 amazement 5 disgust 0
+підійшов, зробили замовлення. joy 15 sadness 0 anger 0 fear 0 amazement 5 disgust 0
+Коли він нарешті підійшов joy 0 sadness 0 anger 7 fear 0 amazement 0 disgust 0
+Коли він нарешті підійшов, joy 0 sadness 0 anger 7 fear 0 amazement 0 disgust 0
+нарешті підійшов, зробили замовлення joy 8 sadness 0 anger 8 fear 0 amazement 10 disgust 0
+нарешті підійшов, зробили замовлення. joy 8 sadness 0 anger 8 fear 0 amazement 10 disgust 0
+він нарешті підійшов, зробили замовлення joy 8 sadness 0 anger 8 fear 0 amazement 0 disgust 0
+він нарешті підійшов, зробили замовлення. joy 8 sadness 0 anger 8 fear 0 amazement 0 disgust 0
+Коли він нарешті підійшов, зробили замовлення joy 8 sadness 0 anger 8 fear 0 amazement 0 disgust 0
+Коли він нарешті підійшов, зробили замовлення. joy 8 sadness 0 anger 8 fear 0 amazement 0 disgust 0
+Після joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+того joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бармен joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кудись joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пішов joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пішов. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Після того joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бармен кудись joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кудись пішов joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кудись пішов.  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Після того бармен joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бармен кудись пішов joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бармен кудись пішов.  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Після того бармен кудись пішов joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Після того бармен кудись пішов.  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Не joy 0 sadness 5 anger 0 fear 0 amazement 0 disgust 0
+дочекавшись joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+дочекавшись, joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+залишили joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+заклад joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+заклад. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Не дочекавшись joy 0 sadness 30 anger 5 fear 0 amazement 0 disgust 0
+Не дочекавшись, joy 0 sadness 30 anger 5 fear 0 amazement 0 disgust 0
+залишили заклад joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+залишили заклад. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Не дочекавшись, залишили заклад joy 0 sadness 30 anger 8 fear 0 amazement 0 disgust 0
+Не дочекавшись, залишили заклад.  joy 0 sadness 30 anger 8 fear 0 amazement 0 disgust 0
+В joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+закладі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не joy 0 sadness 5 anger 0 fear 0 amazement 0 disgust 0
+працювали joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кондиціонери joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кондиціонери. joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+В закладі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не працювали joy 0 sadness 0 anger 8 fear 0 amazement 0 disgust 0
+працювали кондиціонери joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+працювали кондиціонери.  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не працювали кондиціонери joy 0 sadness 10 anger 30 fear 0 amazement 0 disgust 0
+не працювали кондиціонери. joy 0 sadness 10 anger 30 fear 0 amazement 0 disgust 0
+В закладі не працювали кондиціонери joy 0 sadness 10 anger 40 fear 0 amazement 0 disgust 0
+В закладі не працювали кондиціонери.  joy 0 sadness 10 anger 40 fear 0 amazement 0 disgust 0
+Спекотно joy 7 sadness 0 anger 40 fear 0 amazement 0 disgust 0
+Спекотно, joy 7 sadness 0 anger 40 fear 0 amazement 0 disgust 0
+нема joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+чим joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дихати joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дихати. joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Спекотно, нема чим joy 0 sadness 30 anger 50 fear 0 amazement 0 disgust 0
+нема чим joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+чим дихати joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чим дихати. joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нема чим дихати joy 0 sadness 50 anger 60 fear 0 amazement 0 disgust 0
+нема чим дихати. joy 0 sadness 50 anger 60 fear 0 amazement 0 disgust 0
+Спекотно, нема чим дихати joy 0 sadness 60 anger 70 fear 0 amazement 0 disgust 0
+Спекотно, нема чим дихати. joy 0 sadness 60 anger 70 fear 0 amazement 0 disgust 0
+Обслуговування joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нижче joy 0 sadness 5 anger 0 fear 0 amazement 0 disgust 0
+плінтуса joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+плінтуса! joy 0 sadness 0 anger 5 fear 0 amazement 0 disgust 0
+Обслуговування нижче joy 0 sadness 5 anger 5 fear 0 amazement 0 disgust 0
+нижче плінтуса joy 0 sadness 5 anger 10 fear 0 amazement 0 disgust 0
+нижче плінтуса! joy 0 sadness 5 anger 10 fear 0 amazement 0 disgust 0
+Обслуговування нижче плінтуса joy 0 sadness 5 anger 20 fear 0 amazement 0 disgust 0
+Обслуговування нижче плінтуса!  joy 0 sadness 5 anger 25 fear 0 amazement 0 disgust 0
+ joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Забув joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+у joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+закладі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+парасолю joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+парасолю, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+прийшов joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+наступний joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+день joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+— joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+парасолю joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+знайшли joy 60 sadness 0 anger 0 fear 0 amazement 20 disgust 0
+знайшли, joy 60 sadness 0 anger 0 fear 0 amazement 20 disgust 0
+а joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+от joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+віддати joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+не joy 0 sadness 5 anger 0 fear 0 amazement 0 disgust 0
+змогли joy 45 sadness 0 anger 0 fear 0 amazement 10 disgust 0
+змогли, joy 45 sadness 0 anger 0 fear 0 amazement 10 disgust 0
+хтось joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+її joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вже joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+забрав joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+забрав. joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Забув у закладі joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+у закладі  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у закладі парасолю joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у закладі парасолю, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+прийшов на наступний joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+наступний день joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+парасолю знайшли joy 50 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+парасолю знайшли, joy 50 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а от віддати joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+не змогли joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+не змогли, joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+хтось її joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вже забрав joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+вже забрав. joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Забув у закладі парасолю joy 0 sadness 30 anger 10 fear 0 amazement 0 disgust 0
+Забув у закладі парасолю, joy 0 sadness 30 anger 10 fear 0 amazement 0 disgust 0
+прийшов на наступний день joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+віддати не змогли joy 0 sadness 50 anger 30 fear 0 amazement 0 disgust 0
+віддати не змогли, joy 0 sadness 50 anger 30 fear 0 amazement 0 disgust 0
+хтось її вже забрав joy 0 sadness 30 anger 20 fear 0 amazement 0 disgust 0
+хтось її вже забрав. joy 0 sadness 30 anger 20 fear 0 amazement 0 disgust 0
+Забув у закладі парасолю, прийшов на наступний день -  joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+парасолю знайшли, а от віддати не змогли joy 0 sadness 45 anger 15 fear 0 amazement 0 disgust 0
+парасолю знайшли, а от віддати не змогли, joy 0 sadness 45 anger 15 fear 0 amazement 0 disgust 0
+Забув у закладі парасолю, прийшов на наступний день — парасолю знайшли joy 50 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Забув у закладі парасолю, прийшов на наступний день — парасолю знайшли, joy 50 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а от віддати не змогли, хтось її вже забрав joy 0 sadness 50 anger 30 fear 0 amazement 0 disgust 0
+а от віддати не змогли, хтось її вже забрав.  joy 0 sadness 50 anger 30 fear 0 amazement 0 disgust 0
+Забув у закладі парасолю, прийшов на наступний день — парасолю знайшли, а от віддати не змогли, хтось її вже забрав joy 0 sadness 50 anger 30 fear 0 amazement 0 disgust 0
+Забув у закладі парасолю, прийшов на наступний день — парасолю знайшли, а от віддати не змогли, хтось її вже забрав.  joy 0 sadness 50 anger 30 fear 0 amazement 0 disgust 0
+Тепер joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+напевно joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хтось joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+персоналу joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+парасолею joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+парасолею, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+заклад joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+без joy 0 sadness 5 anger 0 fear 0 amazement 0 disgust 0
+кількох joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+клієнтів joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+клієнтів. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Тепер напевно joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+напевно хтось joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з персоналу joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з парасолею joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з парасолею, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а заклад joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+без кількох joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+кількох клієнтів joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кількох клієнтів. joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Тепер напевно хтось з персоналу joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з парасолею, а заклад без кількох клієнтів joy 0 sadness 10 anger 5 fear 0 amazement 0 disgust 0
+з парасолею, а заклад без кількох клієнтів. joy 0 sadness 10 anger 5 fear 0 amazement 0 disgust 0
+Тепер напевно хтось з персоналу з парасолею joy 8 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Тепер напевно хтось з персоналу з парасолею, joy 8 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а заклад без кількох клієнтів joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+а заклад без кількох клієнтів.  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Тепер напевно хтось з персоналу з парасолею, а заклад без кількох клієнтів joy 0 sadness 20 anger 15 fear 0 amazement 0 disgust 0
+Тепер напевно хтось з персоналу з парасолею, а заклад без кількох клієнтів. joy 0 sadness 20 anger 15 fear 0 amazement 0 disgust 0

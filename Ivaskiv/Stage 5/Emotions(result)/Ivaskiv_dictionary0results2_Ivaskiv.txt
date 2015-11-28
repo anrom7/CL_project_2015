@@ -1,0 +1,468 @@
+Ivaskiv 20-30 female
+нічого  joy 0 sadness 5 anger 0 fear 0 amazement 0 disgust 0
+Непрофесійний joy 0 sadness 5 anger 15 fear 0 amazement 5 disgust 0
+персонал joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+персонал, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+який joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не joy 0 sadness 5 anger 0 fear 0 amazement 0 disgust 0
+може joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+надати joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+потрібну joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+інформацію joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+гостям joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+гостям; joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+неякісний joy 0 sadness 5 anger 5 fear 0 amazement 0 disgust 0
+алкоголь joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 10
+алкоголь; joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 10
+зміна joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ціни joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кальян joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 10
+на joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ходу joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ходу. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Непрофесійний персонал, joy 0 sadness 5 anger 20 fear 0 amazement 5 disgust 0
+персонал, який joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не може joy 0 sadness 5 anger 0 fear 3 amazement 0 disgust 0
+може надати joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+надати потрібну joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+потрібну інформацію joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+інформацію гостям joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+інформацію гостям; joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+неякісний алкоголь joy 0 sadness 0 anger 5 fear 0 amazement 0 disgust 15
+неякісний алкоголь; joy 0 sadness 0 anger 5 fear 0 amazement 0 disgust 15
+зміна ціни joy 0 sadness 0 anger 5 fear 0 amazement 5 disgust 0
+на кальян joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 10
+на ходу joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на ходу. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Непрофесійний персонал, який joy 0 sadness 5 anger 20 fear 0 amazement 5 disgust 0
+персонал, який не може joy 0 sadness 5 anger 30 fear 0 amazement 5 disgust 0
+не може надати joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+може надати потрібну joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+надати потрібну інформацію joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+потрібну інформацію гостям joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+потрібну інформацію гостям; joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ціни на кальян joy 0 sadness 0 anger 3 fear 0 amazement 0 disgust 10
+може надати потрібну інформацію joy 52 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+надати потрібну інформацію гостям joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+надати потрібну інформацію гостям; joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зміна ціни на кальян joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 20
+Непрофесійний персонал, який не може joy 0 sadness 5 anger 26 fear 0 amazement 0 disgust 0
+персонал, який не може надати joy 0 sadness 5 anger 26 fear 0 amazement 0 disgust 0
+не може надати потрібну інформацію joy 0 sadness 15 anger 40 fear 0 amazement 0 disgust 0
+може надати потрібну інформацію гостям joy 50 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+може надати потрібну інформацію гостям; joy 50 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Непрофесійний персонал, який не може надати joy 0 sadness 5 anger 45 fear 0 amazement 0 disgust 0
+персонал, який не може надати потрібну joy 0 sadness 5 anger 45 fear 0 amazement 0 disgust 0
+який не може надати потрібну інформацію joy 0 sadness 5 anger 45 fear 0 amazement 0 disgust 0
+не може надати потрібну інформацію гостям joy 0 sadness 5 anger 50 fear 0 amazement 0 disgust 0
+не може надати потрібну інформацію гостям; joy 0 sadness 5 anger 50 fear 0 amazement 0 disgust 0
+неякісний алкоголь; зміна ціни на кальян joy 0 sadness 5 anger 30 fear 0 amazement 0 disgust 40
+зміна ціни на кальян на ходу joy 0 sadness 0 anger 20 fear 0 amazement 0 disgust 10
+зміна ціни на кальян на ходу. joy 0 sadness 0 anger 20 fear 0 amazement 0 disgust 10
+персонал, який не може надати потрібну інформацію joy 0 sadness 5 anger 50 fear 0 amazement 0 disgust 0
+який не може надати потрібну інформацію гостям joy 0 sadness 5 anger 50 fear 0 amazement 0 disgust 0
+який не може надати потрібну інформацію гостям; joy 0 sadness 5 anger 50 fear 0 amazement 0 disgust 0
+Непрофесійний персонал, який не може надати потрібну інформацію joy 0 sadness 5 anger 50 fear 0 amazement 0 disgust 0
+персонал, який не може надати потрібну інформацію гостям joy 0 sadness 5 anger 50 fear 0 amazement 0 disgust 0
+персонал, який не може надати потрібну інформацію гостям; joy 0 sadness 5 anger 50 fear 0 amazement 0 disgust 0
+Непрофесійний персонал, який не може надати потрібну інформацію гостям joy 0 sadness 5 anger 60 fear 0 amazement 0 disgust 0
+Непрофесійний персонал, який не може надати потрібну інформацію гостям;  joy 0 sadness 5 anger 60 fear 0 amazement 0 disgust 0
+Непрофесійний персонал, який не може надати потрібну інформацію гостям; неякісний алкоголь; зміна ціни на кальян на ходу joy 0 sadness 5 anger 75 fear 0 amazement 0 disgust 20
+Непрофесійний персонал, який не може надати потрібну інформацію гостям; неякісний алкоголь; зміна ціни на кальян на ходу.  joy 0 sadness 5 anger 75 fear 0 amazement 0 disgust 20
+
+Дякую joy 100 sadness 0 anger 0 fear 0 amazement 10 disgust 0
+закладу joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+"Львівські joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пляцки" joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже joy 20 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смачно joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+та joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ситно joy 3 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ситно))) joy 6 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Дякую закладу joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+закладу "Львівські пляцки" joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+"Львівські пляцки" joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже смачно joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+та ситно joy 3 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+та ситно))) joy 6 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Дякую закладу "Львівські пляцки" joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смачно та ситно joy 20 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смачно та ситно))) joy 25 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже смачно та ситно joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже смачно та ситно))) joy 33 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Дякую закладу "Львівські пляцки" дуже смачно joy 80 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+"Львівські пляцки" дуже смачно та ситно joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+"Львівські пляцки" дуже смачно та ситно))) joy 33 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Дякую закладу "Львівські пляцки" дуже смачно та ситно joy 84 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Дякую закладу "Львівські пляцки" дуже смачно та ситно))) joy 84 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Нам joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже joy 20 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сподобалося joy 70 sadness 0 anger 0 fear 0 amazement 10 disgust 0
+сподобалося, joy 70 sadness 0 anger 0 fear 0 amazement 10 disgust 0
+хоча joy 0 sadness 5 anger 0 fear 5 amazement 0 disgust 0
+ми joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+були joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+о joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+8.00 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ранку joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+першими joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+гостями joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+гостями... joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже сподобалося joy 76 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже сподобалося, joy 76 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хоча ми joy 0 sadness 5 anger 0 fear 5 amazement 0 disgust 0
+ми були joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+о 8.00 ранку joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 3
+першими гостями joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+першими гостями... joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Нам дуже сподобалося, joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже сподобалося, хоча joy 60 sadness 5 anger 0 fear 0 amazement 0 disgust 0
+сподобалося, хоча ми joy 45 sadness 5 anger 0 fear 5 amazement 0 disgust 0
+хоча ми були joy 0 sadness 5 anger 0 fear 5 amazement 0 disgust 0
+о 8.00 ранку joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 3
+Нам дуже сподобалося, хоча joy 60 sadness 5 anger 0 fear 0 amazement 0 disgust 3
+дуже сподобалося, хоча ми joy 60 sadness 5 anger 0 fear 5 amazement 0 disgust 3
+сподобалося, хоча ми були joy 60 sadness 5 anger 0 fear 5 amazement 0 disgust 3
+о 8.00 ранку першими joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 3
+о 8.00 ранку першими гостями joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 3
+о 8.00 ранку першими гостями...  joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 3
+Нам дуже сподобалося, хоча ми були joy 60 sadness 5 anger 0 fear 5 amazement 0 disgust 0
+дуже сподобалося, хоча ми були joy 60 sadness 5 anger 0 fear 5 amazement 0 disgust 0
+ми були і о 8.00 ранку joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 3
+о 8.00 ранку першими гостями joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 3
+о 8.00 ранку першими гостями...  joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 3
+хоча ми були і о 8.00 ранку  joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 3
+були і о 8.00 ранку першими joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 3
+сподобалося, хоча ми були і о 8.00 ранку joy 10 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+ми були і о 8.00 ранку першими гостями joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 3
+ми були і о 8.00 ранку першими гостями... joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 3
+дуже сподобалося, хоча ми були і о 8.00 ранку joy 60 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Нам дуже сподобалося, хоча ми були і о 8.00 ранку joy 60 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+дуже сподобалося, хоча ми були і о 8.00 ранку joy 60 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+сподобалося, хоча ми були і о 8.00 ранку першими joy 40 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+хоча ми були і о 8.00 ранку першими гостями joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 3
+хоча ми були і о 8.00 ранку першими гостями... joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 3
+Нам дуже сподобалося, хоча ми були і о 8.00 ранку joy 60 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+сподобалося, хоча ми були і о 8.00 ранку першими гостями joy 40 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+сподобалося, хоча ми були і о 8.00 ранку першими гостями... joy 40 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Нам дуже сподобалося, хоча ми були і о 8.00 ранку першими гостями joy 60 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Нам дуже сподобалося, хоча ми були і о 8.00 ранку першими гостями... joy 60 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+посмішка joy 75 sadness 0 anger 0 fear 0 amazement 5 disgust 0
+на joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+обличчі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+персоналу joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+персоналу, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смачні joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сирники joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сирники, joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+штруделі joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+штруделі, joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кава joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кава.... joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ммм joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ммм)) joy 7 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на обличчі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+обличчі персоналу joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+обличчі персоналу, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смачні сирники joy 8 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смачні сирники, joy 8 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сирники, штруделі joy 8 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сирники, штруделі, joy 8 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+штруделі, кава....ммм joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+штруделі, кава....ммм)) joy 63 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кава....ммм joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кава....ммм))  joy 63 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+посмішка на обличчі joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на обличчі персоналу joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на обличчі персоналу, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смачні сирники, штруделі joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смачні сирники, штруделі, joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сирники, штруделі, кава....ммм joy 65 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сирники, штруделі, кава....ммм))  joy 68 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+посмішка на обличчі персоналу joy 80 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+посмішка на обличчі персоналу, joy 80 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смачні сирники, штруделі, кава....ммм joy 65 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смачні сирники, штруделі, кава....ммм))  joy 68 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+посмішка на обличчі персоналу, смачні сирники joy 70 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+посмішка на обличчі персоналу, смачні сирники, joy 70 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+посмішка на обличчі персоналу, смачні сирники, штруделі joy 70 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+посмішка на обличчі персоналу, смачні сирники, штруделі, joy 70 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+посмішка на обличчі персоналу, смачні сирники, штруделі, кава....ммм joy 80 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+посмішка на обличчі персоналу, смачні сирники, штруделі, кава....ммм))  joy 80 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ще joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+окремої joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+увагм joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+заслуговує joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+інтер'єр joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+- joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+класний joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+класний, joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+продуманий joy 50 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+продуманий... joy 50 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і ще joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ще окремої joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+окремої увагм joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+увагм заслуговує joy 30 sadness 0 anger 0 fear 0 amazement 5 disgust 0
+заслуговує інтер'єр joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+класний, продуманий joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+класний, продуманий... joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і ще окремої joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ще окремої увагм joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+окремої увагм заслуговує joy 45 sadness 0 anger 0 fear 0 amazement 5 disgust 0
+увагм заслуговує інтер'єр joy 40 sadness 0 anger 0 fear 0 amazement 5 disgust 0
+інтер'єр - класний joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+інтер'єр - класний, joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і ще окремої увагм joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ще окремої увагм заслуговує joy 45 sadness 0 anger 0 fear 0 amazement 5 disgust 0
+окремої увагм заслуговує інтер'єр joy 45 sadness 0 anger 0 fear 0 amazement 5 disgust 0
+заслуговує інтер'єр - класний joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+заслуговує інтер'єр - класний, joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+інтер'єр - класний, продуманий joy 65 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+інтер'єр - класний, продуманий... joy 65 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і ще окремої увагм заслуговує joy 35 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ще окремої увагм заслуговує інтер'єр joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+увагм заслуговує інтер'єр - класний joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+увагм заслуговує інтер'єр - класний, joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+заслуговує інтер'єр - класний, продуманий joy 65 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+заслуговує інтер'єр - класний, продуманий... joy 65 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+окремої увагм заслуговує інтер'єр - класний joy 65 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+окремої увагм заслуговує інтер'єр - класний, joy 65 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+окремої увагм заслуговує інтер'єр - класний, продуманий joy 70 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+окремої заслуговує інтер'єр - класний, продуманий... joy 70 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і ще окремої увагм заслуговує інтер'єр - класний, продуманий joy 70 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і ще окремої увагм заслуговує інтер'єр - класний, продуманий... joy 70 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+класні joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+фото joy 75 sadness 0 anger 0 fear 0 amazement 7 disgust 0
+виходять joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+виходять))) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+класні фото joy 75 sadness 0 anger 0 fear 0 amazement 5 disgust 0
+фото виходять joy 75 sadness 0 anger 0 fear 0 amazement 5 disgust 0
+фото виходять))) joy 75 sadness 0 anger 0 fear 0 amazement 5 disgust 0
+класні фото виходять))) joy 75 sadness 0 anger 0 fear 0 amazement 5 disgust 0
+Одне joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+розчарування joy 0 sadness 90 anger 5 fear 10 amazement 10 disgust 0
+розчарування, joy 0 sadness 90 anger 5 fear 10 amazement 10 disgust 0
+так joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+як joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ми joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+були joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+так joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зарано, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зарано joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+то joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+наявності joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+були joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не joy 0 sadness 5 anger 0 fear 0 amazement 0 disgust 0
+всі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+штруделі joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+штруделі... joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Одне розчарування joy 0 sadness 80 anger 5 fear 5 amazement 5 disgust 0
+Одне розчарування, joy 0 sadness 20 anger 5 fear 5 amazement 5 disgust 0
+ми були joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+так зарано joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+так зарано, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в наявності joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не всі joy 0 sadness 8 anger 0 fear 0 amazement 0 disgust 0
+всі штруделі joy 8 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+всі штруделі... joy 8 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+так як ми joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+були так зарано joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+були так зарано, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+то в наявності joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в наявності були joy 7 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+були не всі joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 0
+не всі штруделі joy 0 sadness 13 anger 0 fear 0 amazement 0 disgust 0
+не всі штруделі... joy 0 sadness 13 anger 0 fear 0 amazement 0 disgust 0
+Одне розчарування, так як joy 0 sadness 75 anger 0 fear 5 amazement 5 disgust 0
+розчарування, так як ми були joy 0 sadness 75 anger 0 fear 5 amazement 5 disgust 0
+так як ми були joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ми були так зарано joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ми були так зарано, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зарано, то в наявності joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+то в наявності були joy 15 sadness 0 anger 0 fear 0 amazement 3 disgust 0
+були не всі штруделі joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+були не всі штруделі... joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Одне розчарування, так як ми були joy 0 sadness 75 anger 0 fear 5 amazement 5 disgust 0
+так зарано, то в наявності joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зарано, то в наявності були joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+то в наявності були не всі joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+так як ми були так зарано joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+так як ми були так зарано, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ми були так зарано, то в наявності joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+то в наявності були не всі штруделі joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+то в наявності були не всі штруделі... joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Одне розчарування, так як ми були так зарано joy 0 sadness 75 anger 0 fear 5 amazement 5 disgust 0
+Одне розчарування, так як ми були так зарано, joy 0 sadness 75 anger 0 fear 5 amazement 5 disgust 0
+розчарування, так як ми були так зарано joy 0 sadness 75 anger 0 fear 5 amazement 5 disgust 0
+розчарування, так як ми були так зарано, joy 0 sadness 75 anger 0 fear 5 amazement 5 disgust 0
+в наявності були не всі штруделі joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+в наявності були не всі штруделі...  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+ми були так зарано, то в наявності були joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+були так зарано, то в наявності були не всі штруделі joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+були так зарано, то в наявності були не всі штруделі... joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+розчарування, так як ми були так зарано, то в наявності joy 0 sadness 75 anger 0 fear 5 amazement 5 disgust 0
+так як ми були так зарано, то в наявності були joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ми були так зарано, то в наявності були не всі штруделі joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+ми були так зарано, то в наявності були не всі штруделі... joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Одне розчарування, так як ми були так зарано, то в наявності joy 0 sadness 75 anger 0 fear 5 amazement 5 disgust 0
+розчарування, так як ми були так зарано, то в наявності були joy 0 sadness 75 anger 0 fear 5 amazement 5 disgust 0
+ми були так зарано, то в наявності були не всі штруделі joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+ми були так зарано, то в наявності були не всі штруделі... joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Одне розчарування, так як ми були так зарано, то в наявності були joy 0 sadness 75 anger 0 fear 0 amazement 5 disgust 0
+так як ми були так зарано, то в наявності були не всі joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+розчарування, так як ми були так зарано, то в наявності були не всі joy 0 sadness 75 anger 0 fear 0 amazement 5 disgust 0
+так як ми були так зарано, то в наявності були не всі штруделі joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+так як ми були так зарано, то в наявності були не всі штруделі... joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Одне розчарування, так як ми були так зарано, то в наявності були не всі штруделі joy 0 sadness 75 anger 0 fear 0 amazement 0 disgust 0
+Одне розчарування, так як ми були так зарано, то в наявності були не всі штруделі...  joy 0 sadness 75 anger 0 fear 0 amazement 0 disgust 0
+так joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хотілося joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+спробувати joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+штруделя joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+лососем joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+лососем, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+його joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ще joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+спекли joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+спекли((( joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+так хотілося joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хотілося спробувати joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+спробувати штруделя joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з лососем joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з лососем, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але його joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+його ще joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не спекли joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не спекли((( joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+так хотілося спробувати joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хотілося спробувати штруделя joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+штруделя з лососем joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+штруделя з лососем, joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з лососем, але joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ще не спекли joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ще не спекли(((  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+так хотілося спробувати штруделя joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+спробувати штруделя з лососем joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+спробувати штруделя з лососем, joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+штруделя з лососем, але joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+його ще не спекли joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+його ще не спекли((( joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хотілося спробувати штруделя з лососем joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хотілося спробувати штруделя з лососем, joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+спробувати штруделя з лососем, але joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+штруделя з лососем, але його joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але його ще не спекли(((  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+так хотілося спробувати штруделя з лососем, joy 8 sadness 3 anger 0 fear 0 amazement 0 disgust 0
+хотілося спробувати штруделя з лососем, але joy 8 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+спробувати штруделя з лососем, але його joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+так хотілося спробувати штруделя з лососем, але його joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+штруделя з лососем, але його ще не спекли joy 10 sadness 5 anger 0 fear 0 amazement 0 disgust 0
+штруделя з лососем, але його ще не спекли((( joy 10 sadness 5 anger 0 fear 0 amazement 0 disgust 0
+спробувати штруделя з лососем, але його ще не спекли joy 10 sadness 5 anger 0 fear 0 amazement 0 disgust 0
+спробувати штруделя з лососем, але його ще не спекли((( joy 10 sadness 5 anger 0 fear 0 amazement 0 disgust 0
+хотілося спробувати штруделя з лососем, але його ще не спекли joy 10 sadness 5 anger 0 fear 0 amazement 0 disgust 0
+хотілося спробувати штруделя з лососем, але його ще не спекли((( joy 10 sadness 5 anger 0 fear 0 amazement 0 disgust 0
+так хотілося спробувати штруделя з лососем, але його ще не спекли joy 10 sadness 5 anger 0 fear 0 amazement 0 disgust 0
+так хотілося спробувати штруделя з лососем, але його ще не спекли(((  joy 10 sadness 5 anger 0 fear 0 amazement 0 disgust 0
+тому joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+побажання joy 50 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+керівництву joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+керівництву.... joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тому побажання joy 20 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+побажання керівництву joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+побажання керівництву.... joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тому побажання керівництву joy 7 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тому побажання керівництву.... joy 7 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+будь ласка joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+будь ласка, joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нехай joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+о joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+8.00 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ранку joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+буде joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+весь joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ваш joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+асортимент joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+продукції joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+наявності joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+наявності))) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нехай і о 8.00 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+о 8.00 ранку joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 3
+буде весь joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ваш асортимент joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+асортимент продукції joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в наявності joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в наявності)))  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+будь ласка, нехай joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і о 8.00 ранку joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 3
+буде весь ваш joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+весь ваш асортимент joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ваш асортимент продукції joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+продукції в наявності joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+продукції в наявності))) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нехай і о 8.00 ранку joy 5 sadness 3 anger 0 fear 0 amazement 0 disgust 0
+о 8.00 ранку буде joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+буде весь ваш асортимент joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+весь ваш асортимент продукції joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+асортимент продукції в наявності joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+асортимент продукції в наявності))) joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+о 8.00 ранку буде весь joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+буде весь ваш асортимент продукції joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ваш асортимент продукції в наявності joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ваш асортимент продукції в наявності))) joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+будь ласка, нехай і о 8.00 ранку joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нехай і о 8.00 ранку буде joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+о 8.00 ранку буде весь ваш joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+весь ваш асортимент продукції в наявності joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+весь ваш асортимент продукції в наявності))) joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нехай і о 8.00 ранку буде весь ваш  joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+о 8.00 ранку буде весь ваш асортимент joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+буде весь ваш асортимент продукції в наявності joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+буде весь ваш асортимент продукції в наявності))) joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+будь ласка, нехай і о 8.00 ранку буде joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+о 8.00 ранку буде весь ваш асортимент продукції  joy 8 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нехай і о 8.00 ранку буде весь ваш асортимент joy 8 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нехай і о 8.00 ранку буде весь ваш асортимент продукції joy 8 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+о 8.00 ранку буде весь ваш асортимент продукції в наявності joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+о 8.00 ранку буде весь ваш асортимент продукції в наявності))) joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+будь ласка, нехай і о 8.00 ранку буде весь ваш асортимент joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нехай і о 8.00 ранку буде весь ваш асортимент продукції joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+о 8.00 ранку буде весь ваш асортимент продукції в наявності joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+о 8.00 ранку буде весь ваш асортимент продукції в наявності)))  joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+будь ласка, нехай і о 8.00 ранку буде весь ваш асортимент продукції в наявності joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+будь ласка, нехай і о 8.00 ранку буде весь ваш асортимент продукції в наявності)))  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Дякую joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Дякую!!! joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Обов'язково joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+повернемося joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ще joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+по joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+штрудель joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+лососем joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+лососем))) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Обов'язково повернемося joy 75 sadness 0 anger 0 fear 0 amazement 10 disgust 0
+повернемося ще joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+по штрудель joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з лососем joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з лососем))) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Обов'язково повернемося ще joy 75 sadness 0 anger 0 fear 0 amazement 10 disgust 0
+повернемося ще по штрудель joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+штрудель з лососем joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+штрудель з лососем))) joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+по штрудель з лососем joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+по штрудель з лососем)))  joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Обов'язково повернемося ще по штрудель joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+повернемося ще по штрудель з лососем joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+повернемося ще по штрудель з лососем)))  joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Обов'язково повернемося ще по штрудель з лососем joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Обов'язково повернемося ще по штрудель з лососем))) joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0

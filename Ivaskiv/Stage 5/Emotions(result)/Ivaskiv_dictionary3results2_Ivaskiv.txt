@@ -1,0 +1,656 @@
+Ivaskiv 20-30 female
+Ідея joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ідея, joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+яку joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+колись joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+підтримували joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+підтримували, joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+музики joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ідея,яку  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+колись підтримували joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+колись підтримували, joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+підтримували, музики joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ідея,яку колись joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ідея,яку колись підтримували, joy 30 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+Ідея,яку колись підтримували joy 30 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+Ідея,яку колись підтримували, музики  joy 75 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+Вільних joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+місць joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+було joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+мало joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+мало, joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+сіли joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+посеред joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+залу joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+залу, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нас joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+прийняли joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+замовлення joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+(меню joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+меню joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+треба joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+просити joy 0 sadness 10 anger 10 fear 3 amazement 10 disgust 0
+самій joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+самій) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+через joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+5 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хв joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+звільнився joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сусідній joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+столик joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ми joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пересіли joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+туди joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+туди. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вільних місць joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+місць було joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+було мало joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+було мало, joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+сіли посеред joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+посеред залу joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+посеред залу, joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+у нас joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+прийняли замовлення joy 20 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+(меню треба joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+меню треба joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+треба просити joy 0 sadness 10 anger 15 fear 3 amazement 15 disgust 0
+просити самій joy 0 sadness 10 anger 15 fear 3 amazement 15 disgust 0
+просити самій) joy 0 sadness 10 anger 15 fear 3 amazement 15 disgust 0
+і через 5 хв joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+звільнився сусідній joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сусідній столик joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і ми пересіли joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пересіли туди joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пересіли туди.  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вільних місць було мало joy 0 sadness 20 anger 0 fear 0 amazement 0 disgust 0
+Вільних місць було мало, joy 0 sadness 20 anger 0 fear 0 amazement 0 disgust 0
+місць було мало joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+місць було мало, joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+сіли посеред залу joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+сіли посеред залу, joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+у нас прийняли замовлення joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+(меню треба просити joy 0 sadness 10 anger 30 fear 0 amazement 0 disgust 0
+меню треба просити joy 0 sadness 10 anger 30 fear 0 amazement 0 disgust 0
+треба просити самій joy 0 sadness 5 anger 15 fear 3 amazement 5 disgust 0
+треба просити самій) joy 0 sadness 5 anger 15 fear 3 amazement 5 disgust 0
+звільнився сусідній столик joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і ми пересіли joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ми пересіли туди joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ми пересіли туди. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+місць було мало, сіли посеред залу joy 0 sadness 15 anger 25 fear 0 amazement 0 disgust 0
+(меню треба просити самій joy 0 sadness 5 anger 40 fear 0 amazement 0 disgust 0
+меню треба просити самій joy 0 sadness 5 anger 40 fear 0 amazement 0 disgust 0
+меню треба просити самій) joy 0 sadness 5 anger 40 fear 0 amazement 0 disgust 0
+і через 5 хв звільнився joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+столик і ми пересіли  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і ми пересіли туди joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і ми пересіли туди. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вільних місць було мало, сіли  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+місць було мало, сіли посеред залу joy 0 sadness 15 anger 30 fear 0 amazement 0 disgust 0
+місць було мало, сіли посеред залу, joy 0 sadness 15 anger 30 fear 0 amazement 0 disgust 0
+сіли посеред залу, у нас прийняли замовлення joy 15 sadness 10 anger 10 fear 0 amazement 0 disgust 0
+прийняли замовлення (меню треба просити самій) joy 15 sadness 10 anger 45 fear 0 amazement 0 disgust 0
+і через 5 хв звільнився сусідній joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+звільнився сусідній столик і ми пересіли joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вільних місць було мало, сіли посеред joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+місць було мало, сіли посеред залу joy 0 sadness 15 anger 30 fear 0 amazement 0 disgust 0
+місць було мало, сіли посеред залу, joy 0 sadness 15 anger 30 fear 0 amazement 0 disgust 0
+посеред залу, у нас прийняли замовлення joy 10 sadness 9 anger 20 fear 0 amazement 0 disgust 0
+і через 5 хв звільнився сусідній столик joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+звільнився сусідній столик і ми пересіли туди joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+звільнився сусідній столик і ми пересіли туди.  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вільних місць було мало, сіли посеред залу joy 0 sadness 15 anger 30 fear 0 amazement 0 disgust 0
+Вільних місць було мало, сіли посеред залу, joy 0 sadness 15 anger 30 fear 0 amazement 0 disgust 0
+звільнився сусідній столик і ми пересіли туди joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+звільнився сусідній столик і ми пересіли туди. joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у нас прийняли замовлення (меню треба просити самій) joy 5 sadness 0 anger 40 fear 0 amazement 0 disgust 0
+і через 5 хв звільнився сусідній столик і ми пересіли joy 25 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і через 5 хв звільнився сусідній столик і ми пересіли туди joy 25 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і через 5 хв звільнився сусідній столик і ми пересіли туди.  joy 25 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вільних місць було мало, сіли посеред залу, у нас прийняли замовлення joy 10 sadness 8 anger 20 fear 0 amazement 0 disgust 0
+Вільних місць було мало, сіли посеред залу, у нас прийняли замовлення (меню треба просити самій joy 10 sadness 8 anger 45 fear 0 amazement 0 disgust 0
+Вільних місць було мало, сіли посеред залу, у нас прийняли замовлення (меню треба просити самій) joy 10 sadness 8 anger 45 fear 0 amazement 0 disgust 0
+прийняли замовлення (меню треба просити самій) і через 5 хв звільнився сусідній столик і ми пересіли туди joy 30 sadness 5 anger 15 fear 0 amazement 0 disgust 0
+прийняли замовлення (меню треба просити самій) і через 5 хв звільнився сусідній столик і ми пересіли туди. joy 30 sadness 5 anger 15 fear 0 amazement 0 disgust 0
+Вільних місць було мало, сіли посеред залу, у нас прийняли замовлення (меню треба просити самій) і через 5 хв звільнився сусідній столик і ми пересіли туди joy 35 sadness 3 anger 15 fear 0 amazement 0 disgust 0
+Вільних місць було мало, сіли посеред залу, у нас прийняли замовлення (меню треба просити самій) і через 5 хв звільнився сусідній столик і ми пересіли туди.  joy 35 sadness 3 anger 15 fear 0 amazement 0 disgust 0
+До joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нас joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+підійшла joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+офіціантка joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+(англійську joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+англійську joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+незнає joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+незнає) joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+і joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+повідомила joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+повідомила, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+він joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зарезервований joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+через joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+1,5 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+год joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+год. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+треба joy 0 sadness 5 anger 0 fear 0 amazement 0 disgust 0
+буде joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+його joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+звільнити joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+звільнити. joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+До нас joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+підійшла офіціантка joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+(англійську незнає joy 0 sadness 15 anger 30 fear 0 amazement 0 disgust 0
+англійську незнає joy 0 sadness 15 anger 30 fear 0 amazement 0 disgust 0
+англійську незнає) joy 0 sadness 15 anger 30 fear 0 amazement 0 disgust 0
+і повідомила, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і повідомила joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+повідомила,що joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+він зарезервований joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і через 1,5 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+1,5 год joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+1,5 год. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+треба буде joy 0 sadness 5 anger 0 fear 0 amazement 0 disgust 0
+його звільнити joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+його звільнити.  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+До нас підійшла joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+офіціантка (англійську незнає) joy 0 sadness 10 anger 20 fear 0 amazement 0 disgust 0
+і повідомила,що він joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+повідомила,що він зарезервований joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+і через 1,5 год joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і через 1,5 год. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+треба буде його звільнити joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+треба буде його звільнити. joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+До нас підійшла офіціантка joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+підійшла офіціантка (англійську незнає) joy 0 sadness 10 anger 30 fear 0 amazement 0 disgust 0
+і повідомила,що він зарезервований joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+і через 1,5 год. треба joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+офіціантка (англійську незнає) і повідомила,що joy 0 sadness 5 anger 30 fear 0 amazement 0 disgust 0
+повідомила,що він зарезервований і через 1,5 год joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+повідомила,що він зарезервований і через 1,5 год. joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+До нас підійшла офіціантка (англійську незнає) joy 0 sadness 5 anger 30 fear 0 amazement 0 disgust 0
+підійшла офіціантка (англійську незнає) і повідомила,що joy 0 sadness 5 anger 30 fear 0 amazement 0 disgust 0
+він зарезервований і через 1,5 год joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+він зарезервований і через 1,5 год. joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+і через 1,5 год. треба буде його звільнити joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+і через 1,5 год. треба буде його звільнити. joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+До нас підійшла офіціантка (англійську незнає) і повідомила,що joy 0 sadness 10 anger 30 fear 0 amazement 0 disgust 0
+підійшла офіціантка (англійську незнає) і повідомила,що він зарезервований joy 0 sadness 10 anger 30 fear 0 amazement 0 disgust 0
+До нас підійшла офіціантка (англійську незнає) і повідомила,що він зарезервований joy 0 sadness 10 anger 30 fear 0 amazement 0 disgust 0
+підійшла офіціантка (англійську незнає) і повідомила,що він зарезервований і через 1,5 год joy 0 sadness 10 anger 30 fear 0 amazement 0 disgust 0
+підійшла офіціантка (англійську незнає) і повідомила,що він зарезервований і через 1,5 год. joy 0 sadness 10 anger 30 fear 0 amazement 0 disgust 0
+він зарезервований і через 1,5 год. треба буде його звільнити joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+він зарезервований і через 1,5 год. треба буде його звільнити. joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+повідомила,що він зарезервований і через 1,5 год. треба буде його звільнити joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+повідомила,що він зарезервований і через 1,5 год. треба буде його звільнити. joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+До нас підійшла офіціантка (англійську незнає) і повідомила,що він зарезервований і через 1,5 год joy 0 sadness 15 anger 30 fear 0 amazement 0 disgust 0
+До нас підійшла офіціантка (англійську незнає) і повідомила,що він зарезервований і через 1,5 год. joy 0 sadness 15 anger 30 fear 0 amazement 0 disgust 0
+До нас підійшла офіціантка (англійську незнає) і повідомила,що він зарезервований і через 1,5 год. треба буде його звільнити joy 0 sadness 20 anger 30 fear 0 amazement 0 disgust 0
+До нас підійшла офіціантка (англійську незнає) і повідомила,що він зарезервований і через 1,5 год. треба буде його звільнити.  joy 0 sadness 20 anger 30 fear 0 amazement 0 disgust 0
+Ми joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+погодились joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+погодились, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+потім joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+приходить joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+наша joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+офіціантка joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+грубо joy 0 sadness 5 anger 10 fear 0 amazement 0 disgust 0
+сказла joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сказла, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пересідати joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не joy 0 sadness 5 anger 0 fear 0 amazement 0 disgust 0
+можна joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+можна, joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Напої joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+переносили joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+попереднього joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+столика joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+самі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+самі. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ми погодились joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ми погодились, joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а потім joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+потім приходить joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+приходить наша joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+наша офіціантка joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і грубо joy 0 sadness 5 anger 15 fear 0 amazement 0 disgust 0
+грубо сказла joy 0 sadness 5 anger 30 fear 0 amazement 0 disgust 0
+грубо сказла, joy 0 sadness 5 anger 30 fear 0 amazement 0 disgust 0
+сказла, що joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що пересідати joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не можна joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+не можна, joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Напої переносили joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з попереднього joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+попереднього столика joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+столика самі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+столика самі. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ми погодились, а потім  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+погодились, а потім joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а потім приходить joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+потім приходить наша joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+приходить наша офіціантка joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і грубо сказла joy 0 sadness 10 anger 30 fear 0 amazement 0 disgust 0
+і грубо сказла, joy 0 sadness 10 anger 30 fear 0 amazement 0 disgust 0
+грубо сказла, що joy 0 sadness 10 anger 30 fear 0 amazement 0 disgust 0
+сказла, що пересідати joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пересідати не можна joy 0 sadness 20 anger 0 fear 0 amazement 0 disgust 0
+пересідати не можна, joy 0 sadness 20 anger 0 fear 0 amazement 0 disgust 0
+переносили з попереднього joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з попереднього столика joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+попереднього столика самі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+попереднього столика самі. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а потім приходить наша офіціантка joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+офіціантка і грубо сказла joy 0 sadness 5 anger 35 fear 0 amazement 0 disgust 0
+офіціантка і грубо сказла, joy 0 sadness 5 anger 35 fear 0 amazement 0 disgust 0
+грубо сказла, що пересідати joy 0 sadness 5 anger 30 fear 0 amazement 0 disgust 0
+що пересідати не можна joy 0 sadness 20 anger 0 fear 0 amazement 0 disgust 0
+що пересідати не можна, joy 0 sadness 20 anger 0 fear 0 amazement 0 disgust 0
+Напої переносили з попереднього joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з попереднього столика самі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з попереднього столика самі. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ми погодились, а потім приходить joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+приходить наша офіціантка і грубо joy 0 sadness 5 anger 30 fear 0 amazement 0 disgust 0
+наша офіціантка і грубо сказла joy 0 sadness 5 anger 35 fear 0 amazement 0 disgust 0
+наша офіціантка і грубо сказла, joy 0 sadness 5 anger 35 fear 0 amazement 0 disgust 0
+і грубо сказла, що пересідати joy 0 sadness 5 anger 35 fear 0 amazement 0 disgust 0
+сказла, що пересідати не можна joy 0 sadness 20 anger 0 fear 0 amazement 0 disgust 0
+сказла, що пересідати не можна, joy 0 sadness 20 anger 0 fear 0 amazement 0 disgust 0
+Напої переносили з попереднього столика joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+переносили з попереднього столика самі joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+переносили з попереднього столика самі. joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+Ми погодились, а потім приходить наша офіціантка joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+погодились, а потім приходить наша офіціантка joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+приходить наша офіціантка і грубо сказла joy 0 sadness 10 anger 40 fear 0 amazement 0 disgust 0
+приходить наша офіціантка і грубо сказла, joy 0 sadness 10 anger 40 fear 0 amazement 0 disgust 0
+грубо сказла, що пересідати не можна joy 0 sadness 10 anger 40 fear 0 amazement 0 disgust 0
+грубо сказла, що пересідати не можна, joy 0 sadness 10 anger 40 fear 0 amazement 0 disgust 0
+Напої переносили з попереднього столика самі joy 0 sadness 5 anger 45 fear 0 amazement 0 disgust 0
+Напої переносили з попереднього столика самі. joy 0 sadness 5 anger 45 fear 0 amazement 0 disgust 0
+потім приходить наша офіціантка і грубо сказла joy 0 sadness 10 anger 35 fear 0 amazement 0 disgust 0
+потім приходить наша офіціантка і грубо сказла, joy 0 sadness 10 anger 35 fear 0 amazement 0 disgust 0
+сказла, що пересідати не можна, Напої переносили joy 0 sadness 15 anger 10 fear 0 amazement 0 disgust 0
+Ми погодились, а потім приходить наша офіціантка і грубо сказала joy 0 sadness 10 anger 45 fear 0 amazement 0 disgust 0
+Ми погодились, а потім приходить наша офіціантка і грубо сказала, joy 0 sadness 10 anger 45 fear 0 amazement 0 disgust 0
+потім приходить наша офіціантка і грубо сказла, що пересідати joy 0 sadness 10 anger 45 fear 0 amazement 0 disgust 0
+наша офіціантка і грубо сказла, що пересідати не можна joy 0 sadness 10 anger 45 fear 0 amazement 0 disgust 0
+наша офіціантка і грубо сказла, що пересідати не можна, joy 0 sadness 10 anger 45 fear 0 amazement 0 disgust 0
+пересідати не можна, Напої переносили з попереднього столика самі joy 0 sadness 10 anger 50 fear 0 amazement 0 disgust 0
+пересідати не можна, Напої переносили з попереднього столика самі. joy 0 sadness 10 anger 50 fear 0 amazement 0 disgust 0
+сказала, що пересідати не можна, Напої переносили з попереднього столика самі joy 0 sadness 10 anger 50 fear 0 amazement 0 disgust 0
+сказала, що пересідати не можна, Напої переносили з попереднього столика самі. joy 0 sadness 10 anger 50 fear 0 amazement 0 disgust 0
+Ми погодились, а потім приходить наша офіціантка і грубо сказла, що пересідати не можна, Напої переносили з попереднього столика самі joy 0 sadness 10 anger 50 fear 0 amazement 0 disgust 0
+Ми погодились, а потім приходить наша офіціантка і грубо сказла, що пересідати не можна, Напої переносили з попереднього столика самі.  joy 0 sadness 10 anger 50 fear 0 amazement 0 disgust 0
+Коли joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+принесла joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+страви joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+страви, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+то joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+теж joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+фиркала joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+фиркала. joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+Коли принесла joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+принесла страви joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+принесла страви, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+то теж joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+теж фиркала joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+теж фиркала. joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+Коли принесла страви joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Коли принесла страви, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+то теж фиркала joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+то теж фиркала. joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+принесла страви, то теж фиркала joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+принесла страви, то теж фиркала. joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+Коли принесла страви, то теж фиркала joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+Коли принесла страви, то теж фиркала.  joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+Я joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не joy 0 sadness 5 anger 0 fear 0 amazement 0 disgust 0
+хотіла joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+при joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+другові joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+виясняти joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+шось joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+шось, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+просто joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+потім joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+підійшла joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+до joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+менеджера joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+менеджера. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Я не joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+не хотіла joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хотіла при joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+при другові joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+другові виясняти joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+виясняти шось joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+виясняти шось, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+просто потім joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+потім підійшла joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+до менеджера joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+до менеджера. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Я не хотіла joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+не хотіла при joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+хотіла при другові joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+при другові виясняти joy 15 sadness 5 anger 0 fear 0 amazement 0 disgust 0
+другові виясняти шось joy 15 sadness 5 anger 0 fear 0 amazement 0 disgust 0
+другові виясняти шось, joy 15 sadness 5 anger 0 fear 0 amazement 0 disgust 0
+просто потім підійшла joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+підійшла до менеджера joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+підійшла до менеджера. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Я не хотіла при другові joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не хотіла при другові виясняти шось joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не хотіла при другові виясняти шось, joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+просто потім підійшла до менеджера joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+просто потім підійшла до менеджера.  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Я не хотіла при другові виясняти шось joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Я не хотіла при другові виясняти шось, joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+виясняти шось, просто потім підійшла до менеджера joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+виясняти шось, просто потім підійшла до менеджера.  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Я не хотіла при другові виясняти шось, просто потім підійшла до менеджера joy 5 sadness 0 anger 10 fear 0 amazement 0 disgust 0
+Я не хотіла при другові виясняти шось, просто потім підійшла до менеджера.  joy 5 sadness 0 anger 10 fear 0 amazement 0 disgust 0
+Точніше joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+я joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+б joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хотіла joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+говорити joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+менеджером joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+менеджером, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+мені joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+підсунули joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дєда-охоронця joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дєда-охоронця, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+який joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+представився joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+менеджером joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+менеджером. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Точніше я joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хотіла говорити joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з менеджером joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з менеджером, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але мені joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+мені підсунули joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+підсунули дєда-охоронця joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+підсунули дєда-охоронця, joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+який представився joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+представився менеджером joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+представився менеджером.  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+я б хотіла joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+говорити з менеджером joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+говорити з менеджером, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з менеджером, але joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але мені підсунули joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+мені підсунули дєда-охоронця joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+мені підсунули дєда-охоронця, joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+дєда-охоронця, який представився joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+який представився менеджером joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+який представився менеджером. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Точніше я б хотіла joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+я б хотіла говорити joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хотіла говорити з менеджером joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хотіла говорити з менеджером, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але мені підсунули дєда-охоронця joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+але мені підсунули дєда-охоронця, joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+підсунули дєда-охоронця, який представився joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+дєда-охоронця, який представився менеджером joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+дєда-охоронця, який представився менеджером.  joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+Точніше я б хотіла говорити joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хотіла говорити з менеджером, але joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але мені підсунули дєда-охоронця, який joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+підсунули дєда-охоронця, який представився менеджером joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+підсунули дєда-охоронця, який представився менеджером. joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+Точніше я б хотіла говорити з менеджером joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Точніше я б хотіла говорити з менеджером, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але мені підсунули дєда-охоронця, який представився менеджером joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+але мені підсунули дєда-охоронця, який представився менеджером. joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+Точніше я б хотіла говорити з менеджером, але мені підсунули дєда-охоронця, який представився менеджером joy 0 sadness 0 anger 20 fear 0 amazement 0 disgust 0
+Точніше я б хотіла говорити з менеджером, але мені підсунули дєда-охоронця, який представився менеджером.  joy 0 sadness 0 anger 20 fear 0 amazement 0 disgust 0
+Він joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не joy 0 sadness 5 anger 0 fear 0 amazement 0 disgust 0
+був joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зацікавлений joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вирішенні joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+проблеми joy 0 sadness 30 anger 0 fear 5 amazement 0 disgust 0
+і joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+взагалі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+взагалі, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+думаю joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не joy 0 sadness 5 anger 0 fear 0 amazement 0 disgust 0
+слухав joy 20 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+слухав, joy 20 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+я joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+йому joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+казала joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+казала. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Він не joy 0 sadness 5 anger 0 fear 0 amazement 0 disgust 0
+не був joy 0 sadness 5 anger 0 fear 0 amazement 0 disgust 0
+був зацікавлений joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і вирішенні joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вирішенні проблеми joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і взагалі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і взагалі, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+взагалі, думаю joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не слухав joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+не слухав, joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+слухав, що joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що я joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+я йому joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+йому казала joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+йому казала. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Він не був joy 0 sadness 5 anger 0 fear 0 amazement 0 disgust 0
+не був зацікавлений joy 0 sadness 20 anger 0 fear 0 amazement 0 disgust 0
+зацікавлений і вирішенні joy 20 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і вирішенні проблеми joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+проблеми і взагалі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+проблеми і взагалі, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і взагалі, думаю joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+думаю не слухав joy 0 sadness 20 anger 0 fear 0 amazement 0 disgust 0
+думаю не слухав, joy 0 sadness 20 anger 0 fear 0 amazement 0 disgust 0
+слухав, що я joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що я йому joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+я йому казала joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+я йому казала.  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Він не був зацікавлений joy 0 sadness 20 anger 0 fear 0 amazement 0 disgust 0
+був зацікавлений і вирішенні joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зацікавлений і вирішенні проблеми joy 50 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вирішенні проблеми і взагалі joy 50 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вирішенні проблеми і взагалі, joy 50 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+взагалі, думаю не слухав joy 0 sadness 20 anger 0 fear 0 amazement 0 disgust 0
+взагалі, думаю не слухав, joy 0 sadness 20 anger 0 fear 0 amazement 0 disgust 0
+не слухав, що я joy 0 sadness 20 anger 0 fear 0 amazement 0 disgust 0
+що я йому казала joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що я йому казала.  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Він не був зацікавлений і вирішенні joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+зацікавлений і вирішенні проблеми і взагалі joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зацікавлений і вирішенні проблеми і взагалі, joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і взагалі, думаю не слухав, що я joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+не слухав, що я йому казала joy 0 sadness 15 anger 25 fear 0 amazement 0 disgust 0
+не слухав, що я йому казала. joy 0 sadness 15 anger 25 fear 0 amazement 0 disgust 0
+Він не був зацікавлений і вирішенні проблеми joy 0 sadness 15 anger 30 fear 0 amazement 0 disgust 0
+думаю не слухав, що я йому казала joy 0 sadness 15 anger 25 fear 0 amazement 0 disgust 0
+думаю не слухав, що я йому казала. joy 0 sadness 15 anger 25 fear 0 amazement 0 disgust 0
+Він не був зацікавлений і вирішенні проблеми і взагалі joy 0 sadness 15 anger 30 fear 0 amazement 0 disgust 0
+Він не був зацікавлений і вирішенні проблеми і взагалі, joy 0 sadness 15 anger 30 fear 0 amazement 0 disgust 0
+і взагалі, думаю не слухав, що я йому казала joy 0 sadness 15 anger 25 fear 0 amazement 0 disgust 0
+і взагалі, думаю не слухав, що я йому казала. joy 0 sadness 15 anger 25 fear 0 amazement 0 disgust 0
+Він не був зацікавлений і вирішенні проблеми і взагалі, думаю не слухав joy 0 sadness 15 anger 30 fear 0 amazement 0 disgust 0
+Він не був зацікавлений і вирішенні проблеми і взагалі, думаю не слухав, joy 0 sadness 15 anger 30 fear 0 amazement 0 disgust 0
+і вирішенні проблеми і взагалі, думаю не слухав, що я йому казала joy 0 sadness 15 anger 30 fear 0 amazement 0 disgust 0
+і вирішенні проблеми і взагалі, думаю не слухав, що я йому казала. joy 0 sadness 15 anger 30 fear 0 amazement 0 disgust 0
+Він не був зацікавлений і вирішенні проблеми і взагалі, думаю не слухав, що я йому казала joy 0 sadness 15 anger 35 fear 0 amazement 0 disgust 0
+Він не був зацікавлений і вирішенні проблеми і взагалі, думаю не слухав, що я йому казала. joy 0 sadness 15 anger 35 fear 0 amazement 0 disgust 0
+"Пересідати joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не joy 0 sadness 5 anger 0 fear 0 amazement 0 disgust 0
+можна joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+можна, joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+от joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+все" joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+все". joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+"Пересідати не joy 0 sadness 5 anger 0 fear 0 amazement 0 disgust 0
+не можна joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+не можна, joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+от і все" joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+от і все". joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+"Пересідати не можна joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Пересідати не можна, joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+не можна, от і все" joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+не можна, от і все". joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+"Пересідати не можна, от і все" joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+"Пересідати не можна, от і все". joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Музика joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бла joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вимкнена joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+трошки joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+було joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сумно joy 0 sadness 90 anger 0 fear 0 amazement 0 disgust 0
+сумно. joy 0 sadness 90 anger 0 fear 0 amazement 0 disgust 0
+Музика бла joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бла вимкнена joy 0 sadness 5 anger 0 fear 0 amazement 0 disgust 0
+і трошки joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+трошки було joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+було сумно joy 0 sadness 90 anger 0 fear 0 amazement 0 disgust 0
+було сумно.  joy 0 sadness 90 anger 0 fear 0 amazement 0 disgust 0
+Музика бла вимкнена joy 0 sadness 45 anger 10 fear 0 amazement 0 disgust 0
+бла вимкнена і joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+вимкнена і трошки joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+і трошки було joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+трошки було сумно joy 0 sadness 60 anger 0 fear 0 amazement 0 disgust 0
+трошки було сумно.  joy 0 sadness 60 anger 0 fear 0 amazement 0 disgust 0
+Музика бла вимкнена і трошки joy 0 sadness 60 anger 10 fear 0 amazement 0 disgust 0
+вимкнена і трошки було сумно joy 0 sadness 60 anger 10 fear 0 amazement 0 disgust 0
+вимкнена і трошки було сумно. joy 0 sadness 60 anger 10 fear 0 amazement 0 disgust 0
+Музика бла вимкнена і трошки було сумно joy 0 sadness 60 anger 10 fear 0 amazement 0 disgust 0
+Музика бла вимкнена і трошки було сумно. joy 0 sadness 60 anger 10 fear 0 amazement 0 disgust 0
+Спочатку joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Театрі joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пива joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 30
+пива, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 30
+теж joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+від joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Lokal joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Lokal, joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+люди joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+потравились joy 0 sadness 75 anger 0 fear 15 amazement 0 disgust 30
+і joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вже joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нема joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+там joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+такого joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ажіотажу joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ажіотажу, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тепер joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Криївка joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+псується joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+псується, joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+обслуговування joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ніяке joy 0 sadness 5 anger 0 fear 0 amazement 0 disgust 0
+ніяке. joy 0 sadness 5 anger 0 fear 0 amazement 0 disgust 0
+Спочатку в joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в Театрі joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Театрі пива joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Театрі пива, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+теж від joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+від Lokal joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+від Lokal, joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+люди потравились joy 0 sadness 60 anger 0 fear 10 amazement 0 disgust 30
+вже нема joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+нема там joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+такого ажіотажу joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+такого ажіотажу, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тепер Криївка joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Криївка псується joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+Криївка псується, joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+обслуговування ніяке joy 0 sadness 30 anger 15 fear 0 amazement 0 disgust 0
+обслуговування ніяке. joy 0 sadness 30 anger 15 fear 0 amazement 0 disgust 0
+Спочатку в Театрі joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в Театрі пива joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в Театрі пива, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+теж від Lokal joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+теж від Lokal, joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+потравились і вже нема joy 0 sadness 75 anger 0 fear 15 amazement 0 disgust 30
+вже нема там joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+там такого ажіотажу joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+там такого ажіотажу, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тепер Криївка псується joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+тепер Криївка псується, joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+Спочатку в Театрі пива joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Спочатку в Театрі пива, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+люди потравились і вже нема joy 0 sadness 75 anger 0 fear 15 amazement 0 disgust 30
+вже нема там такого joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+нема там такого ажіотажу joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+нема там такого ажіотажу, joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Криївка псується, обслуговування ніяке joy 0 sadness 45 anger 20 fear 0 amazement 0 disgust 0
+Криївка псується, обслуговування ніяке. joy 0 sadness 45 anger 20 fear 0 amazement 0 disgust 0
+Спочатку в Театрі пива, теж від Lokal joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Спочатку в Театрі пива, теж від Lokal,  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+люди потравились і вже нема там такого ажіотажу joy 0 sadness 75 anger 15 fear 15 amazement 0 disgust 15
+люди потравились і вже нема там такого ажіотажу, joy 0 sadness 75 anger 15 fear 15 amazement 0 disgust 15
+вже нема там такого ажіотажу joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+вже нема там такого ажіотажу, joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+тепер Криївка псується, обслуговування ніяке joy 0 sadness 30 anger 45 fear 0 amazement 0 disgust 0
+тепер Криївка псується, обслуговування ніяке.   joy 0 sadness 30 anger 45 fear 0 amazement 0 disgust 0
+ажіотажу, тепер Криївка псується, обслуговування ніяке joy 0 sadness 30 anger 45 fear 0 amazement 0 disgust 0
+ажіотажу, тепер Криївка псується, обслуговування ніяке.   joy 0 sadness 30 anger 45 fear 0 amazement 0 disgust 0
+Спочатку в Театрі пива, теж від Lokal, люди потравились joy 0 sadness 75 anger 0 fear 15 amazement 0 disgust 15
+потравились і вже нема там такого ажіотажу, тепер Криївка joy 0 sadness 75 anger 0 fear 15 amazement 0 disgust 15
+нема там такого ажіотажу, тепер Криївка псується, обслуговування ніяке joy 0 sadness 30 anger 45 fear 0 amazement 0 disgust 0
+нема там такого ажіотажу, тепер Криївка псується, обслуговування ніяке. joy 0 sadness 30 anger 45 fear 0 amazement 0 disgust 0
+Спочатку в Театрі пива, теж від Lokal, люди потравились і вже нема там такого ажіотажу, тепер Криївка псується, обслуговування ніяке joy 0 sadness 30 anger 45 fear 10 amazement 0 disgust 0
+Спочатку в Театрі пива, теж від Lokal, люди потравились і вже нема там такого ажіотажу, тепер Криївка псується, обслуговування ніяке.  joy 0 sadness 30 anger 45 fear 10 amazement 0 disgust 0
+При joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вході joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дійсно joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+можна joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+було joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+б joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хоча joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+би joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+полоскати joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 10
+посуд joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+посуд, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+який joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+конвеєром joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+всім joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+наливають joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+медовуху joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 30
+При вході joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дійсно можна joy 20 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+можна було б joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хоча би joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+полоскати посуд joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 15
+полоскати посуд, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 15
+в який joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+конвеєром всім joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+всім наливають joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+наливають медовуху  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 30
+При вході дійсно joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дійсно можна було б joy 5 sadness 0 anger 3 fear 0 amazement 0 disgust 0
+хоча би полоскати joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 15
+посуд, в який joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в який конвеєром всім joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+всім наливають медовуху joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 30
+При вході дійсно можна joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+можна було б хоча би joy 5 sadness 0 anger 3 fear 0 amazement 0 disgust 0
+хоча би полоскати посуд joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 30
+хоча би полоскати посуд, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 30
+в який конвеєром всім joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 5
+конвеєром всім наливають медовуху  joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 35
+При вході дійсно можна було б joy 0 sadness 0 anger 5 fear 0 amazement 0 disgust 0
+хоча би полоскати посуд, в який joy 0 sadness 0 anger 5 fear 0 amazement 0 disgust 15
+в який конвеєром всім наливають медовуху joy 0 sadness 0 anger 5 fear 0 amazement 0 disgust 30
+При вході дійсно можна було б хоча би полоскати посуд, joy 0 sadness 0 anger 5 fear 0 amazement 0 disgust 30
+При вході дійсно можна було б хоча би полоскати посуд, в який конвеєром всім наливають медовух joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 60
