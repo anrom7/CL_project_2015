@@ -596,8 +596,7 @@
 заклад	          заклад 	     noun:m:v_zna 	
 не	              не 	         part 	
 раз	              раз            noun:m:v_zna	
-і	              і 	         conj:coord 
-                                 part 	
+і	              і 	         conj:coord  	
 не	              не 	         part 	
 два	              два            numr:m:v_zna                                	
 …	              - 	         - 	
