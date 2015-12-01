@@ -1,0 +1,3 @@
+Shchur 20-30 female
+Нещодавно 	adv 	відвідали 	verb:past:p:perf	з 	prep:rv_oru 	чоловіком 	noun:m:v_oru:anim 	Львів, 	noun:m:v_zna 	місто 	noun:n:v_zna  від 	prep:rv_rod 	якого 	adj:m:v_rod:&pron:int:rel:def	перехоплює 	verb:pres:s:3:imperf 	подих.	noun:m:v_zna  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Нещодавно 	adv		відвідали 	verb:past:p:perf	з 	prep:rv_oru		чоловіком 	noun:m:v_oru:anim 	Львів, 		noun:m:v_zna	місто 	noun:n:v_zna 	від 	prep:rv_rod 	якого 	adj:m:v_rod:&pron:int:rel:def	перехоплює 	verb:pres:s:3:imperf	подих.		noun:m:v_zna  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
