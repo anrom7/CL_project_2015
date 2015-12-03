@@ -33,7 +33,7 @@
 ,	             - 	             - 	
 краще	         хороший 	     adj:n:v_naz:compr                                  	
 Бергшлос	     - 	             - 	
-чи	             чи 	         conj:coord:subord                                 	
+чи	             чи 	         conj:coord                                	
 Опілля	         - 	             - 	
 ,	             - 	             - 	
 але	             але 	         conj:coord                                  	
@@ -235,7 +235,7 @@
 пропозиція	     пропозиція 	 noun:f:v_naz 	
 до	             до 	         prep:rv_rod 	
 власників	     власник 	     noun:p:v_rod:anim                                  	
-чи	             чи 	         conj:coord:subord 
+чи	             чи 	         conj:coord
 керівництва	     керівництво     noun:p:v_naz                                                                   	
 зробіть	         зробити 	     verb:impr:p:2:perf 	
 на	             на 	         prep:rv_mis 	
@@ -618,7 +618,7 @@
 ,	              - 	         - 	
 що	              що             conj:subord 	
 чернігівське	 чернігівський   adj:n:v_naz 	
-чи	             чи 	         conj:coord:subord 	
+чи	             чи 	         conj:coord	
 ще	             ще 	         part 	
 якесь	         якийсь 	     pron:ind  	
 там	             там 	         adv 	
@@ -717,7 +717,7 @@
 беріть	         брати 	         verb:impr:p:2:imperf 	
 темні	         темний 	     adj:p:v_zna:compb 	
 елі	             ель             noun:m:v_zna   	
-чи	             чи 	         conj:coord:subord 
+чи	             чи 	         conj:coord
 "	             - 	             - 	
 Світло	         світло 	     noun:n:v_zna   	
 "	             - 	             - 	
