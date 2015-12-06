@@ -1,0 +1,297 @@
+Ihor 20-30 male
+ joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+200	  joy 0 sadness 16 anger 0 fear 0 amazement 0 disgust 0
+грн	  joy 0 sadness 16 anger 0 fear 0 amazement 0 disgust 0
+)  joy 0 sadness 16 anger 0 fear 0 amazement 0 disgust 0
+Вояки  мечуться  	 з	 пістолетами  )	  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вояки  мечуться  	 joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+мечуться  	 з	 joy 0 sadness 31 anger 0 fear 0 amazement 0 disgust 0
+з	 пістолетами   joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+з	 пістолетами  )	  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+мечуться  	 з	 пістолетами  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+мечуться  	 з	 пістолетами  )	 joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вояки  мечуться  	 з	 пістолетами   joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вояки   joy 30 sadness 0 anger 0 fear 0 amazement 16 disgust 0
+мечуться  	  joy 30 sadness 0 anger 0 fear 0 amazement 16 disgust 0
+з	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пістолетами   joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+)	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Рекомендую  всім	  відвідати  даний	 " заклад	 " ) ) )	SENT_END  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Рекомендую  всім	  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+всім	  відвідати  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Рекомендую  всім	  відвідати  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відвідати  даний	 joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+даний	 " joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+" заклад	 joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+заклад	 " joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+" заклад	 " joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+" заклад	 " ) ) )	SENT_END  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відвідати  даний	 " заклад	 "  joy 45 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+) ) )	SENT_END  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Рекомендую   joy 46 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+всім	   joy 46 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+відвідати   joy 46 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+даний	  joy 46 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+"  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+заклад	  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+"  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+)  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+)  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+)	SENT_END  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+-	 Суматоха   , сумбур  ,	 всі	   бігають	 , носяться  ,	 але	 думаю  що  це	 через	 навалу	  бажаючих  відпочити  )	SENT_END  joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+-	 Суматоха    joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+Суматоха   , joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+-	 Суматоха   , joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+сумбур  ,	 joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+Суматоха   , сумбур  ,	 joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+всі	   бігають	  joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+всі	   бігають	 , joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+носяться  ,	 joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+носяться  ,	 але	 joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+але	 думаю   joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+думаю  що  joy 0 sadness 45 anger 0 fear 0 amazement 15 disgust 0
+але	 думаю  що  joy 15 sadness 45 anger 0 fear 0 amazement 15 disgust 0
+що  це	  joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+це	 через	 joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+через	 навалу	  joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+через	 навалу	  бажаючих  joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+бажаючих  відпочити    joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+бажаючих  відпочити  )	SENT_END  joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+що  це	 через	 навалу	  бажаючих  відпочити  )	SENT_END  joy 30 sadness 15 anger 0 fear 0 amazement 15 disgust 0
+-	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Суматоха    joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+,  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сумбур   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+,	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+всі	    joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бігають	  joy 31 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+,  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+носяться   joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+,	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+думаю   joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що   joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+це	  joy 0 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+через	  joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+навалу	   joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+бажаючих   joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+відпочити   joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+)	SENT_END  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
++	 Супер	 заклад	 ,	 з	 чудовою  атмосферою  і	 привітними  працівниками  .SENT_END  joy 45 sadness 0 anger 0 fear 0 amazement 15 disgust 0
++	 Супер	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Супер	 заклад	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Супер	 заклад	 ,	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з	 чудовою  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з	 чудовою  атмосферою  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+атмосферою  і	  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+атмосферою  і	 привітними  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+привітними  працівниками   joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+привітними  працівниками  .SENT_END joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і	 привітними  працівниками   joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і	 привітними  працівниками  .SENT_END joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чудовою  атмосферою  і	 привітними  працівниками   joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чудовою  атмосферою  і	 привітними  працівниками  .SENT_END  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з	 чудовою  атмосферою  і	 привітними   joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з	 чудовою  атмосферою  і	 привітними  працівниками    joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з	 чудовою  атмосферою  і	 привітними  працівниками  .SENT_END  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+заклад	 ,	 з	  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+заклад	 ,	 з	 чудовою  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+заклад	 ,	 з	 чудовою  атмосферою  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+заклад	 ,	 з	 чудовою  атмосферою  і	  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+заклад	 ,	 з	 чудовою  атмосферою  і	 привітними  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+заклад	 ,	 з	 чудовою  атмосферою  і	 привітними  працівниками    joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+заклад	 ,	 з	 чудовою  атмосферою  і	 привітними  працівниками  .SENT_END  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
++	  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Супер	  joy 49 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+заклад	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+,	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чудовою   joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+атмосферою   joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+привітними   joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+працівниками   joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+.SENT_END  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Сподобались  страви	 ,	 яких  чекати  не	 довелось  , замовлення  приносили  поступово  , тому	 час	 не	 (непомітно, ) помітно  пройшов	 .	SENT_END  joy 45 sadness 0 anger 0 fear 0 amazement 16 disgust 0
+Сподобались  страви	  joy 45 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Сподобались  страви	 ,	 joy 45 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+,	 яких   joy 45 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+яких  чекати  joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+страви	 ,	 яких   joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+страви	 ,	 яких  чекати  joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+чекати  не	 joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+не	 довелось   joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+не	 довелось  , joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+чекати  не	 довелось   joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чекати  не	 довелось  , joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+замовлення  приносили  поступово  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+приносили  поступово   joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+замовлення  приносили  поступово  ,  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+замовлення  приносили  поступово  , тому	 joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тому	 час	 не	 (непомітно, ) помітно  пройшов	 .	SENT_END  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тому	 час	  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+час	 не	 (непомітно, ) помітно  joy 45 sadness 0 anger 0 fear 0 amazement 21 disgust 0
+не	 (непомітно, ) помітно  пройшов	  joy 45 sadness 0 anger 0 fear 0 amazement 21 disgust 0
+не	 (непомітно, ) помітно  пройшов	 .	SENT_END  joy 45 sadness 0 anger 0 fear 0 amazement 21 disgust 0
+час	 не	 (непомітно, ) помітно  пройшов	 joy 61 sadness 0 anger 0 fear 0 amazement 21 disgust 0
+час	 не	 (непомітно, ) помітно  пройшов	 .	SENT_END  joy 61 sadness 0 anger 0 fear 0 amazement 21 disgust 0
+Сподобались  страви	 ,	 яких  чекати  joy 60 sadness 0 anger 0 fear 0 amazement 21 disgust 0
+Сподобались  страви	 ,	 яких  чекати  не	 довелось  joy 60 sadness 0 anger 0 fear 0 amazement 21 disgust 0
+Сподобались  страви	 ,	 яких  чекати  не	 довелось  , joy 60 sadness 0 anger 0 fear 0 amazement 21 disgust 0
+Сподобались   joy 60 sadness 0 anger 0 fear 0 amazement 21 disgust 0
+страви	  joy 60 sadness 0 anger 0 fear 0 amazement 21 disgust 0
+,	  joy 60 sadness 0 anger 0 fear 0 amazement 21 disgust 0
+яких   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чекати   joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+не	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+довелось   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+,  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+замовлення   joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+приносили   joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+поступово   joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+,  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тому	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+час	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не	 (непомітно, ) помітно   joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пройшов	  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+.	SENT_END  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Приймали  участь	 у	 розшуку	 москалів  серед	 присутніх   	) ) )	 )	 ,	 довелось  доводити   , що	 ми не	 москалі  ) ) , подруга навіть  у	 карцері	 побувала  .SENT_END  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Приймали  участь	 joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+участь	 у	 joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у	 розшуку	 joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Приймали  участь	 у	 joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Приймали  участь	 у	 розшуку	 joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у	 розшуку	 москалів  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у	 розшуку	 москалів  серед	  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+серед	 присутніх    joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+серед	 присутніх   	) ) )	 )	  joy 60 sadness 0 anger 0 fear 0 amazement 38 disgust 0
+у	 розшуку	 москалів  серед	 присутніх   	) ) )	 )	 ,	 joy 60 sadness 0 anger 0 fear 0 amazement 38 disgust 0
+Приймали  участь	 у	 розшуку	 москалів  серед	 присутніх   	) ) )	 )	 ,	 joy 60 sadness 0 anger 0 fear 0 amazement 38 disgust 0
+довелось  доводити    joy 60 sadness 0 anger 0 fear 0 amazement 38 disgust 0
+довелось  доводити   , joy 60 sadness 0 anger 0 fear 0 amazement 38 disgust 0
+доводити   ,  joy 45 sadness 0 anger 0 fear 0 amazement 38 disgust 0
+доводити   , що	 joy 45 sadness 0 anger 0 fear 0 amazement 38 disgust 0
+що	 ми   joy 45 sadness 0 anger 0 fear 0 amazement 38 disgust 0
+ми не	 joy 45 sadness 0 anger 0 fear 0 amazement 38 disgust 0
+не	 москалі  ) ) joy 45 sadness 0 anger 0 fear 0 amazement 38 disgust 0
+не	 москалі  ) ) , joy 26 sadness 0 anger 0 fear 0 amazement 38 disgust 0
+що	 ми не	  joy 26 sadness 0 anger 0 fear 0 amazement 38 disgust 0
+що	 ми не	 москалі  ) ) ,  joy 26 sadness 0 anger 0 fear 0 amazement 38 disgust 0
+подруга навіть  joy 26 sadness 0 anger 0 fear 0 amazement 38 disgust 0
+навіть  у	 joy 26 sadness 0 anger 0 fear 0 amazement 38 disgust 0
+у	 карцері	 joy 26 sadness 48 anger 0 fear 0 amazement 0 disgust 0
+у	 карцері	 побувала   joy 26 sadness 48 anger 0 fear 0 amazement 0 disgust 0
+у	 карцері	 побувала  .SENT_END  joy 26 sadness 48 anger 0 fear 0 amazement 0 disgust 0
+навіть  у	 карцері	  joy 26 sadness 48 anger 0 fear 0 amazement 0 disgust 0
+навіть  у	 карцері	 побувала    joy 26 sadness 48 anger 0 fear 0 amazement 0 disgust 0
+навіть  у	 карцері	 побувала  .SENT_END  joy 26 sadness 48 anger 0 fear 0 amazement 0 disgust 0
+подруга навіть  у	 карцері	 побувала   joy 26 sadness 48 anger 0 fear 0 amazement 0 disgust 0
+подруга навіть  у	 карцері	 побувала  .SENT_END  joy 26 sadness 48 anger 0 fear 0 amazement 0 disgust 0
+Приймали   joy 26 sadness 48 anger 0 fear 0 amazement 0 disgust 0
+участь	  joy 26 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у	  joy 26 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+розшуку	  joy 26 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+москалів   joy 26 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+серед	 joy 26 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+присутніх   	 joy 26 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+)  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+)  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+)  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+)  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+,  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+довелось   joy 16 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+доводити    joy 16 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+,  joy 16 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що	  joy 16 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ми  joy 16 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не	  joy 16 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+москалі   joy 16 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+)  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+)  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+,  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+подруга  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+навіть   joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у	  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+карцері	  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+побувала   joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+.SENT_END  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Настрій  створюють  чудовий	.	SENT_END  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Настрій  створюють  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+створюють  чудовий	 joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чудовий	.	SENT_END  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+створюють  чудовий	.	SENT_END  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Настрій  створюють  чудовий	 joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Настрій   joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+створюють   joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чудовий	 joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+.	SENT_END  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Спогади  залишились   найкращі  )  )	 )	SENT_END  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Спогади  залишились   joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+залишились   найкращі  )  )	 )	SENT_END  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Спогади  залишились   найкращі  )  )	 )	 joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Спогади   joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+залишились    joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+найкращі   joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+)   joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+)  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+)	SENT_END  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Поки	 (поки що, ) що  нічого  не  виявлено   SENT_END  joy 45 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Поки	 (поки що, ) що  joy 45 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Поки	 (поки що, ) що  нічого  joy 45 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+нічого  не  joy 45 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+не  виявлено   SENT_END  joy 45 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+не  виявлено    joy 45 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+нічого  не  виявлено   joy 45 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+нічого  не  виявлено   SENT_END joy 45 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+-	  joy 45 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Поки	 (поки що, ) що   joy 45 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+нічого   joy 45 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+не   joy 45 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+виявлено    joy 45 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+SENT_END  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вчора    відвідали   "  	  Криївку    " 	 	 .  SENT_END   joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вчора    відвідали   joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відвідали   "  	 joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+"  	  Криївку    joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Криївку    " 	  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+"  	  Криївку    " 	 	 joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+"  	  Криївку    " 	 	 .  SENT_END   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відвідали   "  	  Криївку    " 	  joy 22 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Вчора    відвідали   "  	  Криївку    " 	 	  joy 22 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Вчора    відвідали   joy 22 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+"  	   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Криївку    joy 37 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+" 	 	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+.  		SENT_END   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Отримали   купу  	  позитивних   емоцій    . SENT_END   joy 74 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Отримали   купу  	   joy 74 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+купу  	  позитивних   joy 74 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+позитивних   емоцій    joy 74 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+купу  	  позитивних   емоцій     joy 74 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Отримали   купу  	  позитивних    joy 74 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Отримали   купу  	  позитивних   емоцій     joy 74 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Отримали    joy 74 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+купу  	   joy 74 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+позитивних    joy 74 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+емоцій     joy 59 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+. 		SENT_END   joy 59 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+Дуже  засмакували  замовлені   страви    .  SENT_END   joy 59 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+Дуже  засмакували  joy 59 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+засмакували  замовлені    joy 75 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Дуже  засмакували  замовлені    joy 75 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+замовлені   страви    joy 75 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Дуже  засмакували  замовлені   страви     joy 75 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Дуже   joy 75 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+засмакували   joy 75 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+замовлені    joy 38 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+страви     joy 38 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+.  SENT_END   joy 38 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Морозиво   просто   супер   !  	SENT_END   joy 38 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Морозиво   просто   joy 49 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+просто   супер   !  	SENT_END   joy 49 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Морозиво   просто   супер   joy 49 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Морозиво    joy 49 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+просто    joy 19 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+супер    joy 19 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+!  	SENT_END  joy 19 sadness 0 anger 0 fear 0 amazement 15 disgust 0

@@ -1,0 +1,301 @@
+Luno 10-20 female
+ joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+порц≥њ	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+велик≥	 joy 0 sadness 0 anger 0 fear 7 amazement 0 disgust 0
+≥	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+найголовн≥ше   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нормальн≥  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+адекватн≥  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ц≥ни	  joy 0 sadness 0 anger 0 fear 15 amazement 0 disgust 0
+:	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на    joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+100   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+грн   joy 15 sadness 15 anger 0 fear 0 amazement 30 disgust 0
+/   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+людину	   joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+можна	  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+≥   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+поњсти   joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+нормально   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+и	 (≥, )  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+випити   joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+.	SENT_END  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+-  „ерга	 ,	 але	 €	     думаю  це  		 ще	 одне	 п≥дтвердженн€  попул€рност≥  цього   закладу ,	 бо  у  Ћьвов≥  черги	 усюду  (усюди, ) де  	Ї  хорош≥ м≥сц€   . SENT_END  joy 15 sadness 0 anger 30 fear 0 amazement 0 disgust 0
+хорош≥ м≥сц€    joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хорош≥ м≥сц€   . SENT_END  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ї  хорош≥ м≥сц€    joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ї  хорош≥ м≥сц€   . SENT_END  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+де  	Ї  хорош≥ м≥сц€    joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+де  	Ї  хорош≥ м≥сц€   . SENT_END  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+усюду  (усюди, ) де  	Ї  хорош≥ м≥сц€    joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+усюду  (усюди, ) де  	Ї  хорош≥ м≥сц€   . SENT_END  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+усюду  (усюди, ) де  	 joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+усюду  (усюди, ) де  	Ї  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+черги	 усюду  (усюди, ) joy 0 sadness 0 anger 45 fear 0 amazement 0 disgust 0
+у  Ћьвов≥  joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+у  Ћьвов≥  черги	  joy 0 sadness 0 anger 45 fear 0 amazement 0 disgust 0
+у  Ћьвов≥  черги	 усюду  (усюди, ) joy 0 sadness 0 anger 45 fear 0 amazement 0 disgust 0
+бо  у  Ћьвов≥  joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+бо  у  Ћьвов≥  черги	 joy 0 sadness 0 anger 100 fear 0 amazement 0 disgust 0
+бо  у  Ћьвов≥  черги	 усюду  (усюди, ) joy 0 sadness 0 anger 100 fear 0 amazement 0 disgust 0
+бо  у  Ћьвов≥  черги	 усюду  (усюди, ) де  joy 0 sadness 0 anger 100 fear 0 amazement 0 disgust 0
+бо  у  Ћьвов≥  черги	 усюду  (усюди, ) де  	Ї  joy 0 sadness 0 anger 100 fear 0 amazement 0 disgust 0
+бо  у  Ћьвов≥  черги	 усюду  (усюди, ) де  	Ї  хорош≥  joy 0 sadness 0 anger 100 fear 0 amazement 0 disgust 0
+бо  у  Ћьвов≥  черги	 усюду  (усюди, ) де  	Ї  хорош≥ м≥сц€     joy 0 sadness 0 anger 100 fear 0 amazement 0 disgust 0
+бо  у  Ћьвов≥  черги	 усюду  (усюди, ) де  	Ї  хорош≥ м≥сц€   . SENT_END  joy 0 sadness 0 anger 100 fear 0 amazement 0 disgust 0
+„ерга	 ,	 joy 0 sadness 0 anger 100 fear 0 amazement 0 disgust 0
+-  „ерга	 joy 0 sadness 0 anger 100 fear 0 amazement 0 disgust 0
+„ерга	 ,	 але	 joy 0 sadness 0 anger 100 fear 0 amazement 0 disgust 0
+але	 €	     joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+€	     думаю  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але	 €	     думаю  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+думаю  це  		 joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ще	 одне	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+це  		 ще	 одне	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+думаю  це  		 ще	 одне	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+одне	 п≥дтвердженн€  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+п≥дтвердженн€  попул€рност≥  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+попул€рност≥  цього   joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+цього   закладу	 закладу	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+попул€рност≥  цього   joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+думаю  це  		 ще	 одне	 одне	 п≥дтвердженн€  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ще	 одне	 одне	 п≥дтвердженн€  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+це  		 ще	 одне	 п≥дтвердженн€  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ще	 одне	 одне	 п≥дтвердженн€  попул€рност≥  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+це  		 ще	 одне	 одне	 п≥дтвердженн€  попул€рност≥  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+думаю  це  		 ще	 одне	 одне	 п≥дтвердженн€  попул€рност≥  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ще	 одне	 одне	 п≥дтвердженн€  попул€рност≥  цього   закладу	  joy 45 sadness 0 anger 0 fear 0 amazement 45 disgust 0
+це  		 ще	 одне	 одне	 п≥дтвердженн€  попул€рност≥  цього   закладу	  joy 45 sadness 0 anger 0 fear 0 amazement 45 disgust 0
+думаю  це  		 ще	 одне	 одне	 п≥дтвердженн€  попул€рност≥  цього   закладу	  joy 45 sadness 0 anger 0 fear 0 amazement 45 disgust 0
+закладу	  ,	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+цього   закладу	  ,	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+цього   закладу	  ,	 бо  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+-  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+„ерга	  joy 0 sadness 0 anger 100 fear 0 amazement 0 disgust 0
+,	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+€	      joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+думаю   joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+це  		  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ще	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+одне	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+п≥дтвердженн€   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+попул€рност≥   joy 45 sadness 0 anger 0 fear 0 amazement 45 disgust 0
+цього    joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+закладу	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+,	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бо   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ћьвов≥   joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+черги	  joy 0 sadness 0 anger 100 fear 0 amazement 0 disgust 0
+усюду  (усюди, )  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+де  	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ї   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хорош≥  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+м≥сц€    joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+. SENT_END  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ѕула	 у	 Ћьвов≥ 	 дек≥лька  раз≥в 	 ,  рињвка  дуже	 сподобалась  , атмосфера  на	 5	 . кухн€  смачна  ≥	 чекали	 в	  	(в приницип≥, ) принцип≥  не	 довго	 .	SENT_END  joy 75 sadness 0 anger 0 fear 0 amazement 45 disgust 0
+не	 довго	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не	 довго	 .	SENT_END  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в	  	(в приницип≥, ) принцип≥   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в	  	(в приницип≥, ) принцип≥  не	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в	  	(в приницип≥, ) принцип≥  не	 довго	 .	SENT_END  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чекали	 в	  	(в приницип≥, ) принцип≥   joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+чекали	 в	  	(в приницип≥, ) принцип≥  не	 довго	 joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чекали	 в	  	(в приницип≥, ) принцип≥  не	 довго	 .	SENT_END  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ѕула	 у	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ѕула	 у	 Ћьвов≥ 	  joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+Ѕула	 у	 Ћьвов≥ 	 дек≥лька  joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+Ѕула	 у	 Ћьвов≥ 	 дек≥лька  раз≥в 	 joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+у	 Ћьвов≥ 	 joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+дек≥лька  раз≥в 	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дек≥лька  раз≥в 	 , joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ рињвка  дуже	 joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ рињвка  дуже	 сподобалась  joy 45 sadness 0 anger 0 fear 0 amazement 45 disgust 0
+атмосфера  на	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+атмосфера  на	 5	  joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+атмосфера  на	 5	 . joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+кухн€  смачна  joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+кухн€  смачна  ≥	 joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+кухн€  смачна  ≥	 чекали	 joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+кухн€  смачна  ≥	 чекали	 в	  	(в приницип≥, ) принцип≥  joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+кухн€  смачна  ≥	 чекали	 в	  	(в приницип≥, ) принцип≥  не	  joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+кухн€  смачна  ≥	 чекали	 в	  	(в приницип≥, ) принцип≥  не	 довго	   joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+кухн€  смачна  ≥	 чекали	 в	  	(в приницип≥, ) принцип≥  не	 довго	 .	SENT_END  joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+Ѕула	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ћьвов≥ 	  joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+дек≥лька   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+раз≥в 	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+,  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ рињвка   joy 45 sadness 0 anger 0 fear 0 amazement 45 disgust 0
+дуже	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сподобалась   joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+,  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+атмосфера   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+5	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+.  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кухн€   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смачна   joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+≥	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чекали	  joy 0 sadness 0 anger 100 fear 0 amazement 0 disgust 0
+в	  	(в приницип≥, ) принцип≥   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+довго	  joy 15 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+.	SENT_END  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+¬с≥м  	рекомедую  (рекомендую, ) )	 )  )	 )SENT_END  joy 100 sadness 0 anger 0 fear 0 amazement 45 disgust 0
+рекомедую  (рекомендую, ) ) )  )	 joy 100 sadness 0 anger 0 fear 0 amazement 45 disgust 0
+¬с≥м  	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+рекомедую  (рекомендую, )  joy 100 sadness 0 anger 0 fear 0 amazement 45 disgust 0
+)  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+)  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+)  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+)SENT_END  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
++ ≤де€	 ,	 €ку	 колись	п≥дтримували  ,  музики	 SENT_END  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
++ ≤де€	 joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
++ ≤де€	 ,	 joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+≤де€	 ,	 joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+,	 €ку	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+€ку	 колись	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+€ку	 колись	п≥дтримували  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+п≥дтримували  ,  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+колись	п≥дтримували  ,  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+,  музики	 joy 45 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+музики	 SENT_END joy 45 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+≤де€	 ,	 €ку	 колись	п≥дтримували  joy 45 sadness 0 anger 0 fear 0 amazement 15 disgust 0
++  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+≤де€	  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+,	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+€ку	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+колись	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+п≥дтримували   joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+,   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+музики	  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+SENT_END  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+-  ¬≥льних	 м≥сць	 було	 мало	 ,	 с≥ли	 посеред  залу	 ,  у	 нас  прийн€ли  замовленн€  (	 меню	 треба	 просити	 сам≥й	 )  ≥	 через  5	 хв	 зв≥льнивс€  сус≥дн≥й  столик  ≥	 ми перес≥ли  туди		. SENT_END  joy 0 sadness 75 anger 75 fear 0 amazement 0 disgust 0
+-  ¬≥льних	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+¬≥льних	 м≥сць	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+м≥сць	 було	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+було	 мало	 joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+м≥сць	 було	 мало	  joy 0 sadness 100 anger 30 fear 0 amazement 0 disgust 0
+¬≥льних	 м≥сць	 було	 мало	 joy 0 sadness 100 anger 100 fear 0 amazement 0 disgust 0
+мало	 ,	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+було	 мало	 ,	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+м≥сць	 було	 мало	 ,	 joy 0 sadness 100 anger 30 fear 0 amazement 0 disgust 0
+¬≥льних	 м≥сць	 було	 мало	 ,	  joy 0 sadness 100 anger 100 fear 0 amazement 0 disgust 0
+с≥ли	 посеред  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+посеред  залу	  joy 0 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+посеред  залу	 ,  joy 0 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+с≥ли	 посеред  залу	 joy 0 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+с≥ли	 посеред  залу	 ,  joy 0 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+у	 нас  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у	 нас  прийн€ли   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у	 нас  прийн€ли  замовленн€  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+(	 меню	 треба	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+треба	 просити	 joy 0 sadness 15 anger 75 fear 0 amazement 0 disgust 0
+просити	 сам≥й	 joy 0 sadness 15 anger 75 fear 0 amazement 0 disgust 0
+треба	 просити	 сам≥й	 joy 0 sadness 15 anger 75 fear 0 amazement 0 disgust 0
+(	 меню	 треба	 просити	 сам≥й	  joy 0 sadness 15 anger 75 fear 0 amazement 0 disgust 0
+(	 меню	 треба	 просити	 сам≥й	 )  joy 0 sadness 15 anger 75 fear 0 amazement 0 disgust 0
+≥	 через   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+через  5	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+через  5	 хв	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+через  5	 хв	 зв≥льнивс€  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+≥	 через  5	 хв	 зв≥льнивс€  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+≥	 через  5	 хв	 зв≥льнивс€  сус≥дн≥й   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сус≥дн≥й  столик  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зв≥льнивс€  сус≥дн≥й  столик  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+столик  ≥	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+≥	 ми  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ми перес≥ли   joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+перес≥ли   туди	 joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+перес≥ли   туди		. SENT_END  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ми перес≥ли  туди	 joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ми перес≥ли  туди	 . SENT_END  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+≥	 ми перес≥ли  туди  . SENT_END  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+≥	 через  5	 хв	 зв≥льнивс€  сус≥дн≥й  столик   joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+≥	 через  5	 хв	 зв≥льнивс€  сус≥дн≥й  столик  ≥	  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+≥	 через  5	 хв	 зв≥льнивс€  сус≥дн≥й  столик  ≥	 ми  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+≥	 через  5	 хв	 зв≥льнивс€  сус≥дн≥й  столик  ≥	 ми  перес≥ли   joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+≥	 через  5	 хв	 зв≥льнивс€  сус≥дн≥й  столик  ≥	 ми  перес≥ли  туди		 joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+≥	 через  5	 хв	 зв≥льнивс€  сус≥дн≥й  столик  ≥	 ми  перес≥ли  туди		. SENT_END  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+-   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+¬≥льних	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+м≥сць	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+було	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+мало	  joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+,	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+с≥ли	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+посеред   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+залу	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+,   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нас   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+прийн€ли   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+замовленн€   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+(	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+меню	  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+треба	  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+просити	  joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+сам≥й	  joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+)   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+≥	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+через   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+5	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хв	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зв≥льнивс€   joy 45 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+сус≥дн≥й   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+столик   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+≥	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ми  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+перес≥ли   joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+туди		 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+. SENT_END  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ƒо  нас 	п≥д≥йшла  оф≥ц≥антка (  англ≥йську  незнаЇ  ( не, ; знаЇ, ) )   ≥  пов≥домила  ,  що  в≥н  зарезервований  ≥   через	 1,5  год   .  треба  буде	 його	 зв≥льнити  . SENT_END  joy 0 sadness 0 anger 100 fear 0 amazement 0 disgust 0
+ƒо  нас  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ƒо  нас 	п≥д≥йшла  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+п≥д≥йшла  оф≥ц≥антка  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ƒо  нас 	п≥д≥йшла  оф≥ц≥антка  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+англ≥йську  незнаЇ  ( не, ; знаЇ, )  joy 0 sadness 15 anger 45 fear 0 amazement 0 disgust 0
+(  англ≥йську  незнаЇ  ( не, ; знаЇ, ) )  joy 0 sadness 15 anger 45 fear 0 amazement 0 disgust 0
+≥  пов≥домила   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+≥  пов≥домила  ,   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+≥  пов≥домила  ,  що  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що  в≥н   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що  в≥н  зарезервований  joy 0 sadness 45 anger 45 fear 0 amazement 0 disgust 0
+його	 зв≥льнити  . SENT_END  joy 0 sadness 45 anger 100 fear 0 amazement 0 disgust 0
+його	 зв≥льнити   joy 0 sadness 45 anger 100 fear 0 amazement 0 disgust 0
+≥   через	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+через	 1,5   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+≥   через	 1,5   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+1,5  год   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+1,5  год   .   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+≥   через	 1,5  год   .   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+треба  буде	 joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+треба  буде	 його	 зв≥льнити   joy 0 sadness 45 anger 45 fear 0 amazement 0 disgust 0
+треба  буде	 його	 зв≥льнити  . SENT_END  joy 0 sadness 45 anger 45 fear 0 amazement 0 disgust 0
+≥   через	 1,5  год   .  треба  буде	 його	 зв≥льнити    joy 0 sadness 45 anger 45 fear 0 amazement 0 disgust 0
+≥   через	 1,5  год   .  треба  буде	 його	 зв≥льнити  . SENT_END  joy 0 sadness 45 anger 45 fear 0 amazement 0 disgust 0
+п≥д≥йшла  оф≥ц≥антка (  англ≥йську  незнаЇ  ( не, ; знаЇ, ) )   ≥   joy 0 sadness 75 anger 100 fear 0 amazement 0 disgust 0
+п≥д≥йшла  оф≥ц≥антка (  англ≥йську  незнаЇ  ( не, ; знаЇ, ) )   ≥  пов≥домила   joy 0 sadness 75 anger 100 fear 0 amazement 0 disgust 0
+п≥д≥йшла  оф≥ц≥антка (  англ≥йську  незнаЇ  ( не, ; знаЇ, ) )   ≥  пов≥домила  ,   joy 0 sadness 75 anger 100 fear 0 amazement 0 disgust 0
+п≥д≥йшла  оф≥ц≥антка (  англ≥йську  незнаЇ  ( не, ; знаЇ, ) )   ≥  пов≥домила  ,  що   joy 0 sadness 75 anger 100 fear 0 amazement 0 disgust 0
+в≥н  зарезервований  joy 0 sadness 45 anger 45 fear 0 amazement 0 disgust 0
+зарезервований  ≥  joy 0 sadness 45 anger 45 fear 0 amazement 0 disgust 0
+≥   через	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в≥н  зарезервований  ≥   через	 joy 0 sadness 45 anger 45 fear 0 amazement 0 disgust 0
+ƒо   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нас 	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+п≥д≥йшла   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+оф≥ц≥антка  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+(   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+англ≥йську   joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+незнаЇ  ( не, ; знаЇ, )  joy 0 sadness 100 anger 0 fear 0 amazement 0 disgust 0
+)    joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+≥   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пов≥домила   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+,   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в≥н   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зарезервований joy 0 sadness 100 anger 60 fear 0 amazement 0 disgust 0

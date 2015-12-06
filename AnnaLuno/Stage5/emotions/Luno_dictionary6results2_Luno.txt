@@ -1,0 +1,109 @@
+Luno 10-20 female
+ joy 0 sadness 0 anger 60 fear 100 amazement 0 disgust 100
+під		 столами    біг	  щур 	 —	   joy 0 sadness 0 anger 60 fear 100 amazement 0 disgust 100
+По	  підлозі  під		 столами    біг	  щур 	  joy 0 sadness 0 anger 60 fear 100 amazement 0 disgust 100
+По	  підлозі  під		 столами    біг	  щур 	 —	   joy 0 sadness 0 anger 60 fear 100 amazement 0 disgust 100
+сказали    офіціантам    joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сказали    офіціантам    , 	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сказали    офіціантам    , 	  на	  що 	   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сказали    офіціантам    , 	  на	  що 	  вони	 відповіли    joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на	  що 	   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вони	 відповіли    joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вони	 відповіли   —	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на	  що 	  вони	 відповіли   —	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бути	 такого  не   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не  може   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бути	 такого  не  може   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бути	 такого  не  може  ,	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на	  що 	  вони	 відповіли   —	 бути	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на	  що 	  вони	 відповіли   —	 бути	 такого  не  може  ,	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і	 пересадили   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пересадили   в  	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в  	 інший  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+інший  зал   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+інший  зал  !SENT_END  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в  	 інший  зал    joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в  	 інший  зал  !SENT_END  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пересадили   в  	 інший  зал   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ пересадили   в  	 інший  зал  !SENT_END  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і	 пересадили   в  	 інший  зал   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і	 пересадили   в  	 інший  зал  !SENT_END  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+По	   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+підлозі   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+під		  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+столами     joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+біг	   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+щур 	  joy 0 sadness 0 anger 0 fear 100 amazement 0 disgust 100
+—	   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сказали     joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+офіціантам     joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+, 	   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що 	   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вони	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відповіли    joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+—	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бути	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+такого   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+може   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+,	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пересадили    joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в  	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+інший  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зал   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+!SENT_END  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Але  на  шизофренію   не  страждаемо  (страждаємо, ) !	SENT_END  joy 0 sadness 0 anger 45 fear 0 amazement 0 disgust 0
+Але  на  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на  шизофренію   joy 0 sadness 0 anger 0 fear 30 amazement 0 disgust 0
+не  страждаемо  (страждаємо, )  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не  страждаемо  (страждаємо, ) !	SENT_END  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на  шизофренію   не  страждаемо  (страждаємо, )  joy 0 sadness 0 anger 45 fear 0 amazement 0 disgust 0
+на  шизофренію   не  страждаемо  (страждаємо, ) !	SENT_END  joy 0 sadness 0 anger 45 fear 0 amazement 0 disgust 0
+Але  на  шизофренію   не  страждаемо  (страждаємо, ) joy 0 sadness 0 anger 45 fear 0 amazement 0 disgust 0
+Але   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+шизофренію    joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+не   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+страждаемо  (страждаємо, )  joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+!	SENT_END  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Настрій  зіпсований  ,   апетит   теж  .  SENT_END  joy 0 sadness 60 anger 100 fear 0 amazement 0 disgust 0
+Настрій  зіпсований   joy 0 sadness 60 anger 100 fear 0 amazement 0 disgust 0
+Настрій  зіпсований  ,   joy 0 sadness 60 anger 100 fear 0 amazement 0 disgust 0
+апетит   теж   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+апетит   теж  .  SENT_END  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Настрій  зіпсований  ,   апетит   joy 0 sadness 75 anger 100 fear 0 amazement 0 disgust 0
+Настрій   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зіпсований   joy 0 sadness 100 anger 0 fear 0 amazement 0 disgust 0
+,    joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+апетит    joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+теж   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+.  SENT_END  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Висновок  один	 —	 відвідування   цього   місця   припинили  ! 	SENT_END  joy 0 sadness 60 anger 75 fear 0 amazement 0 disgust 0
+Висновок  один	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+один	 —	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відвідування   цього   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+цього   місця   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відвідування   цього   місця   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відвідування   цього   місця   припинили  joy 0 sadness 75 anger 45 fear 0 amazement 0 disgust 0
+припинили  ! 	SENT_END  joy 0 sadness 75 anger 45 fear 0 amazement 0 disgust 0
+Висновок   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+один	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+—	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відвідування    joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+цього    joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+місця    joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+припинили   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+! 	SENT_END  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Це	  геть	 НЕПОДОБСТВО   ! !	 !	SENT_END  joy 0 sadness 0 anger 100 fear 0 amazement 0 disgust 0
+Це	  геть	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+геть	 НЕПОДОБСТВО    joy 0 sadness 0 anger 100 fear 0 amazement 0 disgust 0
+НЕПОДОБСТВО   !	 !	  joy 0 sadness 0 anger 100 fear 0 amazement 0 disgust 0
+Це	  геть	 НЕПОДОБСТВО   joy 0 sadness 0 anger 100 fear 0 amazement 0 disgust 0
+Це	   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+геть	  joy 0 sadness 0 anger 45 fear 0 amazement 0 disgust 0
+НЕПОДОБСТВО    joy 0 sadness 0 anger 100 fear 0 amazement 0 disgust 0
+!	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+!	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+!	SENT_END joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0

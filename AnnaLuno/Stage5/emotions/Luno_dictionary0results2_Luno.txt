@@ -1,0 +1,301 @@
+Luno 10-20 female
+ joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
++  Криївка  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
++  Криївка чудове  joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+чудове місце  joy 0 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+чудове місце ! SENT_END  joy 0 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Криївка чудове  joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Криївка чудове  місце  joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 0
++  Криївка  чудове  місце   joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Криївка  joy 0 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+чудове  joy 30 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+місце   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+! SENT_END joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Дуже  смачно  і	 ситно  і  за  нормальні  гроші  .	SENT_END  joy 30 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+нормальні  гроші   joy 30 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+нормальні  гроші  .	SENT_END joy 30 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+за  нормальні  гроші  .	SENT_END joy 30 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+і  за  нормальні  гроші  .	SENT_END  joy 30 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+ситно  і  за  нормальні  гроші  .	SENT_END  joy 30 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+і	 ситно  і  за  нормальні  гроші  .	SENT_END  joy 30 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+смачно  і	 ситно joy 30 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+смачно  і	 ситно  і  за  нормальні  гроші  .	SENT_END  joy 30 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+Дуже  смачно joy 30 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+Дуже  смачно  і	  joy 30 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+Дуже  смачно  і	 ситно  joy 30 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+Дуже  смачно  і	 ситно  і  joy 30 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+Дуже  смачно  і	 ситно  і  за  joy 30 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+Дуже  смачно  і	 ситно  і  за  нормальні   joy 30 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+Дуже  смачно  і	 ситно  і  за  нормальні  гроші   joy 30 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+Дуже  joy 30 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+смачно  joy 30 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+і	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ситно  joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+і  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+за  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нормальні  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+гроші  joy 30 sadness 0 anger 0 fear 15 amazement 45 disgust 0
+.	SENT_END  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Дуже  сподобалась  курка у	 пивному	 клярі   з	 картоплею  ! SENT_END  joy 0 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+з	 картоплею  ! SENT_END	 joy 6 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у	 пивному	  joy 6 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у	 пивному	 клярі   joy 6 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+курка у	 пивному	 клярі    joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+курка у	 пивному	 клярі   з	 картоплею  ! SENT_END  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сподобалась  курка  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сподобалась  курка у	 пивному	 клярі  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Дуже  сподобалась  joy 30 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Дуже  сподобалась  курка  joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Дуже  сподобалась  курка у	  joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Дуже  сподобалась  курка у	 пивному	 joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Дуже  сподобалась  курка у	 пивному	 клярі   joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Дуже  joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+сподобалась  joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+курка  joy 15 sadness 8 anger 0 fear 0 amazement 0 disgust 0
+у	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пивному	 joy 9 sadness 9 anger 0 fear 0 amazement 0 disgust 0
+клярі   joy 9 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+картоплею  joy 6 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+! SENT_END  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Всім  раджу  ! SENT_END  joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+раджу  ! SENT_END  joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Всім   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+раджу  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+! SENT_END  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Приємно	 радує  музичний  супровід  файних  вуйків  . SENT_END  joy 30 sadness 0 anger 0 fear 0 amazement 45 disgust 0
+файних  вуйків  joy 30 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+файних  вуйків  . SENT_END  joy 30 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+музичний  супровід  joy 30 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+супровід  файних   joy 30 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+супровід  файних  вуйків  joy 30 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+музичний  супровід  файних  вуйків   joy 30 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+радує  музичний  супровід  joy 30 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+радує  музичний  супровід  файних  вуйків  . SENT_END joy 30 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+Приємно	 радує  joy 30 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+Приємно	 радує  музичний  joy 30 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+Приємно	 радує  музичний  супровід  joy 30 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+Приємно	 радує  музичний  супровід  файних  вуйків   joy 45 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+Приємно	 joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+радує  joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+музичний  joy 15 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+супровід  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+файних  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вуйків  joy 0 sadness 0 anger 0 fear 5 amazement 0 disgust 0
+. SENT_END  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+- Ще  одне	 місце  ,  яке	 стає	 попсовим  .	SENT_END  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+стає	 попсовим   joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+стає	 попсовим  .	SENT_END joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+яке	 стає	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+,  яке joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+,  яке	 стає	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+,  яке	 стає	 попсовим   joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+,  яке	 стає	 попсовим  .	SENT_END  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+- Ще   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ще  одне	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+одне  місце  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ще  одне	 місце  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ще  одне	 місце  ,  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ще  одне	 місце  ,  яке	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ще  одне	 місце  ,  яке	 стає	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+місце  ,   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+місце  ,  яке	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+місце  ,  яке	 стає	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+місце  ,  яке	 стає	 попсовим  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+місце  ,  яке	 стає	 попсовим  .	SENT_END joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Ще  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+одне	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+місце  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+,   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+яке	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+стає	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+попсовим  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+.	SENT_END joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Неприємно  у  такі  (такій, ) місцині	 	 ідейній	  ,  історичній    чути  москальську  (москальський, ) мову  та  матюки	 . SENT_END  joy 0 sadness 45 anger 30 fear 0 amazement 0 disgust 0
+та  матюки	 . SENT_END  joy 0 sadness 45 anger 30 fear 0 amazement 0 disgust 0
+мову  та  матюки	 . SENT_END  joy 0 sadness 45 anger 30 fear 0 amazement 0 disgust 0
+москальську  (москальський, ) мову  joy 0 sadness 45 anger 30 fear 0 amazement 0 disgust 0
+чути  москальську  (москальський, ) мову  joy 0 sadness 45 anger 30 fear 0 amazement 0 disgust 0
+чути  москальську  (москальський, ) мову  та  матюки	 . SENT_END  joy 0 sadness 45 anger 30 fear 0 amazement 0 disgust 0
+у  такі  (такій, ) місцині	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Неприємно  у  такі  (такій, ) місцині	 	  joy 0 sadness 15 anger 8 fear 0 amazement 0 disgust 0
+місцині	 -	 ідейній	  ,  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+місцині	 -	 ідейній	  ,  історичній   joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Неприємно  у  такі  (такій, ) місцині	 joy 0 sadness 30 anger 8 fear 0 amazement 0 disgust 0
+Неприємно  у  такі  (такій, ) місцині	 	 ідейній	  ,  історичній    чути  joy 0 sadness 30 anger 8 fear 0 amazement 0 disgust 0
+Неприємно  joy 0 sadness 30 anger 8 fear 0 amazement 0 disgust 0
+у  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+такі  (такій, ) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+місцині	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+-	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ідейній	  joy 15 sadness 0 anger 0 fear 0 amazement 8 disgust 0
+,   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+історичній  joy 30 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+- joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чути   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+москальську  (москальський, )  joy 0 sadness 60 anger 30 fear 0 amazement 0 disgust 0
+мову   joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+та   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+матюки	  joy 0 sadness 45 anger 45 fear 0 amazement 0 disgust 0
+. SENT_END  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Отже  ,  таки  пропускають  москалів  . SENT_END  joy 0 sadness 75 anger 60 fear 0 amazement 0 disgust 0
+пропускають  москалів  . SENT_END  joy 0 sadness 75 anger 60 fear 0 amazement 0 disgust 0
+пропускають  москалів   joy 0 sadness 75 anger 60 fear 0 amazement 0 disgust 0
+Отже  ,   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+таки  пропускають  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Отже  ,  таки   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+таки  пропускають  москалів  . SENT_END  joy 0 sadness 75 anger 60 fear 0 amazement 0 disgust 0
+таки  пропускають  москалів   joy 0 sadness 75 anger 60 fear 0 amazement 0 disgust 0
+Отже   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+,   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+таки   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пропускають   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+москалів   joy 0 sadness 75 anger 60 fear 0 amazement 0 disgust 0
+. SENT_END  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Черги  жахливі ! SENT_END  joy 0 sadness 90 anger 90 fear 0 amazement 0 disgust 0
+Черги   joy 0 sadness 0 anger 90 fear 0 amazement 0 disgust 0
+жахливі  joy 0 sadness 0 anger 100 fear 0 amazement 0 disgust 0
+! SENT_END  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вбиральні  брудні і  смердючі !	SENT_END  joy 0 sadness 0 anger 100 fear 0 amazement 0 disgust 100
+брудні і  смердючі !	SENT_END  joy 0 sadness 0 anger 100 fear 0 amazement 0 disgust 100
+Вбиральні  брудні  joy 0 sadness 0 anger 100 fear 0 amazement 0 disgust 100
+Вбиральні  брудні і  joy 0 sadness 0 anger 100 fear 0 amazement 0 disgust 100
+брудні і  joy 0 sadness 0 anger 100 fear 0 amazement 0 disgust 100
+брудні і  смердючі !	SENT_END  joy 0 sadness 0 anger 100 fear 0 amazement 0 disgust 100
+Вбиральні   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 45
+брудні  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 75
+і   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смердючі  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 100
+!	SENT_END  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ціни  і	 обслуговування  нормальне  ,  пиво   23	 грн  ,  " пів	 	 (півметра, ) метра  ковбаси  "     118  грн  .  ,  закуска  до   на  дошці  з   сокірою	 (сокирою, ) 	 140	 грн	 .	 ( ковбаса  ,	 сало	 ,	 соління  ,   хліб	 ,	 досить  багато	 ) SENT_END  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+багато	 ) SENT_END  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+досить  багато	 ) SENT_END  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хліб	 ,	  joy 45 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+соління  ,	  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сало	 ,	  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ковбаса  ,	 joy 0 sadness 0 anger 0 fear 15 amazement 0 disgust 0
+( ковбаса  ,	 сало	 ,	 соління  ,   хліб	 ,	 досить  багато	 ) SENT_END  joy 9 sadness 0 anger 0 fear 9 amazement 0 disgust 0
+грн	 .	  joy 45 sadness 0 anger 0 fear 0 amazement 45 disgust 0
+140	 грн	 .	 joy 45 sadness 7 anger 0 fear 0 amazement 45 disgust 0
+з   сокірою	 (сокирою, ) 	 joy 0 sadness 0 anger 0 fear 30 amazement 0 disgust 0
+дошці  з   сокірою	 (сокирою, ) 	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на  дошці  з   сокірою	 (сокирою, ) 	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+до   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+закуска  до   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+закуска  до   на	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ дошці  з   сокірою	 (сокирою, ) 	 140	 грн	 .	  joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+118  грн  .   joy 0 sadness 8 anger 0 fear 0 amazement 30 disgust 0
+-  118  грн  .   joy 0 sadness 8 anger 0 fear 0 amazement 30 disgust 0
+ковбаси  "    joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+метра  ковбаси  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+пів	 	 (півметра, ) метра  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+пів	 	 (півметра, ) метра  ковбаси  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+" пів	 	 (півметра, ) метра  ковбаси  "  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+23	 грн  ,  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+пиво   23	 грн  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пиво   23	 грн  ,  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+обслуговування  нормальне   joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+обслуговування  нормальне  ,  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ціни  і   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ціни  і	 обслуговування  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ціни  і	 обслуговування  нормальне  ,  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ціни  і	 обслуговування  нормальне  ,  пиво   23	 грн  ,   joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ціни  і	 обслуговування  нормальне  ,  пиво   23	 грн  ,  " пів	 	 (півметра, ) метра  ковбаси  "  joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Ціни  і	 обслуговування  нормальне  ,  пиво   23	 грн  ,  " пів	 	 (півметра, ) метра  ковбаси  "     118  грн  .   joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Ціни  і	 обслуговування  нормальне  ,  пиво   23	 грн  ,  " пів	 	 (півметра, ) метра  ковбаси  "     118  грн  .  ,  закуска   joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Ціни  і	 обслуговування  нормальне  ,  пиво   23	 грн  ,  " пів	 	 (півметра, ) метра  ковбаси  "     118  грн  .  ,  закуска  до    joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Ціни  і	 обслуговування  нормальне  ,  пиво   23	 грн  ,  " пів	 	 (півметра, ) метра  ковбаси  "     118  грн  .  ,  закуска  до   на	 дошці   joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Ціни  і	 обслуговування  нормальне  ,  пиво   23	 грн  ,  " пів	 	 (півметра, ) метра  ковбаси  "     118  грн  .  ,  закуска  до   на	 дошці  з   сокірою	 (сокирою, )  joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Ціни  і	 обслуговування  нормальне  ,  пиво   23	 грн  ,  " пів	 	 (півметра, ) метра  ковбаси  "     118  грн  .  ,  закуска  до   на	 дошці  з   сокірою	 (сокирою, ) 	 140	 грн	 .	  joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Ціни   joy 0 sadness 0 anger 0 fear 8 amazement 0 disgust 0
+і	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+обслуговування   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нормальне   joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+,   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пиво    joy 15 sadness 0 anger 0 fear 7 amazement 0 disgust 0
+23	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+грн   joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+,   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+"  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пів	 	 (півметра, ) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+метра   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ковбаси   joy 0 sadness 15 anger 0 fear 15 amazement 0 disgust 0
+"    joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+-  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+118   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+грн   joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+.   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+,   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+закуска   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+до   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пива joy 15 sadness 9 anger 0 fear 0 amazement 0 disgust 0
+на   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дошці   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з    joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сокірою	 (сокирою, )  joy 0 sadness 0 anger 0 fear 15 amazement 0 disgust 0
+-	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+140	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+грн	  joy 45 sadness 15 anger 0 fear 0 amazement 45 disgust 0
+.	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+(  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ковбаса   joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+,	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сало	  joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+,	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+соління   joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+,    joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хліб	  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+,	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+досить   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+багато	  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+) SENT_END  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
++  Дядько	 на  вході  кльовий   ,  готують	 смачно	 ,	 атмосфера  невимушена  ,	 офіціанти  приємні ,  порції	 великі	і	 найголовніше  нормальні адекватні ціни	 :	 на   100  грн  /  людину	  можна	 і  поїсти  нормально  и	 (і, ) випити  .	SENT_END  joy 60 sadness 0 anger 0 fear 0 amazement 45 disgust 0
++  Дядько	 на  вході   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на  вході   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Дядько	 на  вході  кльовий    joy 30 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Дядько	 на  вході  кльовий   ,   joy 30 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+готують	 смачно	  joy 45 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+готують	 смачно	 ,	  joy 45 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+атмосфера  невимушена   joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+атмосфера  невимушена  ,	  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+офіціанти  приємні  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+офіціанти  приємні ,   joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+порції	 великі	 joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+порції	 великі	і	  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+порції	 великі	і	 найголовніше  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+порції	 великі	і	 найголовніше  нормальні  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+адекватні  ціни	 joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нормальні адекватні ціни	 joy 30 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+і	 найголовніше  нормальні адекватні ціни	 joy 30 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+ціни	 :	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ціни	 :	 на  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на   100  грн  joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+100  грн  /  людину	  joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+можна	 і  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+можна	 і  поїсти  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+можна	 і  поїсти  нормально  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+поїсти  нормально  и	 (і, ) joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+и	 (і, ) випити  joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+и	 (і, ) випити  .	SENT_END  joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+можна	 і  поїсти  нормально  и	 (і, ) випити    joy 15 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+можна	 і  поїсти  нормально  и	 (і, ) випити  .	SENT_END  joy 15 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+Дядько	 на  вході  кльовий   ,  готують	 смачно	 ,	 joy 45 sadness 0 anger 0 fear 0 amazement 45 disgust 0
+Дядько	 на  вході  кльовий   ,  готують	 смачно	 ,	 атмосфера  невимушена  ,	 joy 45 sadness 0 anger 0 fear 0 amazement 45 disgust 0
+Дядько	 на  вході  кльовий   ,  готують	 смачно	 ,	 атмосфера  невимушена  ,	 офіціанти  приємні ,   joy 45 sadness 0 anger 0 fear 0 amazement 45 disgust 0
+Дядько	 на  вході  кльовий   ,  готують	 смачно	 ,	 атмосфера  невимушена  ,	 офіціанти  приємні ,  порції	 великі	 joy 45 sadness 0 anger 0 fear 0 amazement 45 disgust 0
+Дядько	 на  вході  кльовий   ,  готують	 смачно	 ,	 атмосфера  невимушена  ,	 офіціанти  приємні ,  порції	 великі	і	 найголовніше   joy 45 sadness 0 anger 0 fear 0 amazement 45 disgust 0
+Дядько	 на  вході  кльовий   ,  готують	 смачно	 ,	 атмосфера  невимушена  ,	 офіціанти  приємні ,  порції	 великі	і	 найголовніше  нормальні адекватні ціни	 :	 joy 60 sadness 0 anger 0 fear 0 amazement 60 disgust 0
+ціни	 :	 на   100  грн  /  людину	   joy 60 sadness 0 anger 0 fear 0 amazement 60 disgust 0
+Дядько	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вході   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кльовий    joy 30 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+,   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+готують	  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смачно	  joy 45 sadness 0 anger 0 fear 0 amazement 45 disgust 0
+,	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+атмосфера   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+невимушена   joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+,	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+офіціанти   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+приємні joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
