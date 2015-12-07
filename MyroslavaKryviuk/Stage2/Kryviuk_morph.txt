@@ -1,25 +1,25 @@
 Token Lemma Part-of-speech Chunk
 	-
 SENT_START
-??????	??????? adj:f:v_naz:compb
-????	???? noun:f:v_naz
+Смачна	смачний adj:f:v_naz:compb
+кава	кава noun:f:v_naz
 ,	-
 -
-??????	?????? adj:m:v_naz:compb
+гарний	гарний adj:m:v_naz:compb
                adj:m:v_zna:compb
-???????????	??????????? adj:m:v_naz:compb
+привабливий	привабливий adj:m:v_naz:compb
                             adj:m:v_zna:compb
-????????	???????? noun:m:v_naz
+персонал	персонал noun:m:v_naz
                          noun:m:v_zna
 ,	- -
-????'??????	????'?????? adv
-?????	????? noun:f:v_zna:anim
-        ????? verb:futr:s:1:perf
+обов'язково	обов'язково adv
+зайду	зайда noun:f:v_zna:anim
+        зайти verb:futr:s:1:perf
 
-????	???? adv:&pron:dem
-??	?? adv
+сюди	сюди adv:&pron:dem
+ще	ще adv
            part
-???	??? adv
+раз	раз adv
             conj:subord
             noun:m:v_naz
             noun:m:v_zna
@@ -32,21 +32,21 @@ PARA_END
 Token Lemma Part-of-speech Chunk
 	-
 SENT_START
-????	???? noun:f:v_naz
-?	? prep:rv_rod:rv_zna:rv_oru
-????????	??????? noun:f:v_oru
+Кава	кава noun:f:v_naz
+з	з prep:rv_rod:rv_zna:rv_oru
+цитриною	цитрина noun:f:v_oru
 "	- -
-????????	???????? noun:f:v_naz
+Просвіта	просвіта noun:f:v_naz
 "	- -
-??????	?????? adv:compb
+просто	просто adv:compb
                part
                prep:rv_rod
-?????	- -
+класс	- -
 .	-
 SENT_END
 	-
 SENT_START
-??????????	????????????? verb:futr:s:1:perf
+Рекомендую	рекомендувати verb:futr:s:1:perf
                               verb:pres:s:1:imperf
 .	-
 
@@ -56,42 +56,42 @@ PARA_END
 Token Lemma Part-of-speech Chunk
 	-
 	- 	SENT_START
-???????	- 	-
-??????	??????? 	adj:f:v_naz:compb
+Задумки	- 	-
+цікава	цікавий 	adj:f:v_naz:compb
 .	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-?????'??	?????'?? 	noun:m:v_naz
+Інтер'єр	інтер'єр 	noun:m:v_naz
                                 noun:m:v_zna
 -	- 	-
-???????	??????? 	adj:m:v_naz:compb
+чудовий	чудовий 	adj:m:v_naz:compb
                         adj:m:v_zna:compb
-?	? 	conj:coord
+і	і 	conj:coord
 part
-????	???? adv
-        ????? adj:n:v_naz:compb
+дуже	дуже adv
+        дужий adj:n:v_naz:compb
               adj:n:v_zna:compb
 
-?????????	????????? 	verb:pres:s:3:imperf
-?????	????? 	noun:f:v_dav
+підходить	підходити 	verb:pres:s:3:imperf
+назві	назва 	noun:f:v_dav
                 noun:f:v_mis
 .	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-??????????	?????????? noun:n:v_naz
+Очікування	очікування noun:n:v_naz
                            noun:n:v_rod
                            noun:n:v_zna
                            noun:p:v_naz
                            noun:p:v_zna
-??	?? 	part
-????????????	???????????? 	verb:rev:past:p:perf
+не	не 	part
+виправдались	виправдатися 	verb:rev:past:p:perf
 .	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-??????????????	?????????????? noun:n:v_naz
+Обслуговування	обслуговування noun:n:v_naz
                                noun:n:v_rod
                                noun:n:v_zna
                                noun:p:v_naz
@@ -99,32 +99,32 @@ Token	Lemma	Part-of-speech	Chunk
 
 
 
-???????	???????? 	adj:n:v_naz:compb
+жахливе	жахливий 	adj:n:v_naz:compb
                         adj:n:v_zna:compb
 -	- 	-
-?????????	????????? 	adv:compb
-???????	- 	-
-?????	????? 	adv:compb
-??????	?????? 	verb:inf:imperf
-??	?? excl
+необхідно	необхідно 	adv:compb
+дууууже	- 	-
+довго	довго 	adv:compb
+чекати	чекати 	verb:inf:imperf
+на	на excl
            part
            prep:rv_zna:rv_mis
-????	???? 	numr:f:v_zna
-??????	?????? 	conj:subord
+одну	один 	numr:f:v_zna
+лишень	лишень 	conj:subord
 part
-????	???? 	noun:f:v_zna
+каву	кава 	noun:f:v_zna
 .	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-??	?? 	noun:p:v_naz:anim:&pron:pers:1
-?????????	????????? 	verb:past:p:imperf
-???????	???????? 	adjp:pasv:past:f:v_zna
-?	? 	conj:coord
+Ми	ми 	noun:p:v_naz:anim:&pron:pers:1
+замовляли	замовляти 	verb:past:p:imperf
+запаяну	запаяний 	adjp:pasv:past:f:v_zna
+і	і 	conj:coord
                 part
-???????	??????? 	verb:past:p:perf
-??	?? adj:f:v_dav:nv:&pron:pos
-        ???? 	adj:f:v_mis:nv:&pron:pos
+зробили	зробити 	verb:past:p:perf
+її	її adj:f:v_dav:nv:&pron:pos
+        вона 	adj:f:v_mis:nv:&pron:pos
                 adj:f:v_naz:nv:&pron:pos
                 adj:f:v_oru:nv:&pron:pos
                 adj:f:v_rod:nv:&pron:pos
@@ -132,55 +132,55 @@ Token	Lemma	Part-of-speech	Chunk
                 noun:f:v_rod:&pron:pers:3
                 noun:f:v_zna:&pron:pers:3
 
-???????????	- 	-
+препаскудно	- 	-
 .	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-????	?????? verb:impr:s:2:imperf
-        ????   noun:f:v_rod
+Ціни	цінити verb:impr:s:2:imperf
+        ціна   noun:f:v_rod
                noun:p:v_naz
                noun:p:v_zna
-??????????????	???????????????	adj:p:v_naz
+необґрунтовані	необґрунтований	adj:p:v_naz
                                 adj:p:v_zna
 .	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-?????	????? 	adv
-??????	?????? 	adv:compb
+Надто	надто 	adv
+дорого	дорого 	adv:compb
 .	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-????	????
-????? 	adv
+Дуже	дуже
+дужий 	adv
 adj:n:v_naz:compb
 adj:n:v_zna:compb
-?????	????? 	adv
+шумно	шумно 	adv
 .	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-?	? 	prep:rv_zna:rv_mis:rv_rod:v-u
-????	????? 	adj:n:v_naz:&pron:def
+У	у 	prep:rv_zna:rv_mis:rv_rod:v-u
+таке	такий 	adj:n:v_naz:&pron:def
                 adj:n:v_zna:&pron:def
-?????	????? 	noun:n:v_naz
+місце	місце 	noun:n:v_naz
 noun:n:v_zna
-???????????	??????????? 	verb:rev:inf:imperf
-?????	????? 	adv
-??	?? 	part
-????????	???????? 	verb:rev:pres:s:3:imperf
+повертатися	повертатися 	verb:rev:inf:imperf
+знову	знову 	adv
+не	не 	part
+хочеться	хотітися 	verb:rev:pres:s:3:imperf
 .	- 	SENT_END
 PARA_END
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-???????????	??????? 	adj:f:v_naz:super
-????	???? 	noun:f:v_naz
+Найсмачніша	смачний 	adj:f:v_naz:super
+кава	кава 	noun:f:v_naz
 ,	- 	-
-??????	??????? 	adj:n:v_naz:compb
+чудове	чудовий 	adj:n:v_naz:compb
                         adj:n:v_zna:compb
-??????????????	?????????????? noun:n:v_naz
+обслуговування	обслуговування noun:n:v_naz
                                noun:n:v_rod
                                noun:n:v_zna
                                noun:p:v_naz
@@ -190,149 +190,149 @@ Token	Lemma	Part-of-speech	Chunk
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-?????????	?????????? 	verb:impr:p:2:perf
+Спробуйте	спробувати 	verb:impr:p:2:perf
 "	- 	-
-????????????	????????????? 	adj:f:v_zna
+Бандерівську	бандерівський 	adj:f:v_zna
 "	- 	-
 -	- 	-
-??????	?????? 	adv:compb
-?	? 	conj:coord
+дешево	дешево 	adv:compb
+і	і 	conj:coord
 part
-??-??????????	??-?????????? 	adv
+по-домашньому	по-домашньому 	adv
 ;	- 	-
 )	- 	SENT_END
 PARA_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-????	??? noun:p:v_naz
+Пили	пил noun:p:v_naz
             noun:p:v_zna
-        ???? verb:past:p:imperf
-???????	???????? 	adj:f:v_zna
-?	? 	conj:coord
+        пити verb:past:p:imperf
+вечірню	вечірній 	adj:f:v_zna
+і	і 	conj:coord
                 part
-????	???? 	noun:f:v_zna
-????????????	??????????? 	noun:m:v_rod:anim:lname
+каву	кава 	noun:f:v_zna
+Кульчицького	Кульчицький 	noun:m:v_rod:anim:lname
                                 noun:m:v_zna:anim:lname
-�	- 	-
-????	???? adv
-        ????? 	adj:n:v_naz:compb
+—	- 	-
+дуже	дуже adv
+        дужий 	adj:n:v_naz:compb
                 adj:n:v_zna:compb
-??????	?????? 	adv:compb
+смачно	смачно 	adv:compb
 .	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-????????	???????? 	noun:m:v_naz
+Персонал	персонал 	noun:m:v_naz
                                 noun:m:v_zna
-?????????	????????? 	adj:m:v_naz:compb
+привітний	привітний 	adj:m:v_naz:compb
                                 adj:m:v_zna:compb
 ,	- 	-
-????????????	??????????? 	verb:rev:pres:s:3:imperf
+посміхається	посміхатися 	verb:rev:pres:s:3:imperf
 ,	- 	-
-??????	????????? 	verb:pres:s:3:imperf
+жартує	жартувати 	verb:pres:s:3:imperf
 ,	- 	-
-???	?????? 	verb:pres:s:3:imperf
-??????	?????? noun:f:v_rod
+дає	давати 	verb:pres:s:3:imperf
+поради	порада noun:f:v_rod
                noun:p:v_naz
                noun:p:v_zna
 .	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-?	? conj:coord
+А	а conj:coord
           excl
           part
-????	???? 	adj:m:v_naz:&pron:int:rel:def
+який	який 	adj:m:v_naz:&pron:int:rel:def
                 adj:m:v_zna:&pron:int:rel:def
-????????	- 	-
+тірамісу	- 	-
 !	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-???	??? 	prep:rv_zna
-???????	???????? 	adj:f:v_zna
-??????-?????????	??????-?????????? 	adj:f:v_zna
-?????????	????????? 	noun:f:v_zna
-????	???? 	predic
-?	? 	conj:coord
+Про	про 	prep:rv_zna
+магічну	магічний 	adj:f:v_zna
+кавово-підвальну	кавово-підвальний 	adj:f:v_zna
+атмосферу	атмосфера 	noun:f:v_zna
+годі	годі 	predic
+й	й 	conj:coord
                 part
-????????	???????? 	verb:inf:imperf
+говорити	говорити 	verb:inf:imperf
 .	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-??	?? 	prep:rv_zna:rv_mis
-?'??????	?'?????? 	noun:f:v_zna
+На	на 	prep:rv_zna:rv_mis
+п'ятірку	п'ятірка 	noun:f:v_zna
 !	- 	SENT_END
 PARA_END
 
 Token	Lemma	Part-of-speech
 	- 	SENT_START
-??????	??????? 	adj:p:v_naz:compb
+Смачні	смачний 	adj:p:v_naz:compb
                         adj:p:v_zna:compb
-???????	?????? 	noun:p:v_naz
+десерти	десерт 	noun:p:v_naz
                 noun:p:v_zna
 ,	- 	-
-???????	??????? 	adj:m:v_naz:compb
+великий	великий 	adj:m:v_naz:compb
                         adj:m:v_zna:compb
-?????	????? 	noun:m:v_naz
+вибір	вибір 	noun:m:v_naz
                 noun:m:v_zna
-????	???? 	noun:f:v_rod
+кави	кава 	noun:f:v_rod
 )	- 	-
-???????	???????? 	adj:p:v_naz:compb
+чарівні	чарівний 	adj:p:v_naz:compb
                         adj:p:v_zna:compb
-?????????	???????? 	noun:p:v_kly:anim
+офіціанти	офіціант 	noun:p:v_kly:anim
                                 noun:p:v_naz:anim
 )	- 	SENT_END
 PARA_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-????????	????????? 	adj:f:v_naz
-???????	??????? 	noun:f:v_naz
+Поетична	поетичний 	adj:f:v_naz
+вечірка	вечірка 	noun:f:v_naz
 "	- 	-
-????	???? 	noun:n:v_naz
+Вино	вино 	noun:n:v_naz
                 noun:n:v_zna
-?	? 	prep:rv_rod:rv_zna:rv_oru
-????????	???????? adj:p:v_mis
+з	з 	prep:rv_rod:rv_zna:rv_oru
+вечірніх	вечірній adj:p:v_mis
                          adj:p:v_rod
                          adj:p:v_zna
-??????	??????? 	noun:p:v_rod
+троянд	троянда 	noun:p:v_rod
 "	- 	-
-?	? 	prep:rv_zna:rv_mis:rv_rod:v-u
-?????????	?????????? 	adj:f:v_naz
-????????	???????? 	noun:f:v_naz
-????	???? 	noun:f:v_rod
+в	в 	prep:rv_zna:rv_mis:rv_rod:v-u
+Львівська	львівський 	adj:f:v_naz
+копальня	копальня 	noun:f:v_naz
+кави	кава 	noun:f:v_rod
 .	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-?????????	?????????? 	adj:f:v_naz:compb
-??????	?????? 	noun:f:v_naz
+Прекрасна	прекрасний 	adj:f:v_naz:compb
+поезія	поезія 	noun:f:v_naz
 ,	- 	-
-?????	?????? 	adj:f:v_naz:compb
-??	?? 	conj:coord
+ніжна	ніжний 	adj:f:v_naz:compb
+та	та 	conj:coord
                 part
-???????	???????? 	adj:f:v_naz
+жіночна	жіночний 	adj:f:v_naz
 ,	- 	-
-?????????????	????????????? 	verb:rev:past:f:imperf
-??	?? 	prep:rv_rod:rv_zna:rv_oru
-??????????	????????? 	adj:p:v_oru
-???????	???? 	noun:p:v_oru
-??????	?????? noun:f:v_rod
+перепліталась	переплітатися 	verb:rev:past:f:imperf
+із	із 	prep:rv_rod:rv_zna:rv_oru
+таємничими	таємничий 	adj:p:v_oru
+звуками	звук 	noun:p:v_oru
+дримби	дримба noun:f:v_rod
                noun:p:v_naz
                noun:p:v_zna
 Pasha	- 	-
 Goc	- 	-
-??	?? 	conj:coord
+та	та 	conj:coord
                 part
-?????????	???????? 	adj:p:v_oru:compb
-???????	????? 	noun:p:v_oru
-???????	?????? 	noun:m:v_rod:anim:fname
+ліричними	ліричний 	adj:p:v_oru:compb
+піснями	пісня 	noun:p:v_oru
+Віктора	Віктор 	noun:m:v_rod:anim:fname
                 noun:m:v_zna:anim:fname
-????????	???????? noun:f:v_naz:anim:lname
-                ??????? noun:m:v_rod:anim:lname
+Морозова	Морозова noun:f:v_naz:anim:lname
+                Морозов noun:m:v_rod:anim:lname
                         noun:m:v_zna:anim:lname
 .	- 	SENT_END
 
@@ -346,28 +346,28 @@ PARA_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-??	?? adv:&pron:int:rel
+Як	як adv:&pron:int:rel
            conj:subord
            noun:m:v_naz:anim
            part
-?????	??? 	verb:pres:p:2:imperf
-??	?? 	prep:rv_rod
-???'????	???'???? noun:f:v_dav
+йдете	йти 	verb:pres:p:2:imperf
+до	до 	prep:rv_rod
+кав'ярні	кав'ярня noun:f:v_dav
                          noun:f:v_mis
                          noun:f:v_rod
                          noun:p:v_naz
                          noun:p:v_zna
-?????????	?????????? 	adj:f:v_naz
-????	???? 	noun:f:v_naz
+Львівська	львівський 	adj:f:v_naz
+кава	кава 	noun:f:v_naz
 (	- 	-
-?????	????? 	noun:f:v_naz
-?????	????? 	noun:m:v_naz
+площа	площа 	noun:f:v_naz
+Ринок	ринок 	noun:m:v_naz
                 noun:m:v_zna
 )	- 	-
-????????	??????? 	verb:impr:p:2:imperf
-????	???? 	adj:p:v_naz:&pron:pos
+БЕРЕЖІТЬ	берегти 	verb:impr:p:2:imperf
+СВОЇ	свій 	adj:p:v_naz:&pron:pos
                 adj:p:v_zna:&pron:pos
-????	??? noun:f:v_dav
+РЕЧІ	річ noun:f:v_dav
             noun:f:v_mis
             noun:f:v_rod
             noun:p:v_naz
@@ -379,131 +379,131 @@ Token	Lemma	Part-of-speech	Chunk
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-?	? 	prep:rv_zna:rv_mis:rv_rod:v-u
-?????????	?????????? adj:p:v_naz
+У	у 	prep:rv_zna:rv_mis:rv_rod:v-u
+вбиральні	вбиральний adj:p:v_naz
                            adj:p:v_zna
-                ????????? noun:f:v_dav:v-u
+                вбиральня noun:f:v_dav:v-u
                           noun:f:v_mis:v-u
                           noun:f:v_rod:v-u
                           noun:p:v_naz:v-u
                           noun:p:v_zna:v-u
-?	? 	prep:rv_zna:rv_mis:rv_rod:v-u
-????	??? adj:m:v_rod:&pron:pos
+в	в 	prep:rv_zna:rv_mis:rv_rod:v-u
+мого	мій adj:m:v_rod:&pron:pos
             adj:m:v_zna:&pron:pos
             adj:n:v_rod:&pron:pos
-??????????	????????? adjp:pasv:past:m:v_rod
+нареченого	наречений adjp:pasv:past:m:v_rod
                           adjp:pasv:past:m:v_zna
                           adjp:pasv:past:n:v_rod
                           noun:m:v_rod:anim
                           noun:m:v_zna:anim
-??????	??????? 	verb:past:p:perf:v-u
-?????	????? 	noun:f:v_zna
+вкрали	вкрасти 	verb:past:p:perf:v-u
+сумку	сумка 	noun:f:v_zna
 .	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-?????	????? 	adv
+Після	після 	adv
                 prep:rv_rod
-????	?? 	noun:n:v_rod:inanim:&pron:int:rel
-??	?? 	noun:p:v_naz:anim:&pron:pers:1
-??????	?????? 	verb:past:p:perf
-?????	????? 	noun:f:v_zna
-?	? 	conj:coord
+чого	що 	noun:n:v_rod:inanim:&pron:int:rel
+ми	ми 	noun:p:v_naz:anim:&pron:pers:1
+подали	подати 	verb:past:p:perf
+заяву	заява 	noun:f:v_zna
+і	і 	conj:coord
 part
-?.?.	- 	SENT_END
+т.д.	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-???????	?????? 	verb:past:n:perf
+Пройшло	пройти 	verb:past:n:perf
 5	5 	number
-???	- 	-
+год	- 	-
 .	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-??????????????	?????????????? 	verb:past:p:perf
+Зателефонували	зателефонувати 	verb:past:p:perf
 ,	- 	-
-??	?? 	noun:p:v_naz:anim:&pron:pers:1
-???????	?????? 	verb:past:p:perf
-???????	??????? 	verb:inf:perf
+ми	ми 	noun:p:v_naz:anim:&pron:pers:1
+прийшли	прийти 	verb:past:p:perf
+забрати	забрати 	verb:inf:perf
 .	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-???????	??????? 	verb:past:p:perf
+Сказали	сказати 	verb:past:p:perf
 ,	- 	-
-??	?? conj:subord
+що	що conj:subord
            noun:n:v_naz:inanim:&pron:int:rel
            noun:n:v_zna:inanim:&pron:int:rel
-??	?? adv:&pron:int:rel
+як	як adv:&pron:int:rel
            conj:subord
            noun:m:v_naz:anim
            part
-??	?? 	noun:p:v_kly:anim:&pron:pers:2
+ви	ви 	noun:p:v_kly:anim:&pron:pers:2
                 noun:p:v_naz:anim:&pron:pers:2
-??	?? 	part
-????????	???????? 	verb:past:p:perf
-????	???? 	noun:f:v_naz:&pron:pers:3
-?????	?????? adjp:actv:past:f:v_naz:v-u
-        ?????? verb:past:f:perf:v-u
-??	?? 	prep:rv_rod:rv_zna:rv_oru
-?????	????? 	noun:m:v_naz
+не	не 	part
+побачили	побачити 	verb:past:p:perf
+вона	вона 	noun:f:v_naz:&pron:pers:3
+впала	впалий adjp:actv:past:f:v_naz:v-u
+        впасти verb:past:f:perf:v-u
+за	за 	prep:rv_rod:rv_zna:rv_oru
+бачок	бачок 	noun:m:v_naz
                 noun:m:v_zna
 !	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-?????	????? 	noun:m:v_naz
+Вішак	вішак 	noun:m:v_naz
                 noun:m:v_zna
-???	??? 	prep:rv_rod
-?????	????? noun:f:v_rod
+для	для 	prep:rv_rod
+сумки	сумка noun:f:v_rod
               noun:p:v_naz
               noun:p:v_zna
-?	? 	prep:rv_rod:rv_zna:rv_oru
-?????	????? 	adj:f:v_rod:compb
-???????	??????? noun:f:v_rod
+з	з 	prep:rv_rod:rv_zna:rv_oru
+лівої	лівий 	adj:f:v_rod:compb
+сторони	сторона noun:f:v_rod
                 noun:p:v_naz
                 noun:p:v_zna
 ,	- 	-
-?????	????? 	noun:m:v_naz
+бачок	бачок 	noun:m:v_naz
                 noun:m:v_zna
-?????	????? 	adv:compb
+прямо	прямо 	adv:compb
 ...	- 	-
-??????	?????? 	part
-??	?? 	part
-??????	????? 	advp:imperf
-??????	????? noun:p:v_kly:anim
+навіть	навіть 	part
+не	не 	part
+знаючи	знати 	advp:imperf
+фізики	фізик noun:p:v_kly:anim
               noun:p:v_naz:anim
-        ?????? noun:f:v_rod
+        фізика noun:f:v_rod
                noun:p:v_naz
                noun:p:v_zna
 ,	- 	-
-??	?? adv:&pron:int:rel
+ЯК	як adv:&pron:int:rel
            conj:subord
            noun:m:v_naz:anim
            part
-????	???? 	noun:f:v_naz:&pron:pers:3
-????	???? 	adv:&pron:dem
-?????	?????? adjp:actv:past:f:v_naz:v-u
-        ?????? verb:past:f:perf:v-u
+ВОНА	вона 	noun:f:v_naz:&pron:pers:3
+ТУДИ	туди 	adv:&pron:dem
+ВПАЛА	впалий adjp:actv:past:f:v_naz:v-u
+        впасти verb:past:f:perf:v-u
 ?	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-???????	??????? 	verb:past:p:perf
+Сказали	сказати 	verb:past:p:perf
 ,	- 	-
-??	?? conj:subord
+що	що conj:subord
         noun:n:v_naz:inanim:&pron:int:rel
         noun:n:v_zna:inanim:&pron:int:rel
-????	??? noun:m:v_dav
+типу	тип noun:m:v_dav
             noun:m:v_dav:anim
             noun:m:v_mis
             noun:m:v_mis:anim
             noun:m:v_rod
-?????????????	????????????? 	noun:f:v_naz:anim
-???????	?????? 	verb:past:f:perf
+прибиральниця	прибиральниця 	noun:f:v_naz:anim
+знайшла	знайти 	verb:past:f:perf
 ...	- 	-
-?	? noun:f:v_dav:nv:abbr
+т	т noun:f:v_dav:nv:abbr
           noun:f:v_mis:nv:abbr
           noun:f:v_naz:nv:abbr
           noun:f:v_oru:nv:abbr
@@ -516,49 +516,49 @@ Token	Lemma	Part-of-speech	Chunk
           noun:p:v_rod:nv:abbr
           noun:p:v_zna:nv:abbr
 .	- 	-
-?	- 	-
+д	- 	-
 .	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-????	???? adv
+САМЕ	саме adv
              part
-        ??? adj:n:v_naz:&pron:def
-        ????? adj:n:v_naz
+        сам adj:n:v_naz:&pron:def
+        самий adj:n:v_naz
               adj:n:v_zna
-??????	??????? 	adj:n:v_naz:compb
+ЦІКАВЕ	цікавий 	adj:n:v_naz:compb
                         adj:n:v_zna:compb
 :	- 	-
-?	? 	prep:rv_zna:rv_mis:rv_rod:v-u
-?????	????? 	noun:f:v_dav
+У	у 	prep:rv_zna:rv_mis:rv_rod:v-u
+СУМЦІ	сумка 	noun:f:v_dav
                 noun:f:v_mis
-????	???? adv:&pron:int:rel
+КОЛИ	коли adv:&pron:int:rel
 conj:subord
 part
-        ?????? verb:impr:s:2:imperf
-        ??? noun:p:v_naz
+        колоти verb:impr:s:2:imperf
+        кіл noun:p:v_naz
             noun:p:v_zna
-???????	???????? adjp:actv:past:f:v_naz
-        ???????? verb:past:f:perf
-????	???? 	verb:past:p:imperf
-?????????	???????? 	noun:p:v_naz
+ПРОПАЛА	пропалий adjp:actv:past:f:v_naz
+        пропасти verb:past:f:perf
+БУЛИ	бути 	verb:past:p:imperf
+ДОКУМЕНТИ	документ 	noun:p:v_naz
                                 noun:p:v_zna
-?	? 	conj:coord
+І	і 	conj:coord
                 part
-??????	??????? 	adj:f:v_naz:compb
-????	???? 	noun:f:v_naz
-??????	????? 	noun:p:v_rod
+ВЕЛИКА	великий 	adj:f:v_naz:compb
+СУМА	сума 	noun:f:v_naz
+ГРОШЕЙ	гроші 	noun:p:v_rod
 ,	- 	-
-????	???? adv:&pron:int:rel
+КОЛИ	коли adv:&pron:int:rel
              conj:subord
              part
-        ?????? verb:impr:s:2:imperf
-        ??? noun:p:v_naz
+        колоти verb:impr:s:2:imperf
+        кіл noun:p:v_naz
             noun:p:v_zna
-?????????	????????? 	verb:past:p:perf
-??????	????? 	noun:p:v_rod
-??	?? 	part
-????	???? 	verb:past:n:imperf
+ПОВЕРНУЛИ	повернути 	verb:past:p:perf
+ГРОШЕЙ	гроші 	noun:p:v_rod
+НЕ	не 	part
+БУЛО	бути 	verb:past:n:imperf
 !	- 	-
 !	- 	-
 !	- 	-
@@ -569,21 +569,21 @@ part
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-????	???? 	conj:subord
-?????	????? 	noun:f:v_naz
-?????	?????? adjp:actv:past:f:v_naz:v-u
-        ?????? verb:past:f:perf:v-u
-?	? 	conj:coord
+Якщо	якщо 	conj:subord
+сумка	сумка 	noun:f:v_naz
+впала	впалий adjp:actv:past:f:v_naz:v-u
+        впасти verb:past:f:perf:v-u
+і	і 	conj:coord
                 part
-???????	?????? 	verb:past:f:perf
-?????????????	????????????? 	noun:f:v_naz:anim
+знайшла	знайти 	verb:past:f:perf
+прибиральниця	прибиральниця 	noun:f:v_naz:anim
 ,	- 	-
-??	?? 	conj:subord
-??	?? 	adv:&pron:int:rel
+ТО	то 	conj:subord
+ДЕ	де 	adv:&pron:int:rel
                 part
-?????	????? noun:p:v_naz
+ГРОШІ	гроші noun:p:v_naz
               noun:p:v_zna
-        ????  noun:m:v_mis
+        гріш  noun:m:v_mis
 
 ?	- 	-
 ?	- 	-
@@ -593,17 +593,17 @@ PARA_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-????????	????????? 	adj:f:v_naz:compb:&adjp:pasv:past
-????	???? 	noun:f:v_naz
+Улюблена	улюблений 	adj:f:v_naz:compb:&adjp:pasv:past
+кава	кава 	noun:f:v_naz
 "	- 	-
-??????????	- 	-
+надобраніч	- 	-
 "	- 	-
-??	?? 	prep:rv_rod:rv_zna:rv_oru
-???????	??????? adj:m:v_oru:compb
+із	із 	prep:rv_rod:rv_zna:rv_oru
+товстим	товстий adj:m:v_oru:compb
                 adj:n:v_oru:compb
                 adj:p:v_dav:compb
-?????	??? 	noun:m:v_oru
-?????	????? noun:f:v_rod
+шаром	шар 	noun:m:v_oru
+пінки	пінка noun:f:v_rod
               noun:p:v_naz
               noun:p:v_zna
 ...	- 	SENT_END
@@ -611,49 +611,49 @@ PARA_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-???????????	- 	-
-??????	?????? 	noun:m:v_naz
+Супекльовий	- 	-
+заклад	заклад 	noun:m:v_naz
                 noun:m:v_zna
 ,	- 	-
-??????	??????? 	adj:p:v_naz:compb
+смачні	смачний 	adj:p:v_naz:compb
                         adj:p:v_zna:compb
-??????	??????? 	adj:p:v_naz
+кавові	кавовий 	adj:p:v_naz
                         adj:p:v_zna
-?????	??????? verb:impr:s:2:perf
-        ????? noun:m:v_mis
+напої	напоїти verb:impr:s:2:perf
+        напій noun:m:v_mis
               noun:p:v_naz
               noun:p:v_zna
-?	? 	conj:coord
+і	і 	conj:coord
                 part
-?????????	- 	-
+наливанки	- 	-
 :	- 	-
 )	- 	SENT_END
 PARA_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-?	? 	prep:rv_zna:rv_mis:rv_rod:v-u
-???	?? noun:p:v_mis:anim:&pron:pers:2
+У	у 	prep:rv_zna:rv_mis:rv_rod:v-u
+Вас	ви noun:p:v_mis:anim:&pron:pers:2
            noun:p:v_rod:anim:&pron:pers:2
            noun:p:v_zna:anim:&pron:pers:2
-??	?? 	prep:rv_zna:rv_mis
-?????????	??????? 	noun:p:v_mis
-????????	????????? 	verb:pres:p:3:imperf
-????????	??????? 	adj:p:v_naz:super
+на	на 	prep:rv_zna:rv_mis
+сувенірах	сувенір 	noun:p:v_mis
+працюють	працювати 	verb:pres:p:3:imperf
+найкращі	хороший 	adj:p:v_naz:super
                                 adj:p:v_zna:super
-??????????	????????? 	noun:p:v_kly:anim
+працівники	працівник 	noun:p:v_kly:anim
                                 noun:p:v_naz:anim
-???????	??????? 	noun:m:v_naz
+Смайлик	смайлик 	noun:m:v_naz
                         noun:m:v_zna
-�	- 	-
+«	- 	-
 wink	- 	-
-�	- 	-
-?????	???????? 	verb:pres:s:1:imperf
-??	???? verb:pres:s:1:imperf
-???? 	noun:p:v_dav:&pron:pers:3
+»	- 	-
+дякую	дякувати 	verb:pres:s:1:imperf
+їм	їсти verb:pres:s:1:imperf
+вони 	noun:p:v_dav:&pron:pers:3
 ,	- 	-
-????	???? adv
-        ????? adj:n:v_naz:compb
+дуже	дуже adv
+        дужий adj:n:v_naz:compb
               adj:n:v_zna:compb
 !	- 	-
 !	- 	SENT_END
@@ -661,180 +661,180 @@ PARA_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-???	??? 	noun:m:v_naz
+Рік	рік 	noun:m:v_naz
                 noun:m:v_zna
-        ????    noun:p:v_rod
-????	???? adv
+        ріка    noun:p:v_rod
+тому	тому adv
              conj:subord
-        ??? noun:m:v_dav
+        том noun:m:v_dav
             noun:m:v_mis
             noun:m:v_rod
-        ???  adj:m:v_dav:&pron:dem
+        той  adj:m:v_dav:&pron:dem
              adj:m:v_mis:&pron:dem
              adj:n:v_dav:&pron:dem
              adj:n:v_mis:&pron:dem
-??	?? 	noun:p:v_naz:anim:&pron:pers:1
-?	? 	prep:rv_rod:rv_zna:rv_oru
-?????????	??????? 	noun:m:v_oru:anim
-??	?? 	prep:rv_rod
-???	?? noun:p:v_mis:anim:&pron:pers:2
+ми	ми 	noun:p:v_naz:anim:&pron:pers:1
+з	з 	prep:rv_rod:rv_zna:rv_oru
+чоловіком	чоловік 	noun:m:v_oru:anim
+до	до 	prep:rv_rod
+Вас	ви noun:p:v_mis:anim:&pron:pers:2
            noun:p:v_rod:anim:&pron:pers:2
            noun:p:v_zna:anim:&pron:pers:2
-????????	???????? 	verb:past:p:perf
+завітали	завітати 	verb:past:p:perf
 ,	- 	-
-???	???? 	verb:past:m:imperf
-???	??? 	noun:m:v_naz
+був	бути 	verb:past:m:imperf
+дощ	дощ 	noun:m:v_naz
                 noun:m:v_zna
 ,	- 	-
-?	? conj:coord
+а	а conj:coord
           excl
           part
-?	? 	prep:rv_zna:rv_mis:rv_rod:v-u
-???	?? noun:p:v_mis:anim:&pron:pers:2
+у	у 	prep:rv_zna:rv_mis:rv_rod:v-u
+Вас	ви noun:p:v_mis:anim:&pron:pers:2
            noun:p:v_rod:anim:&pron:pers:2
            noun:p:v_zna:anim:&pron:pers:2
-??	?? 	noun:p:v_naz:anim:&pron:pers:1
-?????????	????????? 	verb:rev:past:p:perf
+ми	ми 	noun:p:v_naz:anim:&pron:pers:1
+зігрілись	зігрітися 	verb:rev:past:p:perf
 )	- 	SENT_END
 PARA_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-?????	???????? 	verb:pres:s:1:imperf
-???	?? 	noun:p:v_dav:anim:&pron:pers:2
+Дякую	дякувати 	verb:pres:s:1:imperf
+Вам	ви 	noun:p:v_dav:anim:&pron:pers:2
 ,	- 	-
-??	?? 	prep:rv_rod:rv_zna:rv_oru
-??????	??????? 	adj:f:v_zna:compb
-????	???? 	noun:f:v_zna
-??	?? 	conj:coord
+за	за 	prep:rv_rod:rv_zna:rv_oru
+смачну	смачний 	adj:f:v_zna:compb
+каву	кава 	noun:f:v_zna
+та	та 	conj:coord
                 part
-??????	?????? 	adj:m:v_naz:compb
+гарний	гарний 	adj:m:v_naz:compb
                 adj:m:v_zna:compb
-???????	??????? 	noun:m:v_naz
+настрій	настрій 	noun:m:v_naz
                         noun:m:v_zna
 !	- 	SENT_END
 PARA_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-??????	?????? adv
+Нічого	нічого adv
                predic
-        ???? noun:v_rod:inanim:&pron:neg
+        ніщо noun:v_rod:inanim:&pron:neg
              noun:v_zna:inanim:&pron:neg
-??????????	????????? adj:m:v_rod
+особливого	особливий adj:m:v_rod
                           adj:m:v_zna
                           adj:n:v_rod
-??	?? adv:&pron:int:rel
+як	як adv:&pron:int:rel
            conj:subord
            noun:m:v_naz:anim
            part
-???	??? 	prep:rv_rod
-?????	????? adj:p:v_mis:&pron:def
+для	для 	prep:rv_rod
+таких	такий adj:p:v_mis:&pron:def
               adj:p:v_rod:&pron:def
               adj:p:v_zna:&pron:def
-???	???? 	noun:p:v_rod
+цін	ціна 	noun:p:v_rod
 .	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-??	??? 	adj:n:v_naz:&pron:dem
+Це	цей 	adj:n:v_naz:&pron:dem
                 adj:n:v_zna:&pron:dem
-????	???? 	numr:m:v_naz
+один	один 	numr:m:v_naz
                 numr:m:v_zna
-??	?? 	prep:rv_rod:rv_zna:rv_oru
-????????	?????? 	noun:p:v_rod
-???	??? 	prep:rv_rod
-????????	?????? 	noun:p:v_rod:anim
+із	із 	prep:rv_rod:rv_zna:rv_oru
+закладів	заклад 	noun:p:v_rod
+для	для 	prep:rv_rod
+туристів	турист 	noun:p:v_rod:anim
                         noun:p:v_zna:anim
 ,	- 	-
-??	?? 	adv:&pron:int:rel
+де	де 	adv:&pron:int:rel
                 part
-??????	???? numr:m:v_rod
+одного	один numr:m:v_rod
              numr:m:v_zna
              numr:n:v_rod
-????	??? noun:m:v_dav
+разу	раз noun:m:v_dav
             noun:m:v_mis
             noun:m:v_rod
-????????	???????? 	verb:inf:perf
-??????	?????? 	adv
-?????????	????????? 	adv
+побувати	побувати 	verb:inf:perf
+цілком	цілком 	adv
+достатньо	достатньо 	adv
 ,	- 	-
-?	? 	conj:coord
+і	і 	conj:coord
                 part
-??????	?????? adv:compr
-        ??????? adj:n:v_naz:compr
+більше	багато adv:compr
+        великий adj:n:v_naz:compr
                 adj:n:v_zna:compr
-??	?? 	part
-????????	???????? 	verb:rev:pres:s:3:imperf
+не	не 	part
+хочеться	хотітися 	verb:rev:pres:s:3:imperf
 .	- 	SENT_END
 PARA_END
 
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-????	? 	noun:s:v_dav:anim:&pron:pers:1
+мені	я 	noun:s:v_dav:anim:&pron:pers:1
                 noun:s:v_mis:anim:&pron:pers:1
-????	???? adv
-        ????? adj:n:v_naz:compb
+дуже	дуже adv
+        дужий adj:n:v_naz:compb
               adj:n:v_zna:compb
-???????????	?????????? 	verb:rev:pres:s:3:imperf
-????	????? 	adj:f:v_naz:&pron:pos
-?????????	?????????? 	adj:f:v_naz
-????????	???????? 	noun:f:v_naz
+подобається	подобатися 	verb:rev:pres:s:3:imperf
+їхня	їхній 	adj:f:v_naz:&pron:pos
+сувенірна	сувенірний 	adj:f:v_naz
+крамниця	крамниця 	noun:f:v_naz
 .	- 	-
-???	??? 	adv:&pron:dem
+там	там 	adv:&pron:dem
                 part
-????	???? adv
-        ????? adj:n:v_naz:compb
+дуже	дуже adv
+        дужий adj:n:v_naz:compb
               adj:n:v_zna:compb
-??????	??????? 	adj:p:v_naz
+класні	класний 	adj:p:v_naz
                         adj:p:v_zna
-??????	???????? verb:impr:s:2:perf
-        ????? noun:p:v_naz
+вироби	виробити verb:impr:s:2:perf
+        виріб noun:p:v_naz
               noun:p:v_zna
-??????	?????? 	adj:f:v_rod
-??????	????? noun:p:v_kly:anim
+ручної	ручний 	adj:f:v_rod
+роботи	робот noun:p:v_kly:anim
               noun:p:v_naz:anim
-        ?????? noun:f:v_rod
+        робота noun:f:v_rod
                noun:p:v_naz
                noun:p:v_zna
 .	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-??????	?????? noun:f:v_rod
+Свічки	свічка noun:f:v_rod
                noun:p:v_naz
                noun:p:v_zna
-????????	- 	-
-????????	?????? 	noun:p:v_rod
-?	? 	conj:coord
+будьяких	- 	-
+розмірів	розмір 	noun:p:v_rod
+і	і 	conj:coord
                 part
-?????????	?????????? 	adjp:pasv:past:p:v_naz
+оздоблені	оздоблений 	adjp:pasv:past:p:v_naz
                                 adjp:pasv:past:p:v_zna
-?????	???? 	noun:f:v_oru
+кавою	кава 	noun:f:v_oru
 ,	- 	-
-????????????	- 	-
-????	???? adv:compb
+суперпахнюче	- 	-
+мило	мило adv:compb
              noun:n:v_naz
              noun:n:v_zna
-        ????  verb:past:n:imperf
-?	? 	conj:coord
+        мити  verb:past:n:imperf
+і	і 	conj:coord
                 part
-???????	??????? noun:f:v_rod
+забавки	забавка noun:f:v_rod
                 noun:p:v_naz
                 noun:p:v_zna
 (	- 	-
-?????	?????? adj:p:v_naz
+різні	різний adj:p:v_naz
                adj:p:v_zna
-        ????? noun:f:v_dav
+        різня noun:f:v_dav
               noun:f:v_mis
               noun:f:v_rod
-??????	????? 	noun:p:v_naz:anim
+котики	котик 	noun:p:v_naz:anim
                 noun:p:v_zna:anim
-?	? 	conj:coord
+і	і 	conj:coord
 part
-?.	- 	-
-?.	?. noun:m:v_dav:nv:abbr
+т.	- 	-
+п.	п. noun:m:v_dav:nv:abbr
            noun:m:v_mis:nv:abbr
            noun:m:v_naz:nv:abbr
            noun:m:v_oru:nv:abbr
@@ -847,58 +847,58 @@ part
            noun:p:v_rod:nv:abbr
            noun:p:v_zna:nv:abbr
 )	- 	-
-???	???? 	adj:p:v_naz:&pron:int:rel:def
+які	який 	adj:p:v_naz:&pron:int:rel:def
                 adj:p:v_zna:&pron:int:rel:def
-???????	??????? 	verb:futr:p:3:imperf
+пахнуть	пахнути 	verb:futr:p:3:imperf
                         verb:futr:p:3:perf
-???????	?????? 	noun:f:v_oru
+корицею	кориця 	noun:f:v_oru
 ,	- 	-
-?????	?????? adj:p:v_naz
+різні	різний adj:p:v_naz
                adj:p:v_zna
-        ????? noun:f:v_dav
+        різня noun:f:v_dav
               noun:f:v_mis
               noun:f:v_rod
-??????	??????? 	adj:p:v_naz
+кавові	кавовий 	adj:p:v_naz
                         adj:p:v_zna
-???????????	???????????? adj:p:v_naz
+подарункові	подарунковий adj:p:v_naz
                              adj:p:v_zna
-                ????????? noun:m:v_dav
+                подарунок noun:m:v_dav
                           noun:m:v_mis
-??????	????? 	noun:p:v_naz
+набори	набір 	noun:p:v_naz
                 noun:p:v_zna
 .	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-?????	???? 	numr:m:v_oru
+Одним	один 	numr:m:v_oru
                 numr:n:v_oru
-??????	????? 	noun:n:v_oru
+словом	слово 	noun:n:v_oru
 ,	- 	-
-???	??? adv:v-u
+все	все adv:v-u
             conj:coord:v-u
             part:v-u
-        ???? adj:n:v_naz:&pron:dem
+        весь adj:n:v_naz:&pron:dem
              adj:n:v_zna:&pron:dem
-??	??? 	adj:n:v_naz:&pron:dem
+те	той 	adj:n:v_naz:&pron:dem
                 adj:n:v_zna:&pron:dem
-??	?? conj:subord
+що	що conj:subord
            noun:n:v_naz:inanim:&pron:int:rel
            noun:n:v_zna:inanim:&pron:int:rel
-????????	???????? 	adv:compb
-????????????????	- 	-
-??????	?????? 	verb:inf:perf
-??	?? excl
+потрібно	потрібно 	adv:compb
+першовідвідувачу	- 	-
+купити	купити 	verb:inf:perf
+на	на excl
            part
            prep:rv_zna:rv_mis
-???'???	???'??? 	noun:f:v_naz
+пам'ять	пам'ять 	noun:f:v_naz
                         noun:f:v_zna
-????	???? noun:m:v_dav:&pron:refl
+собі	себе noun:m:v_dav:&pron:refl
              noun:m:v_mis:&pron:refl
              noun:n:v_dav:&pron:refl
              noun:n:v_mis:&pron:refl
-?	? 	conj:coord
+і	і 	conj:coord
                 part
-????????	???????? adj:m:v_oru:compb
+близьким	близький adj:m:v_oru:compb
                          adj:n:v_oru:compb
                          adj:p:v_dav:compb
 .	- 	SENT_END
@@ -906,46 +906,46 @@ PARA_END
 
 Token	Lemma	Part-of-speech	Chunk
 5	5 	number
-?????	????? noun:p:v_rod
+зірок	зірка noun:p:v_rod
               noun:p:v_rod:anim
               noun:p:v_zna:anim
 .	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-????	???? adv
-        ????? adj:n:v_naz:compb
+Дуже	дуже adv
+        дужий adj:n:v_naz:compb
               adj:n:v_zna:compb
-???????	??????? adv:compb
-????????????	???????????? 	verb:rev:inf:perf
-????????	???????? 	adj:f:v_oru
-?????	???? 	noun:f:v_oru
-??	?? 	prep:rv_rod:rv_zna:rv_oru
-???????	?????? noun:f:v_oru:anim
-        ??????? adjp:pasv:past:f:v_oru
-???????	?????? 	noun:f:v_oru:anim
+приємно	приємно adv:compb
+насолодитися	насолодитися 	verb:rev:inf:perf
+ранковою	ранковий 	adj:f:v_oru
+кавою	кава 	noun:f:v_oru
+із	із 	prep:rv_rod:rv_zna:rv_oru
+коханою	кохана noun:f:v_oru:anim
+        коханий adjp:pasv:past:f:v_oru
+людиною	людина 	noun:f:v_oru:anim
 .	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-????????	???????? 	noun:m:v_naz
+Персонал	персонал 	noun:m:v_naz
                                 noun:m:v_zna
-?????????	????????? 	adj:m:v_naz:compb
+привітний	привітний 	adj:m:v_naz:compb
                                 adj:m:v_zna:compb
-??	?? 	conj:coord
+та	та 	conj:coord
                 part
-?????????	????????? 	adj:m:v_naz:v-u
+ввічливий	ввічливий 	adj:m:v_naz:v-u
                                 adj:m:v_zna:v-u
 .	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-??????????	????????????? 	verb:futr:s:1:perf
+Рекомендую	рекомендувати 	verb:futr:s:1:perf
                                 verb:pres:s:1:imperf
-????	???? 	noun:f:v_zna
-????	???? 	noun:m:v_rod:anim:fname
+каву	кава 	noun:f:v_zna
+Юрія	Юрій 	noun:m:v_rod:anim:fname
                 noun:m:v_zna:anim:fname
-????????????	??????????? 	noun:m:v_rod:anim:lname
+Кульчицького	Кульчицький 	noun:m:v_rod:anim:lname
                                 noun:m:v_zna:anim:lname
 :	- 	-
 )	- 	SENT_END
@@ -955,88 +955,88 @@ Token	Lemma	Part-of-speech	Chunk
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-???????	??????? 	adv:compb
+Затишно	затишно 	adv:compb
 ,	- 	-
-???????	??????? 	adj:m:v_naz:compb
+чудовий	чудовий 	adj:m:v_naz:compb
                         adj:m:v_zna:compb
-?????'??	?????'?? 	noun:m:v_naz
+інтер'єр	інтер'єр 	noun:m:v_naz
                                 noun:m:v_zna
 ,	- 	-
-????????????	???????????? 	adj:m:v_naz:compb
+фантастичний	фантастичний 	adj:m:v_naz:compb
                                 adj:m:v_zna:compb
-?????	????? noun:m:v_naz
+запах	запах noun:m:v_naz
               noun:m:v_zna
-        ?????????  verb:past:m:perf
-????	???? 	noun:f:v_rod
+        запахнути  verb:past:m:perf
+кави	кава 	noun:f:v_rod
 .	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-??????????	?????????? 	verb:rev:pres:s:2:imperf
-????	???? 	adv:v-u
-?	? 	conj:coord
+Спускаєшся	спускатися 	verb:rev:pres:s:2:imperf
+вниз	вниз 	adv:v-u
+і	і 	conj:coord
                 part
-???????	??????? adv
+справді	справді adv
                 insert
                 part
-????????	???????? 	verb:rev:pres:s:3:imperf
-??????	?????? 	verb:inf:imperf
+хочеться	хотітися 	verb:rev:pres:s:3:imperf
+вірити	вірити 	verb:inf:imperf
 ,	- 	-
-??	?? conj:subord
+що	що conj:subord
            noun:n:v_naz:inanim:&pron:int:rel
            noun:n:v_zna:inanim:&pron:int:rel
-???	??? 	adv:&pron:dem
-??????????	?????????? 	verb:past:p:imperf
-????	???? 	noun:f:v_zna
+тут	тут 	adv:&pron:dem
+видобували	видобувати 	verb:past:p:imperf
+каву	кава 	noun:f:v_zna
 .	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-??????	?????? 	adv
+Досить	досить 	adv
                 predic
-??????	??????? 	adj:n:v_naz:compb
+цікаве	цікавий 	adj:n:v_naz:compb
                         adj:n:v_zna:compb
-?????	????? 	noun:n:v_naz
+місце	місце 	noun:n:v_naz
                 noun:n:v_zna
 .	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-????????	???????? 	noun:m:v_naz
+Персонал	персонал 	noun:m:v_naz
                                 noun:m:v_zna
-?????????	????????? 	adj:m:v_naz:compb
+привітний	привітний 	adj:m:v_naz:compb
                                 adj:m:v_zna:compb
-?	? 	conj:coord
+і	і 	conj:coord
                 part
-??????	?????? 	adj:m:v_naz:compb
+чесний	чесний 	adj:m:v_naz:compb
                 adj:m:v_zna:compb
 .	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-????	???? 	conj:subord
-??	?? 	noun:p:v_kly:anim:&pron:pers:2
+Якщо	якщо 	conj:subord
+ви	ви 	noun:p:v_kly:anim:&pron:pers:2
                 noun:p:v_naz:anim:&pron:pers:2
-??	?? 	part
-??????	????? 	verb:unknown
-???????	??????? 	verb:inf:perf
-?????	????? 	noun:m:v_naz
+не	не 	part
+можете	могти 	verb:unknown
+зробити	зробити 	verb:inf:perf
+вибір	вибір 	noun:m:v_naz
                 noun:m:v_zna
 ,	- 	-
-????	???? 	noun:p:v_naz:&pron:pers:3
-???	?? 	noun:p:v_dav:anim:&pron:pers:2
-??????????	????????? 	verb:futr:p:3:perf
+вони	вони 	noun:p:v_naz:&pron:pers:3
+вам	ви 	noun:p:v_dav:anim:&pron:pers:2
+допоможуть	допомогти 	verb:futr:p:3:perf
 .	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-?????????	????????? 	verb:past:p:imperf
-????	???? 	noun:f:v_zna
-?	? 	prep:rv_rod:rv_zna:rv_oru
-???????	????? 	noun:m:v_oru
-?	? 	conj:coord
+Замовляли	замовляти 	verb:past:p:imperf
+каву	кава 	noun:f:v_zna
+з	з 	prep:rv_rod:rv_zna:rv_oru
+лікером	лікер 	noun:m:v_oru
+і	і 	conj:coord
                 part
-?????	????? noun:m:v_dav:nv
+віскі	віскі noun:m:v_dav:nv
               noun:m:v_mis:nv
               noun:m:v_naz:nv
               noun:m:v_oru:nv
@@ -1052,132 +1052,132 @@ Token	Lemma	Part-of-speech	Chunk
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-????	???? adv
-        ????? 	 adj:n:v_naz:compb
+Дуже	дуже adv
+        дужий 	 adj:n:v_naz:compb
                  adj:n:v_zna:compb
-??????????	??????????? 	adj:f:v_naz
+специфічна	специфічний 	adj:f:v_naz
 ,	- 	-
-???	??? 	conj:coord
+але	але 	conj:coord
                 excl
-??????	??????? 	adj:f:v_naz:compb
+смачна	смачний 	adj:f:v_naz:compb
 .	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-????	?????? verb:impr:s:2:imperf
-        ???? noun:f:v_rod
+Ціни	цінити verb:impr:s:2:imperf
+        ціна noun:f:v_rod
              noun:p:v_naz
              noun:p:v_zna
-?????????	???????? 	verb:rev:pres:p:3:imperf
+кусаються	кусатися 	verb:rev:pres:p:3:imperf
 ,	- 	-
-???	??? 	conj:coord
+але	але 	conj:coord
                 excl
-????	???? 	noun:n:v_naz:&pron:pers:3
-????	??? adj:m:v_rod:&pron:dem
+воно	воно 	noun:n:v_naz:&pron:pers:3
+того	той adj:m:v_rod:&pron:dem
             adj:m:v_zna:&pron:dem
             adj:n:v_rod:&pron:dem
-?????	?????? 	adj:n:v_naz
+варте	вартий 	adj:n:v_naz
                 adj:n:v_zna
 .	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-??????????	????????????? 	verb:futr:s:1:perf
+Рекомендую	рекомендувати 	verb:futr:s:1:perf
                                 verb:pres:s:1:imperf
-?????????	????????? 	verb:inf:perf
+відвідати	відвідати 	verb:inf:perf
 ,	- 	-
-??	?? 	conj:subord
+бо	бо 	conj:subord
                 part
-?????????	????????? 	noun:f:v_naz
-???????????	???????????? 	adj:f:v_naz:compb
+атмосфера	атмосфера 	noun:f:v_naz
+фантастична	фантастичний 	adj:f:v_naz:compb
 )	- 	SENT_END
 PARA_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-??????	??????? verb:pres:s:1:imperf
-?'???	?'??? 	numr:p:v_naz
+Ставлю	ставити verb:pres:s:1:imperf
+п'ять	п'ять 	numr:p:v_naz
                 numr:p:v_zna
-???????	??????? noun:p:v_rod
-??	?? 	prep:rv_rod:rv_zna:rv_oru
-????	???? 	noun:f:v_zna
+зірочок	зірочка noun:p:v_rod
+за	за 	prep:rv_rod:rv_zna:rv_oru
+каву	кава 	noun:f:v_zna
 ,	- 	-
-??	?? 	conj:subord
+бо	бо 	conj:subord
                 part
-?	? 	noun:s:v_naz:anim:&pron:pers:1
-??	??  adj:f:v_dav:nv:&pron:pos
+я	я 	noun:s:v_naz:anim:&pron:pers:1
+її	її  adj:f:v_dav:nv:&pron:pos
             adj:f:v_mis:nv:&pron:pos
             adj:f:v_naz:nv:&pron:pos
             adj:f:v_oru:nv:&pron:pos
             adj:f:v_rod:nv:&pron:pos
             adj:f:v_zna:nv:&pron:pos
-        ???? noun:f:v_rod:&pron:pers:3
+        вона noun:f:v_rod:&pron:pers:3
              noun:f:v_zna:&pron:pers:3
-??	?? 	part
-????	???? adv
-        ????? adj:n:v_naz:compb
+не	не 	part
+дуже	дуже adv
+        дужий adj:n:v_naz:compb
               adj:n:v_zna:compb
-?????	?????? 	verb:pres:s:1:imperf
+люблю	любити 	verb:pres:s:1:imperf
 ,	- 	-
-?	? conj:coord
+а	а conj:coord
           excl
           part
-???	??? 	adv:&pron:dem
-??????	?????? 	verb:past:f:perf
-?	? 	prep:rv_rod:rv_zna:rv_oru
-??????????	?????????? adj:m:v_oru
+тут	тут 	adv:&pron:dem
+випила	випити 	verb:past:f:perf
+з	з 	prep:rv_rod:rv_zna:rv_oru
+превеликим	превеликий adj:m:v_oru
                            adj:n:v_oru
                            adj:p:v_dav
-????????????	??????????? 	noun:n:v_oru
+задоволенням	задоволення 	noun:n:v_oru
                                 noun:p:v_dav
 (	- 	-
-??	??? 	adj:n:v_naz:&pron:dem
+це	цей 	adj:n:v_naz:&pron:dem
                 adj:n:v_zna:&pron:dem
-????	?????   adjp:actv:past:f:v_naz
-        ???? 	verb:past:f:imperf
-????????????	????????????? 	adj:f:v_naz
-????	???? 	noun:f:v_naz
+була	булий   adjp:actv:past:f:v_naz
+        бути 	verb:past:f:imperf
+бандерівська	бандерівський 	adj:f:v_naz
+кава	кава 	noun:f:v_naz
 )	- 	-
 .	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-?????	????? 	adv
+Також	також 	adv
                 conj:coord
-????????	???????? 	noun:f:v_naz
-????	???? 	noun:f:v_rod
-?????????	???????????? 	verb:pres:s:3:imperf:v-u
-????	???? adv
-        ????? adj:n:v_naz:compb
+Копальня	копальня 	noun:f:v_naz
+кави	кава 	noun:f:v_rod
+влаштовує	влаштовувати 	verb:pres:s:3:imperf:v-u
+дуже	дуже adv
+        дужий adj:n:v_naz:compb
               adj:n:v_zna:compb
-?????	?????? 	adj:p:v_naz:compb
+гарні	гарний 	adj:p:v_naz:compb
                 adj:p:v_zna:compb
-?	? 	conj:coord
+і	і 	conj:coord
                 part
-??????????	- 	-
-????????	??????? 	noun:p:v_naz
+настройові	- 	-
+концерти	концерт 	noun:p:v_naz
                                 noun:p:v_zna
-?	? 	conj:coord
+і	і 	conj:coord
                 part
-????????	??????????? 	verb:pres:s:3:imperf
-??????????	?????? 	adj:p:v_naz:super
+пропонує	пропонувати 	verb:pres:s:3:imperf
+найгарніші	гарний 	adj:p:v_naz:super
                         adj:p:v_zna:super
-?????	????? noun:f:v_rod
+книги	книга noun:f:v_rod
               noun:p:v_naz
               noun:p:v_zna
-??	?? 	prep:rv_zna:rv_mis
-?????	???? noun:m:v_mis
-        ????? noun:f:v_dav:np
+на	на 	prep:rv_zna:rv_mis
+світі	світ noun:m:v_mis
+        світа noun:f:v_dav:np
               noun:f:v_mis:np
 (	- 	-
-???????????	??????????? 	noun:n:v_naz
+Видавництво	видавництво 	noun:n:v_naz
                                 noun:n:v_zna
-???????	?????? adj:m:v_rod:compb
+Старого	старий adj:m:v_rod:compb
                adj:m:v_zna:compb
                adj:n:v_rod:compb
-????	??? noun:m:v_rod:anim:fname
+Лева	Лев noun:m:v_rod:anim:fname
             noun:m:v_zna:anim:fname
-        ??? noun:m:v_rod
+        лев noun:m:v_rod
             noun:m:v_rod:anim
             noun:m:v_zna:anim
 )	- 	-
@@ -1185,96 +1185,96 @@ Token	Lemma	Part-of-speech	Chunk
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-????	????? 	verb:unknown
-????????	???????? 	verb:inf:perf
-?????	????? prep:rv_rod
-        ?????? noun:p:v_rod
-??????	?????? 	noun:p:v_rod
-??????????	?????????? 	noun:f:v_zna
-???	??? 	prep:rv_rod
-?????	???? 	noun:p:v_rod:anim
+Можу	могти 	verb:unknown
+виділити	виділити 	verb:inf:perf
+серед	серед prep:rv_rod
+        середа noun:p:v_rod
+книжок	книжка 	noun:p:v_rod
+літературу	література 	noun:f:v_zna
+для	для 	prep:rv_rod
+дітей	діти 	noun:p:v_rod:anim
                 noun:p:v_zna:anim
 ,	- 	-
-??	?? 	conj:subord
+бо	бо 	conj:subord
                 part
-??????????	?????????? noun:n:v_naz
+оформлення	оформлення noun:n:v_naz
                            noun:n:v_rod
                            noun:n:v_zna
                            noun:p:v_naz
                            noun:p:v_zna
-????????	???????? 	noun:p:v_rod
-?	? 	conj:coord
+сторінок	сторінка 	noun:p:v_rod
+і	і 	conj:coord
                 part
-??????????	??????????  noun:f:v_dav
+ілюстрації	ілюстрація  noun:f:v_dav
                             noun:f:v_mis
                             noun:f:v_rod
                             noun:p:v_naz
                             noun:p:v_zna
-?????	????? noun:f:v_dav
+варті	варта noun:f:v_dav
               noun:f:v_mis
-        ?????? adj:p:v_naz
+        вартий adj:p:v_naz
                adj:p:v_zna
-???????	??????? adj:f:v_rod
-???????? ???????? noun:f:v_rod
+окремої	окремий adj:f:v_rod
+відзнаки відзнака noun:f:v_rod
                   noun:p:v_naz
                   noun:p:v_zna
 .	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-????	???? 	conj:subord
-??	?? 	part
-??	?? 	prep:rv_rod:rv_zna:rv_oru
-?????	???? 	noun:f:v_oru
+Якщо	якщо 	conj:subord
+не	не 	part
+за	за 	prep:rv_rod:rv_zna:rv_oru
+кавою	кава 	noun:f:v_oru
 ,	- 	-
-??	?? 	conj:subord
-?????	- 	-
-??	?? 	prep:rv_rod:rv_zna:rv_oru
-??????????	??????? 	noun:p:v_oru
+то	то 	conj:subord
+хочаб	- 	-
+за	за 	prep:rv_rod:rv_zna:rv_oru
+сувенірами	сувенір 	noun:p:v_oru
 ,	- 	-
-?	? 	conj:coord
+і	і 	conj:coord
                 part
-???	??? adv:v-u
+все	все adv:v-u
             conj:coord:v-u
             part:v-u
-        ????  adj:n:v_naz:&pron:dem
+        весь  adj:n:v_naz:&pron:dem
               adj:n:v_zna:&pron:dem
-????	???? 	verb:futr:s:3:imperf
-?????	????? adv
-        ?????? adj:n:v_naz:compb
+буде	бути 	verb:futr:s:3:imperf
+добре	добре adv
+        добрий adj:n:v_naz:compb
                adj:n:v_zna:compb
-�	- 	SENT_END
+…	- 	SENT_END
 PARA_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-????	???? adv
-        ????? adj:n:v_naz:compb
+Дуже	дуже adv
+        дужий adj:n:v_naz:compb
               adj:n:v_zna:compb
-??????	??????? adj:f:v_naz:compb
-????	???? 	noun:f:v_naz
+смачна	смачний adj:f:v_naz:compb
+кава	кава 	noun:f:v_naz
 ,	- 	-
-????	???? adv
-        ????? adj:n:v_naz:compb
+дуже	дуже adv
+        дужий adj:n:v_naz:compb
               adj:n:v_zna:compb
-???????????	??????????? 	verb:rev:past:p:perf
-?????????	???????? 	noun:p:v_kly:anim
+сподобалися	сподобатися 	verb:rev:past:p:perf
+офіціанти	офіціант 	noun:p:v_kly:anim
                                 noun:p:v_naz:anim
 ,	- 	-
-????	????? 	verb:past:m:perf
-????	???? 	noun:f:v_rod
-????	????   noun:m:v_dav:&pron:refl
+взяв	взяти 	verb:past:m:perf
+кави	кава 	noun:f:v_rod
+собі	себе   noun:m:v_dav:&pron:refl
                noun:m:v_mis:&pron:refl
                noun:n:v_dav:&pron:refl
                noun:n:v_mis:&pron:refl
-??????	?????? 	adv
+додому	додому 	adv
 .	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-????????	???????? 	verb:impr:p:2:imperf
-??	?? 	part
-??????????	??????????? 	verb:futr:p:2:perf
+Заходьте	заходити 	verb:impr:p:2:imperf
+не	не 	part
+пошкодуєте	пошкодувати 	verb:futr:p:2:perf
 !	- 	-
 !	- 	-
 !	- 	SENT_END
@@ -1282,56 +1282,56 @@ PARA_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-????	???? adv
-        ????? 	adj:n:v_naz:compb
+Дуже	дуже adv
+        дужий 	adj:n:v_naz:compb
                 adj:n:v_zna:compb
-???????	??????? 	adv:compb
+затишно	затишно 	adv:compb
 .	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-?????????	?????????? 	verb:impr:p:2:perf
-????	???? 	noun:f:v_zna
-�	- 	-
-????	????  adv:&pron:int:rel
+Спробуйте	спробувати 	verb:impr:p:2:perf
+каву	кава 	noun:f:v_zna
+«	- 	-
+Коли	коли  adv:&pron:int:rel
               conj:subord
               part
-        ?????? verb:impr:s:2:imperf
-        ???  noun:p:v_naz
+        колоти verb:impr:s:2:imperf
+        кіл  noun:p:v_naz
              noun:p:v_zna
-???	??? 	verb:pres:s:3:imperf
-???	??? 	noun:m:v_naz
+йде	йти 	verb:pres:s:3:imperf
+дощ	дощ 	noun:m:v_naz
                 noun:m:v_zna
-�	- 	SENT_END
+»	- 	SENT_END
 PARA_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-????	???? 	 noun:f:v_naz
-??????	???????  adj:f:v_naz:compb
+Кава	кава 	 noun:f:v_naz
+гаряча	гарячий  adj:f:v_naz:compb
 ,	- 	-
-????	???? 	noun:f:v_naz
-?????	?????? 	adj:f:v_naz:compb
+кава	кава 	noun:f:v_naz
+міцна	міцний 	adj:f:v_naz:compb
 ,	- 	-
-????	???? 	noun:f:v_naz:&pron:pers:3
-?	? 	prep:rv_rod:rv_zna:rv_oru
-????????	?????? 	noun:m:v_oru
-??	?? 	conj:coord
+Вона	вона 	noun:f:v_naz:&pron:pers:3
+з	з 	prep:rv_rod:rv_zna:rv_oru
+ароматом	аромат 	noun:m:v_oru
+та	та 	conj:coord
                 part
-???????	???????? 	adj:f:v_naz:compb
+запашна	запашний 	adj:f:v_naz:compb
 .	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-??	?? 	noun:s:v_kly:anim:&pron:pers:2
+Ти	ти 	noun:s:v_kly:anim:&pron:pers:2
                 noun:s:v_naz:anim:&pron:pers:2
-?	? 	prep:rv_zna:rv_mis:rv_rod:v-u
-????????	???????? 	noun:f:v_zna
-???????	???????? 	verb:impr:s:2:perf
-??	?? 	conj:coord
+в	в 	prep:rv_zna:rv_mis:rv_rod:v-u
+копальню	копальня 	noun:f:v_zna
+завітай	завітати 	verb:impr:s:2:perf
+Та	та 	conj:coord
                 part
-?	? 	prep:rv_zna:rv_mis:rv_rod:v-u
-????	????  noun:n:v_dav:nv
+в	в 	prep:rv_zna:rv_mis:rv_rod:v-u
+кафе	кафе  noun:n:v_dav:nv
               noun:n:v_mis:nv
               noun:n:v_naz:nv
               noun:n:v_oru:nv
@@ -1344,164 +1344,164 @@ Token	Lemma	Part-of-speech	Chunk
               noun:p:v_rod:nv
               noun:p:v_zna:nv
 
-??	??   adj:f:v_dav:nv:&pron:pos
+її	її   adj:f:v_dav:nv:&pron:pos
              adj:f:v_mis:nv:&pron:pos
              adj:f:v_naz:nv:&pron:pos
              adj:f:v_oru:nv:&pron:pos
              adj:f:v_rod:nv:&pron:pos
              adj:f:v_zna:nv:&pron:pos
-         ????  noun:f:v_rod:&pron:pers:3
+         вона  noun:f:v_rod:&pron:pers:3
                noun:f:v_zna:&pron:pers:3
-???????	???????? verb:impr:s:2:perf
+придбай	придбати verb:impr:s:2:perf
 SENT_END
 PARA_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-?????	????? 	adv:&pron:dem
-??	??? 	adj:n:v_naz:&pron:dem
+Тепер	тепер 	adv:&pron:dem
+це	цей 	adj:n:v_naz:&pron:dem
                 adj:n:v_zna:&pron:dem
-???	??? 	adj:m:v_naz:&pron:pos
+мій	мій 	adj:m:v_naz:&pron:pos
                 adj:m:v_zna:&pron:pos
-??????????????	?????????   adj:m:v_naz:super
+найулюбленіший	улюблений   adj:m:v_naz:super
                             adj:m:v_zna:super
-??????	?????? 	noun:m:v_naz
+заклад	заклад 	noun:m:v_naz
                 noun:m:v_zna
-?	? 	prep:rv_zna:rv_mis:rv_rod:v-u
-??????	????? noun:m:v_mis:anim:lname
-        ????? noun:m:v_mis
+у	у 	prep:rv_zna:rv_mis:rv_rod:v-u
+Львові	Львов noun:m:v_mis:anim:lname
+        Львів noun:m:v_mis
 .	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-??	?? 	prep:rv_rod:rv_zna:rv_oru
+За	за 	prep:rv_rod:rv_zna:rv_oru
 2	2 	number
-???	???  noun:n:v_mis
-        ???? noun:m:v_mis
+дні	дно  noun:n:v_mis
+        день noun:m:v_mis
              noun:p:v_naz
              noun:p:v_zna
-???????????	??????????? noun:n:v_naz
+перебування	перебування noun:n:v_naz
                             noun:n:v_rod
                             noun:n:v_zna
                             noun:p:v_naz
                             noun:p:v_zna
-?	? 	prep:rv_zna:rv_mis:rv_rod:v-u
-??????	????? noun:m:v_mis:anim:lname
-        ????? noun:m:v_mis
+у	у 	prep:rv_zna:rv_mis:rv_rod:v-u
+Львові	Львов noun:m:v_mis:anim:lname
+        Львів noun:m:v_mis
 ,	- 	-
-?	? 	noun:s:v_naz:anim:&pron:pers:1
-???	??? 	adv:&pron:dem
+я	я 	noun:s:v_naz:anim:&pron:pers:1
+там	там 	adv:&pron:dem
                 part
-???????????	??????????? 	verb:past:f:imperf
+відпочивала	відпочивати 	verb:past:f:imperf
 3	3 	number
-????	??? 	noun:p:v_naz
+рази	раз 	noun:p:v_naz
                 noun:p:v_zna
 ,	- 	-
-?	?   conj:coord
+а	а   conj:coord
             excl
             part
-???	??? adv:v-u
+все	все adv:v-u
             conj:coord:v-u
             part:v-u
-        ????  adj:n:v_naz:&pron:dem
+        весь  adj:n:v_naz:&pron:dem
               adj:n:v_zna:&pron:dem
-????	????  adv
+тому	тому  adv
               conj:subord
-        ???   noun:m:v_dav
+        том   noun:m:v_dav
               noun:m:v_mis
               noun:m:v_rod
-        ???   adj:m:v_dav:&pron:dem
+        той   adj:m:v_dav:&pron:dem
               adj:m:v_mis:&pron:dem
               adj:n:v_dav:&pron:dem
               adj:n:v_mis:&pron:dem
 ,	- 	-
-??	??  conj:subord
+що	що  conj:subord
             noun:n:v_naz:inanim:&pron:int:rel
             noun:n:v_zna:inanim:&pron:int:rel
-???	??? adv:v-u
+все	все adv:v-u
             conj:coord:v-u
             part:v-u
-        ???? adj:n:v_naz:&pron:dem
+        весь adj:n:v_naz:&pron:dem
              adj:n:v_zna:&pron:dem
-????	???? adv
-        ?????  adj:n:v_naz:compb
+дуже	дуже adv
+        дужий  adj:n:v_naz:compb
                adj:n:v_zna:compb
-??????	???????  adj:n:v_naz:compb
+смачне	смачний  adj:n:v_naz:compb
                  adj:n:v_zna:compb
 -	- 	-
-?	? 	conj:coord
+і	і 	conj:coord
                 part
-????	???? 	noun:f:v_naz
+кава	кава 	noun:f:v_naz
 ,	- 	-
-?	? 	conj:coord
+і	і 	conj:coord
                 part
-???	??? 	noun:f:v_naz
+їжа	їжа 	noun:f:v_naz
 ,	- 	-
-?	? 	conj:coord
+і	і 	conj:coord
                 part
-???????	????????  adj:p:v_naz
+спиртні	спиртний  adj:p:v_naz
                   adj:p:v_zna
-?????????	- 	-
+кавівочки	- 	-
 .	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
 :	- 	-
 )	- 	-
-????????	???????? 	noun:m:v_naz
+Персонал	персонал 	noun:m:v_naz
                                 noun:m:v_zna
-?????????	????????? 	adj:m:v_naz:compb
+привітний	привітний 	adj:m:v_naz:compb
                                 adj:m:v_zna:compb
 ,	- 	-
-?	? 	prep:rv_rod:rv_zna:rv_oru
-???????	????? 	noun:m:v_oru
+з	з 	prep:rv_rod:rv_zna:rv_oru
+гумором	гумор 	noun:m:v_oru
 .	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-?????	?????? 	adj:p:v_naz:compb
+Гарні	гарний 	adj:p:v_naz:compb
                 adj:p:v_zna:compb
-??????	??????? noun:m:v_mis:anim
+хлопці	хлопець noun:m:v_mis:anim
                 noun:p:v_kly:anim
                 noun:p:v_naz:anim
 ,	- 	-
-?	?  conj:coord
+а	а  conj:coord
            excl
            part
-?????????	????????? 	noun:f:v_naz
-?????????	?????????? 	adj:f:v_naz:compb
+атмосфера	атмосфера 	noun:f:v_naz
+прекрасна	прекрасний 	adj:f:v_naz:compb
 .	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-??	?? 	part
-????????	???????? 	verb:past:f:imperf
-?	? 	part
-??????	?????? 	adv:&pron:dem
+Не	не 	part
+виходила	виходити 	verb:past:f:imperf
+б	б 	part
+звідти	звідти 	adv:&pron:dem
 .	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
 :	- 	-
 )	- 	-
-?????	????? 	adv:compb
+Тісно	тісно 	adv:compb
 ,	- 	-
-????	??????  verb:impr:s:2:imperf
-        ????    noun:f:v_rod
+ціни	цінити  verb:impr:s:2:imperf
+        ціна    noun:f:v_rod
                 noun:p:v_naz
                 noun:p:v_zna
-?	? 	part
-?????????	????????? 	adv
+б	б 	part
+подешевше	подешевше 	adv
 .	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-??????	??????  adv:compr
-        ??????? adj:n:v_naz:compr
+Більше	багато  adv:compr
+        великий adj:n:v_naz:compr
                 adj:n:v_zna:compr
-???????	????? 	noun:p:v_rod
-??	?? 	part
-????	?????? 	verb:pres:s:1:imperf
+мінусів	мінус 	noun:p:v_rod
+не	не 	part
+бачу	бачити 	verb:pres:s:1:imperf
 .	- 	SENT_END
 PARA_END
 
@@ -1510,96 +1510,96 @@ PARA_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-????	? 	noun:s:v_dav:anim:&pron:pers:1
+мені	я 	noun:s:v_dav:anim:&pron:pers:1
                 noun:s:v_mis:anim:&pron:pers:1
-????????	????????? 	verb:rev:pres:s:3:imperf
+здається	здаватися 	verb:rev:pres:s:3:imperf
 ,	- 	-
-??	?? conj:subord
+що	що conj:subord
            noun:n:v_naz:inanim:&pron:int:rel
            noun:n:v_zna:inanim:&pron:int:rel
-??	??? 	adj:n:v_naz:&pron:dem
+це	цей 	adj:n:v_naz:&pron:dem
                 adj:n:v_zna:&pron:dem
-???????	??????? adv:v-u
-????????	??????? 	adj:n:v_naz:super
+взагалі	взагалі adv:v-u
+найкраще	хороший 	adj:n:v_naz:super
                                 adj:n:v_zna:super
-?????	????? 	noun:n:v_naz
+місце	місце 	noun:n:v_naz
                 noun:n:v_zna
-?	? 	prep:rv_zna:rv_mis:rv_rod:v-u
-???????	??????? noun:f:v_dav
+в	в 	prep:rv_zna:rv_mis:rv_rod:v-u
+історії	історія noun:f:v_dav
 noun:f:v_mis
 noun:f:v_rod
 noun:p:v_naz
 noun:p:v_zna
-???????	??????? adj:p:v_mis
+кавових	кавовий adj:p:v_mis
                 adj:p:v_rod
                 adj:p:v_zna
-????????	?????? 	noun:p:v_rod
+закладів	заклад 	noun:p:v_rod
 !	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-???	??? 	adv:&pron:dem
-?????	????? 	predic
-??????	?????? adv:compb
+Тут	тут 	adv:&pron:dem
+можна	можна 	predic
+просто	просто adv:compb
                part
                prep:rv_rod
-??????	?????? 	verb:inf:imperf
-????????	?????? 	noun:p:v_oru
+сидіти	сидіти 	verb:inf:imperf
+годинами	година 	noun:p:v_oru
 ,	- 	-
-???????????	??????????? 	verb:inf:imperf
-???	??? 	prep:rv_zna
-?????	????? noun:n:v_naz
+роздумувати	роздумувати 	verb:inf:imperf
+про	про 	prep:rv_zna
+життя	життя noun:n:v_naz
               noun:n:v_rod
               noun:n:v_zna
-?	? 	conj:coord
+і	і 	conj:coord
                 part
-???????????????	???????????????	verb:rev:inf:imperf
-???????	????? 	noun:m:v_oru
-?????????????	- 	-
-????	???? 	noun:f:v_rod
+насолоджуватися	насолоджуватися	verb:rev:inf:imperf
+запахом	запах 	noun:m:v_oru
+свіжозмеленої	- 	-
+кави	кава 	noun:f:v_rod
 .	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-???	??? 	adv:&pron:dem
-??????	????? 	noun:v_rod:anim:&pron:neg
+Тут	тут 	adv:&pron:dem
+нікого	ніхто 	noun:v_rod:anim:&pron:neg
                 noun:v_zna:anim:&pron:neg
-??	?? 	part
-????????	???????? 	adv:compb
+не	не 	part
+потрібно	потрібно 	adv:compb
 ,	- 	-
-??????	?????? adv
+тільки	тільки adv
                conj:subord
                part
-??	?? 	noun:p:v_kly:anim:&pron:pers:2
+Ви	ви 	noun:p:v_kly:anim:&pron:pers:2
                 noun:p:v_naz:anim:&pron:pers:2
-?	? 	conj:coord
+і	і 	conj:coord
                 part
-????	???? 	noun:f:v_naz
+кава	кава 	noun:f:v_naz
 !	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-????	???? 	noun:m:v_naz
+Смак	смак 	noun:m:v_naz
                 noun:m:v_zna
-?????????	- 	-
+суперовий	- 	-
 !	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-????	????? 	adj:f:v_naz:&pron:pos
-???????	??????? noun:f:v_naz
-????	? 	noun:s:v_dav:anim:&pron:pers:1
+Їхня	їхній 	adj:f:v_naz:&pron:pos
+випічка	випічка noun:f:v_naz
+мені	я 	noun:s:v_dav:anim:&pron:pers:1
                 noun:s:v_mis:anim:&pron:pers:1
-???????	?????????? 	verb:pres:s:3:imperf
-???????	?????? 	noun:p:v_naz
+нагадує	нагадувати 	verb:pres:s:3:imperf
+рецепти	рецепт 	noun:p:v_naz
                 noun:p:v_zna
-????	??? 	adj:f:v_rod:&pron:pos
-?????	????? noun:f:v_dav:anim
+моєї	мій 	adj:f:v_rod:&pron:pos
+бабці	бабця noun:f:v_dav:anim
               noun:f:v_mis:anim
               noun:f:v_rod:anim
               noun:p:v_kly:anim
               noun:p:v_naz:anim
-        ?????  noun:f:v_dav
+        бабка  noun:f:v_dav
                noun:f:v_dav:anim
                noun:f:v_mis
                noun:f:v_mis:anim
@@ -1607,46 +1607,46 @@ Token	Lemma	Part-of-speech	Chunk
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-???	??? 	adj:m:v_naz:&pron:pos
+Мій	мій 	adj:m:v_naz:&pron:pos
                 adj:m:v_zna:&pron:pos
-?????????	????????? 	adj:m:v_naz:compb:&adjp:pasv:past
+улюблений	улюблений 	adj:m:v_naz:compb:&adjp:pasv:past
                                 adj:m:v_zna:compb:&adjp:pasv:past
-??????-?????????	??????-????????? 	noun:m:v_naz
+пляцок-горіховий	пляцок-горіховий 	noun:m:v_naz
                                                 noun:m:v_zna
 .	- 	-
-????	???? 	prep:rv_rod
-????	???? 	noun:f:v_rod
-??????	?????????  verb:pres:s:3:imperf
-????????	???????? 	verb:inf:perf
-?????	????? 	noun:f:v_zna
-??	?? excl
+крім	крім 	prep:rv_rod
+кави	кава 	noun:f:v_rod
+вартує	вартувати  verb:pres:s:3:imperf
+звернути	звернути 	verb:inf:perf
+увагу	увага 	noun:f:v_zna
+на	на excl
            part
            prep:rv_zna:rv_mis
-???	??? noun:m:v_mis
+чаї	чай noun:m:v_mis
             noun:p:v_naz
             noun:p:v_zna
 .	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-????????	???????? 	adv
-???????-??????????	???????-?????????? 	adj:m:v_naz
+Особливо	особливо 	adv
+імбирно-гранатовий	імбирно-гранатовий 	adj:m:v_naz
                                                 adj:m:v_zna
-???	??? 	noun:m:v_naz
+чай	чай 	noun:m:v_naz
                 noun:m:v_zna
 !	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-????	???? 	noun:m:v_naz
+Смак	смак 	noun:m:v_naz
                 noun:m:v_zna
-???	??? noun:m:v_dav
+раю	рай noun:m:v_dav
             noun:m:v_mis
             noun:m:v_rod
-??	?? excl
+на	на excl
            part
            prep:rv_zna:rv_mis
-?????	????? noun:f:v_dav
+землі	земля noun:f:v_dav
               noun:f:v_mis
               noun:f:v_rod
               noun:p:v_naz
@@ -1656,152 +1656,152 @@ Token	Lemma	Part-of-speech	Chunk
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-??	?? 	part
-??????????	??????????? 	verb:futr:p:2:perf
+Не	не 	part
+пошкодуєте	пошкодувати 	verb:futr:p:2:perf
 !	- 	-
-??	?? adv:&pron:int:rel
+як	як adv:&pron:int:rel
            conj:subord
            noun:m:v_naz:anim
            part
-??????	?????? adv
+тільки	тільки adv
                conj:subord
                part
-??	?? 	prep:rv_rod
-????	? 	noun:s:v_rod:anim:&pron:pers:1
+до	до 	prep:rv_rod
+мене	я 	noun:s:v_rod:anim:&pron:pers:1
                 noun:s:v_zna:anim:&pron:pers:1
-???????????	?????????? 	verb:pres:p:3:imperf
-?????	?????  noun:f:v_dav:anim
+приїжджають	приїжджати 	verb:pres:p:3:imperf
+гості	гостя  noun:f:v_dav:anim
                noun:f:v_mis:anim
                noun:f:v_rod:anim
                noun:p:v_kly:anim
                noun:p:v_naz:anim
-         ????? noun:m:v_mis:anim
+         гість noun:m:v_mis:anim
                noun:p:v_kly:anim
                noun:p:v_naz:anim
-??	?? 	prep:rv_rod
-??????	?????? noun:f:v_naz:anim:lname
-        ?????  noun:m:v_rod:anim:lname
+до	до 	prep:rv_rod
+Львова	Львова noun:f:v_naz:anim:lname
+        Львов  noun:m:v_rod:anim:lname
                noun:m:v_zna:anim:lname
-        ?????  noun:m:v_rod
+        Львів  noun:m:v_rod
 ,	- 	-
-?	? 	noun:s:v_naz:anim:&pron:pers:1
-??	???? 	noun:p:v_rod:&pron:pers:3
+я	я 	noun:s:v_naz:anim:&pron:pers:1
+їх	вони 	noun:p:v_rod:&pron:pers:3
                 noun:p:v_zna:&pron:pers:3
-????	????? 	verb:pres:s:1:imperf
-????	???? 	adv:&pron:dem
-?	? 	conj:coord
+веду	вести 	verb:pres:s:1:imperf
+сюди	сюди 	adv:&pron:dem
+і	і 	conj:coord
                 part
-???	???? 	adj:p:v_naz:&pron:dem
+всі	весь 	adj:p:v_naz:&pron:dem
                 adj:p:v_zna:&pron:dem
-?	? 	prep:rv_zna:rv_mis:rv_rod:v-u
-???????	?????? 	noun:m:v_mis
+в	в 	prep:rv_zna:rv_mis:rv_rod:v-u
+захваті	захват 	noun:m:v_mis
 !	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-??????	?????? insert
-        ??????  verb:pres:p:3:imperf
-?	? 	conj:coord
+Кажуть	кажуть insert
+        казати  verb:pres:p:3:imperf
+і	і 	conj:coord
 part
-???????	- 	-
+кавярня	- 	-
 ,	- 	-
-?????	????? 	adv:v-u
-?	? 	prep:rv_zna:rv_mis:rv_rod:v-u
-???????	?????? 	noun:m:v_mis
-?????	????? 	predic
-??????	?????? 	adv:compb
-??????	?????? 	verb:inf:perf
+внизу	внизу 	adv:v-u
+в	в 	prep:rv_zna:rv_mis:rv_rod:v-u
+підвалі	підвал 	noun:m:v_mis
+можна	можна 	predic
+смачно	смачно 	adv:compb
+поїсти	поїсти 	verb:inf:perf
 ,	- 	-
-?	? 	conj:coord
+і	і 	conj:coord
                 part
-?????????	?????????? 	adj:f:v_naz
-????????	???????? 	noun:f:v_naz
+сувенірна	сувенірний 	adj:f:v_naz
+крамниця	крамниця 	noun:f:v_naz
 ,	- 	-
-?	? 	conj:coord
+і	і 	conj:coord
                 part
-?????????	- 	-
-???	??? 	prep:rv_rod
-????????-???	- 	-
-?	? 	prep:rv_zna:rv_mis:rv_rod:v-u
-??????	????  numr:m:v_dav
+атракціїї	- 	-
+для	для 	prep:rv_rod
+туристів-все	- 	-
+в	в 	prep:rv_zna:rv_mis:rv_rod:v-u
+одному	один  numr:m:v_dav
               numr:m:v_mis
               numr:n:v_dav
               numr:n:v_mis
-?????	????? 	noun:n:v_mis
+місці	місце 	noun:n:v_mis
 !	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-?????????	????????? 	adv:compb
+Геніально	геніально 	adv:compb
 !	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-?????????	???????? 	noun:p:v_kly:anim
+Офіціанти	офіціант 	noun:p:v_kly:anim
                                 noun:p:v_naz:anim
-???	???? 	adj:p:v_naz:&pron:dem
+всі	весь 	adj:p:v_naz:&pron:dem
                 adj:p:v_zna:&pron:dem
-????	????  adv
-        ????? adj:n:v_naz:compb
+дуже	дуже  adv
+        дужий adj:n:v_naz:compb
               adj:n:v_zna:compb
-????????????	????????????? 	adj:p:v_naz:compb
+доброзичливі	доброзичливий 	adj:p:v_naz:compb
                                 adj:p:v_zna:compb
 ,	- 	-
-?	? 	conj:coord
+і	і 	conj:coord
                 part
-????????	???????? 	verb:futr:p:3:perf
-?	? 	conj:coord
+порадять	порадити 	verb:futr:p:3:perf
+і	і 	conj:coord
                 part
-?????????	????????? 	verb:futr:p:3:perf
+підкажуть	підказати 	verb:futr:p:3:perf
 .	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-?	? 	prep:rv_rod:rv_zna:rv_oru
-???????	?????? adj:m:v_rod
+З	з 	prep:rv_rod:rv_zna:rv_oru
+першого	перший adj:m:v_rod
                adj:m:v_zna
                adj:n:v_rod
-??????	????? noun:m:v_dav
+візиту	візит noun:m:v_dav
               noun:m:v_mis
               noun:m:v_rod
-??????	??????? 	verb:pres:p:3:imperf
-??	?? adv:&pron:int:rel
+стають	ставати 	verb:pres:p:3:imperf
+як	як adv:&pron:int:rel
            conj:subord
            noun:m:v_naz:anim
            part
-?????	?????? adj:p:v_naz:compb
+рідні	рідний adj:p:v_naz:compb
                adj:p:v_zna:compb
-        ?????  noun:f:v_dav
+        рідня  noun:f:v_dav
                noun:f:v_mis
                noun:f:v_rod
 !	- 	-
-???	???  adv:v-u
+все	все  adv:v-u
              conj:coord:v-u
              part:v-u
-        ???? adj:n:v_naz:&pron:dem
+        весь adj:n:v_naz:&pron:dem
              adj:n:v_zna:&pron:dem
-?????	????? 	adv
+файно	файно 	adv
 !	- 	-
-?????????	???????? 	verb:impr:p:2:perf
+завітайте	завітати 	verb:impr:p:2:perf
 ,	- 	-
-?	? 	conj:coord
+і	і 	conj:coord
 part
-???????	??????? verb:futr:p:2:perf
-         ????? 	 verb:futr:p:2:perf
+станете	станути verb:futr:p:2:perf
+         стати 	 verb:futr:p:2:perf
 
-???	??? 	adv:&pron:dem
-?????????	????????? adj:m:v_oru
+тут	тут 	adv:&pron:dem
+постійним	постійний adj:m:v_oru
                           adj:n:v_oru
                           adj:p:v_dav
-????????????	?????????? 	noun:m:v_oru:anim
+відвідувачем	відвідувач 	noun:m:v_oru:anim
 .	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-??	?? 	adv
+Ще	ще 	adv
                 part
-?????????	????????? 	adv:v-u
-?	????  verb:pres:p:1:imperf
+всередині	всередині 	adv:v-u
+є	бути  verb:pres:p:1:imperf
               verb:pres:p:2:imperf
               verb:pres:p:3:imperf
               verb:pres:p::imperf
@@ -1809,17 +1809,17 @@ Token	Lemma	Part-of-speech	Chunk
               verb:pres:s:2:imperf
               verb:pres:s:3:imperf
               verb:pres:s::imperf
-??????	?????? 	noun:m:v_naz
+дворик	дворик 	noun:m:v_naz
                 noun:m:v_zna
-??	?? 	adv:&pron:int:rel
+де	де 	adv:&pron:int:rel
                 part
-?????????	????????? 	adv
-???????????	??????????? 	verb:rev:pres:p:3:imperf
-????????	??????? 	noun:p:v_naz
+регулярно	регулярно 	adv
+проводяться	проводитися 	verb:rev:pres:p:3:imperf
+концерти	концерт 	noun:p:v_naz
                                 noun:p:v_zna
-?	? 	prep:rv_rod:rv_zna:rv_oru
-?????	????? 	adj:f:v_oru:compb
-???????	?????? 	noun:f:v_oru
+з	з 	prep:rv_rod:rv_zna:rv_oru
+живою	живий 	adj:f:v_oru:compb
+музикою	музика 	noun:f:v_oru
                 noun:f:v_oru:anim
 .	- 	SENT_END
 
@@ -1831,22 +1831,22 @@ PARA_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-??????	??????? adj:p:v_naz:compb
+Молоді	молодий adj:p:v_naz:compb
                 adj:p:v_zna:compb
-        ??????  noun:f:v_dav
+        молодь  noun:f:v_dav
                 noun:f:v_mis
                 noun:f:v_rod
-?????????	???????? 	noun:p:v_naz
+колективи	колектив 	noun:p:v_naz
                                 noun:p:v_zna
-??????	????? 	verb:pres:p:3:imperf
-??????	- 	-
-?	? 	conj:coord
+грають	грати 	verb:pres:p:3:imperf
+кавери	- 	-
+і	і 	conj:coord
                 part
-????	???? 	adj:p:v_naz:&pron:pos
+свої	свій 	adj:p:v_naz:&pron:pos
                 adj:p:v_zna:&pron:pos
-?????	??????  adj:p:v_naz
+пісні	пісний  adj:p:v_naz
                 adj:p:v_zna
-        ?????   noun:f:v_dav
+        пісня   noun:f:v_dav
                 noun:f:v_mis
                 noun:f:v_rod
                 noun:p:v_naz
@@ -1855,78 +1855,78 @@ Token	Lemma	Part-of-speech	Chunk
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-??	?? 	prep:rv_zna:rv_mis
-?????	?????  adj:p:v_mis:&pron:def
+На	на 	prep:rv_zna:rv_mis
+таких	такий  adj:p:v_mis:&pron:def
                adj:p:v_rod:&pron:def
                adj:p:v_zna:&pron:def
-???????	????? 	noun:p:v_mis
-??????	?????? 	adv:&pron:gen
-??????	?????? 	noun:m:v_naz
+вечорах	вечір 	noun:p:v_mis
+завжди	завжди 	adv:&pron:gen
+аншлаг	аншлаг 	noun:m:v_naz
                 noun:m:v_zna
 .	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-?	? 	conj:coord
+І	і 	conj:coord
                 part
-??????	????? 	noun:p:v_naz
+білети	білет 	noun:p:v_naz
                 noun:p:v_zna
-????????	???????? 	adv:compb
-???????	??????? 	verb:inf:imperf
-???????????	??????????? 	adv
+потрібно	потрібно 	adv:compb
+купляти	купляти 	verb:inf:imperf
+заздалегідь	заздалегідь 	adv
 .	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-????	????  adv
+Тому	тому  adv
               conj:subord
-        ???   noun:m:v_dav
+        том   noun:m:v_dav
               noun:m:v_mis
               noun:m:v_rod
-        ???   adj:m:v_dav:&pron:dem
+        той   adj:m:v_dav:&pron:dem
               adj:m:v_mis:&pron:dem
               adj:n:v_dav:&pron:dem
               adj:n:v_mis:&pron:dem
-????????	????????? 	verb:impr:p:2:imperf
-???????	?????? 	noun:p:v_naz
+бронюйте	бронювати 	verb:impr:p:2:imperf
+столики	столик 	noun:p:v_naz
                 noun:p:v_zna
-???????????	??????? adj:n:v_naz:super
+якнайшвидше	швидкий adj:n:v_naz:super
                         adj:n:v_zna:super
-                ?????? 	adv:super
+                швидко 	adv:super
 .	- 	-
-?????	????? 	adv
+також	також 	adv
                 conj:coord
-??????	?????? 	adv:bad
-?????	??????? 	noun:m:v_rod
-????	???? noun:f:v_rod
+підчас	підчас 	adv:bad
+тижня	тиждень 	noun:m:v_rod
+моди	мода noun:f:v_rod
              noun:p:v_naz
              noun:p:v_zna
-?	? 	prep:rv_zna:rv_mis:rv_rod:v-u
-??????	????? noun:m:v_mis:anim:lname
-        ????? noun:m:v_mis
+у	у 	prep:rv_zna:rv_mis:rv_rod:v-u
+Львові	Львов noun:m:v_mis:anim:lname
+        Львів noun:m:v_mis
 ,	- 	-
-???	??? 	adv:&pron:dem
-???????????	??????????? 	verb:rev:pres:p:3:imperf
-?????	?????? 	adj:p:v_naz:compb
+тут	тут 	adv:&pron:dem
+проводяться	проводитися 	verb:rev:pres:p:3:imperf
+модні	модний 	adj:p:v_naz:compb
                 adj:p:v_zna:compb
-??????	????? 	noun:p:v_naz
+покази	показ 	noun:p:v_naz
                 noun:p:v_zna
 .	- 	SENT_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-??????	??????  noun:m:v_rod:anim:fname
-        ?????? 	adv:&pron:neg
-??	?? 	part
-????????	???????? 	verb:past:f:imperf
+Ніколи	Нікола  noun:m:v_rod:anim:fname
+        ніколи 	adv:&pron:neg
+не	не 	part
+розуміла	розуміти 	verb:past:f:imperf
 ,	- 	-
-??	??  adv:&pron:int:rel
+як	як  adv:&pron:int:rel
             conj:subord
             noun:m:v_naz:anim
             part
-?????	?????? 	adj:p:v_naz:compb
+бідні	бідний 	adj:p:v_naz:compb
                 adj:p:v_zna:compb
-??????	??????  noun:f:v_dav
+моделі	модель  noun:f:v_dav
                 noun:f:v_dav:anim
                 noun:f:v_mis
                 noun:f:v_mis:anim
@@ -1937,16 +1937,16 @@ Token	Lemma	Part-of-speech	Chunk
                 noun:p:v_naz
                 noun:p:v_naz:anim
                 noun:p:v_zna
-??????	?????? 	verb:pres:p:3:imperf
-???	??? 	adv:&pron:dem
+ходять	ходити 	verb:pres:p:3:imperf
+там	там 	adv:&pron:dem
                 part
-??	?? 	prep:rv_zna:rv_mis
-???????	??????? adj:p:v_mis:compb
+на	на 	prep:rv_zna:rv_mis
+великих	великий adj:p:v_mis:compb
                 adj:p:v_rod:compb
                 adj:p:v_zna:compb
-????????	?????? 	noun:p:v_mis
-??	?? 	prep:rv_mis:rv_zna
-????????	???????? 	noun:f:v_dav
+підборах	підбор 	noun:p:v_mis
+по	по 	prep:rv_mis:rv_zna
+бруківці	бруківка 	noun:f:v_dav
                                 noun:f:v_mis
 .	- 	SENT_END
 
@@ -1958,9 +1958,9 @@ PARA_END
 
 Token	Lemma	Part-of-speech	Chunk
 	- 	SENT_START
-???????	??????? 	adj:m:v_naz
+кавовий	кавовий 	adj:m:v_naz
                         adj:m:v_zna
-???	???  noun:m:v_naz
+рай	рай  noun:m:v_naz
              noun:m:v_zna
 SENT_END
 PARA_END
