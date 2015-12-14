@@ -1,4 +1,4 @@
-Sviliak 20-30 female
+﻿Sviliak 20-30 female
 піца joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 дійсно joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 непогана, joy 50 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -14,7 +14,6 @@ Sviliak 20-30 female
 ціни радують. joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 та й ціни радують. joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 піца дійсно непогана, та й ціни радують. joy 87 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-
 але joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
 ось joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 яка joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -134,7 +133,6 @@ Sviliak 20-30 female
 але ось яка штука- хотіла отримати картку на 10% знижку(коли є заказ joy 44 sadness 0 anger 0 fear 0 amazement 31 disgust 0
 заказ вище певної суми то таку можна отримати)-то стільки "хороших" ситуацій було: спочатку в піцерії не працював касовий апарат і картку не отримала. joy 10 sadness 60 anger 30 fear 0 amazement 0 disgust 90
 але ось яка штука- хотіла отримати картку на 10% знижку(коли є заказ вище певної суми то таку можна отримати)-то стільки "хороших" ситуацій було: спочатку в піцерії не працював касовий апарат і картку не отримала. joy 10 sadness 60 anger 30 fear 0 amazement 5 disgust 90
-
 сказали joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 чек joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 зберегти joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -148,7 +146,6 @@ Sviliak 20-30 female
 сказали чек зберегти joy 9 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 зберегти і підійти пізніше. joy 39 sadness 15 anger 0 fear 0 amazement 0 disgust 0
 сказали чек зберегти і підійти пізніше. joy 39 sadness 15 anger 0 fear 0 amazement 0 disgust 0
-
 Підійшла  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 за  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 іншою  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -208,7 +205,6 @@ Sviliak 20-30 female
 Підійшла за іншою адресою у піцерію(це ж  joy 29 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 це ж ніби мережа все ж таки),там спочатку сказали,що картки будуть з 20 числа. joy 29 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Підійшла за іншою адресою у піцерію(це ж ніби мережа все ж таки),там спочатку сказали,що картки будуть з 20 числа. joy 30 sadness 4 anger 0 fear 0 amazement 0 disgust 6
-
 Підійшла  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 після  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 20  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -258,7 +254,6 @@ Sviliak 20-30 female
 Підійшла після 20 туди ж, сказали щоя повинна звернутись у ту піцерію де отримала чек joy 15 sadness 10 anger 0 fear 0 amazement 0 disgust 10
 чек (спочатку такого не сказали). joy 10 sadness 10 anger 0 fear 0 amazement 0 disgust 25
 Підійшла після 20 туди ж, сказали щоя повинна звернутись у ту піцерію де отримала чек(спочатку такого не сказали). joy 10 sadness 25 anger 0 fear 0 amazement 0 disgust 25
- 
 Звернулася  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 туди,  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 там  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -323,7 +318,6 @@ Sviliak 20-30 female
 Звернулася туди, там зсилаються на те, що карток немає і коли  joy 0 sadness 11 anger 19 fear 5 amazement 0 disgust 28
 і коли будуть невідомо(може через місяць,а може і пізніше). joy 0 sadness 11 anger 19 fear 5 amazement 0 disgust 28
 Звернулася туди, там зсилаються на те, що карток немає і коли будуть невідомо(може через місяць,а може і пізніше). joy 0 sadness 11 anger 19 fear 5 amazement 0 disgust 28
- 
 так joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 вони  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 і  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -338,11 +332,9 @@ Sviliak 20-30 female
 так вони і не хочуть joy 0 sadness 24 anger 26 fear 0 amazement 0 disgust 47
 не хочуть видавати картку. joy 0 sadness 24 anger 26 fear 0 amazement 0 disgust 47
 так вони і не хочуть видавати картку. joy 0 sadness 32 anger 28 fear 0 amazement 0 disgust 47
-
 це  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 обурює!!! joy 0 sadness 60 anger 75 fear 0 amazement 0 disgust 100
 це обурює!!! joy 0 sadness 75 anger 75 fear 0 amazement 0 disgust 100
-
 Крем-суп  joy 51 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 грибний  joy 51 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 15  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -353,14 +345,12 @@ Sviliak 20-30 female
 Крем-суп грибний 15  joy 67 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 15 грн. joy 67 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Крем-суп грибний 15 грн. joy 67 sadness 0 anger 0 fear 0 amazement 0 disgust 0
- 
 Смакові joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 якості -  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 посередньо. joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 15
 Смакові якості - joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 якості - посередньо. joy 0 sadness 15 anger 10 fear 0 amazement 0 disgust 15
 Смакові якості - посередньо. joy 0 sadness 15 anger 10 fear 0 amazement 0 disgust 15
-
 Смачна joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 піца  joy 85 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 у  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -372,7 +362,6 @@ Sviliak 20-30 female
 Смачна піца у серці  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 у серці Львова joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Смачна піца у серці Львова joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
- 
 смачна  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 піца,  joy 69 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 але  joy 0 sadness 0 anger 0 fear 30 amazement 0 disgust 0
@@ -393,11 +382,9 @@ Sviliak 20-30 female
 смачна піца, але довелось довго чекати  joy 47 sadness 14 anger 5 fear 0 amazement 0 disgust 52
 чекати рахунок joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 45
 смачна піца, але довелось довго чекати рахунок joy 45 sadness 14 anger 6 fear 0 amazement 0 disgust 45
- joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Усім  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 привіт! joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Усім привіт! joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
- 
 Вирішила  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 лишити  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 тут  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -453,7 +440,6 @@ Sviliak 20-30 female
 Вирішила лишити тут свій коментар на огляд іншим, так як сама завжди читаю відгуки joy 87 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 відгуки про заклади які мене зацікавили. joy 87 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Вирішила лишити тут свій коментар на огляд іншим, так як сама завжди читаю відгуки про заклади які мене зацікавили. joy 87 sadness 0 anger 0 fear 10 amazement 0 disgust 0
-
 Тому  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 ділюся  joy 55 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 з  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -468,7 +454,6 @@ Sviliak 20-30 female
 Тому ділюся з вами joy 76 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 з вами своїм досвідом. joy 76 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Тому ділюся з вами своїм досвідом. joy 76 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-
 Будучи  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 великим  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 прихильником  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -497,7 +482,6 @@ Sviliak 20-30 female
 Будучи великим прихильником італійської кухні,Челентано joy 95 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Челентано привернуло мою увагу. joy 95 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Будучи великим прихильником італійської кухні, Челентано привернуло мою увагу. joy 95 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-Sviliak 20-30 female
 Ні  joy 0 sadness 48 anger 30 fear 15 amazement 0 disgust 60
 для  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 кого  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -583,7 +567,6 @@ Sviliak 20-30 female
 Ні для кого не секрет, що італійська кухня славиться своїми виробами з борошна (макаронні вироби, а також страви з тіста), але піцца займає почесне місце в розмаїтті смачних joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 смачних страв. joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Ні для кого не секрет, що італійська кухня славиться своїми виробами з борошна (макаронні вироби, а також страви з тіста), але піцца займає почесне місце в розмаїтті смачних страв. joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-
 Так  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 от,  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 прийшли  joy 15 sadness 0 anger 0 fear 0 amazement 0  disgust 0
@@ -660,7 +643,6 @@ Sviliak 20-30 female
 Так от, прийшли ми з подругами до закладу щоб спробувати піццу, та провести експеримент: joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 експиремент: "Чи піцца у Львові, буде ж такою смачною як і в італіії?". joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Так от, прийшли ми з подругами до закладу щоб спробувати піццу, та провести експеримент: "Чи піцца у Львові, буде ж такою смачною як і в італіії?". joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-
 Ми  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 зупинили  joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 0
 свій  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -728,7 +710,6 @@ Sviliak 20-30 female
 Ми зупинили свій вибір на піцці «Маргарита» з білим сиром моццарелла, томатами і базиліком  joy 95 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 ( я знову відчула той приємний аромат духмяного базиліку, і ніжної маццарели..). joy 95 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Ми зупинили свій вибір на піцці «Маргарита» з білим сиром моццарелла, томатами і базиліком ( я знову відчула той приємний аромат духмяного базиліку, і ніжної маццарели..). joy 95 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-
 Доки joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 ми  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 чекали  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 30
@@ -800,7 +781,6 @@ Sviliak 20-30 female
 Доки ми чекали на замовлення, то спостерігали вражаючу картину, як піц-майстри віртуозно, немов жонглери, крутили, підкидували, і розкочували joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 і розкочували тісто. joy 30 sadness 0 anger 0 fear 0 amazement 0 45 disgust 0
 Доки ми чекали на замовлення, то спостерігали вражаючу картину, як піц-майстри віртуозно, немов жонглери, крутили, підкидували, і розкочували тісто. joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-
 Яскравого  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 та  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 незабутнього  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -871,7 +851,6 @@ Sviliak 20-30 female
 Яскравого та незабутнього настрою надавали самі майстри: всі хлопці, joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 всі хлопці, дуже симпатичні( ну дууже , була б молодшою не прогавила б можливості позачіпатися до них), всі професійні , чорняві та спортивні. joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Яскравого та незабутнього настрою надавали самі майстри: всі хлопці, дуже симпатичні( ну дууже , була б молодшою не прогавила б можливості позачіпатися до них), всі професійні , чорняві та спортивні. joy 100 sadness 0 anger 0 fear 0 amazement 0 100 disgust 0
-
 Атмосфера  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 закладу  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 хоч  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -960,7 +939,6 @@ Sviliak 20-30 female
 Атмосфера закладу хоч і не сильно, але здалеку нагадує маленьку Італію, не вистачає лиш тематичної музики,  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 музики,яскравого сонечка за вікном, і гарячого італійця поруч( за останнє, то моє особисте бажання, але гадаю дівчата були б не проти)). joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Атмосфера закладу хоч і не сильно, але здалеку нагадує маленьку Італію, не вистачає лиш тематичної музики, яскравого сонечка за вікном, і гарячого італійця поруч( за останнє, то моє особисте бажання, але гадаю дівчата були б не проти)). joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
- 
 Поки joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 ми  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 розмовляли,  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -1002,7 +980,6 @@ Sviliak 20-30 female
 Поки ми розмовляли, пильно дивилися на майстрів,  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 на майстрів та обговорювали справи, нам вже принесли піццу. joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Поки ми розмовляли, пильно дивилися на майстрів, та обговорювали справи, нам вже принесли піццу. joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-Sviliak 20-30 female
 Доречі,  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 якщо  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 у  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -1023,7 +1000,6 @@ Sviliak 20-30 female
 у вас велика компанія,  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 компанія, то Челентано саме для Вас. joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Доречі, якщо у вас велика компанія, то Челентано саме для Вас. joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-
 Можна  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 самому  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 обирати  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -1045,7 +1021,6 @@ Sviliak 20-30 female
 обирати розмір піцци, joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 піцци, начинки, або взяти з собою! joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Можна самому обирати розмір піцци, начинки, або взяти з собою! joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-
 Скажу  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 відверто  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 у  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -1060,7 +1035,6 @@ Sviliak 20-30 female
 Скажу відверто у виборі joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 у виборі ми не помилилися...   joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Скажу відверто у виборі ми не помилилися...  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-
 Буле  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 дуже  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 смачно,  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -1083,7 +1057,6 @@ Sviliak 20-30 female
 м*яка моццарела просто танула joy 85 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 танула в роті. joy 55 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Буле дуже смачно, ароматно, м*яка моццарела просто танула в роті. joy 85 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-
 Тому  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 враження  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 після  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -1150,7 +1123,6 @@ Sviliak 20-30 female
 Тому враження після посиденьок та куштування смачної їжі у нас лишилися теплими та приємними, гадаю ми ще не один раз завітаємо joy 85 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 завітаємо до Челентано. joy 85 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Тому враження після посиденьок та куштування смачної їжі у нас лишилися теплими та приємними, гадаю ми ще не один раз завітаємо до Челентано. joy 85 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-
 Правдою  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 є  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 те ,  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -1195,7 +1167,6 @@ Sviliak 20-30 female
 Правдою є те , що місце прикрашають люди, а не навпаки, тому офіціантам та майстрам респект, joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 респект, ви молодці! joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Правдою є те , що місце прикрашають люди, а не навпаки, тому офіціантам та майстрам респект, ви молодці! joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-
 Всім  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 раджу  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 відвідати  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -1203,11 +1174,9 @@ Sviliak 20-30 female
 скоштувати! joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Всім раджу  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 відвідати та скоштувати! joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-
 Не  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 пожалкуєте :) joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 100
 Не пожалкуєте :) joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-
 Добра  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 піца,  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 хороший  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -1231,7 +1200,6 @@ Sviliak 20-30 female
 майданчик і перше у Львові  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 у Львові нестандартне Челентано) joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Добра піца, хороший літній майданчик і перше у Львові нестандартне Челентано) joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-
 В  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 ресторані -  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 добрі  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -1246,13 +1214,11 @@ Sviliak 20-30 female
 В ресторані - добрі тонкі joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 тонкі піци. joy 76 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 В ресторані - добрі тонкі піци. joy 91 sadness 0 anger 0 fear 0 amazement 0 disgust 0
- 
 Смачні  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 і  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 запашні) joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 і запашні) joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Смачні і запашні) joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-
 Дуже  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 смачна  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 піца,  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -1271,7 +1237,6 @@ Sviliak 20-30 female
 Дуже смачна піца, привітний та професійний  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 професійний персонал. joy 85 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Дуже смачна піца, привітний та професійний персонал. joy 85 sadness 0 anger 0 fear 0 amazement 0 disgust 0
- 
 Проте  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 завжди  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 дуже  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -1306,7 +1271,6 @@ Sviliak 20-30 female
 Проте завжди дуже багато людей, тому на столик доведеться  joy 8 sadness 15 anger 0 fear 0 amazement 0 disgust 15
 доведеться чекати. joy 8 sadness 15 anger 0 fear 0 amazement 0 disgust 15
 Проте завжди дуже багато людей, тому на столик доведеться чекати. joy 8 sadness 15 anger 0 fear 0 amazement 0 disgust 15
-
 Обслуговування  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 погане,  joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 60
 на жаль  joy 0 sadness 60 anger 0 fear 0 amazement 0 disgust 0
@@ -1340,7 +1304,6 @@ Sviliak 20-30 female
 Обслуговування погане, на жаль персонал не вміє і не хочу спілкуватись  joy 0 sadness 60 anger 0 fear 0 amazement 0 disgust 60
 спілкуватись з клієнтами. joy 0 sadness 60 anger 0 fear 0 amazement 0 disgust 60
 Обслуговування погане, на жаль персонал не вміє і не хочу спілкуватись з клієнтами. joy 0 sadness 60 anger 0 fear 0 amazement 0 disgust 60
-
 хотіли  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 замовити  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 бізнес ланч  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -1349,13 +1312,11 @@ Sviliak 20-30 female
 хотіли замовити joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 замовити бізнес ланч  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 ланч в неділю. joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-хотіли замовити бізнес ланч в неділю. joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
- 
+хотіли замовити бізнес ланч в неділю. joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0 
 нічого  joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 15
 не  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 вийшло. joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 нічого не вийшло. joy 0 sadness 60 anger 0 fear 0 amazement 0 disgust 60
-
 зробіть,  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 будь ласка,  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 їх  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -1367,7 +1328,6 @@ Sviliak 20-30 female
 зробіть, будь ласка, їх joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 їх на щодень. joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 зробіть, будь ласка, їх на щодень. joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
- 
 грецький  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 почав  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 часто  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -1378,7 +1338,6 @@ Sviliak 20-30 female
 грецький почав часто  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 часто закінчуватись :( joy 0 sadness 60 anger 30 fear 0 amazement 0 disgust 75
 грецький почав часто закінчуватись :( joy 0 sadness 60 anger 30 fear 0 amazement 0 disgust 75
-
 В  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 цілому  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 задоволений  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -1391,7 +1350,6 @@ Sviliak 20-30 female
 В цілому задоволений joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 задоволений якістю страв. joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 В цілому задоволений якістю страв. joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
- 
 Піца  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 навіть  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 краще,  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -1413,7 +1371,6 @@ Sviliak 20-30 female
 Піца навіть краще, за аналоги  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 за аналоги з більш дорогих ресторанів. joy 15 sadness 45 anger 30 fear 15 amazement 0 disgust 60
 Піца навіть краще, за аналоги з більш дорогих ресторанів. joy 15 sadness 15 anger 15 fear 15 amazement 0 disgust 30
-
 Але  joy 0 sadness 15 anger 0 fear 15 amazement 0 disgust 0
 є  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 велика  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -1481,7 +1438,6 @@ Sviliak 20-30 female
 Але є велика проблема: неможливо при замовленні страв начисляти бонуси на картку лояльності мережі \"ЕгоЇсти\", як і неможливо по цій картці  joy 0 sadness 60 anger 30 fear 15 amazement 0 disgust 60
 по цій картці отримати знижку. joy 0 sadness 60 anger 30 fear 15 amazement 0 disgust 60
 Але є велика проблема: неможливо при замовленні страв начисляти бонуси на картку лояльності мережі \"ЕгоЇсти\", як і неможливо по цій картці отримати знижку. joy 0 sadness 60 anger 30 fear 15 amazement 0 disgust 60
-
 Мені  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 наразі  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 доводиться  joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 15
@@ -1538,7 +1494,6 @@ Sviliak 20-30 female
 Мені наразі доводиться часто і багато замовляти саме додому, і тому це дуже серйозний мінус і велика втрата у бонусах і незекономлених коштах joy 15 sadness 30 anger 0 fear 0 amazement 0 disgust 60
 коштах у перспективі. joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Мені наразі доводиться часто і багато замовляти саме додому, і тому це дуже серйозний мінус і велика втрата у бонусах і незекономлених коштах у перспективі. joy 15 sadness 30 anger 0 fear 0 amazement 0 disgust 90
-Sviliak 20-30 female
 Прошу  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 передбачити  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 можливість  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -1563,7 +1518,6 @@ Sviliak 20-30 female
 Прошу передбачити можливість користування карткою \"ЕгоЇсти\"  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 \"ЕгоЇсти\" у майбутньому. joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Прошу передбачити можливість користування карткою \"ЕгоЇсти\" у майбутньому. joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-
 Новий  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 ресторан  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Челентано,  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -1585,7 +1539,6 @@ Sviliak 20-30 female
 Новий ресторан Челентано, або найгірша піца  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 90
 піца у Львові!!! joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Новий ресторан Челентано, або найгірша піца у Львові!!! joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 90
-
 На  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 новий  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 ресторан  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -1618,7 +1571,6 @@ Sviliak 20-30 female
 На новий ресторан покладали великі надії, які стали великим  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 великими розчаруванням!!! joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 90
 На новий ресторан покладали великі надії, які стали великим розчаруванням!!! joy 30 sadness 30 anger 0 fear 0 amazement 0 disgust 90
- 
 Обслуговування  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 жахливе:  joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 75
 після  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -1688,7 +1640,6 @@ Sviliak 20-30 female
 Обслуговування жахливе: після 15 хв очікування, довелось самій кликати офіціанта і люб'язно попросити меню, після чого довго очікувати коли прийдуть joy 45 sadness 30 anger 0 fear 0 amazement 0 disgust 30
 прийдуть за замовленням. joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Обслуговування жахливе: після 15 хв очікування, довелось самій кликати офіціанта і люб'язно попросити меню, після чого довго очікувати коли прийдуть за замовленням. joy 45 sadness 30 anger 0 fear 0 amazement 0 disgust 30
-
 Після  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 чого  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 хвилин  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -1725,7 +1676,6 @@ Sviliak 20-30 female
 на це замовлення...так, так  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 так,так Латте принесли тільки через 40 хв! joy 45 sadness 15 anger 0 fear 0 amazement 0 disgust 15
 Після чого хвилин 40 чекати на це замовлення...так, так Латте принесли тільки через 40 хв! joy 45 sadness 15 anger 0 fear 0 amazement 0 disgust 15
-
 Потім  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 довге  joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
 очікування  joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 15
@@ -1772,7 +1722,6 @@ Sviliak 20-30 female
 Потім довге очікування на піцу, яка була схожа на сухарик - суха, тверда, підгоріла  joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 30
 підгоріла і з мінімальною начинкою. joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 30
 Потім довге очікування на піцу, яка була схожа на сухарик - суха, тверда, підгоріла і з мінімальною начинкою. joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 30
-
 Це  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 беззаперечно  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 найгірша  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 100
@@ -1806,7 +1755,6 @@ Sviliak 20-30 female
 Це беззаперечно найгірша піца у Львові, яку я коли не будь joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 75
 коли не будь їла !!! joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Це беззаперечно найгірша піца у Львові, яку я коли не будь їла !!! joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 75
- 
 і  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 це  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 не  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -1840,7 +1788,6 @@ Sviliak 20-30 female
 і це не до порівняння з піцою, яку подають у Челентано joy 70 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 у Челентано на площі ринок. joy 70 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 і це не до порівняння з піцою, яку подають у Челентано на площі ринок. joy 70 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-
 Стосовно  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 літнього  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 майданчику  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -1856,7 +1803,6 @@ Sviliak 20-30 female
 Стосовно літнього майданчику коротко - joy 76 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 коротко - дикий протяг! joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 60
 Стосовно літнього майданчику коротко - дикий протяг! joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 60
-
 Висновок  joy 45 sadness 0 anger 0 fear 15 amazement 0 disgust 0
 один -  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 не  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -1868,7 +1814,6 @@ Sviliak 20-30 female
 Висновок один - не ходіть joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 45
 не ходіть туди. joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 45
 Висновок один - не ходіть туди. joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 45
-
 Була  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 у  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 піцерії  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -1884,7 +1829,6 @@ Sviliak 20-30 female
 Була у піцерії "Челентано" біля joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 біля Оперного. joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Була у піцерії "Челентано" біля Оперного. joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-
 Піца  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 смачна, joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 а  joy 0 sadness 0 anger 0 fear 15 amazement 0 disgust 0
@@ -1901,7 +1845,6 @@ Sviliak 20-30 female
 Піца смачна,а обслуговування на касі joy 50 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 на касі жахливе. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 100
 Піца смачна,а обслуговування на касі жахливе. joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 100
-
 Касирка- joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 хамка  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 100
 і  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -1909,7 +1852,6 @@ Sviliak 20-30 female
 Касирка-хамка  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 100
 хамка і неврастенічка! joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 100
 Касирка-хамка і неврастенічка! joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 100
-
 Не  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 вміє  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 спокійно  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -1932,11 +1874,9 @@ Sviliak 20-30 female
 Не вміє спокійно пояснити відвідувачам,як замовляти joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 60
 замовляти піцу. joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Не вміє спокійно пояснити відвідувачам,як замовляти піцу. joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 60
-
 Власники  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 "Челентано"!!! joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Власники "Челентано"!!! joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
- joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Перегляньте  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 свої  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 критерії  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -1949,11 +1889,9 @@ Sviliak 20-30 female
 Перегляньте свої критерії по відбору joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 по відбору  персоналу!!! joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Перегляньте свої критерії по відбору персоналу!!! joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-
 Доброго  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 дня! joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Доброго дня! joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-
 Плануємо  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 завтра  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 відвідати  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -1974,11 +1912,9 @@ Sviliak 20-30 female
 Плануємо завтра відвідати Ваш заклад, великою компанією joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 компанією дітей.  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Плануємо завтра відвідати Ваш заклад, великою компанією дітей.  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
- 
 Приїжджаємо  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 здалеку.  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Приїжджаємо здалеку.  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
- 
 Тому  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 хочу  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 забронювати  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -2015,7 +1951,6 @@ Sviliak 20-30 female
 Тому хочу забронювати столик та зробити попереднє замовлення, щоб по місцю довго joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 15
 довго не чекати.  joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 15
 Тому хочу забронювати столик та зробити попереднє замовлення, щоб по місцю довго не чекати.  joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 15
-
 Дайте  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 будь ласка,  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 номер  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -2039,7 +1974,6 @@ Sviliak 20-30 female
 Дайте будь ласка, номер мобільного, а то на стаціонарний не можу  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 30
 не можу подзвонити.  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 30
 Дайте будь ласка, номер мобільного, а то на стаціонарний не можу подзвонити.  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 30
-
 Буду  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 вдячна  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 за  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -2050,7 +1984,6 @@ Sviliak 20-30 female
 Буду вдячна за  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 за оперативність!!! joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Буду вдячна за оперативність!!! joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
- 
 лосось  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 запечений  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 зі  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -2076,7 +2009,6 @@ Sviliak 20-30 female
 щоразу його замовляємо) joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 лосось запечений зі шпинатом настільки смачний, щоразу його joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 його замовляємо) joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-
 Ми  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 з  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 дітьми  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -2093,7 +2025,6 @@ Sviliak 20-30 female
 Ми з дітьми відвідуємо joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 відвідуємо цей заклад. joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Ми з дітьми відвідуємо цей заклад. joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-
 Там  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 дуже  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 гарна  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -2116,7 +2047,6 @@ Sviliak 20-30 female
 Там дуже гарна атмосфера, грає ненав'язлива joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 ненав'язлива музика. joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Там дуже гарна атмосфера, грає ненав'язлива музика. joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-
 Персонал  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 хороший. joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Персонал хороший joy 81 sadness 0 anger 0 fear 0 amazement 0 disgust 0
