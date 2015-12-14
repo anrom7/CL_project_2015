@@ -1,0 +1,363 @@
+Khrystyna 20-30 female
+Пиво теж сподобалося , хоча вибір буз невеликий , але універсальний ) ) ) .  joy 30 sadness 10 anger 0 fear 0 amazement 6 disgust 0
+Пиво  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+теж  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сподобалося  joy 16 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хоча joy 0 sadness 4 anger 0 fear 0 amazement 0 disgust 0
+вибір  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+буз  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+невеликий  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+універсальний  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але універсальний ) ) ) .  joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але універсальний ) ) ) joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але універсальний ) ) joy 4 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але універсальний )  joy 3 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але універсальний joy 2 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+, але універсальний joy 2 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+буз невеликий ,  joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 0
+буз невеликий  joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 0
+буз невеликий , але універсальний joy 5 sadness 2 anger 0 fear 0 amazement 0 disgust 0
+, хоча вибір joy 0 sadness 2 anger 0 fear 0 amazement 0 disgust 0
+хоча вибір joy 0 sadness 2 anger 0 fear 0 amazement 0 disgust 0
+хоча вибір буз joy 0 sadness 2 anger 0 fear 0 amazement 0 disgust 0
+хоча вибір буз невеликий  joy 0 sadness 2 anger 0 fear 0 amazement 0 disgust 0
+хоча вибір буз невеликий ,  joy 0 sadness 2 anger 0 fear 0 amazement 0 disgust 0
+хоча вибір буз невеликий , але універсальний joy 5 sadness 2 anger 0 fear 0 amazement 0 disgust 0
+хоча вибір буз невеликий , але універсальний ) ) ) .  joy 8 sadness 2 anger 0 fear 0 amazement 0 disgust 0
+хоча вибір буз невеликий , але універсальний ) ) ) joy 8 sadness 2 anger 0 fear 0 amazement 0 disgust 0
+хоча вибір буз невеликий , але універсальний ) ) joy 5 sadness 2 anger 0 fear 0 amazement 0 disgust 0
+хоча вибір буз невеликий , але універсальний )  joy 4 sadness 2 anger 0 fear 0 amazement 0 disgust 0
+хоча вибір буз невеликий , але універсальний joy 3 sadness 2 anger 0 fear 0 amazement 0 disgust 0
+теж сподобалося ,  joy 8 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+теж сподобалося joy 8 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Пиво теж сподобалося  joy 8 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Пиво теж сподобалося ,  joy 8 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Пиво теж сподобалося , хоча вибір буз невеликий , але універсальний ) ) ) joy 8 sadness 4 anger 0 fear 0 amazement 0 disgust 0
+Пиво теж сподобалося , хоча вибір буз невеликий , але універсальний ) )   joy 7 sadness 4 anger 0 fear 0 amazement 0 disgust 0
+Пиво теж сподобалося , хоча вибір буз невеликий , але універсальний ) joy 6 sadness 4 anger 0 fear 0 amazement 0 disgust 0
+Пиво теж сподобалося , хоча вибір буз невеликий , але універсальний joy 4 sadness 4 anger 0 fear 0 amazement 0 disgust 0
+Принесли все швидко , доречно і дружелюбно …  joy 30 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+Принесли  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+все  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+швидко   joy 6 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смачно  joy 22 sadness 0 anger 0 fear 0 amazement 9 disgust 0
+доречно  joy 19 sadness 0 anger 0 fear 0 amazement 8 disgust 0
+і  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дружелюбно  joy 26 sadness 0 anger 0 fear 0 amazement 28 disgust 0
+доречно і дружелюбно …  joy 26 sadness 0 anger 0 fear 0 amazement 28 disgust 0
+доречно і дружелюбно joy 26 sadness 0 anger 0 fear 0 amazement 28 disgust 0
+, доречно і дружелюбно joy 26 sadness 0 anger 0 fear 0 amazement 28 disgust 0
+все швидко ,  joy 13 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+все швидко joy 13 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Принесли все joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Принесли все швидко ,  joy 6 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Принесли все швидко joy 6 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Принесли все швидко , доречно і дружелюбно joy 30 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+Настрій віддмінний , що ще треба чекати від вечері ? ?  joy 50 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+Настрій  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+віддмінний  joy 31 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ще  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+треба  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чекати  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+від  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вечері   joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+від вечері ? ?  joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+від вечері ?  joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+від вечері joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чекати від joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чекати від вечері joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+треба чекати joy 0 sadness 0 anger 4 fear 0 amazement 0 disgust 0
+треба чекати від вечері joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ще треба чекати joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що ще треба чекати joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що ще треба чекати від вечері joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+, що ще треба чекати від вечері joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Настрій віддмінний ,  joy 45 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Настрій віддмінний  joy 45 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Настрій віддмінний , що ще треба чекати від вечері ?  joy 50 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+Настрій віддмінний , що ще треба чекати від вечері joy 50 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+Тверда п'ятірка .  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Тверда  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+п'ятірка  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Тверда п'ятірка  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Може нам просто пощастило але рекомендуємо .  joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Може  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нам  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+просто  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пощастило  joy 24 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+рекомендуємо  joy 4 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але рекомендуємо .  joy 4 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але рекомендуємо joy 4 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+просто пощастило joy 19 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+просто пощастило але рекомендуємо joy 11 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нам просто пощастило  joy 18 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Може нам просто пощастило joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Може нам просто пощастило але рекомендуємо  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Купив біле пиво Фрау рібентропп 0,75 П»ю це пиво і вирішив написати відгук …  joy 0 sadness 0 anger 0 fear 0 amazement 10 disgust 0
+Купив  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+біле joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пиво  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Фрау  joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+рібентропп  joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 91
+0,75  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+П»ю joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+це  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пиво  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вирішив  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+написати  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відгук  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і вирішив написати відгук …  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+написати відгук …  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+написати відгук  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вирішив написати joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вирішив написати відгук joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і вирішив joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і вирішив написати  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і вирішив написати відгук joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+це пиво joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+П»ю це пиво joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+П»ю це пиво і вирішив написати  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+П»ю це пиво і вирішив написати відгук joy 0 sadness 0 anger 0 fear 0 amazement 5 disgust 0
+Купив біле пиво Фрау рібентропп 0,75  joy 4 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Фрау рібентропп 0,75  joy 4 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пиво Фрау рібентропп 0,75  joy 4 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+біле пиво joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+біле пиво Фрау рібентропп joy 4 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+біле пиво Фрау рібентропп 0,75  joy 4 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Купив біле пиво joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Купив біле пиво Фрау рібентропп joy 4 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Купив біле пиво Фрау рібентропп 0,75 і вирішив joy 4 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Купив біле пиво Фрау рібентропп 0,75 і вирішив написати відгук joy 0 sadness 0 anger 0 fear 0 amazement 4 disgust 0
+Люблю хороше пиво , вирішив купити чогось дорожчого і хорошого на смак гірше навіть за чернігівське біле ( ( ( Не рекомендую це пиво нікому !  joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 45
+Люблю  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хороше  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пиво  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вирішив  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+купити  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чогось joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дорожчого  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хорошого  joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смак  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+гірше  joy 0 sadness 5 anger 0 fear 0 amazement 0 disgust 10
+навіть  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+за  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чернігівське  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+біле  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Не  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+рекомендую  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+це  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пиво  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нікому  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нікому !  joy 0 sadness 0 anger 5 fear 0 amazement 0 disgust 0
+нікому  joy 0 sadness 0 anger 5 fear 0 amazement 0 disgust 0
+це пиво joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+це пиво нікому joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 8
+Не рекомендую joy 0 sadness 0 anger 4 fear 0 amazement 0 disgust 0
+Не рекомендую це пиво joy 0 sadness 0 anger 4 fear 0 amazement 0 disgust 0
+Не рекомендую це пиво нікому joy 0 sadness 0 anger 4 fear 0 amazement 0 disgust 0
+( Не рекомендую це пиво нікому joy 0 sadness 0 anger 4 fear 0 amazement 0 disgust 0
+(( Не рекомендую це пиво нікому joy 0 sadness 0 anger 4 fear 0 amazement 0 disgust 0
+((( Не рекомендую це пиво нікому joy 0 sadness 0 anger 5 fear 0 amazement 0 disgust 0
+чернігівське біле (((  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 6
+чернігівське біле ((  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 6
+чернігівське біле (  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 5
+чернігівське біле joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+за чернігівське біле joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+гірше навіть joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 4
+гірше навіть за чернігівське біле joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 5
+на смак  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на смак гірше joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 4
+на смак гірше навіть за чернігівське біле  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 7
+на смак гірше навіть за чернігівське біле ( joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 8
+на смак гірше навіть за чернігівське біле (( joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 9
+на смак гірше навіть за чернігівське біле (((  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 10
+на смак гірше навіть за чернігівське біле ((( Не рекомендую це пиво нікому joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 13
+і хорошого joy 6 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дорожчого і хорошого joy 6 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чогось дорожчого і хорошого joy 6 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+купити чогось joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+купити чогось дорожчого і хорошого joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вирішив купити joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вирішив купити чогось дорожчого joy 2 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вирішив купити чогось дорожчого і хорошого joy 4 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+,вирішив купити чогось дорожчого і хорошого joy 4 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+,вирішив купити чогось дорожчого і хорошого на смак гірше навіть за чернігівське біле ((( Не рекомендую це пиво нікому joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 30
+хороше пиво ,  joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хороше пиво joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Люблю хороше пиво  joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Люблю хороше пиво ,  joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Люблю хороше пиво ,вирішив купити чогось дорожчого і хорошого на смак гірше навіть за чернігівське біле ((( Не рекомендую це пиво нікому joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 45
+Відвідував цей заклад не раз і не два … разів 50 не менше .  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Відвідував  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+цей  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+заклад  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+раз  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+два  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+разів  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+50  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+менше  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не менше .  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не менше  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+разів 50  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+разів 50 не менше  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+… разів 50 не менше .  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+… разів 50 не менше joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Відвідував цей заклад не раз і не два …  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не два …  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не два joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і не два joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не раз  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не раз і не два joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+цей заклад joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Відвідував цей заклад не раз joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Відвідував цей заклад не раз і не два  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Відвідував цей заклад не раз і не два …  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Відвідував цей заклад не раз і не два … разів 50 не менше  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Дивують мене відгуки "знавців" , які пишуть , що  чернігівське чи ще якесь там пиво краще за "Правду"… бажаю таким "знавцям" пити своє і балтику до кінця днів — гіршого побажання й не придумаєш :) А тепер до суті … з самої назви (Театр пива "Правда ") зрозуміло , що заклад в першу чергу "про" пиво і з цим він справляється на 100% .  joy 5 sadness 0 anger 15 fear 0 amazement 15 disgust 0
+Дивують  joy 0 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+мене  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відгуки  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+знавців  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+які  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пишуть  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чернігівське  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чи  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ще  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+якесь  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+там  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пиво  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+краще  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+за  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Правду  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бажаю  joy 3 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+таким  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+знавцям   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пити  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+своє  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+1715  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+балтику  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+до  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кінця  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+днів  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+гіршого  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 5
+побажання  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+й  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+придумаєш   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+А  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тепер  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+до  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+суті  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+самої  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+назви   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Театр  joy 12 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пива  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Правда  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зрозуміло  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+заклад  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+першу  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чергу  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+про  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пиво  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+цим  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+він  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+справляється  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+100%  joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на 100% .  joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на 100%  joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+справляється на 100%  joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+він справляється joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+він справляється на 100%  joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з цим він справляється joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з цим він справляється на 100%  joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і з цим він справляється на 100%  joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+"про" пиво  joy 0 sadness 0 anger 3 fear 0 amazement 0 disgust 0
+першу чергу joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в першу чергу joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в першу чергу "про" пиво  joy 0 sadness 0 anger 3 fear 0 amazement 0 disgust 0
+що заклад  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+, що заклад joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+, що заклад в першу чергу joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+, що заклад в першу чергу "про" пиво  joy 0 sadness 0 anger 3 fear 0 amazement 0 disgust 0
+зрозуміло , що joy 0 sadness 0 anger 3 fear 0 amazement 0 disgust 0
+) зрозуміло  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+(Театр пива "Правда ") joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+самої назви joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з самої назви (Театр пива "Правда ") joy 4 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з самої назви (Театр пива "Правда") зрозуміло  joy 3 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з самої назви (Театр пива "Правда") зрозуміло , що joy 3 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з самої назви (Театр пива "Правда") зрозуміло , що заклад joy 3 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з самої назви (Театр пива "Правда") зрозуміло , що заклад в першу чергу "про" пиво  joy 3 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з самої назви (Театр пива "Правда") зрозуміло , що заклад в першу чергу "про" пиво і з цим він справляється на 100%  joy 6 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+… з самої назви (Театр пива "Правда") зрозуміло , що заклад в першу чергу "про" пиво  joy 4 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+до суті …  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+до суті joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+А тепер joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+А тепер до суті joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+)А тепер до суті joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+:)А тепер до суті joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не придумаєш :)  joy 4 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не придумаєш joy 0 sadness 3 anger 0 fear 0 amazement 0 disgust 0
+й не придумаєш joy 0 sadness 3 anger 0 fear 0 amazement 0 disgust 0
+гіршого побажання joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 6
+ — гіршого побажання  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 6
+ — гіршого побажання й не придумаєш joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 6
+до кінця днів —  joy 0 sadness 3 anger 0 fear 0 amazement 0 disgust 0
+до кінця днів joy 0 sadness 3 anger 0 fear 0 amazement 0 disgust 0
+1715 і балтику  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 7
+1715 і балтику до кінця днів joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 7
+1715 і балтику до кінця днів —  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 7
+своє 1715 і балтику joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 7
+пити своє 1715  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 7
+пити своє 1715 і балтику  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 7
+пити своє 1715 і балтику до кінця днів joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 14
+пити своє 1715 і балтику до кінця днів —  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 14
+таким "знавцям" joy 0 sadness 0 anger 3 fear 0 amazement 0 disgust 0
+бажаю таким "знавцям" joy 0 sadness 0 anger 3 fear 0 amazement 0 disgust 0
+бажаю таким "знавцям" пити своє 1715 і балтику до кінця днів —  joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 30
+бажаю таким "знавцям" пити своє 1715 і балтику до кінця днів  joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 30
+… бажаю таким "знавцям" пити своє 1715 і балтику до кінця днів joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 30
+за "Правду" …  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+за "Правду" joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+краще за joy 2 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+краще за "Правду" joy 0 sadness 0 anger 3 fear 0 amazement 0 disgust 0
+якесь там пиво joy 0 sadness 0 anger 8 fear 0 amazement 0 disgust 0
+якесь там пиво краще за "Правду" …  joy 0 sadness 0 anger 10 fear 0 amazement 0 disgust 0
+якесь там пиво краще за "Правду"  joy 0 sadness 0 anger 10 fear 0 amazement 0 disgust 0
+чи ще joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чи ще якесь там пиво joy 0 sadness 0 anger 2 fear 0 amazement 0 disgust 0
+чи ще якесь там пиво краще за "Правду"  joy 0 sadness 0 anger 9 fear 0 amazement 0 disgust 0
+чернігівське чи ще якесь там пиво joy 0 sadness 0 anger 9 fear 0 amazement 0 disgust 0
+, що чернігівське joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що чернігівське joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+, що чернігівське чи ще якесь там пиво joy 0 sadness 0 anger 3 fear 0 amazement 0 disgust 0
+, що чернігівське чи ще якесь там пиво краще за "Правду"  joy 0 sadness 0 anger 3 fear 0 amazement 0 disgust 0
+які пишуть ,  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+які пишуть , що чернігівське чи ще якесь там пиво краще за "Правду" joy 0 sadness 0 anger 4 fear 0 amazement 0 disgust 0
+,які пишуть , що чернігівське чи ще якесь там пиво краще за "Правду"  joy 0 sadness 0 anger 4 fear 0 amazement 0 disgust 0
+відгуки "знавців",  joy 0 sadness 0 anger 4 fear 0 amazement 0 disgust 0
+відгуки "знавців"  joy 0 sadness 0 anger 4 fear 0 amazement 0 disgust 0
+Дивують мене joy 0 sadness 0 anger 0 fear 0 amazement 10 disgust 0
+Дивують мене відгуки joy 0 sadness 0 anger 0 fear 0 amazement 10 disgust 0
+Дивують мене відгуки "знавців"  joy 0 sadness 0 anger 0 fear 0 amazement 12 disgust 0
+Дивують мене відгуки "знавців", які пишуть , що чернігівське чи ще якесь там пиво краще за "Правду"  joy 0 sadness 0 anger 0 fear 0 amazement 12 disgust 0
+Дивують мене відгуки "знавців",які пишуть , що чернігівське чи ще якесь там пиво краще за "Правду"… бажаю таким "знавцям" пити своє і балтику до кінця днів — гіршого побажання й не придумаєш :)А тепер до суті … з самої назви (Театр пива "Правда ")зрозуміло , що заклад в першу чергу "про" пиво і з цим він справляється на 100%  joy 0 sadness 0 anger 15 fear 0 amazement 30 disgust 0
