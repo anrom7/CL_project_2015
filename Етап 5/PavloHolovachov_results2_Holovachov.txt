@@ -1,0 +1,280 @@
+Holovachov Pavlo 20-30 male
+Низькі joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ціни joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+та joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+привітний joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+персонал joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+та joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+превеликий joy 0 sadness 0 anger 0 fear 15 amazement 0 disgust 0
+жаль joy 0 sadness 0 anger 0 fear 15 amazement 15 disgust 0
+жаль, joy 0 sadness 0 anger 0 fear 15 amazement 15 disgust 0
+дуже joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+неохайний joy 0 sadness 0 anger 0 fear 0 amazement 30 disgust 30
+(брудний joy 0 sadness 0 anger 0 fear 0 amazement 30 disgust 30
+(брудний) joy 0 sadness 0 anger 0 fear 0 amazement 15 disgust 30
+страви joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+принесли joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відбитками joy 0 sadness 15 anger 15 fear 0 amazement 0 disgust 0
+пальців joy 0 sadness 15 anger 15 fear 15 amazement 0 disgust 0
+на joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тарілках joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+тарілках, joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+мабуть joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+усіх joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+працівників joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+працівників; joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+брудні joy 0 sadness 0 anger 0 fear 15 amazement 15 disgust 15
+скатертини joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+скатертини. joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Низькі ціни joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+привітний персонал joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+дуже неохайний joy 0 sadness 0 anger 0 fear 0 amazement 15 disgust 15
+(брудний) заклад joy 0 sadness 0 anger 0 fear 15 amazement 15 disgust 15
+(брудний) заклад, joy 0 sadness 0 anger 0 fear 15 amazement 15 disgust 15
+брудні скатертини joy 0 sadness 0 anger 0 fear 15 amazement 15 disgust 15
+брудні скатертини. joy 0 sadness 0 anger 0 fear 15 amazement 15 disgust 15
+на превеликий жаль, joy 0 sadness 0 anger 0 fear 0 amazement 15 disgust 15
+неохайний (брудний) заклад joy 0 sadness 0 anger 0 fear 30 amazement 15 disgust 15
+неохайний (брудний) заклад, joy 0 sadness 0 anger 0 fear 30 amazement 15 disgust 15
+дуже неохайний (брудний) заклад joy 0 sadness 0 anger 0 fear 30 amazement 15 disgust 30
+дуже неохайний (брудний) заклад, joy 0 sadness 0 anger 0 fear 30 amazement 15 disgust 30
+Низькі ціни та привітний персонал joy 0 sadness 0 anger 0 fear 30 amazement 30 disgust 30
+на превеликий жаль, дуже неохайний joy 0 sadness 0 anger 0 fear 15 amazement 15 disgust 30
+страви принесли з відбитками пальців joy 0 sadness 0 anger 0 fear 15 amazement 30 disgust 30
+(брудний) заклад, страви принесли з відбитками пальців joy 0 sadness 0 anger 0 fear 45 amazement 30 disgust 30
+страви принесли з відбитками пальців на тарілках joy 0 sadness 0 anger 0 fear 45 amazement 30 disgust 30
+страви принесли з відбитками пальців на тарілках, joy 0 sadness 0 anger 0 fear 45 amazement 30 disgust 30
+привітний персонал та на превеликий жаль, дуже неохайний joy 0 sadness 0 anger 0 fear 30 amazement 30 disgust 30
+неохайний (брудний) заклад, страви принесли з відбитками пальців joy 0 sadness 0 anger 0 fear 45 amazement 30 disgust 30
+привітний персонал та на превеликий жаль, дуже неохайний (брудний joy 0 sadness 0 anger 0 fear 15 amazement 30 disgust 30
+привітний персонал та на превеликий жаль, дуже неохайний (брудний) joy 0 sadness 0 anger 0 fear 15 amazement 30 disgust 30
+(брудний) заклад, страви принесли з відбитками пальців на тарілках joy 0 sadness 0 anger 0 fear 15 amazement 30 disgust 30
+(брудний) заклад, страви принесли з відбитками пальців на тарілках, joy 0 sadness 0 anger 0 fear 45 amazement 30 disgust 30
+привітний персонал та на превеликий жаль, дуже неохайний (брудний) заклад joy 0 sadness 0 anger 0 fear 15 amazement 15 disgust 30
+пнеохайний (брудний) заклад, страви принесли з відбитками пальців на тарілкахривітний персонал та на превеликий жаль, дуже неохайний (брудний) заклад, joy 0 sadness 0 anger 0 fear 45 amazement 30 disgust 30
+неохайний (брудний) заклад, страви принесли з відбитками пальців на тарілках, joy 0 sadness 0 anger 0 fear 30 amazement 30 disgust 30
+страви принесли з відбитками пальців на тарілках, мабуть усіх працівників joy 0 sadness 0 anger 0 fear 30 amazement 30 disgust 30
+страви принесли з відбитками пальців на тарілках, мабуть усіх працівників; joy 0 sadness 0 anger 0 fear 30 amazement 45 disgust 30
+Низькі ціни та привітний персонал та на превеликий жаль, дуже неохайний joy 0 sadness 0 anger 0 fear 30 amazement 45 disgust 30
+дуже неохайний (брудний) заклад, страви принесли з відбитками пальців на тарілках joy 0 sadness 0 anger 0 fear 30 amazement 45 disgust 45
+дуже неохайний (брудний) заклад, страви принесли з відбитками пальців на тарілках, joy 0 sadness 0 anger 0 fear 30 amazement 45 disgust 45
+Низькі ціни та привітний персонал та на превеликий жаль, дуже неохайний (брудний) joy 0 sadness 0 anger 0 fear 30 amazement 45 disgust 15
+на превеликий жаль, дуже неохайний (брудний) заклад, страви принесли з відбитками пальців joy 0 sadness 0 anger 0 fear 30 amazement 45 disgust 30
+(брудний) заклад, страви принесли з відбитками пальців на тарілках, мабуть усіх працівників joy 0 sadness 0 anger 0 fear 30 amazement 45 disgust 60
+(брудний) заклад, страви принесли з відбитками пальців на тарілках, мабуть усіх працівників; joy 0 sadness 0 anger 0 fear 30 amazement 45 disgust 60
+страви принесли з відбитками пальців на тарілках, мабуть усіх працівників; брудні скатертини joy 0 sadness 0 anger 0 fear 30 amazement 45 disgust 60
+страви принесли з відбитками пальців на тарілках, мабуть усіх працівників; брудні скатертини. joy 0 sadness 0 anger 0 fear 30 amazement 60 disgust 60
+Низькі ціни та привітний персонал та на превеликий жаль, дуже неохайний (брудний) заклад joy 0 sadness 0 anger 0 fear 30 amazement 60 disgust 30
+Низькі ціни та привітний персонал та на превеликий жаль, дуже неохайний (брудний) заклад, joy 0 sadness 0 anger 0 fear 30 amazement 45 disgust 30
+неохайний (брудний) заклад, страви принесли з відбитками пальців на тарілках, мабуть усіх працівників joy 0 sadness 0 anger 0 fear 30 amazement 45 disgust 60
+неохайний (брудний) заклад, страви принесли з відбитками пальців на тарілках, мабуть усіх працівників; joy 0 sadness 0 anger 0 fear 30 amazement 45 disgust 60
+страви принесли з відбитками пальців на тарілках, мабуть усіх працівників; брудні скатертини joy 0 sadness 0 anger 0 fear 45 amazement 45 disgust 60
+страви принесли з відбитками пальців на тарілках, мабуть усіх працівників; брудні скатертини.  joy 0 sadness 0 anger 0 fear 45 amazement 45 disgust 60
+дуже неохайний (брудний) заклад, страви принесли з відбитками пальців на тарілках, мабуть усіх працівників joy 0 sadness 0 anger 0 fear 45 amazement 45 disgust 60
+дуже неохайний (брудний) заклад, страви принесли з відбитками пальців на тарілках, мабуть усіх працівників; joy 0 sadness 0 anger 0 fear 45 amazement 45 disgust 60
+(брудний) заклад, страви принесли з відбитками пальців на тарілках, мабуть усіх працівників; брудні скатертини joy 0 sadness 0 anger 0 fear 45 amazement 45 disgust 45
+(брудний) заклад, страви принесли з відбитками пальців на тарілках, мабуть усіх працівників; брудні скатертини. joy 0 sadness 0 anger 0 fear 45 amazement 45 disgust 45
+привітний персонал та на превеликий жаль, дуже неохайний (брудний) заклад, страви принесли з відбитками пальців joy 0 sadness 0 anger 0 fear 30 amazement 30 disgust 45
+неохайний (брудний) заклад, страви принесли з відбитками пальців на тарілках, мабуть усіх працівників; брудні скатертини joy 0 sadness 0 anger 0 fear 45 amazement 60 disgust 45
+неохайний (брудний) заклад, страви принесли з відбитками пальців на тарілках, мабуть усіх працівників; брудні скатертини. joy 0 sadness 0 anger 0 fear 45 amazement 60 disgust 60
+(брудний) заклад, страви принесли з відбитками пальців на тарілках, мабуть усіх працівників; брудні скатертини joy 0 sadness 0 anger 0 fear 45 amazement 45 disgust 60
+(брудний) заклад, страви принесли з відбитками пальців на тарілках, мабуть усіх працівників; брудні скатертини.  joy 0 sadness 0 anger 0 fear 45 amazement 45 disgust 60
+дуже неохайний (брудний) заклад, страви принесли з відбитками пальців на тарілках, мабуть усіх працівників; брудні скатертини joy 0 sadness 0 anger 0 fear 45 amazement 60 disgust 60
+дуже неохайний (брудний) заклад, страви принесли з відбитками пальців на тарілках, мабуть усіх працівників; брудні скатертини. joy 0 sadness 0 anger 0 fear 45 amazement 60 disgust 60
+неохайний (брудний) заклад, страви принесли з відбитками пальців на тарілках, мабуть усіх працівників; брудні скатертини joy 0 sadness 0 anger 0 fear 60 amazement 60 disgust 60
+неохайний (брудний) заклад, страви принесли з відбитками пальців на тарілках, мабуть усіх працівників; брудні скатертини.  joy 0 sadness 0 anger 0 fear 60 amazement 60 disgust 60
+на превеликий жаль, дуже неохайний (брудний) заклад, страви принесли з відбитками пальців на тарілках, мабуть усіх працівників joy 0 sadness 0 anger 0 fear 60 amazement 45 disgust 60
+на превеликий жаль, дуже неохайний (брудний) заклад, страви принесли з відбитками пальців на тарілках, мабуть усіх працівників; joy 0 sadness 0 anger 0 fear 60 amazement 45 disgust 60
+Низькі ціни та привітний персонал та на превеликий жаль, дуже неохайний (брудний) заклад, страви принесли з відбитками пальців joy 0 sadness 0 anger 0 fear 45 amazement 45 disgust 60
+жаль, дуже неохайний (брудний) заклад, страви принесли з відбитками пальців на тарілках, мабуть усіх працівників; брудні скатертини joy 0 sadness 0 anger 0 fear 45 amazement 60 disgust 60
+жаль, дуже неохайний (брудний) заклад, страви принесли з відбитками пальців на тарілках, мабуть усіх працівників; брудні скатертини.  joy 0 sadness 0 anger 0 fear 45 amazement 60 disgust 60
+на превеликий жаль, дуже неохайний (брудний) заклад, страви принесли з відбитками пальців на тарілках, мабуть усіх працівників; брудні скатертини joy 0 sadness 0 anger 0 fear 60 amazement 60 disgust 60
+на превеликий жаль, дуже неохайний (брудний) заклад, страви принесли з відбитками пальців на тарілках, мабуть усіх працівників; брудні скатертини. joy 0 sadness 0 anger 0 fear 60 amazement 60 disgust 60
+Низькі ціни та привітний персонал та на превеликий жаль, дуже неохайний (брудний) заклад, страви принесли з відбитками пальців на тарілках joy 0 sadness 0 anger 0 fear 30 amazement 30 disgust 60
+Низькі ціни та привітний персонал та на превеликий жаль, дуже неохайний (брудний) заклад, страви принесли з відбитками пальців на тарілках, joy 0 sadness 0 anger 0 fear 30 amazement 30 disgust 60
+привітний персонал та на превеликий жаль, дуже неохайний (брудний) заклад, страви принесли з відбитками пальців на тарілках, мабуть усіх працівників joy 0 sadness 0 anger 0 fear 30 amazement 30 disgust 45
+привітний персонал та на превеликий жаль, дуже неохайний (брудний) заклад, страви принесли з відбитками пальців на тарілках, мабуть усіх працівників; joy 0 sadness 0 anger 0 fear 30 amazement 30 disgust 45
+привітний персонал та на превеликий жаль, дуже неохайний (брудний) заклад, страви принесли з відбитками пальців на тарілках, мабуть усіх працівників; брудні скатертини joy 0 sadness 0 anger 0 fear 30 amazement 45 disgust 45
+привітний персонал та на превеликий жаль, дуже неохайний (брудний) заклад, страви принесли з відбитками пальців на тарілках, мабуть усіх працівників; брудні скатертини. joy 0 sadness 0 anger 0 fear 30 amazement 45 disgust 45
+Низькі ціни та привітний персонал та на превеликий жаль, дуже неохайний (брудний) заклад, страви принесли з відбитками пальців на тарілках, мабуть усіх працівників joy 0 sadness 0 anger 0 fear 30 amazement 30 disgust 30
+Низькі ціни та привітний персонал та на превеликий жаль, дуже неохайний (брудний) заклад, страви принесли з відбитками пальців на тарілках, мабуть усіх працівників; joy 0 sadness 0 anger 0 fear 30 amazement 30 disgust 30
+Низькі ціни та привітний персонал та на превеликий жаль, дуже неохайний (брудний) заклад, страви принесли з відбитками пальців на тарілках, мабуть усіх працівників; брудні скатертини joy 0 sadness 0 anger 0 fear 15 amazement 30 disgust 30
+Низькі ціни та привітний персонал та на превеликий жаль, дуже неохайний (брудний) заклад, страви принесли з відбитками пальців на тарілках, мабуть усіх працівників; брудні скатертини.  joy 0 sadness 0 anger 0 fear 15 amazement 30 disgust 30
+У joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+стравах joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+від joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+"мівінячих joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+"мівінячих" joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+приправ joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+аж joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+оскома joy 0 sadness 0 anger 0 fear 0 amazement 15 disgust 15
+взяла joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+взяла. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+оскома взяла joy 0 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+оскома взяла. joy 0 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+від "мівінячих" приправ аж оскома взяла joy 0 sadness 0 anger 0 fear 0 amazement 30 disgust 15
+від "мівінячих" приправ аж оскома взяла. joy 0 sadness 0 anger 0 fear 0 amazement 30 disgust 15
+У стравах від "мівінячих" приправ аж оскома взяла joy 0 sadness 0 anger 0 fear 15 amazement 30 disgust 15
+У стравах від "мівінячих" приправ аж оскома взяла. joy 0 sadness 0 anger 0 fear 15 amazement 30 disgust 15
+Фасад joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+некрасивий joy 0 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+некрасивий- joy 0 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+навкруг joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+- joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+технічні joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+будівлі joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+різних joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+підприємств joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+підприємств, joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+які joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+огорожа joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+жодним joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чином joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+приховує joy 0 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+приховує. joy 0 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Фасад некрасивий joy 0 sadness 0 anger 0 fear 0 amazement 15 disgust 15
+Фасад некрасивий- joy 0 sadness 0 anger 0 fear 0 amazement 15 disgust 15
+технічні будівлі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+будівлі різних підприємств joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+будівлі різних підприємств, joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+навкруг - технічні будівлі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+технічні будівлі різних підприємств joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+технічні будівлі різних підприємств, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Фасад некрасивий- навкруг - технічні будівлі joy 0 sadness 0 anger 0 fear 0 amazement 15 disgust 30
+навкруг - технічні будівлі різних підприємств joy 0 sadness 0 anger 0 fear 0 amazement 15 disgust 30
+навкруг - технічні будівлі різних підприємств, joy 0 sadness 0 anger 0 fear 0 amazement 15 disgust 30
+Фасад некрасивий- навкруг - технічні будівлі різних підприємств joy 0 sadness 0 anger 15 fear 0 amazement 30 disgust 30
+Фасад некрасивий- навкруг - технічні будівлі різних підприємств, joy 0 sadness 0 anger 15 fear 0 amazement 30 disgust 30
+будівлі різних підприємств, які огорожа жодним чином не приховує joy 0 sadness 0 anger 15 fear 0 amazement 30 disgust 30
+будівлі різних підприємств, які огорожа жодним чином не приховує. joy 0 sadness 0 anger 15 fear 0 amazement 30 disgust 30
+технічні будівлі різних підприємств, які огорожа жодним чином не приховує joy 0 sadness 0 anger 15 fear 0 amazement 15 disgust 15
+технічні будівлі різних підприємств, які огорожа жодним чином не приховує. joy 0 sadness 0 anger 15 fear 0 amazement 15 disgust 15
+навкруг - технічні будівлі різних підприємств, які огорожа жодним чином не приховує joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 15
+навкруг - технічні будівлі різних підприємств, які огорожа жодним чином не приховує. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 15
+Фасад некрасивий- навкруг - технічні будівлі різних підприємств, які огорожа жодним чином не приховує joy 0 sadness 0 anger 15 fear 15 amazement 0 disgust 15
+Фасад некрасивий- навкруг - технічні будівлі різних підприємств, які огорожа жодним чином не приховує. joy 0 sadness 0 anger 15 fear 15 amazement 0 disgust 15
+Та joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+мабуть joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+мабуть, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+це joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нормальний joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сервіс joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+таку joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ціну joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ціну......(((( joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 0
+нормальний сервіс joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нормальний сервіс на таку ціну joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нормальний сервіс на таку ціну......(((( joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Та мабуть, це нормальний сервіс на таку ціну joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Та мабуть, це нормальний сервіс на таку ціну......(((( joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+ДОброго joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дня joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дня. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ДОброго дня joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ДОброго дня. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Хочу joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+залишити joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+свій joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відгук joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+велику joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+вдячність joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+роботі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+даного joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+закладу joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+закладу. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+свій відгук joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Хочу залишити свій відгук joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+вдячність роботі даного закладу joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+вдячність роботі даного закладу. joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Хочу залишити свій відгук і велику вдячність joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+залишити свій відгук і велику вдячність роботі даного закладу. joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Хочу залишити свій відгук і велику вдячність роботі даного закладу joy 15 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+Хочу залишити свій відгук і велику вдячність роботі даного закладу. joy 15 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+А joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+головне joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+професіоналізму joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+та joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+терпінню joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+адміністратора joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+та joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кухаря joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+що joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+працювали joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зміні joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+23 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+травня joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+травня. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+23 травня joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+23 травня. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на зміні 23 травня joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на зміні 23 травня.  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+А головне професіоналізму та терпінню адміністратора та кухаря що працювали на зміні 23 травня joy 15 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+А головне професіоналізму та терпінню адміністратора та кухаря що працювали на зміні 23 травня.  joy 15 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+Мега joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+велика joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вдячність joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+за joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+оперативність joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+оперативність, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+за joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+лічені joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хвилини joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ви joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нагодували joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+весь joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+клас joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+голодних joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+школярів joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+школярів. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+велика вдячність joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+лічені хвилини joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Мега велика вдячність joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вдячність за оперативність joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+вдячність за оперативність, joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+клас голодних школярів joy 15 sadness 0 anger 15 fear 15 amazement 0 disgust 0
+клас голодних школярів. joy 15 sadness 0 anger 15 fear 15 amazement 0 disgust 0
+велика вдячність за оперативність joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+велика вдячність за оперативність, joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Мега велика вдячність за оперативність joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Мега велика вдячність за оперативність, joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+нагодували весь клас голодних школярів joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+нагодували весь клас голодних школярів. joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Ви нагодували весь клас голодних школярів joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Ви нагодували весь клас голодних школярів. joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+а лічені хвилини Ви нагодували весь клас голодних школярів joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+за лічені хвилини Ви нагодували весь клас голодних школярів. joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+вдячність за оперативність, за лічені хвилини Ви нагодували весь клас голодних школярів joy 30 sadness 15 anger 0 fear 15 amazement 0 disgust 0
+вдячність за оперативність, за лічені хвилини Ви нагодували весь клас голодних школярів. joy 30 sadness 15 anger 0 fear 15 amazement 0 disgust 0
+Мега велика вдячність за оперативність, за лічені хвилини Ви нагодували весь клас голодних школярів joy 15 sadness 15 anger 0 fear 15 amazement 0 disgust 0
+Мега велика вдячність за оперативність, за лічені хвилини Ви нагодували весь клас голодних школярів. joy 15 sadness 15 anger 0 fear 15 amazement 0 disgust 0
+Де joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+знайти joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+можна joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+фотозвіти joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+фотозвіти?? joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+можна фотозвіти joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+можна фотозвіти?? joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+знайти можна фотозвіти joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+знайти можна фотозвіти?)  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Де знайти можна фотозвіти joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Де знайти можна фотозвіти??  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Дуже joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сподобалося joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+сподобалося... joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Дуже сподобалося joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Дуже сподобалося... joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Гарна joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+територія joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+,оюслуговування joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+,оюслуговування. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Гарна територія joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+територія ,оюслуговування joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+територія ,оюслуговування. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Гарна територія ,оюслуговування joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Гарна територія ,оюслуговування joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
