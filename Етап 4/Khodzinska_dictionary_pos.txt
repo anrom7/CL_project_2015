@@ -338,6 +338,52 @@
 все   adj:n:v_zna:&pron:dem   чудово   adv:compb   і   conj:coord   швидко   adv:compb   зробив   verb:past:m:perf   та   conj:coord   спакував   verb:past:m:perf   замовлення   noun:n:v_zna   .   SENT_END      
 Персонал   noun:m:v_naz   все   adj:n:v_zna:&pron:dem   чудово   adv:compb   і   conj:coord   швидко   adv:compb   зробив   verb:past:m:perf   та   conj:coord   спакував   verb:past:m:perf   замовлення   noun:n:v_zna      
 Персонал   noun:m:v_naz   все   adj:n:v_zna:&pron:dem   чудово   adv:compb   і   conj:coord   швидко   adv:compb   зробив   verb:past:m:perf   та   conj:coord   спакував   verb:past:m:perf   замовлення   noun:n:v_zna   .   SENT_END      
+Найкраще   adj:n:v_naz:super      
+хачапурі   noun:n:v_naz:nv      
+хачапурі   noun:n:v_naz:nv   ,          
+що   conj:subord      
+куштував   verb:past:m:imperf      
+      (   -   справді   part      
+багато   adv      
+сиру   noun:m:v_rod      
+сулугуні   noun:m:v_rod:nv      
+сулугуні   noun:m:v_rod:nv   )   -      
+та   conj:coord      
+дуже   adv      
+ніжна   adj:f:v_naz:compb      
+телятина   noun:f:v_naz      
+у   prep:rv_zna:rv_mis:rv_rod:v-u      
+салаті   noun:m:v_mis      
+салаті   noun:m:v_mis   .   SENT_END      
+Найкраще   adj:n:v_naz:super   хачапурі   noun:n:v_naz:nv      
+Найкраще   adj:n:v_naz:super   хачапурі   noun:n:v_naz:nv   ,          
+багато   adv   сиру   noun:m:v_rod      
+дуже   adv   ніжна   adj:f:v_naz:compb      
+ніжна   adj:f:v_naz:compb   телятина   noun:f:v_naz      
+багато   adv   сиру   noun:m:v_rod   сулугуні   noun:m:v_rod:nv      
+багато   adv   сиру   noun:m:v_rod   сулугуні   noun:m:v_rod:nv   )   -      
+дуже   adv   ніжна   adj:f:v_naz:compb   телятина   noun:f:v_naz      
+телятина   noun:f:v_naz   у   prep:rv_zna:rv_mis:rv_rod:v-u   салаті   noun:m:v_mis      
+телятина   noun:f:v_naz   у   prep:rv_zna:rv_mis:rv_rod:v-u   салаті   noun:m:v_mis   .   SENT_END      
+Найкраще   adj:n:v_naz:super   хачапурі   noun:n:v_naz:nv   ,       що   conj:subord   куштував   verb:past:m:imperf      
+ніжна   adj:f:v_naz:compb   телятина   noun:f:v_naz   у   prep:rv_zna:rv_mis:rv_rod:v-u   салаті   noun:m:v_mis      
+ніжна   adj:f:v_naz:compb   телятина   noun:f:v_naz   у   prep:rv_zna:rv_mis:rv_rod:v-u   салаті   noun:m:v_mis   .   SENT_END      
+дуже   adv   ніжна   adj:f:v_naz:compb   телятина   noun:f:v_naz   у   prep:rv_zna:rv_mis:rv_rod:v-u   салаті   noun:m:v_mis      
+дуже   adv   ніжна   adj:f:v_naz:compb   телятина   noun:f:v_naz   у   prep:rv_zna:rv_mis:rv_rod:v-u   салаті   noun:m:v_mis   .   SENT_END      
+багато   adv   сиру   noun:m:v_rod   сулугуні   noun:m:v_rod:nv   )   -   та   conj:coord   дуже   adv   ніжна   adj:f:v_naz:compb   телятина   noun:f:v_naz      
+сулугуні   noun:m:v_rod:nv   )   -   та   conj:coord   дуже   adv   ніжна   adj:f:v_naz:compb   телятина   noun:f:v_naz   у   prep:rv_zna:rv_mis:rv_rod:v-u   салаті   noun:m:v_mis      
+сулугуні   noun:m:v_rod:nv   )   -   та   conj:coord   дуже   adv   ніжна   adj:f:v_naz:compb   телятина   noun:f:v_naz   у   prep:rv_zna:rv_mis:rv_rod:v-u   салаті   noun:m:v_mis   .   SENT_END      
+Найкраще   adj:n:v_naz:super   хачапурі   noun:n:v_naz:nv   ,       що   conj:subord   куштував   verb:past:m:imperf   (   -   справді   part   багато   adv   сиру   noun:m:v_rod   сулугуні   noun:m:v_rod:nv      
+Найкраще   adj:n:v_naz:super   хачапурі   noun:n:v_naz:nv   ,       що   conj:subord   куштував   verb:past:m:imperf   (   -   справді   part   багато   adv   сиру   noun:m:v_rod   сулугуні   noun:m:v_rod:nv   )   -      
+  (   -   справді   part   багато   adv   сиру   noun:m:v_rod   сулугуні   noun:m:v_rod:nv   )   -   та   conj:coord   дуже   adv   ніжна   adj:f:v_naz:compb   телятина   noun:f:v_naz   у   prep:rv_zna:rv_mis:rv_rod:v-u   салаті   noun:m:v_mis      
+  (   -   справді   part   багато   adv   сиру   noun:m:v_rod   сулугуні   noun:m:v_rod:nv   )   -   та   conj:coord   дуже   adv   ніжна   adj:f:v_naz:compb   телятина   noun:f:v_naz   у   prep:rv_zna:rv_mis:rv_rod:v-u   салаті   noun:m:v_mis   .   SENT_END      
+Найкраще   adj:n:v_naz:super   хачапурі   noun:n:v_naz:nv   ,       що   conj:subord   куштував   verb:past:m:imperf   (   -   справді   part   багато   adv   сиру   noun:m:v_rod   сулугуні   noun:m:v_rod:nv   )   -   та   conj:coord   дуже   adv   ніжна   adj:f:v_naz:compb   телятина   noun:f:v_naz      
+куштував   verb:past:m:imperf   (   -   справді   part   багато   adv   сиру   noun:m:v_rod   сулугуні   noun:m:v_rod:nv   )   -   та   conj:coord   дуже   adv   ніжна   adj:f:v_naz:compb   телятина   noun:f:v_naz   у   prep:rv_zna:rv_mis:rv_rod:v-u   салаті   noun:m:v_mis      
+куштував   verb:past:m:imperf   (   -   справді   part   багато   adv   сиру   noun:m:v_rod   сулугуні   noun:m:v_rod:nv   )   -   та   conj:coord   дуже   adv   ніжна   adj:f:v_naz:compb   телятина   noun:f:v_naz   у   prep:rv_zna:rv_mis:rv_rod:v-u   салаті   noun:m:v_mis   .   SENT_END      
+хачапурі   noun:n:v_naz:nv   ,       що   conj:subord   куштував   verb:past:m:imperf   (   -   справді   part   багато   adv   сиру   noun:m:v_rod   сулугуні   noun:m:v_rod:nv   )   -   та   conj:coord   дуже   adv   ніжна   adj:f:v_naz:compb   телятина   noun:f:v_naz   у   prep:rv_zna:rv_mis:rv_rod:v-u   салаті   noun:m:v_mis      
+хачапурі   noun:n:v_naz:nv   ,       що   conj:subord   куштував   verb:past:m:imperf   (   -   справді   part   багато   adv   сиру   noun:m:v_rod   сулугуні   noun:m:v_rod:nv   )   -   та   conj:coord   дуже   adv   ніжна   adj:f:v_naz:compb   телятина   noun:f:v_naz   у   prep:rv_zna:rv_mis:rv_rod:v-u   салаті   noun:m:v_mis   .   SENT_END      
+Найкраще   adj:n:v_naz:super   хачапурі   noun:n:v_naz:nv   ,       що   conj:subord   куштував   verb:past:m:imperf   (   -   справді   part   багато   adv   сиру   noun:m:v_rod   сулугуні   noun:m:v_rod:nv   )   -   та   conj:coord   дуже   adv   ніжна   adj:f:v_naz:compb   телятина   noun:f:v_naz   у   prep:rv_zna:rv_mis:rv_rod:v-u   салаті   noun:m:v_mis      
+Найкраще   adj:n:v_naz:super   хачапурі   noun:n:v_naz:nv   ,       що   conj:subord   куштував   verb:past:m:imperf   (   -   справді   part   багато   adv   сиру   noun:m:v_rod   сулугуні   noun:m:v_rod:nv   )   -   та   conj:coord   дуже   adv   ніжна   adj:f:v_naz:compb   телятина   noun:f:v_naz   у   prep:rv_zna:rv_mis:rv_rod:v-u   салаті   noun:m:v_mis   .   SENT_END      
 Все   adj:n:v_naz:&pron:dem      
 Все   adj:n:v_naz:&pron:dem   ,          
 як   adv:&pron:int:rel      
@@ -1741,8 +1787,8 @@ Lokal   -
 Дуже   adv   сподобалося   verb:rev:past:n:perf   .   SENT_END      
 Гарна   adj:f:v_naz:compb      
 територія   noun:f:v_naz      
-      ,       оюслуговування   -      
-      ,       оюслуговування   -   .   SENT_END      
+  , оюслуговування   -      
+  , оюслуговування   -   .   SENT_END      
 Гарна   adj:f:v_naz:compb   територія   noun:f:v_naz      
 територія   noun:f:v_naz   ,       оюслуговування   -      
 територія   noun:f:v_naz   ,       оюслуговування   -   .   SENT_END      
