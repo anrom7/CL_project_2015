@@ -362,6 +362,7 @@
 ніжна   adj:f:v_naz:compb   телятина   noun:f:v_naz      
 багато   adv   сиру   noun:m:v_rod   сулугуні   noun:m:v_rod:nv      
 багато   adv   сиру   noun:m:v_rod   сулугуні   noun:m:v_rod:nv   )   -      
+дуже   adv   ніжна   adj:f:v_naz:compb   телятина -  noun:f:v_naz 
 дуже   adv   ніжна   adj:f:v_naz:compb   телятина   noun:f:v_naz      
 телятина   noun:f:v_naz   у   prep:rv_zna:rv_mis:rv_rod:v-u   салаті   noun:m:v_mis      
 телятина   noun:f:v_naz   у   prep:rv_zna:rv_mis:rv_rod:v-u   салаті   noun:m:v_mis   .   SENT_END      
@@ -899,6 +900,7 @@ Lokal   -
 ознайомити   verb:inf:perf   під   prep:rv_zna:rv_oru   підпис   noun:m:v_zna      
 треба   predic   ознайомити   verb:inf:perf   під   prep:rv_zna:rv_oru   підпис   noun:m:v_zna      
 зі   prep:rv_rod:rv_zna:rv_oru   статтею   noun:f:v_oru   7   number   Закону   noun:m:v_rod      
+статтею   noun:f:v_oru   7   number
 статтею   noun:f:v_oru   7   number   Закону   noun:m:v_rod   України   noun:f:v_rod      
 Офіціантів   noun:p:v_zna:anim   треба   predic   ознайомити   verb:inf:perf   під   prep:rv_zna:rv_oru   підпис   noun:m:v_zna      
 ознайомити   verb:inf:perf   під   prep:rv_zna:rv_oru   підпис   noun:m:v_zna   з   prep:rv_rod:rv_zna:rv_oru   правилами   noun:p:v_oru      
@@ -1435,6 +1437,7 @@ Lokal   -
 дітям   noun:p:v_dav:anim   .   SENT_END      
 дуже   adv   подобається   verb:rev:pres:s:3:imperf      
 Мені   noun:s:v_dav:anim:&pron:pers:1   дуже   adv   подобається   verb:rev:pres:s:3:imperf      
+моїм   adj:p:v_dav:&pron:pos дітям   noun:p:v_dav:anim
 подобається   verb:rev:pres:s:3:imperf   і   conj:coord   моїм   adj:p:v_dav:&pron:pos   дітям   noun:p:v_dav:anim      
 подобається   verb:rev:pres:s:3:imperf   і   conj:coord   моїм   adj:p:v_dav:&pron:pos   дітям   noun:p:v_dav:anim   .   SENT_END      
 Мені   noun:s:v_dav:anim:&pron:pers:1   дуже   adv   подобається   verb:rev:pres:s:3:imperf   і   conj:coord   моїм   adj:p:v_dav:&pron:pos   дітям   noun:p:v_dav:anim      
@@ -1629,6 +1632,7 @@ Lokal   -
 оскома   noun:f:v_naz      
 взяла   verb:past:f:perf      
 взяла   verb:past:f:perf   .   SENT_END      
+"мівінячих"   (adj:p:v_rod)   приправ   noun:p:v_rod
 оскома   noun:f:v_naz   взяла   verb:past:f:perf      
 оскома   noun:f:v_naz   взяла   verb:past:f:perf   .   SENT_END      
 від   prep:rv_rod   "мівінячих"   (adj:p:v_rod)   приправ   noun:p:v_rod   аж   part   оскома   noun:f:v_naz   взяла   verb:past:f:perf      
@@ -1789,7 +1793,8 @@ Lokal   -
 територія   noun:f:v_naz      
   , оюслуговування   -      
   , оюслуговування   -   .   SENT_END      
-Гарна   adj:f:v_naz:compb   територія   noun:f:v_naz      
+  , оюслуговування   -  
+  Гарна   adj:f:v_naz:compb   територія   noun:f:v_naz      
 територія   noun:f:v_naz   ,       оюслуговування   -      
 територія   noun:f:v_naz   ,       оюслуговування   -   .   SENT_END      
 Гарна   adj:f:v_naz:compb   територія   noun:f:v_naz   ,       оюслуговування   -      
