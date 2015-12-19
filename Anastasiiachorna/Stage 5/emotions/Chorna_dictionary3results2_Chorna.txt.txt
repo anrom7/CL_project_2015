@@ -1,0 +1,431 @@
+﻿Ось joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+знайомі joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+порадили joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пообідати joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Гасовій joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+«Гасовій joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+лямпі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+лямпі». joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ось і  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і знайомі joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+знайомі порадили joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+порадили пообідати  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в «Гасовій joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+«Гасовій лямпі». joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ось і знайомі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+знайомі порадили пообідати joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і знайомі порадили joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пообідати в «Гасовій joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в «Гасовій лямпі». joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0 
+пообідати в «Гасовій лямпі». joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+порадили пообідати в «Гасовій лямпі». joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+знайомі порадили пообідати в «Гасовій лямпі». joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і знайомі порадили пообідати в «Гасовій лямпі». joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ось і знайомі порадили пообідати в «Гасовій лямпі». joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+
+Знайшли joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+заклад joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+доволі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+легко joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+легко, joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+навіть joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+якщо joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ви joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+помітете joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вивіски joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вивіски, joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+усі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+знають joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+де  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+знаходиться joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+лямпа joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+«лямпа». joy 15  sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Знайшли заклад  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+заклад доволі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+доволі легко joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+легко, навіть joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+навіть якщо joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ви не joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+помітете вивіски joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не помітете joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+усі знають joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вивіски, усі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+де знаходиться joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+знаходиться «лямпа». joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Знайшли заклад доволі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+заклад доволі легко joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+легко, навіть якщо joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+якщо ви не joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+не помітете вивіски joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+усі знають де joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+знають де знаходиться joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+де знаходиться «лямпа». joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Знайшли заклад доволі легко joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+заклад доволі легко, навіть joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+доволі легко, навіть  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+навіть якщо ви не  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+не помітете вивіски, усі joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+усі знають де знаходиться joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+знають де знаходиться «лямпа». joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Знайшли заклад доволі легко, навіть  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Знайшли заклад доволі легко, навіть якщо joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+якщо ви не помітете вивіски joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+ви не помітете вивіски, joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+усі знають де знаходиться «лямпа». joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Знайшли заклад доволі легко, навіть якщо ви  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ви не помітете вивіски, усі знають joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+легко, навіть якщо ви не  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+ви не помітете вивіски, усі знають  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+помітете вивіски, усі знають де знаходиться «лямпа». joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не помітете вивіски, усі знають де знаходиться «лямпа». joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Знайшли заклад доволі легко, навіть якщо ви не помітете вивіски, усі знають де знаходиться «лямпа». joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+
+Нам joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+все joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+надзвичайно joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сподобалось joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сподобалось. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Нам все joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+надзвичайно сподобалось. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+все надзвичайно joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+все надзвичайно сподобалось. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Нам все надзвичайно joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Нам все надзвичайно joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Нам все надзвичайно сподобалось. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+
+На joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+жаль joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+жаль, joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+коли joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ми joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+були joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+(15.08.2012) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тераса  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+була joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зачинена joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+зачинена, joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+тому joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ми joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сиділи joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зале joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+перед joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+самою joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+терасою joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+терасою. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+На жаль joy 0 sadness 15 anger 30 fear 0 amazement 0 disgust 0
+самою терасою. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+перед самою терасою. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+На жаль, коли joy 0 sadness 15 anger 30 fear 0 amazement 0 disgust 0
+коли ми були joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+були (15.08.2012) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+коли ми joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тераса була joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+була зачинена joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+тому ми joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ми сиділи joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сиділи у joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у зале joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+перед самою терасою. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+перед самою joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+самою терасою. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тераса була зачинена joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+були (15.08.2012) тераса joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тераса була зачинена, тому joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+тому ми сиділи у  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сиділи у зале перед  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тому ми сиділи у зале  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тераса була зачинена, тому joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+(15.08.2012) тераса була зачинена joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+На жаль, коли ми були (15.08.2012) тераса joy 0 sadness 15 anger 30 fear 0 amazement 0 disgust 0
+На жаль, коли ми були (15.08.2012) тераса була joy 0 sadness 15 anger 30 fear 0 amazement 0 disgust 0
+була зачинена, тому ми сиділи joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+була зачинена, тому ми сиділи у  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+була зачинена, тому ми сиділи у зале перед самою терасою. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тераса була зачинена, тому ми сиділи у зале перед самою терасою. joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+На жаль, коли ми були (15.08.2012) тераса була зачинена, тому ми сиділи у joy 0 sadness 15 anger 30 fear 0 amazement 0 disgust 0
+На жаль, коли ми були (15.08.2012) тераса була зачинена, тому ми сиділи у зале  joy 0 sadness 15 anger 30 fear 0 amazement 0 disgust 0
+На жаль, коли ми були (15.08.2012) тераса була зачинена, тому ми сиділи у зале перед самою терасою. joy 0 sadness 15 anger 30 fear 0 amazement 0 disgust 0
+
+
+Хлопець joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+офіціант joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+офіціант joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+був joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ввічливий joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ввічливий, joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відповів joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+усі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+наші joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+запитання joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+запитання. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Хлопець-офіціант joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+був дуже  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже ввічливий joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відповів на joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на усі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+наші запитання. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Хлопець-офіціант був  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+був дуже ввічливий joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відповів на усі joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+усі наші запитання. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Хлопець-офіціант був дуже joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+був дуже ввічливий, відповів joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відповів на усі наші joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на усі наші запитання. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Хлопець-офіціант був дуже ввічливий joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відповів на усі наші запитання. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ввічливий, відповів на усі наші joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже ввічливий, відповів на усі  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+був дуже ввічливий, відповів на joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Хлопець-офіціант був дуже ввічливий, відповів joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ввічливий, відповів на усі наші запитання. joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Хлопець-офіціант був дуже ввічливий, відповів на joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже ввічливий, відповів на усі наші запитання. joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+був дуже ввічливий, відповів на усі наші joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+офіціант був дуже ввічливий, відповів на усі joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Хлопець-офіціант був дуже ввічливий, відповів на усі  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Хлопець-офіціант був дуже ввічливий, відповів на усі наші запитання. joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+
+Щодо joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+швидкості joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+виконання joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+замовлення joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+замовлення, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ми joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чекали joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+недовго joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+недовго, joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+найдовше joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+несли joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вареники joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+мачкою joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+(30 хв.) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+(30 хв.). joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Щодо швидкості  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0 
+виконання замовлення, ми чекали недовго, найдовше несли вареники з мачкою (30 хв.). joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+ми чекали joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чекали недовго joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+найдовше несли joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+вареники з  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+мачкою (30 хв.). joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Щодо швидкості виконання  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+замовлення, ми чекали  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ми чекали недовго, joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+найдовше несли вареники joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+з мачкою (30 хв.). joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Щодо швидкості виконання замовлення joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ми чекали недовго, найдовше joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+несли вареники з мачкою joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вареники з мачкою (30 хв.). joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Щодо швидкості виконання замовлення, ми  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чекали недовго, найдовше несли вареники  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+несли вареники з мачкою (30 хв.). joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Щодо швидкості виконання замовлення, ми чекали joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ми чекали недовго, найдовше несли joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чекали недовго, найдовше несли вареники joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+недовго, найдовше несли вареники з  joy 0 sadness 15anger 0 fear 0 amazement 0 disgust 0
+Щодо швидкості виконання замовлення, ми чекали недовго, joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+найдовше несли вареники з мачкою (30 хв.).  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+виконання замовлення, ми чекали недовго, найдовше joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+недовго, найдовше несли вареники з мачкою (30 хв.). joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+виконання замовлення, ми чекали недовго, найдовше несли вареники з мачкою (30 хв.). joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Щодо швидкості виконання замовлення, ми чекали недовго, найдовше несли  joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Щодо швидкості виконання замовлення, ми чекали недовго, найдовше несли  joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Щодо швидкості виконання замовлення, ми чекали недовго, найдовше несли вареники з  joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Щодо швидкості виконання замовлення, ми чекали недовго, найдовше несли вареники з мачкою  joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Щодо швидкості виконання замовлення, ми чекали недовго, найдовше несли вареники з мачкою (30 хв.). joy 25 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+
+
+Страви joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+були joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+просто joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+надзвичайні joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+надзвичайні!!! joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Страви були joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Страви були просто joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Страви були просто надзвичайні!!! joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+просто надзвичайні!!! joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+були просто надзвичайні!!! joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Страви були просто надзвичайні!!! joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+були просто joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+
+Дуже joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сподобалось joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сподобалось! joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Дуже сподобалось! joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+
+Інтер*єр joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+цікавий joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+цікавий, joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+багато joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+різних joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ламп joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ламп, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+біографії joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+біографії, joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+фотографії joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+фотографії... joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Інтер*єр дуже joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже цікавий joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+багато різних. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+біографії, фотографії... joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ламп, біографії joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Інтер*єр дуже цікавий joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+багато різних ламп. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ламп, біографії, фотографії... joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Інтер*єр дуже цікавий, багато  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+різних ламп, біографії,  фотографії... joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+цікавий, багато різних ламп.. joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже цікавий, багато різних joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Інтер*єр дуже цікавий, багато різних  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+багато різних ламп, біографії, фотографії... joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже цікавий, багато різних ламп joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+цікавий, багато різних ламп, біографії.. joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+багато різних ламп, біографії, фотографії... joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Інтер*єр дуже цікавий, багато різних ламп. joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+цікавий, багато різних ламп, біографії, фотографії... joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+багато різних ламп, біографії, фотографії... joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Інтер*єр дуже цікавий, багато різних ламп, біографії. joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже цікавий, багато різних ламп, біографії, фотографії... joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Інтер*єр дуже цікавий, багато різних ламп, біографії, фотографії... joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
