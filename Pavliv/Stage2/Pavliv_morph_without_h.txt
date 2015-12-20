@@ -39,7 +39,6 @@
 та	      та        conj:coord 
 десерти	  десерт    noun:p:v_zna 
 .         -         SENT_END 
-
           -         SENT_START 
 Розмаїття	розмаїття  noun:n:v_naz 
 та	      та        conj:coord 
@@ -60,7 +59,6 @@
 їжа	      їжа       noun:f:v_naz 
 )	      -         - 
 .	      -         SENT_END 
-
           -         SENT_START 
 Всі	      весь      adj:p:v_naz:&pron:dem
 прцівники -         noun:p:v_naz
@@ -96,7 +94,6 @@
 помірні	  помірний  adj:p:v_naz 
 ціни	  ціна      noun:p:v_naz 
 .	      -         SENT_END 
-
           -         SENT_START 
 І	      і         conj:coord 
 кухня	  кухня     noun:f:v_naz 
@@ -105,7 +102,6 @@
 в	      в         prep:rv_zna:rv_mis:rv_rod:v-u 
 місті	  місто     noun:n:v_mis 
 !	      -         SENT_END 
-
           -         SENT_START 
 Дякуємо	  дякувати  verb:pres:p:1:imperf 
 вам	      ви        noun:p:v_dav:anim:&pron:pers:2
@@ -115,7 +111,6 @@
 чудовий	  чудовий   adj:m:v_naz:compb 
 ресторан  ресторан  noun:m:v_zna 
 !	      -         SENT_END 
-
           -         SENT_START 
 Все	      все       adv:v-u 
 дуже	  дуже      adv 
@@ -124,7 +119,6 @@
 проте	  проте     conj:coord 
 ненав'язливо ненав'язливо adv 
 .	      -         SENT_END 
-
           -         SENT_START 
 Приємна	  приємний  adj:f:v_naz:compb 
 і	      і         conj:coord 
@@ -137,7 +131,6 @@
 усміхнений	усміхнений adj:m:v_naz:v-u 
 персонал  персонал  noun:m:v_naz 
 .	      -         SENT_END 
-
           -         SENT_START 
 Завжди	  завжди    adv:&pron:gen 
 прекрасний	прекрасний adj:m:v_naz:compb 
@@ -159,7 +152,6 @@
 !         -         - 
 !	      -         - 
 !	      -         SENT_END 
-
           -         SENT_START 
 Ще	      ще        part 
 хочу	  хотіти    verb:pres:s:1:imperf 
@@ -211,7 +203,6 @@
 такі	  такий     adj:p:v_naz:&pron:def 
 ресторани ресторан  noun:p:v_naz 
 .	      -         SENT_END 
-
           -         SENT_START 
 Це	      цей       adj:n:v_naz:&pron:dem
 місце	  місце     noun:n:v_naz 
@@ -220,7 +211,6 @@
 естетичне естетичний adj:n:v_zna:compb 
 задоволення	задоволення noun:p:v_zna 
 .	      -         SENT_END 
-
           -         SENT_START 
 Щиро	 щиро       adv:compb 
 дякуємо	 дякувати   verb:pres:p:1:imperf 
@@ -235,18 +225,15 @@
 гарний	 гарний     adj:m:v_naz:compb 
 інтер'єр інтер'єр   noun:m:v_naz 
 .	     -          SENT_END 
-
          -          SENT_START 
 Дуже	 дуже       adv 
 гарний	гарний      adj:m:v_naz:compb 
 ресторан ресторан   noun:m:v_naz 
 .	     -          SENT_END 
-
          -          SENT_START 
 Рекомендуємо	рекомендувати verb:pres:p:1:imperf 
 всім	 весь       adj:p:v_dav:&pron:dem 
 .	     -          SENT_END 
-
          -          SENT_START 
 (	     -          - 
 Обов'язково	обов'язково adv 
@@ -273,7 +260,6 @@
 були	 бути        verb:past:p:imperf 
 задоволені задоволений adj:p:v_naz:compb:&adjp:pasv:past
 .	     -           SENT_END 
-
          -           SENT_START 
 Якість	 якість      noun:f:v_naz 
 повністю повністю    adv 
@@ -282,18 +268,15 @@
 європейському	європейський adj:m:v_dav 
 рівню	 рівень      noun:m:v_dav 
 .	     -           SENT_END 
-
          -           SENT_START 
 Нам	     ми          noun:p:v_dav:anim:&pron:pers:1
 сподобалося	сподобатися verb:rev:past:n:perf 
 абсолютно	абсолютно adv 
 все	     все         adj:n:v_naz:&pron:dem 
 !	     -           SENT_END 
-
          -           SENT_START 
 Дякуємо	дякувати     verb:pres:p:1:imperf 
 !	     -           SENT_END 
-
          -           SENT_START 
 Так	     так         adv:&pron:dem 
 тримати	 тримати     verb:inf:imperf 
@@ -301,7 +284,6 @@
 !        -           - 
 !	     -           SENT_END 
                      PARA_END 
-
          -           SENT_START 
 Їжа	     їжа         noun:f:v_naz 
 смачна	 смачний     adj:f:v_naz:compb 
@@ -312,19 +294,16 @@
 з	     з           prep:rv_rod:rv_zna:rv_oru 
 нами	 ми          noun:p:v_oru:anim:&pron:pers:1
 .	     -           SENT_END 
-
 - 
 SENT_START 
 Все	    весь         adj:n:v_naz:&pron:dem
 дуже	дуже         adv 
 добре	добре        adv 
 .	    -            SENT_END 
-
         -            SENT_START 
 Дякую	дякувати     verb:pres:s:1:imperf 
 .	    -            SENT_END  
                      PARA_END 
-
         -            SENT_START 
 Ну	    ну           part 
 що	    що           conj:subord 
@@ -351,7 +330,6 @@ SENT_START
 про	    про          prep:rv_zna 
 себе	себе         pron:1:s:rv_rd
 .	    -            SENT_END 
-
         -            SENT_START 
 Сама	сам          adj:f:v_naz:&pron:def 
 я	    я            noun:s:v_naz:anim:&pron:pers:1
@@ -366,7 +344,6 @@ SENT_START
 та	    та           conj:coord 
 монастирями	монастир noun:p:v_oru 
 .	    -            SENT_END 
-
         -            SENT_START 
 У	    у            prep:rv_zna:rv_mis:rv_rod:v-u 
 Полтаві	Полтава      noun:f:v_mis 
@@ -400,7 +377,6 @@ SENT_START
 Іван	Іван         noun:m:v_naz:anim:fname 
 Нечуй-Левицький	Нечуй-Левицький  noun:m:v_naz:anim:lname 
 .	    -            SENT_END 
-
         -            SENT_START 
 Я	    я            noun:s:v_naz:anim:&pron:pers:1
 люблю	любити       verb:pres:s:1:imperf 
@@ -417,7 +393,6 @@ SENT_START
 мене	я            noun:s:v_zna:anim:&pron:pers:1
 тяжко	тяжко        adv:compb 
 .	    -            SENT_END 
-
         -            SENT_START 
 І	    і            conj:coord 
 от	    от           part 
@@ -472,7 +447,6 @@ SENT_START
 мій	    мій          adj:m:v_naz:&pron:pos 
 )	    -            - 
 .	    -            SENT_END 
-
         -            SENT_START 
 Так	    так          part 
 от	    от           part 
@@ -495,7 +469,6 @@ SENT_START
 Масонська	масонський adj:f:v_naz 
 ложа	ложа         noun:f:v_naz 
 .	    -            SENT_END 
-
         -            SENT_START 
 Багато	багато       numr:p:v_naz:&pron:ind 
 ходить	ходити       verb:pres:s:3:imperf 
@@ -504,14 +477,12 @@ SENT_START
 це	    цей          adj:n:v_zna:&pron:dem 
 місце	місце        noun:n:v_zna 
 ,	    -            - 
-але	    але          conj:coord 
- 
+але	    але          conj:coord  
 я	    я            noun:s:v_naz:anim:&pron:pers:1
 хотіла	хотіти       verb:past:f:imperf 
 впевнитися	впевнитися verb:rev:inf:perf:v-u 
 самостійно	самостійно adv 
 ...	    -            SENT_END 
-
         -            SENT_START 
 Будучи	будучи       advp:actv:past:bad 
 вже	    вже          adv:v-u 
@@ -543,7 +514,6 @@ SENT_START
 яскраво	яскраво      adv 
 )	    -            - 
 .	    -            SENT_END 
-
         -            SENT_START 
 Вдень	вдень        adv:v-u 
 разом	разом        adv 
@@ -599,7 +569,6 @@ SENT_START
 дісталися	дістатися verb:rev:past:p:perf 
 Ложі    ложа         noun:f:v_rod 
 .	    -            SENT_END 
-
         -            SENT_START 
 Перше	перший       adj:n:v_naz 
 що	    що           conj:subord 
@@ -613,7 +582,6 @@ SENT_START
 атмосфера	атмосфера noun:f:v_naz 
 вражає	вражати      verb:pres:s:3:imperf 
 ...   	-            SENT_END 
-
         -            SENT_START 
 Але	    але          conj:coord 
 оскільки оскільки    conj:subord 
@@ -637,7 +605,6 @@ SENT_START
 ногу	нога         noun:f:v_zna 
 "	    -            - 
 .   	-            SENT_END 
-
         -            SENT_START 
 Було	бути         verb:past:n:imperf 
 вже	    вже          adv:v-u 
@@ -679,7 +646,6 @@ SENT_START
 ,	    -            - 
 масони	масон        noun:p:v_zna:anim 
 ...	    -            SENT_END 
-
         -            SENT_START 
 Я	    я            noun:s:v_naz:anim:&pron:pers:1 
 б	    б            part 
@@ -726,10 +692,8 @@ SENT_START
 платити	платити      verb:inf:imperf 
 рахунок	рахунок      noun:m:v_zna 
 .	    -            SENT_END 
-
         -            SENT_START 
 Скажу	сказати      verb:futr:s:1:perf 
-
 вам	    ви           noun:p:v_dav:anim:&pron:pers:2
 відверто	відверто adv:compb 
 Я	    я            noun:s:v_naz:anim:&pron:pers:1
@@ -737,7 +701,6 @@ SENT_START
 в	    в            prep:rv_zna:rv_mis:rv_rod:v-u 
 осад	осад         noun:m:v_zna 
 ...	    -            SENT_END 
-
         -            SENT_START 
 Я	    я            noun:s:v_naz:anim:&pron:pers:1 
 звісно	звісно       adv 
@@ -766,7 +729,6 @@ SENT_START
 деякому	деякий       adj:m:v_dav 
 шоці	шок          noun:m:v_mis 
 .	    -            SENT_END 
-
         -            SENT_START 
 По	    по           prep:rv_mis:rv_zna 
 перше	перший       adj:n:v_naz 
@@ -875,7 +837,6 @@ SENT_START
 просто	просто       adv:compb 
 1.436	-            number
 .	    -            SENT_END 
-
         -            SENT_START 
 І	    і            conj:coord 
 в	    в            prep:rv_zna:rv_mis:rv_rod:v-u 
@@ -896,7 +857,6 @@ SENT_START
 !	    -            - 
 )	    -            - 
 .	    -            SENT_END 
-
         -            SENT_START 
 На	    на           prep:rv_zna:rv_mis 
 кінець	кінець       noun:m:v_zna 
@@ -925,7 +885,6 @@ SENT_START
 )	    -            - 
 )	    -            SENT_END 
                      PARA_END 
-
         -            SENT_START 
 Доводилось доводитися verb:rev:past:n:imperf 
 відвідати  відвідати verb:inf:perf 
@@ -941,8 +900,7 @@ SENT_START
 і	    і            conj:coord 
 з	    з            prep:rv_rod:rv_zna:rv_oru
 коханою	кохана       noun:f:v_oru:anim 
-.	    -            SENT_END 
-        
+.	    -            SENT_END         
 		-            SENT_START 
 Вперше  вперше       adv:v-u 
 мене	я            noun:s:v_rod:anim:&pron:pers:1
@@ -953,7 +911,6 @@ SENT_START
 при	    при          prep:rv_mis 
 вході	вхід         noun:m:v_mis 
 .	    -            SENT_END 
-
         -            SENT_START 
 Направду направду    adv 
 подумав	подумати     verb:past:m:perf 
@@ -963,7 +920,6 @@ SENT_START
 туди	туди         adv:&pron:dem 
 попав	попасти      verb:past:m:perf 
 .	    -            SENT_END 
-
         -            SENT_START 
 А	    а            conj:coord  
 коли	коли         adv:&pron:int:rel 
@@ -978,7 +934,6 @@ SENT_START
 шикарному	шикарний adj:n:v_mis 
 місці	місце        noun:n:v_mis 
 .	    -            SENT_END 
-
         -            SENT_START 
 До	    до           prep:rv_rod 
 того	той          adj:m:v_rod:&pron:dem 
@@ -998,7 +953,6 @@ SENT_START
 мене	я            noun:s:v_zna:anim:&pron:pers:1
 враження враження    noun:n:v_naz 
 .	    -            SENT_END 
-
         -            SENT_START 
 Строгий	строгий      adj:m:v_naz:compb 
 інтер'єр інтер'єр    noun:m:v_naz 
@@ -1014,7 +968,6 @@ SENT_START
 всередині всередині  adv:v-u 
 приміщення приміщення noun:n:v_naz 
 .	    -            SENT_END 
-
         -            SENT_START 
 Шодо	-            - 
 меню	меню         noun:n:v_oru:nv 
@@ -1032,7 +985,6 @@ SENT_START
 не	    не           part 
 рахується рахуватися verb:rev:pres:s:3:imperf
 .	    -            SENT_END 
-
         -            SENT_START 
 Можна	можна        predic 
 досить	досить       adv 
@@ -1043,7 +995,6 @@ SENT_START
 300	    300          number 
 гривень	гривня       noun:p:v_rod 
 .       -            SENT_END 
-
         -            SENT_START 
 Ціни	ціна         noun:p:v_naz 
 ,	    -            - 
@@ -1060,7 +1011,6 @@ SENT_START
 часу   час від часу  </adv> 
 можна  можна         predic 
 .	   -             SENT_END 
-
        -             SENT_START 
 Отож   отож          part 
 ,	   -             - 
@@ -1076,13 +1026,11 @@ SENT_START
 і	  і              conj:coord 
 місцевим	місцевий adj:p:v_dav 
 .	  -              SENT_END 
-
       -              SENT_START 
 P	  -              - 
 .	  -              - 
 S	  -              - 
 .	  -              SENT_END 
-
       -              SENT_START 
 Столик	столик       noun:m:v_naz 
 біля	біля         prep
@@ -1093,7 +1041,6 @@ S	  -              -
 площу	площа        noun:f:v_zna 
 супер	супер        noun:m:v_naz 
 .	    -            SENT_END 
-
         -            SENT_START 
 Можна	можна        predic 
 неспішачи	-        - 
@@ -1110,7 +1057,6 @@ S	  -              -
 кудись	кудись       adv:&pron:ind 
 спішучи	-            - 
 .	    -            SENT_END 
-
         -            SENT_START 
 Особливо особливо    adv 
 затишно	затишно      adv:compb 
@@ -1122,7 +1068,6 @@ S	  -              -
 Ресторан ресторан    noun:m:v_naz  
 супер	супер        noun:m:v_naz 
 .	    -            SENT_END 
-
         -            SENT_START 
 Всі	    весь         adj:p:v_naz:&pron:dem 
 хто	    хто          conj:subord 
@@ -1135,7 +1080,6 @@ S	  -              -
 ТУДИ	туди         adv:&pron:dem 
 БІЛЬШЕ	багато       adv:compr 
 !	    -            SENT_END 
-
         -            SENT_START 
 Може	може         insert 
 черги	черга        noun:p:v_naz 
@@ -1143,7 +1087,6 @@ S	  -              -
 меншими	малий        adj:p:v_oru:compr 
 будуть	бути         verb:futr:p:3:imperf 
 .	    -            SENT_END 
-
         -            SENT_START 
 Суперове -           - 
 місце	місце        noun:n:v_naz 
@@ -1171,7 +1114,6 @@ S	  -              -
 професійне	професійний adj:n:v_naz:compb  
 обслугвування	-    - 
 .	    -            SENT_END 
-
         -            SENT_START 
 Ціни	ціна         noun:p:v_naz 
 вище	високо       adv:compr 
@@ -1180,7 +1122,6 @@ S	  -              -
 нижче	низько       adv:compr
 середньокиївських -  - 
 .	    -            SENT_END 
-
         -            SENT_START 
 Єжине	-            - 
 що	    що           conj:subord 
@@ -1191,7 +1132,6 @@ S	  -              -
 на	    на           prep:rv_zna:rv_mis 
 свята	свято        noun:n:v_rod 
 .	    -            SENT_END 
-
         -            SENT_START 
 Порада   -               noun:f:v_naz
 якщо	-                conj:subord 
@@ -1204,7 +1144,6 @@ S	  -              -
 на	   на           prep:rv_zna:rv_mis 
 балконі	балкон      noun:m:v_mis 
 .	   -            SENT_END 
-
        -            SENT_START 
 Ресторану ресторан noun:m:v_dav
 успіхів	  успіх    noun:p:v_rod 
