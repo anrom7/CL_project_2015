@@ -128,9 +128,7 @@
 і		і 		conj:coord 
 завжди		завжди 		adv:&pron:gen 
 усміхнений	усміхнений 	adj:m:v_naz:v-u 
-				adj:m:v_zna:v-u 
 персонал	персонал 	noun:m:v_naz 
-				noun:m:v_zna 
 .		- 		SENT_END 
 		- 		SENT_START 
 Завжди		завжди 		adv:&pron:gen 
