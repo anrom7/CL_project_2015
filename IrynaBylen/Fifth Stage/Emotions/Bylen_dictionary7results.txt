@@ -1,0 +1,321 @@
+﻿Iryna 20-30 female
+А joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+судячи joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+написаних joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тут joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+коментів, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ви joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+збираєтесь joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+виправлятись. joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+не збираєтесь joy 0 sadness 15 anger 15 fear 0 amazement 0 disgust 0
+збираєтесь виправлятись. joy 3 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+написаних тут коментів, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ви не збираєтесь joy 0 sadness 10 anger 15 fear 0 amazement 0 disgust 0
+не збираєтесь виправлятись. joy 0 sadness 10 anger 15 fear 0 amazement 0 disgust 0
+ви не збираєтесь виправлятись. joy 0 sadness 10 anger 15 fear 0 amazement 0 disgust 0
+судячи з написаних тут коментів, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+А судячи з написаних тут коментів, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+судячи з написаних тут коментів, ви не збираєтесь виправлятись. joy 0 sadness 45 anger 60 fear 0 amazement 0 disgust 0
+А судячи з написаних тут коментів, ви не збираєтесь виправлятись. joy 0 sadness 45 anger 60 fear 0 amazement 0 disgust 0
+Були joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сьогодні joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ввечері. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Були сьогодні joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сьогодні ввечері. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Були сьогодні ввечері. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сьогодні ввечері.  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Були сьогодні ввечері.  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Дуже joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+гарне joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+обслуговування, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+привітні, joy 76 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ввічливі joy 76 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+офіціанти, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+рідкість joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+для joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Львова. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Дуже гарне joy 76 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+гарне обслуговування, joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+привітні, ввічливі joy 81 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ввічливі офіціанти, joy 66 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Дуже гарне обслуговування, joy 76 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+привітні, ввічливі офіціанти, joy 76 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+рідкість для Львова. joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+ввічливі офіціанти, що рідкість joy 15 sadness 15 anger 0 fear 0 amazement 15 disgust 0
+гарне обслуговування, привітні, ввічливі офіціанти, joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+привітні, ввічливі офіціанти, що рідкість joy 75 sadness 8 anger 0 fear 0 amazement 0 disgust 0
+Дуже гарне обслуговування, привітні, ввічливі офіціанти, joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ввічливі офіціанти, що рідкість для Львова. joy 75 sadness 14 anger 0 fear 0 amazement 0 disgust 0
+привітні, ввічливі офіціанти, що рідкість для Львова. joy 75 sadness 14 anger 0 fear 0 amazement 0 disgust 0
+гарне обслуговування, привітні, ввічливі офіціанти, що рідкість для Львова. joy 75 sadness 14 anger 0 fear 0 amazement 0 disgust 0
+Дуже гарне обслуговування, привітні, ввічливі офіціанти, що рідкість для Львова. joy 75 sadness 14 anger 0 fear 0 amazement 0 disgust 0
+Чисто, joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+спокійно, joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+акуратно. joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Чисто, спокійно, joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+спокійно, акуратно. joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Чисто, спокійно, акуратно. joy 38 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Деруни joy 7 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+млинці joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+були joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смачні. joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже смачні. joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Деруни і млинці joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+були дуже смачні. joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+млинці були дуже смачні. joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Деруни і млинці були дуже смачні. joy 67 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Нам joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+все joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сподобалось, joy 51 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тільки joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+поміняйте joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+двері joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нормальні! joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+все сподобалось, joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тільки поміняйте joy 0 sadness 8 anger 0 fear 0 amazement 0 disgust 0
+поміняйте двері joy 0 sadness 8 anger 0 fear 0 amazement 0 disgust 0
+Нам все сподобалось, joy 53 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сподобалось, тільки поміняйте joy 30 sadness 8 anger 0 fear 0 amazement 0 disgust 0
+тільки поміняйте двері joy 0 sadness 8 anger 0 fear 0 amazement 0 disgust 0
+сподобалось, тільки поміняйте двері joy 15 sadness 8 anger 0 fear 0 amazement 0 disgust 0
+поміняйте двері на нормальні! joy 0 sadness 15 anger 8 fear 0 amazement 0 disgust 0
+все сподобалось, тільки поміняйте двері joy 15 sadness 15 anger 8 fear 0 amazement 0 disgust 0
+тільки поміняйте двері на нормальні! joy 0 sadness 15 anger 8 fear 0 amazement 0 disgust 0
+Нам все сподобалось, тільки поміняйте двері joy 16 sadness 15 anger 8 fear 0 amazement 0 disgust 0
+сподобалось, тільки поміняйте двері на нормальні! joy 16 sadness 15 anger 8 fear 0 amazement 0 disgust 0
+все сподобалось, тільки поміняйте двері на нормальні! joy 16 sadness 15 anger 8 fear 0 amazement 0 disgust 0
+Нам все сподобалось, тільки поміняйте двері на нормальні! joy 16 sadness 15 anger 8 fear 0 amazement 0 disgust 0
+Загалом joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+оцінка joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+8/10. joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+оцінка 8/10. joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Загалом оцінка 8/10. joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Дякуємо joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бережіть joy 0 sadness 0 anger 0 fear 8 amazement 0 disgust 0
+свій joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чудовий joy 61 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+персонал!!! joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чудовий персонал!!! joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бережіть свій чудовий персонал!!! joy 75 sadness 0 anger 0 fear 8 amazement 0 disgust 0
+і бережіть свій чудовий персонал!!! joy 75 sadness 0 anger 0 fear 8 amazement 0 disgust 0
+бережіть свій чудовий персонал!!!  joy 75 sadness 0 anger 0 fear 8 amazement 0 disgust 0
+Дякуємо і бережіть свій чудовий персонал!!! joy 75 sadness 0 anger 0 fear 8 amazement 0 disgust 0
+Саме joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+приміщення joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+гарне joy 51 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+атмосферне, joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+перше joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+враження joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+гарне, joy 47 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+от joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кава joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+своїй joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ціні joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+взагалі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відповідає,так joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+як joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+я joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+без joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хорошої joy 46 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кави joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дня joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+уявляю joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+то joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+поняття joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+про joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+каву joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+таки joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+трохи joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+маю joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ціна joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+капучіно joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+38 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+гривень joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+за joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+перепалену joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 15
+каву joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+це joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вибачте joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+мене joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дивно. joy 0 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+дуже гарне joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+перше враження joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+враження гарне, joy 61 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не уявляю joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+трохи маю joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ціна капучіно joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+38 гривень joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+перепалену каву joy 0 sadness 15 anger 31 fear 0 amazement 0 disgust 61
+це вибачте joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+вибачте мене joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+дуже дивно. joy 0 sadness 0 anger 0 fear 0 amazement 60 disgust 0
+приміщення дуже гарне joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+гарне і атмосферне, joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+перше враження гарне, joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+без хорошої кави joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+дня не уявляю joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+поняття про каву joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+таки трохи маю joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+капучіно 38 гривень joy 0 sadness 0 anger 0 fear 0 amazement 10 disgust 0
+за перепалену каву joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 60
+вибачте мене дуже joy 0 sadness 61 anger 0 fear 0 amazement 0 disgust 0
+Саме приміщення дуже гарне joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже гарне і атмосферне, joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+атмосферне, перше враження гарне, joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ціні взагалі не відповідає,так joy 0 sadness 45 anger 0 fear 0 amazement 7 disgust 0
+я без хорошої кави joy 0 sadness 61 anger 0 fear 0 amazement 0 disgust 0
+і дня не уявляю joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ціна капучіно 38 гривень joy 0 sadness 8 anger 0 fear 0 amazement 7 disgust 0
+приміщення дуже гарне і атмосферне, joy 84 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і ціна капучіно 38 гривень joy 0 sadness 8 anger 0 fear 0 amazement 11 disgust 0
+38 гривень за перепалену каву joy 0 sadness 15 anger 45 fear 0 amazement 45 disgust 90
+Саме приміщення дуже гарне і атмосферне, joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+гарне і атмосферне, перше враження гарне, joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+перше враження гарне, а от кава joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+поняття про каву таки трохи маю joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+це вибачте мене дуже дивно.  joy 0 sadness 7 anger 0 fear 0 amazement 45 disgust 0
+дуже гарне і атмосферне, перше враження гарне, joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+без хорошої кави і дня не уявляю joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ціна капучіно 38 гривень за перепалену каву joy 0 sadness 15 anger 45 fear 0 amazement 45 disgust 74
+приміщення дуже гарне і атмосферне, перше враження гарне, joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+я без хорошої кави і дня не уявляю joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і ціна капучіно 38 гривень за перепалену каву joy 0 sadness 15 anger 45 fear 0 amazement 45 disgust 60
+Саме приміщення дуже гарне і атмосферне, перше враження гарне, joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ціні взагалі не відповідає,так як я без хорошої кави joy 0 sadness 60 anger 30 fear 0 amazement 0 disgust 0
+за перепалену каву , це вибачте мене дуже дивно. joy 0 sadness 30 anger 30 fear 0 amazement 29 disgust 15
+враження гарне, а от кава своїй ціні взагалі не відповідає,так joy 15 sadness 30 anger 15 fear 0 amazement 15 disgust 15
+своїй ціні взагалі не відповідає,так як я без хорошої кави joy 0 sadness 30 anger 15 fear 0 amazement 15 disgust 0
+перше враження гарне, а от кава своїй ціні взагалі не відповідає,так joy 0 sadness 30 anger 15 fear 0 amazement 15 disgust 15
+поняття про каву таки трохи маю і ціна капучіно 38 гривень joy 0 sadness 15 anger 0 fear 0 amazement 15 disgust 0
+38 гривень за перепалену каву , це вибачте мене дуже дивно. joy 0 sadness 15 anger 45 fear 0 amazement 45 disgust 75
+без хорошої кави і дня не уявляю то поняття про каву таки трохи маю joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і ціна капучіно 38 гривень за перепалену каву , це вибачте мене дуже дивно. joy 0 sadness 15 anger 45 fear 0 amazement 45 disgust 75
+дуже гарне і атмосферне, перше враження гарне, а от кава своїй ціні взагалі не відповідає,так joy 75 sadness 31 anger 30 fear 0 amazement 29 disgust 7
+я без хорошої кави і дня не уявляю то поняття про каву таки трохи маю joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ціні взагалі не відповідає,так як я без хорошої кави і дня не уявляю то поняття про каву таки трохи маю joy 0 sadness 45 anger 15 fear 0 amazement 0 disgust 0
+поняття про каву таки трохи маю і ціна капучіно 38 гривень за перепалену каву , це вибачте мене дуже дивно. joy 0 sadness 15 anger 45 fear 0 amazement 45 disgust 60
+своїй ціні взагалі не відповідає,так як я без хорошої кави і дня не уявляю то поняття про каву таки трохи маю joy 0 sadness 15 anger 15 fear 0 amazement 0 disgust 0
+то поняття про каву таки трохи маю і ціна капучіно 38 гривень за перепалену каву , це вибачте мене дуже дивно. joy 0 sadness 15 anger 44 fear 0 amazement 29 disgust 60
+кава своїй ціні взагалі не відповідає,так як я без хорошої кави і дня не уявляю то поняття про каву таки трохи маю joy 0 sadness 15 anger 15 fear 0 amazement 0 disgust 16
+от кава своїй ціні взагалі не відповідає,так як я без хорошої кави і дня не уявляю то поняття про каву таки трохи маю joy 0 sadness 15 anger 15 fear 0 amazement 0 disgust 16
+а от кава своїй ціні взагалі не відповідає,так як я без хорошої кави і дня не уявляю то поняття про каву таки трохи маю joy 0 sadness 15 anger 15 fear 0 amazement 0 disgust 16
+гарне, а от кава своїй ціні взагалі не відповідає,так як я без хорошої кави і дня не уявляю то поняття про каву таки трохи маю joy 0 sadness 15 anger 15 fear 0 amazement 0 disgust 16
+перше враження гарне, а от кава своїй ціні взагалі не відповідає,так як я без хорошої кави і дня не уявляю то поняття про каву таки трохи маю joy 0 sadness 15 anger 15 fear 0 amazement 0 disgust 16
+без хорошої кави і дня не уявляю то поняття про каву таки трохи маю і ціна капучіно 38 гривень за перепалену каву , це вибачте мене дуже дивно. joy 0 sadness 15 anger 45 fear 0 amazement 45 disgust 75
+я без хорошої кави і дня не уявляю то поняття про каву таки трохи маю і ціна капучіно 38 гривень за перепалену каву , це вибачте мене дуже дивно. joy 0 sadness 15 anger 45 fear 0 amazement 45 disgust 75
+дуже гарне і атмосферне, перше враження гарне, а от кава своїй ціні взагалі не відповідає,так як я без хорошої кави і дня не уявляю то поняття про каву таки трохи маю joy 0 sadness 15 anger 45 fear 0 amazement 45 disgust 75
+взагалі не відповідає,так як я без хорошої кави і дня не уявляю то поняття про каву таки трохи маю і ціна капучіно 38 гривень за перепалену каву , це вибачте мене дуже дивно. joy 0 sadness 15 anger 45 fear 0 amazement 45 disgust 75
+ціні взагалі не відповідає,так як я без хорошої кави і дня не уявляю то поняття про каву таки трохи маю і ціна капучіно 38 гривень за перепалену каву , це вибачте мене дуже дивно. joy 0 sadness 15 anger 45 fear 0 amazement 45 disgust 75
+своїй ціні взагалі не відповідає,так як я без хорошої кави і дня не уявляю то поняття про каву таки трохи маю і ціна капучіно 38 гривень за перепалену каву , це вибачте мене дуже дивно. joy 0 sadness 15 anger 45 fear 0 amazement 45 disgust 75
+кава своїй ціні взагалі не відповідає,так як я без хорошої кави і дня не уявляю то поняття про каву таки трохи маю і ціна капучіно 38 гривень за перепалену каву , це вибачте мене дуже дивно. joy 0 sadness 15 anger 45 fear 0 amazement 45 disgust 75
+от кава своїй ціні взагалі не відповідає,так як я без хорошої кави і дня не уявляю то поняття про каву таки трохи маю і ціна капучіно 38 гривень за перепалену каву , це вибачте мене дуже дивно. joy 0 sadness 15 anger 45 fear 0 amazement 45 disgust 75
+а от кава своїй ціні взагалі не відповідає,так як я без хорошої кави і дня не уявляю то поняття про каву таки трохи маю і ціна капучіно 38 гривень за перепалену каву , це вибачте мене дуже дивно. joy 0 sadness 15 anger 45 fear 0 amazement 45 disgust 75
+враження гарне, а от кава своїй ціні взагалі не відповідає,так як я без хорошої кави і дня не уявляю то поняття про каву таки трохи маю і ціна капучіно 38 гривень за перепалену каву , це вибачте мене дуже дивно. joy 0 sadness 15 anger 45 fear 0 amazement 45 disgust 75
+перше враження гарне, а от кава своїй ціні взагалі не відповідає,так як я без хорошої кави і дня не уявляю то поняття про каву таки трохи маю і ціна капучіно 38 гривень за перепалену каву , це вибачте мене дуже дивно. joy 0 sadness 15 anger 45 fear 0 amazement 45 disgust 75
+враження гарне, а от кава своїй ціні взагалі не відповідає,так як я без хорошої кави і дня не уявляю то поняття про каву таки трохи маю і ціна капучіно 38 гривень за перепалену каву , це вибачте мене дуже дивно.  joy 0 sadness 15 anger 45 fear 0 amazement 45 disgust 75
+перше враження гарне, а от кава своїй ціні взагалі не відповідає,так як я без хорошої кави і дня не уявляю то поняття про каву таки трохи маю і ціна капучіно 38 гривень за перепалену каву , це вибачте мене дуже дивно.  joy 0 sadness 15 anger 45 fear 0 amazement 45 disgust 75
+атмосферне, перше враження гарне, а от кава своїй ціні взагалі не відповідає,так як я без хорошої кави і дня не уявляю то поняття про каву таки трохи маю і ціна капучіно 38 гривень за перепалену каву , це вибачте мене дуже дивно.  joy 0 sadness 15 anger 45 fear 0 amazement 45 disgust 75
+гарне і атмосферне, перше враження гарне, а от кава своїй ціні взагалі не відповідає,так як я без хорошої кави і дня не уявляю то поняття про каву таки трохи маю і ціна капучіно 38 гривень за перепалену каву , це вибачте мене дуже дивно. joy 0 sadness 15 anger 45 fear 0 amazement 45 disgust 75
+і атмосферне, перше враження гарне, а от кава своїй ціні взагалі не відповідає,так як я без хорошої кави і дня не уявляю то поняття про каву таки трохи маю і ціна капучіно 38 гривень за перепалену каву , це вибачте мене дуже дивно.  joy 0 sadness 15 anger 45 fear 0 amazement 45 disgust 75
+дуже гарне і атмосферне, перше враження гарне, а от кава своїй ціні взагалі не відповідає,так як я без хорошої кави і дня не уявляю то поняття про каву таки трохи маю і ціна капучіно 38 гривень за перепалену каву , це вибачте мене дуже дивно. joy 0 sadness 15 anger 45 fear 0 amazement 45 disgust 75
+приміщення дуже гарне і атмосферне, перше враження гарне, а от кава своїй ціні взагалі не відповідає,так як я без хорошої кави і дня не уявляю то поняття про каву таки трохи маю і ціна капучіно 38 гривень за перепалену каву , це вибачте мене дуже дивно. joy 0 sadness 15 anger 45 fear 0 amazement 45 disgust 75
+дуже гарне і атмосферне, перше враження гарне, а от кава своїй ціні взагалі не відповідає,так як я без хорошої кави і дня не уявляю то поняття про каву таки трохи маю і ціна капучіно 38 гривень за перепалену каву , це вибачте мене дуже дивно.  joy 0 sadness 15 anger 45 fear 0 amazement 45 disgust 75
+Саме приміщення дуже гарне і атмосферне, перше враження гарне, а от кава своїй ціні взагалі не відповідає,так як я без хорошої кави і дня не уявляю то поняття про каву таки трохи маю і ціна капучіно 38 гривень за перепалену каву , це вибачте мене дуже дивно. joy 0 sadness 15 anger 45 fear 0 amazement 45 disgust 75
+Я joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+готова joy 0 sadness 0 anger 0 fear 7 amazement 0 disgust 0
+дати joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+50гривень joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кава joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+має joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бути joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+якісною joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відповідати joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ціні. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Я готова joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+готова дати joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відповідати ціні. joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Я готова дати joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+має бути якісною joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+готова дати і 50гривень joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кава має бути якісною joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Я готова дати і 50гривень joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але кава має бути якісною joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бути якісною і відповідати ціні. joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+має бути якісною і відповідати ціні. joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кава має бути якісною і відповідати ціні. joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але кава має бути якісною і відповідати ціні. joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+готова дати і 50гривень але кава має бути якісною joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але кава має бути якісною і відповідати ціні.  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Я готова дати і 50гривень але кава має бути якісною joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+готова дати і 50гривень але кава має бути якісною і відповідати ціні. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Я готова дати і 50гривень але кава має бути якісною і відповідати ціні.  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Просто joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+розрекламована joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кав'ярня. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже розрекламована joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+розрекламована кав'ярня. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Просто дуже розрекламована joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже розрекламована кав'ярня. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Просто дуже розрекламована кав'ярня. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Там joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вже joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+йде joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+якість, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кількість joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+це joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сумно. joy 0 sadness 100 anger 0 fear 0 amazement 0 disgust 0
+вже йде joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже сумно. joy 0 sadness 100 anger 0 fear 0 amazement 0 disgust 0
+це дуже сумно. joy 0 sadness 100 anger 0 fear 0 amazement 0 disgust 0
+йде не на якість, joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+і це дуже сумно. joy 0 sadness 100 anger 0 fear 0 amazement 0 disgust 0
+вже йде не на якість, joy 0 sadness 45 anger 8 fear 0 amazement 0 disgust 0
+Там вже йде не на якість, joy 0 sadness 45 anger 8 fear 0 amazement 0 disgust 0
+не на якість, а на кількість joy 0 sadness 45 anger 8 fear 0 amazement 0 disgust 0
+йде не на якість, а на кількість joy 0 sadness 45 anger 8 fear 0 amazement 0 disgust 0
+вже йде не на якість, а на кількість joy 0 sadness 45 anger 8 fear 0 amazement 0 disgust 0
+Там вже йде не на якість, а на кількість joy 0 sadness 45 anger 8 fear 0 amazement 0 disgust 0
+не на якість, а на кількість і це дуже сумно. joy 0 sadness 100 anger 15 fear 0 amazement 0 disgust 0
+йде не на якість, а на кількість і це дуже сумно. joy 0 sadness 100 anger 15 fear 0 amazement 0 disgust 0
+вже йде не на якість, а на кількість і це дуже сумно. joy 0 sadness 100 anger 15 fear 0 amazement 0 disgust 0
+Там вже йде не на якість, а на кількість і це дуже сумно. joy 0 sadness 100 anger 15 fear 0 amazement 0 disgust 0
+Більше joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+житті joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+туди joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+піду. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не піду. joy 0 sadness 15 anger 15 fear 15 amazement 0 disgust 0
+туди не піду. joy 0 sadness 15 anger 15 fear 15 amazement 0 disgust 0
+в житті туди не піду. joy 0 sadness 15 anger 15 fear 0 amazement 0 disgust 0
+Більше в житті туди не піду. joy 0 sadness 15 anger 30 fear 0 amazement 0 disgust 0
+
