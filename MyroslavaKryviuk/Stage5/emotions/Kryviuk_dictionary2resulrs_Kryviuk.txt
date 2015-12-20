@@ -1,0 +1,404 @@
+Kryviuk 20-30 female
+ joy 84 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Супекльовий  joy 24 sadness 1 anger 0 fear 0 amazement 0 disgust 0
+заклад  joy 50 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+, -  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смачні  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кавові  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+напої  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+наливанки  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+: - joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+) - SENT_END joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Супекльовий заклад  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+заклад , - joy 41 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Супекльовий заклад , -  joy 31 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+, - смачні  joy 91 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смачні кавові  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кавові напої  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+напої і  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і наливанки  joy 55 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+напої і наливанки  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смачні кавові напої і наливанки  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смачні кавові напої і наливанки : - joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смачні кавові напої і наливанки : - ) - SENT_END joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+: - ) - SENT_END joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+наливанки : - ) - SENT_END joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ і наливанки : - ) - SENT_END joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+напої і наливанки : - ) - SENT_END joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кавові напої і наливанки : - ) - SENT_END joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+У Вас на сувенірах працюють найкращі працівники Смайлик « - wink(кліпати )» -дякую їм , - дуже! - ! - SENT_END  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+У  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вас  joy 11 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на 	 joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сувенірах  joy 64 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+працюють  joy 51 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+найкращі  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+працівники  joy 40 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Смайлик	  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+« -  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+wink (кліпати ) joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+» -	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дякую  joy 78 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+їм  joy 13 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+, - joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+! - joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+! - SENT_END  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+У Вас  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вас на  joy 22 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на 	сувенірах  joy 37 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сувенірах працюють  joy 52 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+працюють найкращі  joy 67 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+найкращі працівники  joy 82 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+працівники Смайлик  joy 82 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Смайлик	 « -  joy 97 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+« - wink(кліпати ) joy 13 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+wink(кліпати )	» - joy 13 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+» -	дякую  joy 58 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дякую їм  joy 73 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ , - joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+, - дуже joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже! - joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+! - ! - SENT_END  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже! - ! - SENT_END joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+, - дуже! - ! - SENT_END  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+їм , - дуже! - ! - SENT_END  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дякую їм , - дуже! - ! - SENT_END  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+« - wink(кліпати )	» - joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Смайлик	 « - wink(кліпати )	» - joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+У Вас на сувенірах працюють найкращі працівники  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+У Вас на сувенірах працюють найкращі  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+У Вас на сувенірах працюють  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+У Вас на сувенірах  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+У Вас на 	 joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Рік тому ми з чоловіком до Вас завітали , - був	 дощ , - а у Вас	 ми зігрілись )	SENT_END  joy 89 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Рік  joy 0 sadness 6 anger 0 fear 0 amazement 0 disgust 0
+тому  joy 0 sadness 6 anger 0 fear 0 amazement 0 disgust 0
+ми  joy 77 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чоловіком  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+до  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вас  joy 9 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+завітали  joy 77 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+, -  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+був	  joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дощ	  joy 0 sadness 90 anger 0 fear 0 amazement 0 disgust 0
+, -  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вас	  joy 7 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ми	  joy 62 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зігрілись  joy 92 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+)SENT_END  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Рік тому joy 0 sadness 4 anger 0 fear 0 amazement 0 disgust 0
+тому ми  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ми з joy 52 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з чоловіком  joy 82 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чоловіком до  joy 82 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+до Вас  joy 57 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вас завітали  joy 89 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+завітали , - joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+, - був	  joy 9 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+був	 дощ	 joy 0 sadness 100 anger 100 fear 0 amazement 0 disgust 0
+дощ	 , -  joy 0 sadness 100 anger 100 fear 0 amazement 0 disgust 0
+ , - а  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а у  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у Вас	  joy 20 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вас	ми	 joy 35 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ми зігрілись  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зігрілись ) SENT_END joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а у Вас	 ми зігрілись )	SENT_END  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у Вас ми зігрілись )	SENT_END  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вас ми зігрілись )SENT_END  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ми зігрілись )	SENT_END  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Рік тому ми з чоловіком до Вас завітали , - joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Рік тому ми з чоловіком до Вас завітали  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Рік тому ми з чоловіком до Вас  joy 85 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Рік тому ми з чоловіком до  joy 70 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Рік тому ми з чоловіком  joy 55 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Рік тому ми з  joy 40 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Рік тому ми  joy 25 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+був дощ	 , - joy 0 sadness 100 anger 100 fear 0 amazement 0 disgust 0
+ми з чоловіком  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+до Вас завітали  joy 91 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+до Вас завітали , -  joy 91 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Дякую Вам  , - за смачну каву та гарний настрій !SENT_END  joy 91 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Дякую  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вам	  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+, -  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+за	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смачну	  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+каву	  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+та	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+гарний	  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+настрій	  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+!SENT_END  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Дякую Вам 	  joy 59 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вам  , -  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+, - за	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+за смачну	 joy 56 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смачну каву	  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+каву та	  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+та гарний	  joy 85 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+гарний настрій	  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+настрій !SENT_END  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Дякую Вам 	 , -  joy 46 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+гарний настрій !	SENT_END  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+та гарний настрій !SENT_END joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+каву та гарний	 настрій !SENT_END  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смачну каву та гарний настрій !SENT_END  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+за смачну каву та гарний настрій !SENT_END  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+за смачну каву	  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+каву та гарний настрій	  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+каву та гарний	  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Нічого особливого як для таких цін .SENT_END 	 joy 0 sadness 15 anger 15 fear 0 amazement 15 disgust 0
+Нічого  joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+особливого  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+як  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+для	  joy 64 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+таких  joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+цін	  joy 0 sadness 14 anger 0 fear 0 amazement 0 disgust 0
+.SENT_END 	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Нічого особливого  joy 0 sadness 38 anger 0 fear 0 amazement 38 disgust 0
+особливого як joy 14 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+як для	  joy 25 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+для	 таких  joy 31 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+таких цін	 joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+цін .SENT_END  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+таких цін .SENT_END 	 joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+для таких цін .SENT_END  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+як для таких цін .SENT_END  joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+Нічого особливого як  joy 0 sadness 45 anger 45 fear 0 amazement 45 disgust 0
+Нічого особливого як для	  joy 0 sadness 45 anger 45 fear 0 amazement 45 disgust 0
+Нічого особливого як для таких  joy 0 sadness 45 anger 45 fear 0 amazement 45 disgust 0
+Нічого особливого як для таких цін	 joy 0 sadness 45 anger 45 fear 0 amazement 45 disgust 0
+Це один  із закладів  для туристів , - де одного разу побувати цілком достатньо , - і більше не хочеться . SENT_END  joy 0 sadness 0 anger 100 fear 0 amazement 45 disgust 0
+Це	  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+один	  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+із	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+закладів 	  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+для  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+туристів  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+, -  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+де	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+одного  joy 6 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+разу 	 joy 3 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+побувати 	 joy 66 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+цілком	  joy 49 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+достатньо	  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+, -  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+більше  joy 16 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не  joy 0 sadness 14 anger 0 fear 0 amazement 0 disgust 0
+хочеться  joy 35 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+. SENT_END  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Це один	  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+один із	  joy 31 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+із	 закладів 	 joy 46 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+закладів 	 для  joy 31 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+для туристів  joy 69 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+туристів , - joy 69 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+, - де	  joy 0 sadness 1 anger 0 fear 2 amazement 0 disgust 0
+ де	 одного  joy 0 sadness 0 anger 0 fear 1 amazement 0 disgust 0
+одного разу  joy 0 sadness 2 anger 0 fear 0 amazement 0 disgust 0
+разу 	побувати  joy 17 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+побувати 	цілком	 joy 56 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+цілком	 достатньо	 joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+достатньо	 , - joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+, - і	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і більше  joy 82 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+більше не joy 0 sadness 14 anger 0 fear 0 amazement 0 disgust 0
+не хочеться  joy 0 sadness 73 anger 0 fear 0 amazement 0 disgust 0
+хочеться . SENT_END joy 76 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Це один із закладів  для туристів , -  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Це один із закладів  для туристів  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Це один із закладів  для  joy 61 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Це один із закладів 	  joy 54 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Це один із	  joy 16 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+де одного разу побувати цілком достатньо	 , -  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+де одного разу побувати цілком достатньо	  joy 0 sadness 30 anger 4 fear 0 amazement 0 disgust 0
+де одного разу побувати цілком	  joy 0 sadness 30 anger 4 fear 0 amazement 0 disgust 0
+де одного разу побувати 	  joy 11 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+де одного разу 	 joy 11 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і більше не хочеться . SENT_END joy 0 sadness 40 anger 0 fear 0 amazement 0 disgust 0
+і більше не хочеться  joy 0 sadness 40 anger 0 fear 0 amazement 0 disgust 0
+і більше не  joy 0 sadness 27 anger 0 fear 0 amazement 0 disgust 0
+мені дуже подобається їхня сувенірна крамниця .SENT_END	 joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+мені  joy 74 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже  joy 81 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+подобається	  joy 96 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+їхня  joy 3 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сувенірна	  joy 56 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+крамниця  joy 61 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+.SENT_END	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+мені дуже joy 21 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже подобається	 joy 41 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+подобається	 їхня  joy 41 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+їхня сувенірна	 joy 44 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сувенірна крамниця  joy 55 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+крамниця .SENT_END joy 57 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+мені дуже подобається	 joy 89 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже подобається їхня  joy 97 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+подобається їхня сувенірна	  joy 67 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сувенірна крамниця .SENT_END joy 71 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+подобається їхня сувенірна крамниця .SENT_END	 joy 86 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже подобається їхня сувенірна крамниця .	SENT_END joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+мені дуже подобається їхня  joy 40 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+мені дуже подобається їхня сувенірна	  joy 55 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+мені дуже подобається їхня сувенірна крамниця  joy 65 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+там дуже класні вироби ручної	 роботи . SENT_END 	 joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+там	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+класні	  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вироби  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ручної	  joy 63 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+роботи	  joy 63 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+. SENT_END 	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+там дуже  joy 33 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже класні	 joy 55 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+класні вироби  joy 64 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вироби ручної	  joy 79 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ручної роботи	  joy 88 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+роботи . SENT_END joy 69 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+там дуже класні	  joy 94 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+там дуже класні вироби  joy 94 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+там дуже класні вироби ручної	  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+там дуже класні вироби ручної	 роботи	 joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вироби ручної роботи	 joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вироби ручної роботи . SENT_END  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+класні вироби ручної роботи. SENT_END joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Свічки будьяких розмірів і оздоблені кавою , - суперпахнюче мило  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і забавки ( - різні котики і т.п. ) - які пахнуть корицею , -  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ різні кавові подарункові  набори .-SENT_END 	 joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Свічки	 joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+будьяких  joy 2 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+розмірів  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+оздоблені  joy 58 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кавою	  joy 89 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+, -  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+суперпахнюче  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+мило  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+забавки  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+( - joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+різні  joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+котики	  joy 84 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+т.п.  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+) - joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+які  joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пахнуть  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+корицею	  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+, -  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+різні  joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кавові  joy 85 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+подарункові  joy 87 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+набори	 joy 38 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+.- SENT_END 	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Свічки будьяких  joy 54 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+будьяких розмірів  joy 12 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+розмірів і  joy 4 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і оздоблені  joy 71 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+оздоблені кавою	  joy 86 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кавою , - joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ , - суперпахнюче  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+суперпахнюче мило  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+мило і  joy 84 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і забавки	  joy 99 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+забавки ( - joy 99 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+( - різні  joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+різні котики	  joy 61 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+котики і  joy 76 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і т.п. joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+т.п. ) - joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+) - які	  joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+які пахнуть  joy 91 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пахнуть корицею	  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+корицею , - joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+, - різні  joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+різні кавові  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кавові подарункові	  joy 97 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+подарункові набори	  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+набори .- SENT_END 	 joy 55 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Свічки будьяких розмірів  joy 66 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Свічки будьяких розмірів і  joy 66 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Свічки будьяких розмірів і оздоблені  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Свічки будьяких розмірів і оздоблені кавою	  joy 89 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Cвічки будьяких розмірів і оздоблені кавою , -  joy 91 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+суперпахнюче мило і  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+суперпахнюче мило і забавки	  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+( - різні котики	 і т.п. ) - joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+( - різні котики	 і т.п. joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+( - різні котики	 і  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+( - різні котики	  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+які  пахнуть корицею , -  joy 92 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+які пахнуть корицею	  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+які пахнуть	  joy 85 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+різні кавові подарункові набори .- SENT_END  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+різні кавові подарункові набори	 joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+різні кавові подарункові	  joy 96 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Одним словом , - все те що потрібно першовідвідувачу купити на пам'ять  собі і близьким . SENT_END  joy 97 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Одним  joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+словом  joy 46 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+, -  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+все  joy 85 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+те	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+потрібно  joy 19 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+першовідвідувачу  joy 32 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+купити	 joy 5 sadness 3 anger 0 fear 0 amazement 0 disgust 0
+на  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пам'ять	  joy 89 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+собі  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+близьким  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+. SENT_END  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Одним словом  joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+словом , - joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Одним словом , -  joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+, - все  joy 22 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+все те	  joy 22 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+те що	 joy 7 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що потрібно  joy 22 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+потрібно першовідвідувачу  joy 42 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+першовідвідувачу купити	 joy 44 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+купити на  joy 34 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на пам'ять	 joy 67 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пам'ять собі  joy 83 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+собі і  joy 83 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і близьким  joy 98 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+близьким . SENT_END  joy 98 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на пам'ять собі і близьким . SENT_END  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пам'ять собі і близьким . SENT_END  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+собі і близьким . SENT_END  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і близьким . SENT_END  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+все те що потрібно першовідвідувачу купити	 joy 40 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+те що потрібно першовідвідувачу купити	 joy 41 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що потрібно першовідвідувачу купити	 joy 41 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+потрібно першовідвідувачу купити	 joy 41 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+5 зірок .SENT_END  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+5  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зірок  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+.SENT_END  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+5 зірок  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зірок .SENT_END joy 89 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Дуже приємно насолодитися ранковою кавою із коханою людиною .SENT_END 	 joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Дуже  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+приємно  joy 63 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+насолодитися  joy 74 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ранковою  joy 87 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кавою  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+із	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+коханою  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+людиною	  joy 85 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+.SENT_END 	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Дуже приємно  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+приємно насолодитися  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+насолодитися ранковою  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ранковою кавою  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кавою із	  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+із коханою joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+коханою людиною	  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+людиною .SENT_END joy 64 sadness 0 anger 0 fear 0 amazement 0 disgust 0
