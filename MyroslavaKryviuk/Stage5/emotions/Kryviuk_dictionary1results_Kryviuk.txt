@@ -1,0 +1,292 @@
+Kryviuk 20-30 female
+ joy 0 sadness 15 anger 15 fear 0 amazement 0 disgust 0
+Після  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чого 	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ми	  joy 92 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+подали  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+заяву  joy 0 sadness 0 anger 16 fear 16 amazement 0 disgust 0
+і  joy 0 sadness 0 anger 0 fear 1 amazement 0 disgust 0
+т.д.  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+SENT_END 	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Після чого  joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чого ми	  joy 34 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ми подали  joy 67 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+подали заяву  joy 0 sadness 0 anger 0 fear 15 amazement 0 disgust 0
+заяву і  joy 0 sadness 0 anger 0 fear 15 amazement 0 disgust 0
+і т.д. SENT_END  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Після чого ми	 joy 27 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Після чого ми подали  joy 23 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Після чого ми подали заяву  joy 8 sadness 0 anger 0 fear 8 amazement 0 disgust 0
+ми подали заяву  joy 0 sadness 0 anger 0 fear 8 amazement 0 disgust 0
+ми подали заяву і  joy 0 sadness 0 anger 0 fear 8 amazement 0 disgust 0
+ми подали заяву і т.д. SENT_END 	 joy 0 sadness 0 anger 0 fear 15 amazement 0 disgust 0
+заяву і т.д. SENT_END  joy 0 sadness 0 anger 0 fear 15 amazement 0 disgust 0
+подали заяву і т.д. SENT_END  joy 0 sadness 0 anger 0 fear 12 amazement 0 disgust 0
+Пройшло	 5 год	 .SENT_END 	 joy 0 sadness 16 anger 0 fear 0 amazement 0 disgust 0
+Пройшло	  joy 0 sadness 31 anger 0 fear 0 amazement 0 disgust 0
+5  joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+год	  joy 0 sadness 3 anger 0 fear 2 amazement 0 disgust 0
+.SENT_END 	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Пройшло	 5  joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 0
+Пройшло	 5 год	  joy 0 sadness 17 anger 0 fear 1 amazement 0 disgust 0
+год.SENT_END  joy 0 sadness 14 anger 0 fear 0 amazement 0 disgust 0
+5 год .SENT_END  joy 0 sadness 14 anger 0 fear 0 amazement 0 disgust 0
+ joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Зателефонувал , - ми прийшли забрати .SENT_END 	 joy 9 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Зателефонувал  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+, -  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ми		 joy 76 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+прийшли	  joy 81 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+забрати	  joy 27 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+.SENT_END 	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Зателефонувал , - joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ , - ми		 joy 97 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ми прийшли	 joy 97 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+прийшли	 забрати	  joy 93 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+забрати	.SENT_END  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+прийшли	 забрати.SENT_END  joy 76 sadness 0 anger 0 fear 3 amazement 0 disgust 0
+ми прийшли забрати .SENT_END 	 joy 76 sadness 0 anger 0 fear 2 amazement 0 disgust 0
+Зателефонувал , - ми	 joy 91 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Зателефонувал , - ми прийшли	  joy 91 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Зателефонувал , - ми прийшли забрати	  joy 91 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Сказали	 , - що як ви не побачили вона впала за	  бачок   !SENT_END 	 joy 0 sadness 0 anger 91 fear 0 amazement 0 disgust 0
+Сказали	  joy 0 sadness 0 anger 1 fear 0 amazement 0 disgust 0
+, -  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+як	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ви	 joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не	  joy 0 sadness 0 anger 4 fear 0 amazement 0 disgust 0
+побачили  joy 25 sadness 0 anger 4 fear 0 amazement 0 disgust 0
+вона  joy 40 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+впала  joy 0 sadness 19 anger 0 fear 0 amazement 0 disgust 0
+за	   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бачок    joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 17
+!SENT_END 	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Сказали	 , - joy 6 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+, - що  joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що як	  joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+як ви   joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ви не	  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+не	 побачили  joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+побачили вона  joy 4 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вона впала   joy 0 sadness 85 anger 0 fear 0 amazement 0 disgust 0
+впала за	   joy 0 sadness 85 anger 0 fear 0 amazement 0 disgust 0
+за  бачок   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 55
+бачок !SENT_END  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 55
+за  бачок !SENT_END  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 55
+впала за бачок!SENT_END  joy 0 sadness 35 anger 0 fear 0 amazement 0 disgust 55
+вона впала за бачок !SENT_END joy 0 sadness 35 anger 0 fear 0 amazement 0 disgust 55
+Сказали	, - що  joy 11 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Сказали , - що як joy 2 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Сказали	, - що як ви не	 joy 0 sadness 4 anger 0 fear 0 amazement 0 disgust 0
+Сказали	, - що як ви не	 побачили  joy 0 sadness 19 anger 2 fear 0 amazement 0 disgust 0
+як ви не побачили  joy 0 sadness 24 anger 6 fear 0 amazement 0 disgust 0
+як ви не	 joy 0 sadness 9 anger 4 fear 0 amazement 0 disgust 0
+Вішак для сумки з лівої сторони, - бачок прямо . - . - . - навіть не знаючи  фізики , - ЯК ВОНА ТУДИ ВПАЛА ? SENT_END 	 joy 0 sadness 0 anger 49 fear 0 amazement 0 disgust 0
+Вішак  joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+для	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сумки  joy 43 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з	   joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+лівої    joy 0 sadness 1 anger 0 fear 0 amazement 0 disgust 0
+сторони  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+, -  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бачок  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 60
+прямо  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+. - joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+. - joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+. -	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+навіть	  joy 9 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не	  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+знаючи	   joy 59 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+фізики  joy 0 sadness 0 anger 0 fear 15 amazement 0 disgust 0
+, -  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ЯК	 joy 0 sadness 3 anger 0 fear 0 amazement 0 disgust 0
+ВОНА 	 joy 47 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ТУДИ  joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ВПАЛА	  joy 0 sadness 75 anger 0 fear 0 amazement 0 disgust 0
+? SENT_END 	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вішак для	  joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+для сумки  joy 43 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сумки з	  joy 43 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з лівої   joy 0 sadness 1 anger 0 fear 0 amazement 0 disgust 0
+лівої сторони  joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сторони , -  joy 20 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+, - бачок  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 15
+бачок прямо joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 30
+прямо . - joy 3 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+. - . -  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+. - . - . - joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+. - навіть	  joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не знаючи	   joy 0 sadness 15 anger 15 fear 0 amazement 0 disgust 0
+знаючи фізики  joy 15 sadness 0 anger 0 fear 15 amazement 0 disgust 0
+фізики , -  joy 0 sadness 0 anger 0 fear 15 amazement 0 disgust 0
+, - ЯК	 joy 0 sadness 1 anger 0 fear 0 amazement 0 disgust 0
+ЯК ВОНА  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ВОНА ТУДИ  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ТУДИ ВПАЛА	   joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+ВПАЛА ? SENT_END  joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+Вішак для сумки з  лівої сторони  joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вішак для сумки з лівої    joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вішак для сумки з	   joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вішак для сумки  joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бачок прямо . - . - . - joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 29
+навіть не знаючи фізики , -  joy 1 sadness 15 anger 0 fear 9 amazement 0 disgust 0
+навіть не знаючи фізики  joy 1 sadness 15 anger 0 fear 9 amazement 0 disgust 0
+навіть не знаючи	   joy 1 sadness 24 anger 0 fear 10 amazement 0 disgust 0
+ЯК ВОНА ТУДИ ВПАЛА ? SENT_END  joy 1 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+ЯК ВОНА ТУДИ ВПАЛА	   joy 1 sadness 6 anger 0 fear 0 amazement 100 disgust 0
+ЯК ВОНА ТУДИ  joy 1 sadness 6 anger 0 fear 0 amazement 100 disgust 0
+Сказали	, - що типу прибиральниця знайшла ...	SENT_END 	 joy 33 sadness 0 anger 0 fear 0 amazement 0 disgust 4
+Сказали	  joy 18 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+, - 	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+типу    joy 0 sadness 0 anger 1 fear 0 amazement 0 disgust 0
+прибиральниця  joy 0 sadness 2 anger 1 fear 0 amazement 0 disgust 3
+знайшла  joy 23 sadness 0 anger 1 fear 0 amazement 0 disgust 0
+... SENT_END 	 joy 0 sadness 0 anger 1 fear 0 amazement 0 disgust 0
+Сказали	 , - 	 joy 14 sadness 0 anger 1 fear 0 amazement 0 disgust 0
+ , - 	що	  joy 0 sadness 0 anger 1 fear 0 amazement 0 disgust 0
+що	типу   joy 0 sadness 0 anger 9 fear 0 amazement 0 disgust 0
+типу   прибиральниця  joy 0 sadness 0 anger 7 fear 0 amazement 0 disgust 6
+прибиральниця знайшла  joy 23 sadness 0 anger 0 fear 0 amazement 0 disgust 2
+знайшла ...	SENT_END  joy 23 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Сказали	, - що	  joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Сказали	, - що типу   joy 1 sadness 0 anger 5 fear 0 amazement 0 disgust 0
+Сказали	, - що типу прибиральниця  joy 1 sadness 0 anger 5 fear 0 amazement 0 disgust 5
+Сказали	, - що типу прибиральниця знайшла   joy 17 sadness 0 anger 5 fear 0 amazement 0 disgust 5
+прибиральниця знайшла ... SENT_END joy 17 sadness 0 anger 0 fear 0 amazement 0 disgust 3
+типу прибиральниця знайшла ...	SENT_END  joy 17 sadness 0 anger 0 fear 0 amazement 0 disgust 3
+що типу прибиральниця знайшла ...	SENT_END 	 joy 17 sadness 0 anger 1 fear 0 amazement 0 disgust 3
+ , - що	типу  прибиральниця знайшла ...	SENT_END  joy 17 sadness 0 anger 1 fear 0 amazement 0 disgust 3
+САМЕ ЦІКАВЕ У СУМЦІ КОЛИ ПРОПАЛА БУЛИ ДОКУМЕНТИ  joy 2 sadness 0 anger 0 fear 0 amazement 72 disgust 0
+І ВЕЛИКА СУМА ГРОШЕЙ , - КОЛИ ПОВЕРНУЛИ ГРОШЕЙ НЕ БУЛО! - ! - ! - ! - ! - ! - ! ENT_END 	 joy 2 sadness 0 anger 72 fear 0 amazement 100 disgust 0
+САМЕ  joy 2 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ЦІКАВЕ	  joy 22 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+У  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+СУМЦІ   joy 11 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+КОЛИ  joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ПРОПАЛА	   joy 1 sadness 81 anger 69 fear 0 amazement 81 disgust 0
+БУЛИ  joy 16 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ДОКУМЕНТИ  joy 31 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+І  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ВЕЛИКА	  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+СУМА  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ГРОШЕЙ	  joy 83 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+, -  joy 83 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+КОЛИ  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ПОВЕРНУЛИ	  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ГРОШЕЙ	  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+НЕ  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+БУЛО   joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+! -  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+! -  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+! -  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+! -  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+! -  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+! -  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+! ENT_END 	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+САМЕ ЦІКАВЕ	  joy 20 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ЦІКАВЕ	 У  joy 50 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+У СУМЦІ   joy 50 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+СУМЦІ   КОЛИ  joy 35 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+КОЛИ ПРОПАЛА   joy 0 sadness 72 anger 0 fear 0 amazement 0 disgust 0
+ПРОПАЛА БУЛИ  joy 0 sadness 72 anger 0 fear 0 amazement 0 disgust 0
+БУЛИ ДОКУМЕНТИ  joy 0 sadness 4 anger 0 fear 3 amazement 0 disgust 0
+ДОКУМЕНТИ І  joy 21 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+І ВЕЛИКА	 joy 36 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ВЕЛИКА	 СУМА  joy 51 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+СУМА ГРОШЕЙ	 joy 66 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ГРОШЕЙ	 , -  joy 81 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+, - КОЛИ  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+КОЛИ ПОВЕРНУЛИ	 joy 9 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ПОВЕРНУЛИ	 ГРОШЕЙ	  joy 3 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ГРОШЕЙ	 НЕ  joy 0 sadness 29 anger 0 fear 0 amazement 0 disgust 0
+НЕ БУЛО   joy 0 sadness 29 anger 30 fear 0 amazement 0 disgust 0
+БУЛО   ! - joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+! - ! - joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+! - ! - ! -  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+! - ! - ! - ! - joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+! - ! - ! - ! - ! -  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+! - ! - ! - ! - ! - ! - joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+! - ! - ! - ! - ! - ! - ! -  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+У СУМЦІ   КОЛИ  joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+У СУМЦІ   КОЛИ ПРОПАЛА   joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+У СУМЦІ   КОЛИ ПРОПАЛА БУЛИ  joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+У СУМЦІ   КОЛИ ПРОПАЛА БУЛИ ДОКУМЕНТИ  joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+У СУМЦІ   КОЛИ ПРОПАЛА БУЛИ ДОКУМЕНТИ І  joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+У СУМЦІ   КОЛИ ПРОПАЛА БУЛИ ДОКУМЕНТИ І ВЕЛИКА	 joy 0 sadness 60 anger 0 fear 0 amazement 0 disgust 0
+У СУМЦІ   КОЛИ ПРОПАЛА БУЛИ ДОКУМЕНТИ І ВЕЛИКА	 СУМА  joy 0 sadness 75 anger 0 fear 0 amazement 0 disgust 0
+У СУМЦІ   КОЛИ ПРОПАЛА БУЛИ ДОКУМЕНТИ І ВЕЛИКА	 СУМА ГРОШЕЙ	  joy 0 sadness 90 anger 0 fear 0 amazement 0 disgust 0
+У СУМЦІ   КОЛИ ПРОПАЛА БУЛИ ДОКУМЕНТИ І ВЕЛИКА	 СУМА ГРОШЕЙ	 , -  joy 0 sadness 90 anger 0 fear 0 amazement 0 disgust 0
+У СУМЦІ   КОЛИ ПРОПАЛА БУЛИ ДОКУМЕНТИ  joy 0 sadness 76 anger 0 fear 0 amazement 0 disgust 0
+БУЛО   ! - ! - ! - ! - ! - ! - ! ENT_END joy 4 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+НЕ БУЛО   ! - ! - ! - ! - ! - ! - ! ENT_END joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+ГРОШЕЙ НЕ БУЛО   ! - ! - ! - ! - ! - ! - ! ENT_END joy 0 sadness 100 anger 100 fear 0 amazement 0 disgust 0
+ПОВЕРНУЛИ ГРОШЕЙ НЕ БУЛО   ! - ! - ! - ! - ! - ! - ! ENT_END joy 0 sadness 100 anger 100 fear 0 amazement 0 disgust 0
+КОЛИ ПОВЕРНУЛИ ГРОШЕЙ НЕ БУЛО   ! - ! - ! - ! - ! - ! - ! ENT_END joy 0 sadness 100 anger 100 fear 0 amazement 0 disgust 0
+Якщо сумка впала і знайшла прибиральниця, - ТО	ДЕ ГРОШІ ? - ? - ? - ? SENT_END  joy 0 sadness 0 anger 0 fear 100 amazement 0 disgust 0
+Якщо  joy 0 sadness 0 anger 0 fear 0 amazement 2 disgust 0
+сумка	 joy 39 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+впала  joy 0 sadness 58 anger 0 fear 0 amazement 0 disgust 0
+і  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+знайшла  joy 67 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+прибиральниця	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+, -  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ТО	 joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ДЕ	  joy 0 sadness 0 anger 0 fear 1 amazement 0 disgust 0
+ГРОШІ  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+? -  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+? -  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+? -  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+? SENT_END  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Якщо сумка	 joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сумка впала   joy 0 sadness 16 anger 0 fear 0 amazement 0 disgust 0
+впала і  joy 0 sadness 31 anger 0 fear 0 amazement 0 disgust 0
+і знайшла   joy 30 sadness 1 anger 0 fear 0 amazement 0 disgust 0
+знайшла прибиральниця	 joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+прибиральниця	 , -  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+, - ТО	  joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ТО ДЕ	 joy 0 sadness 0 anger 1 fear 1 amazement 0 disgust 0
+ДЕ ГРОШІ  joy 0 sadness 0 anger 43 fear 0 amazement 0 disgust 0
+ГРОШІ ? - joy 77 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+? - ? - joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+? - ? - ? - joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+? - ? - ? - ? SENT_END joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Якщо сумка впала  joy 0 sadness 29 anger 27 fear 0 amazement 0 disgust 0
+Якщо сумка впала і  joy 0 sadness 29 anger 27 fear 0 amazement 0 disgust 0
+Якщо сумка впала і знайшла   joy 1 sadness 29 anger 27 fear 0 amazement 0 disgust 0
+Якщо сумка впала і знайшла прибиральниця	 joy 1 sadness 29 anger 27 fear 0 amazement 0 disgust 0
+ДЕ ГРОШІ ? - ? - ? - ? SENT_END  joy 0 sadness 76 anger 76 fear 0 amazement 74 disgust 0
+ТО ДЕ ГРОШІ ? - ? - ? - ? SENT_END  joy 0 sadness 76 anger 76 fear 0 amazement 74 disgust 0
+Улюблена  кава " - надобраніч " - із товстим шаром пінки ...SENT_END  joy 92 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Улюблена    joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кава  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+" - joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+надобраніч joy 83 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+" - joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+із  joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+товстим	    joy 0 sadness 18 anger 0 fear 0 amazement 0 disgust 0
+шаром    joy 2 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пінки  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+...	SENT_END  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Улюблена   кава  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кава " - joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+" - надобраніч joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+надобраніч " - joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+" - із joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+із товстим	    joy 0 sadness 11 anger 0 fear 0 amazement 0 disgust 0
+товстим шаром   joy 18 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+шаром пінки  joy 66 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пінки ...SENT_END  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+шаром пінки ...	SENT_END  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+товстим	шаром пінки ...	SENT_END joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+із товстим	   шаром   пінки ...	SENT_END  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Улюблена кава " -  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Улюблена кава " - надобраніч joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Улюблена кава " - надобраніч " - joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кава " - надобраніч " -  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кава " - надобраніч " - із  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кава " - надобраніч " - із товстим	   joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кава " - надобраніч " - із товстим шаром    joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кава " - надобраніч " - із товстим шаром пінки  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кава " - надобраніч " - із товстим шаром пінки ... SENT_EN joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
