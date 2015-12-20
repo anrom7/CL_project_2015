@@ -1,0 +1,399 @@
+Kryviuk 30-40 female
+	 joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Персонал  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+привітний  joy 92 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+та  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ввічливий    joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+.SENT_END 	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Персонал привітний  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+привітний та  joy 73 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+та ввічливий   joy 88 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ввічливий   .SENT_END joy 88 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Рекомендую	 каву Юрія Кульчицького : - ) - SENT_END 	 joy 44 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Рекомендую	  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+каву  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Юрія  joy 52 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Кульчицького  joy 52 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+: - joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+) - SENT_END 	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Рекомендую	 каву  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+каву Юрія  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Юрія Кульчицького  joy 39 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Кульчицького : - joy 54 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+: - ) - SENT_END joy 97 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Рекомендую	 каву Юрія  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Рекомендую	 каву Юрія Кульчицького  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+каву Юрія Кульчицького  joy 58 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+каву Юрія Кульчицького : -  joy 58 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+каву Юрія Кульчицького : - ) - SENT_END  joy 67 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Затишно , - чудовий інтер'єр , - фантастичний запах кави .SENT_END 	 joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Затишно	  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+, -  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чудовий	  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+інтер'єр  joy 36 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+, -  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+фантастичний  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+запах  joy 77 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кави  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+.SENT_END 	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Затишно , -  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+, - чудовий	  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чудовий інтер'єр  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+інтер'єр , - joy 40 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+, - фантастичний  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+фантастичний запах  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+запах кави  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кави .SENT_END joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чудовий інтер'єр , - joy 42 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+фантастичний запах кави  joy 72 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+фантастичний запах кави .SENT_END joy 72 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Спускаєшся   вниз і справді   хочеться вірити , - що тут видобували  каву .SENT_END 	 joy 84 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Спускаєшся 	   joy 31 sadness 0 anger 0 fear 39 amazement 0 disgust 0
+вниз і  joy 0 sadness 0 anger 0 fear 39 amazement 0 disgust 0
+справді    joy 17 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хочеться  joy 17 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вірити  joy 57 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+, -  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тут	  joy 26 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+видобували	 	 joy 4 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+каву  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+.SENT_END 	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Спускаєшся 	  вниз joy 0 sadness 29 anger 0 fear 46 amazement 0 disgust 0
+вниз і  joy 0 sadness 18 anger 0 fear 32 amazement 0 disgust 0
+і справді   joy 8 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+справді   хочеться  joy 38 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хочеться вірити  joy 58 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вірити , - joy 73 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+, - що  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що тут	 joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тут видобували	 joy 12 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+видобували каву  joy 88 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+каву .SENT_END  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ видобували каву .SENT_END joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тут видобували каву .SENT_END 	 joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що тут видобували каву .SENT_END 	 joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Спускаєшся вниз і  joy 0 sadness 0 anger 0 fear 23 amazement 0 disgust 0
+Спускаєшся вниз і справді   joy 0 sadness 0 anger 0 fear 18 amazement 0 disgust 0
+Спускаєшся вниз і справді хочеться  joy 29 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Спускаєшся  вниз і справді хочеться вірити  joy 29 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Спускаєшся вниз і справді хочеться вірити , -  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хочеться вірити , - що тут видобували каву .SENT_END  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хочеться вірити , - що тут видобували каву  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хочеться вірити , - що тут видобували	 	  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хочеться вірити , - що тут	 joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хочеться вірити , - що  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хочеться вірити , -  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Досить цікаве місце .SENT_END 	 joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Досить  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+цікаве	  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+місце  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+.SENT_END 	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Досить цікаве	 joy 61 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+цікаве місце  joy 81 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+місце .SENT_END joy 55 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+цікаве місце .SENT_END  joy 57 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Досить цікаве місце  joy 47 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Персонал привітний і чесний .SENT_END 	 joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Персонал  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+привітний  joy 87 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чесний	  joy 58 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+.SENT_END 	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Персонал привітний  joy 89 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+привітний і  joy 89 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і чесний	 joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чесний.SENT_END joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Персонал привітний і  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Персонал привітний і чесний	 joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і чесний.SENT_END  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+привітний і чесний.SENT_END joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Якщо ви неможете  зробити вибір, - вони вам допоможуть.SENT_END 	 joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Якщо  joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ви  joy 4 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не	  joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 0
+можете    joy 78 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зробити	 joy 24 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вибір	   joy 34 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+, -  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вони    joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вам	    joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+допоможуть	  joy 56 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+.SENT_END 	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Якщо ви   joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ви не	 joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 0
+не можете	  joy 0 sadness 80 anger 0 fear 0 amazement 0 disgust 0
+можете зробити	 joy 63 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зробити вибір	  joy 53 sadness 0 anger 0 fear 22 amazement 0 disgust 0
+вибір, - joy 53 sadness 0 anger 0 fear 22 amazement 0 disgust 0
+, - вони   joy 14 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вони вам   joy 16 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вам допоможуть	  joy 69 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+допоможуть.SENT_END joy 69 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вони вам допоможуть  .SENT_END joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вам допоможуть  .SENT_END joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Якщо ви не можете зробити вибір	  , -  joy 13 sadness 0 anger 0 fear 29 amazement 0 disgust 0
+Якщо ви не можете зробити вибір	   joy 13 sadness 0 anger 0 fear 29 amazement 0 disgust 0
+Якщо ви не можете зробити	 joy 13 sadness 21 anger 0 fear 29 amazement 0 disgust 0
+Якщо ви не можете	   joy 0 sadness 21 anger 0 fear 29 amazement 0 disgust 0
+Якщо ви не	  joy 0 sadness 21 anger 0 fear 0 amazement 0 disgust 0
+не можете зробити вибір, - joy 0 sadness 21 anger 0 fear 19 amazement 0 disgust 0
+не можете зробити вибір	  joy 0 sadness 21 anger 0 fear 19 amazement 0 disgust 0
+Замовляли каву з лікером і віскі .SENT_END 	 joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Замовляли	  joy 46 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+каву  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+лікером	   joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+віскі     joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+.SENT_END 	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Замовляли каву  joy 29 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+каву з joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з лікером	  joy 6 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+лікером і  joy 6 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і віскі    joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 12
+віскі .SENT_END  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 12
+Замовляли каву з joy 95 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Замовляли каву з лікером	  joy 95 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Замовляли каву з лікером і  joy 95 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Замовляли каву з лікером і віскі    joy 95 sadness 0 anger 0 fear 0 amazement 0 disgust 18
+і віскі .SENT_END  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 18
+лікером і віскі.SENT_END joy 16 sadness 0 anger 0 fear 0 amazement 0 disgust 18
+з лікером і віскі.SENT_END  joy 16 sadness 0 anger 0 fear 0 amazement 0 disgust 18
+каву з лікером і віскі .SENT_END  joy 16 sadness 0 anger 0 fear 0 amazement 0 disgust 18
+лікером	і віскі joy 16 sadness 0 anger 0 fear 0 amazement 0 disgust 18
+каву з лікером і віскі joy 99 sadness 0 anger 0 fear 0 amazement 0 disgust 18
+Дуже специфічна , - але смачна .SENT_END 	 joy 84 sadness 0 anger 0 fear 5 amazement 5 disgust 0
+Дуже  joy 13 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+специфічна  joy 13 sadness 0 anger 0 fear 13 amazement 0 disgust 0
+, -  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смачна	  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+.SENT_END 	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Дуже специфічна  joy 15 sadness 0 anger 0 fear 15 amazement 0 disgust 0
+специфічна , - joy 15 sadness 0 anger 0 fear 15 amazement 0 disgust 0
+ , - але	 joy 0 sadness 0 anger 1 fear 0 amazement 0 disgust 0
+але смачна	 joy 64 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смачна .SENT_END  joy 76 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Дуже специфічна , - joy 52 sadness 0 anger 0 fear 7 amazement 0 disgust 0
+але смачна .SENT_END  joy 50 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ціни кусаються   , - але воно  	того   варте   .SENT_END 	 joy 50 sadness 21 anger 15 fear 0 amazement 0 disgust 0
+Ціни  joy 22 sadness 21 anger 0 fear 0 amazement 0 disgust 0
+кусаються    joy 0 sadness 0 anger 50 fear 49 amazement 0 disgust 0
+, -  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+воно  	 joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+того   	 joy 2 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+варте    joy 78 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+.SENT_END 	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ціни кусаються   joy 0 sadness 4 anger 43 fear 20 amazement 0 disgust 0
+кусаються   , - joy 0 sadness 0 anger 35 fear 35 amazement 0 disgust 0
+, - але  joy 0 sadness 1 anger 0 fear 0 amazement 0 disgust 0
+але воно   joy 0 sadness 1 anger 0 fear 0 amazement 0 disgust 0
+воно  того   joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+того   варте   joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+варте   .SENT_END  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ціни кусаються   , -  joy 0 sadness 0 anger 49 fear 49 amazement 0 disgust 0
+але воно  того   варте   .SENT_END joy 94 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+воно  того варте   .SENT_END joy 94 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+того   варте   .SENT_END joy 94 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Рекомендую відвідати , - бо	атмосфера фантастична )SENT_END  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Рекомендую	  joy 48 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відвідати	  joy 63 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+, -  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бо	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+атмосфера  joy 47 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+фантастична  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+)SENT_END  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Рекомендую	 відвідати	 joy 82 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Рекомендую	 відвідати	 , - joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+, - бо	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бо	атмосфера  joy 42 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+атмосфера фантастична  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+фантастична )SENT_END  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бо атмосфера фантастична )SENT_END  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+атмосфера фантастична )SENT_END  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ставлю п'ять   зірочок за каву , - бо я   її   не дуже люблю , - а тут  випила з превеликим   ( - це була   бандерівська кава ) - . SENT_END 	 joy 94 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ставлю  joy 4 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+п'ять    joy 88 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зірочок  joy 91 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+за  joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+каву  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+, -  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бо	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+я    joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+її    joy 25 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не	  joy 0 sadness 5 anger 0 fear 0 amazement 0 disgust 0
+дуже  joy 53 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+люблю  joy 98 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+, -  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тут	   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+випила	   joy 31 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+превеликим    joy 74 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+( -  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+це joy 6 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+була    joy 3 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бандерівська  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кава  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+) - joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+. SENT_END 	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ставлю п'ять   joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+п'ять   зірочок  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зірочок за joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+за каву  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+каву , - joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+, - бо	  joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бо я   joy 0 sadness 0 anger 0 fear 2 amazement 0 disgust 0
+я   її   joy 23 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+її   не	 joy 0 sadness 4 anger 0 fear 0 amazement 0 disgust 0
+не дуже  joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 0
+дуже люблю  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+люблю , - joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+, - а  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а тут	  joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тут  випила	  joy 28 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+випила  з joy 18 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з превеликим    joy 48 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+превеликим   ( - це joy 48 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+це була   joy 13 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+була   бандерівська  joy 92 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бандерівська кава  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кава ) - joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ ) - . SENT_END 	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ кава ) - . SENT_END 	 joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бандерівська кава ) - . SENT_END  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+була   бандерівська кава ) - . SENT_END 	 joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+це була   бандерівська кава ) - . SENT_END 	 joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+( - це була   бандерівська кава ) - . SENT_END  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ставлю п'ять   зірочок за каву , -  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ставлю п'ять   зірочок за каву  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ставлю п'ять   зірочок за  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ставлю п'ять   зірочок  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бо я   її   не дуже люблю , -  joy 0 sadness 43 anger 0 fear 0 amazement 100 disgust 0
+я  її  не  дуже люблю , -  joy 0 sadness 43 anger 0 fear 0 amazement 100 disgust 0
+її   не дуже люблю , -  joy 0 sadness 56 anger 0 fear 0 amazement 58 disgust 0
+не дуже люблю , -  joy 0 sadness 56 anger 0 fear 0 amazement 5 disgust 0
+дуже люблю , -  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Також Копальня кави влаштовує дуже гарні і настройові   концерти і пропонує найгарніші    книги на світі   ( - Видавництво	 Старого   Лева ) - .SENT_END 	 joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Також  joy 9 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Копальня  joy 24 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кави  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+влаштовує  joy 46 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже  joy 46 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+гарні  joy 76 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+настройові    joy 94 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+концерти  joy 94 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пропонує  joy 15 sadness 0 anger 0 fear 15 amazement 0 disgust 0
+найгарніші     joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+книги  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+світі    joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+( - joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Видавництво	  joy 78 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Старого    joy 0 sadness 95 anger 0 fear 0 amazement 0 disgust 0
+Лева  joy 45 sadness 0 anger 0 fear 46 amazement 0 disgust 0
+) - joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+.SENT_END 	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Також Копальня  joy 29 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Копальня кави  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кави влаштовує  joy 91 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+влаштовує дуже joy 76 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже гарні  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і настройові   joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+настройові   концерти  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+концерти і  joy 89 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і пропонує  joy 15 sadness 0 anger 0 fear 15 amazement 0 disgust 0
+пропонує найгарніші     joy 100 sadness 0 anger 0 fear 15 amazement 0 disgust 0
+найгарніші    книги  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на світі   joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+світі   ( -  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+( - Видавництво	 joy 84 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Видавництво	 Старого   joy 17 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Старого   Лева  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Лева ) - joy 60 sadness 0 anger 0 fear 15 amazement 0 disgust 0
+) - .SENT_END 	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Видавництво	 Старого   Лева ) - .SENT_END 	 joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+гарні і настройові   концерти  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+влаштовує дуже гарні і настройові   концерти  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і пропонує найгарніші    книги  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і пропонує найгарніші    книги на	 joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і пропонує найгарніші    книги на	 світі   joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Можу   виділити серед книжок	 літературу для дітей , - бо оформлення сторінок і ілюстрації варті   окремої відзнаки .SENT_END 	 joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Можу  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+виділити  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+серед  joy 2 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+книжок	  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+літературу	  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+для  joy 23 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дітей  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+, -  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бо  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+оформлення  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сторінок  joy 31 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ілюстрації  joy 96 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+варті    joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+окремої	   joy 1 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+відзнаки  joy 91 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+.SENT_END 	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Можу   виділити  joy 18 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+виділити серед   joy 13 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+серед книжок	 joy 85 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+книжок літературу	 joy 85 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+літературу для   joy 86 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+для дітей  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дітей , - joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+, - бо   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бо оформлення  joy 24 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+оформлення сторінок  joy 21 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сторінок і  joy 20 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і ілюстрації  joy 74 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ілюстрації варті   joy 74 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+варті   окремої	   joy 79 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+окремої відзнаки  joy 92 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відзнаки .SENT_END joy 92 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Можу   виділити серед книжок	 літературу	 для дітей , -  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Можу   виділити серед книжок	 літературу	 для дітей  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Можу   виділити серед книжок	 літературу	 для  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Можу   виділити серед книжок	 літературу	  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Можу   виділити серед книжок	  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Можу   виділити серед   joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+оформлення сторінок і ілюстрації варті   окремої	  відзнаки .SENT_END  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сторінок і ілюстрації варті   окремої відзнаки .SENT_END  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і ілюстрації варті   окремої  відзнаки .SENT_END  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ілюстрації варті   окремої відзнаки .SENT_END  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+варті   окремої	  відзнаки .SENT_END  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+окремої  відзнаки .SENT_END  joy 79 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Якщо не за кавою , - то хочаб за сувенірами , - і все  добре …	SENT_END  joy 75 sadness 0 anger 0 fear 0 amazement 7 disgust 0
+Якщо  joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не	  joy 0 sadness 6 anger 0 fear 0 amazement 0 disgust 0
+за  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кавою  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+, -  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+то	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хочаб  joy 0 sadness 0 anger 0 fear 2 amazement 0 disgust 0
+за	   joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сувенірами	  joy 55 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+, -  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+все	   joy 39 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+буде    joy 6 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+добре  joy 74 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+… SENT_END  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Якщо не	 joy 0 sadness 0 anger 8 fear 0 amazement 0 disgust 0
+не за joy 0 sadness 8 anger 0 fear 0 amazement 0 disgust 0
+за кавою  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кавою , - joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+, - то   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+то хочаб  joy 0 sadness 1 anger 0 fear 1 amazement 0 disgust 0
+хочаб за  joy 0 sadness 1 anger 0 fear 1 amazement 0 disgust 0
+за сувенірами  joy 46 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сувенірами , - joy 46 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+, - і  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і все   joy 4 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+все   joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+буде   добре …	SENT_END joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
