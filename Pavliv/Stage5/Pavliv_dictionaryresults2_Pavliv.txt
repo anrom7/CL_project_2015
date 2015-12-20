@@ -1,4 +1,4 @@
-Pavliv 20-30 female
+﻿Pavliv 20-30 female
 Наш  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 улюблений  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 заклад,  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -15,7 +15,6 @@ Pavliv 20-30 female
 заклад, в якому ми joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 ми вже почуваєося, як вдома. joy 41 sadness 0 anger 0 fear 0 amazement 43 disgust 0
 заклад, в якому ми вже почуваємося, як вдома. joy 41 sadness 0 anger 0 fear 0 amazement 43 disgust 0
- 
 Саме  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 тут joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 ми  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -51,8 +50,7 @@ Pavliv 20-30 female
 надзвичайні страви joy 58 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 їмо надзвичайні страви joy 58 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 надзвичайні страви та десерти. joy 58 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-ми їмо надзвичайні страви та десерти. joy 58 sadness 0 anger 0 fear 0 amazement 0 disgust 0
- 
+ми їмо надзвичайні страви та десерти. joy 58 sadness 0 anger 0 fear 0 amazement 0 disgust 0 
 Розмаїття joy 22 sadness 0 anger 0 fear 0 amazement 32 disgust 0
 та  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 вибір  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -76,7 +74,6 @@ Pavliv 20-30 female
 я полюбляю joy 82 sadness 0 anger 0 fear 0 amazement 75 disgust 0
 саме те, що я полюбляю joy 82 sadness 0 anger 0 fear 0 amazement 75 disgust 0
 корисна їжа. joy 91 sadness 0 anger 0 fear 0 amazement 87 disgust 0
- 
 Всі  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 прцівники  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 ресторану  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -93,7 +90,6 @@ Pavliv 20-30 female
 виконують свою роботу. joy 0 sadness 0 anger 0 fear 0 amazement 47 disgust 0
 бездоганно виконують свою роботу. joy 0 sadness 0 anger 0 fear 0 amazement 63 disgust 0
 працівники виконують бездоганно joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
- 
 Друзі  joy 96 sadness 0 anger 0 fear 0 amazement 87 disgust 0
 з  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Москви  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -137,7 +133,6 @@ Pavliv 20-30 female
 та страв joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 за помірні ціни. joy 47 sadness 0 anger 0 fear 0 amazement 37 disgust 0
 страв за такі помірні ціни. joy 47 sadness 0 anger 0 fear 0 amazement 37 disgust 0
- 
 І  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 кухня  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 тут  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -149,7 +144,6 @@ Pavliv 20-30 female
 найсмачніша в місті! joy 83 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 кухня найсмачніша joy 73 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 кухня найсмачніша в місті! joy 87 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-
 Дякуємо  joy 23 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 вам  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 всім  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -163,7 +157,6 @@ Pavliv 20-30 female
 Дякуємо вам за справді чудовий joy 79 sadness 0 anger 0 fear 0 amazement 76 disgust 0
 чудовий ресторан! joy 79 sadness 0 anger 0 fear 0 amazement 76 disgust 0
 справді чудовий ресторан! joy 79 sadness 0 anger 0 fear 0 amazement 77 disgust 0
- 
 Все  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 дуже  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 вишукано,  joy 0 sadness 0 anger 0 fear 0 amazement 79 disgust 0
@@ -173,8 +166,7 @@ Pavliv 20-30 female
 дуже вишукано, joy 74 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Все дуже вишукано, joy 74 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 проте ненав'язливо. joy 48 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-вишукано, проте ненав'язливо. joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
- 
+вишукано, проте ненав'язливо. joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0 
 Приємна  joy 50 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 і  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 затишна  joy 91 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -194,7 +186,6 @@ Pavliv 20-30 female
 люб'язний і усміхнений joy 98 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 люб'язний і завжди усміхнений joy 98 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 люб'язний і завжди усміхнений персонал. joy 98 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-
 Завжди  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 прекрасний  joy 77 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 настрій, joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -228,8 +219,7 @@ Pavliv 20-30 female
 повертатись туди знову і знову!!! joy 14 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 змушує повертатись туди знову і знову!!! joy 14 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 настрій змушує повертатись  joy 9 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-настрій змушує повертатись туди знову і знову!!! joy 9 sadness 0 anger 0 fear 0 amazement 0 disgust 0
- 
+настрій змушує повертатись туди знову і знову!!! joy 9 sadness 0 anger 0 fear 0 amazement 0 disgust 0 
 Ще  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 хочу  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 додати,  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -313,8 +303,7 @@ Pavliv 20-30 female
 місті, де класні кафе joy 61 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 місті, де класні такі ресторани. joy 61 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 місті класні кафе та такі ресторани. joy 61 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-містя, де класні кав’ярні, кафе та такі ресторани. joy 61 sadness 0 anger 0 fear 0 amazement 0 disgust 0
- 
+містя, де класні кав’ярні, кафе та такі ресторани. joy 61 sadness 0 anger 0 fear 0 amazement 0 disgust 0 
 Це  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 місце  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 де  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -325,7 +314,6 @@ Pavliv 20-30 female
 місце де отримуєш joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 естетичне задоволення. joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 отримуєш естетичне задоволення. joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-********************************* 
 Щиро  joy 27 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 дякуємо  joy 31 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 за  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -342,8 +330,7 @@ Pavliv 20-30 female
 Дякуємо за культуру обслуговування joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 гарний інтер'єр. joy 83 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Дякуємо за гарний інтер'єр. joy 83 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-гостинність, щирість, культуру спілкування та гарний інтер'єр. joy 83 sadness 0 anger 0 fear 0 amazement 0 disgust 0
- 
+гостинність, щирість, культуру спілкування та гарний інтер'єр. joy 83 sadness 0 anger 0 fear 0 amazement 0 disgust 0 
 Дуже  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 гарний  joy 62 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 ресторан. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -360,7 +347,6 @@ Pavliv 20-30 female
 (Обов'язково скуштуйте joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 комплексний обід.) joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 скуштуйте комплексний обід.) joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-
 Професійна  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 робота  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 всієї  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -385,7 +371,6 @@ Pavliv 20-30 female
 гостей, які були задоволені. joy 39 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 вразила гостей, які були задоволені. joy 39 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 вразила не тільки нас, а й наших гостей, joy 39 sadness 0 anger 0 fear 0 amazement 33 disgust 0
- 
 Якість  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 повністю  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 відповідає  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -394,8 +379,7 @@ Pavliv 20-30 female
 рівню.  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Якість відповідає joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 повністю відповідає joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-відповідає високому європейському рівню. joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
- 
+відповідає високому європейському рівню. joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0 
 Нам  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 сподобалося  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 абсолютно  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -404,15 +388,12 @@ Pavliv 20-30 female
 абсолютно все! joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 сподобалось все! joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 сподобалось абсолютно все! joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-
-Дякуємо! joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
- 
+Дякуємо! joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0 
 Так  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 тримати!!! joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Так тримати! joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Так тримати!! joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Так тримати!!! joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-*********************************** 
 Їжа  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 смачна,  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 офіціант  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -424,8 +405,7 @@ Pavliv 20-30 female
 офіціант був joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 був з нами. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 був завжди з нами. joy 29 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-офіціант був завжди з нами. joy 35 sadness 0 anger 0 fear 0 amazement 0 disgust 0
- 
+офіціант був завжди з нами. joy 35 sadness 0 anger 0 fear 0 amazement 0 disgust 0 
 Все  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 дуже  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 добре.  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -433,7 +413,6 @@ Pavliv 20-30 female
 дуже добре. joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Все дуже добре. joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Дякую. joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-************************************ 
 Ну  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 що  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 ж, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -474,8 +453,7 @@ Pavliv 20-30 female
 хотілося б декілька слів joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 хотілося б декілька слів додати joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 додати про себе. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-хотілося б декілька слів додати про себе. joy 13 sadness 0 anger 0 fear 0 amazement 0 disgust 0
- 
+хотілося б декілька слів додати про себе. joy 13 sadness 0 anger 0 fear 0 amazement 0 disgust 0 
 Сама  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 я  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 з  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -496,8 +474,7 @@ Pavliv 20-30 female
 славиться галушками joy 25 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 яке славиться галушками joy 25 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 славиться галушками та монастирями. joy 19 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-славиться монастирями. joy 20 sadness 0 anger 0 fear 0 amazement 0 disgust 0
- 
+славиться монастирями. joy 20 sadness 0 anger 0 fear 0 amazement 0 disgust 0 
 У  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Полтаві  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 в  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -548,8 +525,7 @@ Pavliv 20-30 female
 такі великі люди як Іван Котляревський,Микола Гоголь,Михайло Драгоманов, joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 такі великі люди як Іван Котляревський,Микола Гоголь,Михайло Драгоманов,Михайло Остроградський, joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 такі великі люди як Іван Котляревський,Микола Гоголь,Михайло Драгоманов,Михайло Остроградський,Тарас Шевченко, joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-такі великі люди як Іван Котляревський,Микола Гоголь,Михайло Драгоманов,Михайло Остроградський,Тарас Шевченко,Іван Нечуй-Левицький. joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
- 
+такі великі люди як Іван Котляревський,Микола Гоголь,Михайло Драгоманов,Михайло Остроградський,Тарас Шевченко,Іван Нечуй-Левицький. joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0 
 Я  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 люблю  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 своє  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -571,8 +547,7 @@ Pavliv 20-30 female
 люблю своє місто і захоплююсь ним joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 тому самі розумієте- joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 здивувати тяжко. joy 0 sadness 6 anger 0 fear 0 amazement 16 disgust 0
-здивувати мене тяжко.  joy 0 sadness 0 anger 0 fear 0 amazement 16 disgust 0
- 
+здивувати мене тяжко.  joy 0 sadness 0 anger 0 fear 0 amazement 16 disgust 0 
 І  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 от  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 мені  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -634,8 +609,7 @@ Pavliv 20-30 female
 а емоцій стільки скільки в наш медовий місяць не було!" joy 77 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 (п.с. жартівник joy 53 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 жартівник мій). joy 50 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-(п.с. жартівник мій) joy 50 sadness 0 anger 0 fear 0 amazement 0 disgust 0
- 
+(п.с. жартівник мій) joy 50 sadness 0 anger 0 fear 0 amazement 0 disgust 0 
 Так  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 от  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 планувавши  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -666,8 +640,7 @@ Pavliv 20-30 female
 і мені в око впала joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Масонська ложа. joy 6 sadness 0 anger 0 fear 8 amazement 13 disgust 0
 в око впала Масонська ложа. joy 4 sadness 0 anger 0 fear 13 amazement 13 disgust 0
-і мені в око впала Масонська ложа. joy 4 sadness 0 anger 0 fear 13 amazement 13 disgust 0
- 
+і мені в око впала Масонська ложа. joy 4 sadness 0 anger 0 fear 13 amazement 13 disgust 0 
 Багато  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 ходить  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 чуток  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -687,8 +660,7 @@ Pavliv 20-30 female
 хотіла впевнитись joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 впевнитись самостійно... joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 хотіла впевнитись самостійно... joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-але я хотіла впевнитись самостійно... joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
- 
+але я хотіла впевнитись самостійно... joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0 
 Будучи  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 вже  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 4  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -733,7 +705,6 @@ Pavliv 20-30 female
 хотіла яскраво). joy 32 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 і провести хотіла яскраво). joy 32 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 і провести я його хотіла яскраво). joy 40 sadness 0 anger 0 fear 0 amazement 0 disgust 0
- 
 Вдень  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 разом  joy 21 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 з  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -804,7 +775,6 @@ Pavliv 20-30 female
 ми дістались Ложі. joy 35 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 ми нарешті дістались Ложі. joy 35 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 такими "веселими" ми нарешті дісталися Ложі. joy 35 sadness 0 anger 0 fear 0 amazement 0 disgust 0
- 
 Перше  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 що  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 ти  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -819,8 +789,7 @@ Pavliv 20-30 female
 ти помічаєш joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 то велич і таємничість, joy 5 sadness 0 anger 0 fear 0 amazement 25 disgust 0
 помічаєш велич і таємничість, joy 5 sadness 0 anger 0 fear 0 amazement 25 disgust 0
-атмосфера вражає... joy 0 sadness 0 anger 0 fear 0 amazement 25 disgust 0
- 
+атмосфера вражає... joy 0 sadness 0 anger 0 fear 0 amazement 25 disgust 0 
 Але  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 оскільки  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 нам  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -849,7 +818,6 @@ Pavliv 20-30 female
 "продовжувати свято на шикроку ногу". joy 89 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 ми почали "продовжувати свято joy 89 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 ми почали "продовжувати свято на широку ногу". joy 89 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-
 Було  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 вже  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 десь  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -896,7 +864,6 @@ Pavliv 20-30 female
 офіціант розповів про концепцію закладу joy 63 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 офіціант розповів його відомих гостей і саму історію, симовли, масони... joy 63 sadness 0 anger 0 fear 0 amazement 33 disgust 0
 офіціант розповів про концепцію закладу, його відомих гостей і саму історію, симовли, масони... joy 63 sadness 0 anger 0 fear 0 amazement 33 disgust 0
-
 Я  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 б  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 з  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -930,8 +897,7 @@ Pavliv 20-30 female
 вилетіло з голови joy 0 sadness 27 anger 0 fear 0 amazement 0 disgust 0
 ім*я вилетіло з голови joy 0 sadness 27 anger 0 fear 0 amazement 0 disgust 0
 шкода що ім*я вилетіло з голови joy 0 sadness 27 anger 0 fear 0 amazement 0 disgust 0
-але не про це:) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
- 
+але не про це:) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0 
 І  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 так  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 ми  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -953,8 +919,7 @@ Pavliv 20-30 female
 доки не прийшла пора joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 доки не прийшла пора платити  joy 0 sadness 15 anger 0 fear 41 amazement 0 disgust 0
 доки не прийшла пора платити рахунок. joy 0 sadness 15 anger 0 fear 41 amazement 0 disgust 0
-ми сиділи і горя не знали,доки не прийшла пора платити рахунок. joy 0 sadness 15 anger 0 fear 41 amazement 29 disgust 0
- 
+ми сиділи і горя не знали,доки не прийшла пора платити рахунок. joy 0 sadness 15 anger 0 fear 41 amazement 29 disgust 0 
 Скажу  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 вам  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 відверто  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -967,8 +932,7 @@ Pavliv 20-30 female
 Скажу вам відверто joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 я впала joy 0 sadness 21 anger 0 fear 0 amazement 0 disgust 0
 впала в осад... joy 0 sadness 34 anger 0 fear 0 amazement 0 disgust 0
-я впала в осад... joy 0 sadness 34 anger 0 fear 0 amazement 0 disgust 0
- 
+я впала в осад... joy 0 sadness 34 anger 0 fear 0 amazement 0 disgust 0 
 Я  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 звісно  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 знала ,  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -1003,8 +967,7 @@ Pavliv 20-30 female
 маю будинок, joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 хоч сама і маю хорошу зарплатню,будинок, joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 але була в шоці. joy 0 sadness 0 anger 0 fear 0 amazement 52 disgust 0
-але була в деякому шоці. joy 0 sadness 0 anger 0 fear 0 amazement 52 disgust 0
- 
+але була в деякому шоці. joy 0 sadness 0 anger 0 fear 0 amazement 52 disgust 0 
 По  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 перше,  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 те  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -1064,8 +1027,7 @@ Pavliv 20-30 female
 дивилась на рахунок- joy 0 sadness 10 anger 0 fear 17 amazement 0 disgust 0
 я дивилась на рахунок- joy 0 sadness 10 anger 0 fear 17 amazement 0 disgust 0
 я тупо дивилась на рахунок- joy 0 sadness 10 anger 0 fear 17 amazement 0 disgust 0
-14360 грн. joy 0 sadness 0 anger 0 fear 64 amazement 0 disgust 0
- 
+14360 грн. joy 0 sadness 0 anger 0 fear 64 amazement 0 disgust 0 
 Потім  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 офіціант,  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 цей  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -1094,7 +1056,6 @@ Pavliv 20-30 female
 на що я відповіла joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 я відповіла "Ні". joy 0 sadness 29 anger 0 fear 0 amazement 0 disgust 0
 відповіла "Ні". joy 0 sadness 29 anger 0 fear 0 amazement 0 disgust 0
- 
 На  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 щастя  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 колега,  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -1127,8 +1088,7 @@ Pavliv 20-30 female
 наш рахунок joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 наш рахунок залишився без "0" joy 0 sadness 0 anger 0 fear 0 amazement 68 disgust 0
 залишився без "0" joy 0 sadness 0 anger 0 fear 0 amazement 38 disgust 0
-тобто вийшло просо 1.436. joy 36 sadness 0 anger 0 fear 0 amazement 20 disgust 0
- 
+тобто вийшло просо 1.436. joy 36 sadness 0 anger 0 fear 0 amazement 20 disgust 0 
 І  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 в  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 той  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -1153,8 +1113,7 @@ Pavliv 20-30 female
 побачила світло в кінці тонелю joy 41 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 (дуже дякую joy 37 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 дякую тобі Оксано joy 52 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-дуже дякую тобі Оксано!). joy 67 sadness 0 anger 0 fear 0 amazement 0 disgust 0
- 
+дуже дякую тобі Оксано!). joy 67 sadness 0 anger 0 fear 0 amazement 0 disgust 0 
 На  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 кінець  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 скажу,  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -1187,7 +1146,6 @@ Pavliv 20-30 female
 нікому не раджу!)) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 йти туди нукому не раджу!)) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 йти туди після відвідин Криївки нікому не раджу!)) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-****************************** 
 Доводилось  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 відвідати  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 цей  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -1210,7 +1168,6 @@ Pavliv 20-30 female
 як з друзями, так і з коханою. joy 26 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 відвідати як з друзями,так і з коханою. joy 50 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 відвідати цей ресторан як з друзями, так і з коханою. joy 50 sadness 0 anger 0 fear 0 amazement 0 disgust 0
- 
 Вперше  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 мене  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 трохи  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -1225,8 +1182,7 @@ Pavliv 20-30 female
 Вперше мене трохи збаламутив joy 0 sadness 0 anger 0 fear 0 amazement 37 disgust 0
 збаламутив цей чоловік joy 0 sadness 0 anger 0 fear 0 amazement 37 disgust 0
 цей чоловік при вході. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-збаламутив цей чоловік при вході. joy 0 sadness 0 anger 0 fear 0 amazement 41 disgust 0
- 
+збаламутив цей чоловік при вході. joy 0 sadness 0 anger 0 fear 0 amazement 41 disgust 0 
 Направду  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 подумав,  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 що  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -1236,7 +1192,6 @@ Pavliv 20-30 female
 Направду подумав, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 подумав, що не туди попав. joy 0 sadness 0 anger 0 fear 0 amazement 47 disgust 0
 що не туди попав. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-
 А  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 коли  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 вже  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -1255,7 +1210,6 @@ Pavliv 20-30 female
 проминув ту кімнатку, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 проминув ту захаращену кімнатку,  joy 0 sadness 0 anger 0 fear 0 amazement 37 disgust 0
 опинився в шикарному місці. joy 59 sadness 0 anger 0 fear 0 amazement 19 disgust 0
- 
 До  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 того  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 ніколи  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -1283,7 +1237,6 @@ Pavliv 20-30 female
 але цей справив враження. joy 54 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 справив на мене враження. joy 54 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 але йе справив на мене враження. joy 54 sadness 0 anger 0 fear 0 amazement 0 disgust 0
- 
 Строгий  joy 0 sadness 0 anger 0 fear 0 amazement 3 disgust 0
 інтер'єр,  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 зі  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -1303,8 +1256,7 @@ Pavliv 20-30 female
 шикарний автомобіль joy 32 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 і навіть шикарний автомобіль joy 32 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 шикарний автомобіль всередині приміщення. joy 32 sadness 0 anger 0 fear 0 amazement 27 disgust 0
-і навіть шикарний автомобіль всередині приміщення. joy 32 sadness 0 anger 0 fear 0 amazement 27 disgust 0
- 
+і навіть шикарний автомобіль всередині приміщення. joy 32 sadness 0 anger 0 fear 0 amazement 27 disgust 0 
 Шодо  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 меню,  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 то  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -1325,8 +1277,7 @@ Pavliv 20-30 female
 нулик не рахується. joy 14 sadness 0 anger 0 fear 0 amazement 14 disgust 0
 останній нулик не рахується. joy 14 sadness 0 anger 0 fear 0 amazement 14 disgust 0
 для місцевих останній нулик не рахується. joy 14 sadness 0 anger 0 fear 0 amazement 14 disgust 0
-але для місцевих останній нулик не рахується. joy 14 sadness 0 anger 0 fear 0 amazement 14 disgust 0
- 
+але для місцевих останній нулик не рахується. joy 14 sadness 0 anger 0 fear 0 amazement 14 disgust 0 
 Можна  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 досить  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 добре  joy 25 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -1339,8 +1290,7 @@ Pavliv 20-30 female
 Можна добре пообідати joy 29 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 добре пообідати joy 29 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 пообідати вдвох joy 24 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-пообідати вдох за 300 гривень. joy 20 sadness 0 anger 0 fear 0 amazement 17 disgust 0
- 
+пообідати вдох за 300 гривень. joy 20 sadness 0 anger 0 fear 0 amazement 17 disgust 0 
 Ціни,  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 звичайно,  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 дещо  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -1356,8 +1306,7 @@ Pavliv 20-30 female
 Ціни, звичайно, дещо перебільшені, joy 0 sadness 37 anger 0 fear 0 amazement 24 disgust 0
 побавити кохану joy 22 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 але побавити кохану можна joy 22 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-побавити кохану час від часу можна. joy 22 sadness 0 anger 0 fear 0 amazement 0 disgust 0
- 
+побавити кохану час від часу можна. joy 22 sadness 0 anger 0 fear 0 amazement 0 disgust 0 
 Отож,  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 місце  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 варте  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -1373,8 +1322,7 @@ Pavliv 20-30 female
 місце варте уваги, joy 41 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 раджу відвідати joy 48 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 як туристам, так і місцевим. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-раджу відвідати як туристам, так і мусцевим. joy 41 sadness 0 anger 0 fear 0 amazement 0 disgust 0
- 
+раджу відвідати як туристам, так і мусцевим. joy 41 sadness 0 anger 0 fear 0 amazement 0 disgust 0 
 P.S.  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Столик  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 біля  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -1387,8 +1335,7 @@ P.S.  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 P.S.Столик біля вікна joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Столик біля вікна joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 столик з виглядом на площу joy 49 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-столик з виглядом на площу супер. joy 64 sadness 0 anger 0 fear 0 amazement 0 disgust 0
- 
+столик з виглядом на площу супер. joy 64 sadness 0 anger 0 fear 0 amazement 0 disgust 0 
 Можна  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 неспішачи  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 пити  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -1409,19 +1356,16 @@ P.S.Столик біля вікна joy 0 sadness 0 anger 0 fear 0 amazement 0 
 за вікном проходять люди, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 проходять люди, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 кудись спішучи. joy 0 sadness 13 anger 0 fear 0 amazement 0 disgust 0
-проходять люди, кудись спішучи. joy 0 sadness 13 anger 0 fear 0 amazement 0 disgust 0
- 
+проходять люди, кудись спішучи. joy 0 sadness 13 anger 0 fear 0 amazement 0 disgust 0 
 Особливо  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 затишно  joy 39 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 взимку. joy 24 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Особливо затишно joy 62 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 затишно взимку. joy 57 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Особливо затишно взимку. joy 82 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-****************************** 
 Ресторан  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 супер. joy 52 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-Ресторан супер. joy 61 sadness 0 anger 0 fear 0 amazement 0 disgust 0
- 
+Ресторан супер. joy 61 sadness 0 anger 0 fear 0 amazement 0 disgust 0 
 Всі  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 хто  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 негативно  joy 0 sadness 22 anger 0 fear 0 amazement 0 disgust 0
@@ -1436,8 +1380,7 @@ P.S.Столик біля вікна joy 0 sadness 0 anger 0 fear 0 amazement 0 
 негативно відкликалися joy 0 sadness 29 anger 0 fear 0 amazement 0 disgust 0
 єдине прохання- joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 НЕ ЙДІТЬ ТУДИ joy 0 sadness 13 anger 0 fear 0 amazement 0 disgust 0
-НЕ ЙДІТЬ ТУДИ БІЛЬШЕ! joy 0 sadness 13 anger 0 fear 0 amazement 0 disgust 0
- 
+НЕ ЙДІТЬ ТУДИ БІЛЬШЕ! joy 0 sadness 13 anger 0 fear 0 amazement 0 disgust 0 
 Може  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 черги  joy 0 sadness 13 anger 16 fear 0 amazement 0 disgust 0
 трішки  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -1448,7 +1391,6 @@ P.S.Столик біля вікна joy 0 sadness 0 anger 0 fear 0 amazement 0 
 трішки меншими joy 8 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 трішки меншими будуть.  joy 8 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 черги трішки меншими будуть. joy 31 sadness 0 anger 0 fear 0 amazement 0 disgust 0
- 
 Суперове  joy 63 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 місце,  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 одна  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -1480,8 +1422,7 @@ P.S.Столик біля вікна joy 0 sadness 0 anger 0 fear 0 amazement 0 
 я встиг спробувати joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 я встиг спробувати тут, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 професійне обслуговування. joy 35 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-абсолютно професійне обслуговування. joy 48 sadness 0 anger 0 fear 0 amazement 0 disgust 0
- 
+абсолютно професійне обслуговування. joy 48 sadness 0 anger 0 fear 0 amazement 0 disgust 0 
 Ціни  joy 0 sadness 0 anger 0 fear 0 amazement 6 disgust 0
 вище  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 середньольвівських,  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -1491,7 +1432,6 @@ P.S.Столик біля вікна joy 0 sadness 0 anger 0 fear 0 amazement 0 
 вище середньольвівських, joy 0 sadness 4 anger 0 fear 0 amazement 7 disgust 0
 нижче середньокиївських. joy 15 sadness 0 anger 0 fear 0 amazement 5 disgust 0
 Ціни нижче середньокиївських. joy 15 sadness 0 anger 0 fear 0 amazement 5 disgust 0
-
 Єжине  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 що  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 поганенько -  joy 0 sadness 17 anger 0 fear 0 amazement 0 disgust 0
@@ -1503,8 +1443,7 @@ P.S.Столик біля вікна joy 0 sadness 0 anger 0 fear 0 amazement 0 
 довжелезні черги joy 0 sadness 11 anger 34 fear 0 amazement 0 disgust 0
 поганенько-довжелезні черги joy 0 sadness 11 anger 34 fear 0 amazement 0 disgust 0
 довжедезні черги на свята. joy 0 sadness 11 anger 34 fear 0 amazement 0 disgust 0
-поганенько-довжелезні черги на свята. joy 0 sadness 11 anger 34 fear 0 amazement 0 disgust 0
- 
+поганенько-довжелезні черги на свята. joy 0 sadness 11 anger 34 fear 0 amazement 0 disgust 0 
 Порада- joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 якщо  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 ви  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -1520,8 +1459,7 @@ P.S.Столик біля вікна joy 0 sadness 0 anger 0 fear 0 amazement 0 
 забронюйте заздалегідь joy 6 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 забронюйте заздалегідь столик joy 20 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 столик на балконі. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
-забронюйте заздалегідь столик на балконі. joy 20 sadness 0 anger 0 fear 0 amazement 0 disgust 0
- 
+забронюйте заздалегідь столик на балконі. joy 20 sadness 0 anger 0 fear 0 amazement 0 disgust 0 
 Ресторану- joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 успіхів,  joy 44 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 а  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
@@ -1535,8 +1473,7 @@ P.S.Столик біля вікна joy 0 sadness 0 anger 0 fear 0 amazement 0 
 Ресторану-успіхів, joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 а конкуренти хай надалі сходять піною joy 0 sadness 0 anger 13 fear 0 amazement 0 disgust 0
 сходять піною в коментах:) joy 0 sadness 0 anger 8 fear 0 amazement 0 disgust 0
-а конкуренти хай надалі сходять піною в коментах:) joy 0 sadness 0 anger 8 fear 0 amazement 0 disgust 0
- 
+а конкуренти хай надалі сходять піною в коментах:) joy 0 sadness 0 anger 8 fear 0 amazement 0 disgust 0 
 Всім  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 добра!:) joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
 Всім добре!:) joy 66 sadness 0 anger 0 fear 0 amazement 0 disgust 0
