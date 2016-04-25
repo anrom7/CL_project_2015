@@ -1,0 +1,93 @@
+Текст програми для оцінки точності та повноти
+# -*- coding: utf-8 -*-
+from __future__ import division
+import codecs
+
+input_pnn = codecs.open(Brodiuk_pnn.txt', encoding = 'utf-8').readlines()
+input_dic = codecs.open('dic2.txt', encoding = 'utf-8').readlines()
+
+w1 = []
+w2 = []
+
+#Проходимось по файлу
+for w in input_pnn:
+    #Записуємо слово і його оцінку у список w1 = [слово,оцінка]
+    w1.append([w.split()[0],w.split()[1]])
+
+#Проходись по файлу
+for w in input_dic:
+    #Записуємо слово і його оцінку у список w2 = [слово,оцінка]
+    w2.append( [w.split(",")[0],w.split(",")[1]])    
+
+print ">>"   
+positive = 0
+negative = 0
+neutral = 0
+for w in w1:
+    num = int(w[1])
+    if num > 0:
+        positive = positive + 1
+    if num < 0:
+        negative = negative + 1;
+    if num == 0:
+        neutral = neutral + 1;
+print ">>"
+
+positive1 = 0
+negative1 = 0
+neutral1 = 0
+for i in w1:
+    for j in w2:
+        number1 = int(i[1])
+        number2 = j[1]
+        if i[0] == j[0]:
+            if number1 > 0 and number2 == "+":
+                positive1 = positive1 + 1
+            if number1 < 0 and number2 == "-":
+                negative1 = negative1 + 1
+            if number1 == 0 and number2 == "U":
+                neutral1 = neutral1 + 1
+
+print ">>"
+
+positive2 = 0
+negative2 = 0
+neutral2 = 0
+for i in w1:
+    for j in w2:
+        number1 = int(i[1])
+        number2 = j[1]
+        if i[0] == j[0]:
+            if number1 <= 0 and number2 == "+":
+                positive2 = positive2 + 1
+            if number1 >= 0 and number2 == "-":
+                negative2 = negative2 + 1
+            if (number1 < 0 or number1 > 0) and number2 == "U":
+                neutral2 = neutral2 + 1
+
+print "У ППН\n Позитивні %s, Негативні %s, Нейтральні %s" % (positive, negative, neutral)
+print "У ППН = У Словнику\n Позитивні %s, Негативні %s, Нейтральні %s" % (positive1, negative1, neutral1)
+print "У ППН != У Словнику\n Позитивні %s, Негативні %s, Нейтральні %s" % (positive2, negative2, neutral2)
+
+"""
+Precision=TP/(TP+FP)
+Recall=TP/(TP+FN)
+де
+TP + FN – кількість позитивних (негативних, нейтральних) слів у списку слів з п.1
+TP – кількість позитивних (негативних, нейтральних) слів у списку слів з п.1, які також позитивні (негативні, нейтральні) у словнику, який отримали в п.6
+FP – кількість позитивних (негативних, нейтральних) слів у словнику, який отримали в п.6, які у списку слів з п.1 не є позитивними (негативними, нейтральними)
+"""
+
+Precision1 = positive1/(positive1+positive2)
+Precision2 = negative1/(negative1+negative2)
+Precision3 = neutral1/(neutral1+neutral2)
+
+Recall1 = positive1/positive
+Recall2 = negative1/negative
+Recall3 = neutral1/neutral
+
+print "\n"
+print "Для позитивних слів:\n Precision %s, Recall %s" % (Precision1, Recall1)
+print "Для негативних слів:\n Precision %s, Recall %s" % (Precision2, Recall2)
+print "Для нейтральних слів:\n Precision %s, Recall %s" % (Precision3, Recall3)
+
